@@ -1,10 +1,10 @@
 # Site settings
-title: "emerald"
-description: ""
-url: "https://emerald.github.io"  # http://localhost:4000 
+title: "Ravelys"
+description: "I won a minigame in EVERY Mario Party EVER!. It’s teddy bear I usually hug it when I go to bed. What if YOU CREATE MUTANT GUMMY BEAR in Minecraft ? USING A RADIATION and POSION LIQUID minion"
+url: "https://ravelys.github.io"  
 
-title_slog: "" # Home pge slog
-title_sep: "" # Home
+title_slog: "" # 
+title_sep: "" # 
 # verification
 bing: ""
 yandex: ""
