@@ -6,9 +6,9 @@ url: "https://ravelys.github.io"
 title_slog: "" # 
 title_sep: "" # 
 # verification
-bing: ""
-yandex: ""
-google: ""
+bing: "0BFBDCA75B34C1CB23DC2FD683C25AD6"
+yandex: "c62ca330a3c090a2"
+google: "Jx9QNLenjm4TKwQV86CDYKTUG3i51k3OgbMphqnhCgg"
 # encoding timezone
 encoding: "utf-8"
 timezone: UTC
