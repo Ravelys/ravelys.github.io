@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /search/
+
+Sitemap: https://ravelys.github.io/sitemap.xml
