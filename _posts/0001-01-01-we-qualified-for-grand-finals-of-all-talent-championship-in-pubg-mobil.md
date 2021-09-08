@@ -1,0 +1,15 @@
+---
+title: "We qualified for GRAND FINALS of All Talent Championship in PUBG Mobile"
+image: "https:\/\/i.ytimg.com\/vi\/1-9rdIU6jLU\/hqdefault.jpg"
+vid_id: "1-9rdIU6jLU"
+categories: "Gaming"
+tags: ["all talent championship pubg mobile","all talent championship","pubg mobile"]
+date: "2021-09-08T04:30:33+03:00"
+vid_date: "2021-09-06T15:45:11Z"
+duration: "PT17M59S"
+viewcount: "41684"
+likeCount: "4731"
+dislikeCount: "39"
+channel: "Shibe"
+---
+{% raw %}The weekly match (qualifier) and semifinal of All-Talent Championship was intense and in semifinal we met PMSC (PUBG Mobile Star Challenge) winner RRQ iSong (PMPL). We played and got top 2 which got us into the Final Round skipping the playoffs. <br /><br />Renji - <a rel="nofollow" target="blank" href="https://www.instagram.com/ig.renji_op/">https://www.instagram.com/ig.renji_op/</a><br />Raptor - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=Zj790QTScqw">https://www.youtube.com/watch?v=Zj790QTScqw</a><br />Carlo -  <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCVcqHU94PEKNuk_cDf5J7uQ">https://www.youtube.com/channel/UCVcqHU94PEKNuk_cDf5J7uQ</a><br />Jery - <a rel="nofollow" target="blank" href="https://www.douyin.com/user/MS4wLjABAAAATvlf2uuNk_gqdUfd0yhZOXK4LfmEgn-90JycUGXhRFs?extra_params=%7B%22search_id%22%3A%222021090623162301013107605637111E93%22%2C%22search_result_id%22%3A%22118335539524499%22%2C%22search_keyword%22%3A%22%E6%B1%A0%E7%A5%9E%22%2C%22search_type%22%3A%22user%22%7D&amp;enter_method=search_result&amp;enter_from=search_result">https://www.douyin.com/user/MS4wLjABAAAATvlf2uuNk_gqdUfd0yhZOXK4LfmEgn-90JycUGXhRFs?extra_params=%7B%22search_id%22%3A%222021090623162301013107605637111E93%22%2C%22search_result_id%22%3A%22118335539524499%22%2C%22search_keyword%22%3A%22%E6%B1%A0%E7%A5%9E%22%2C%22search_type%22%3A%22user%22%7D&amp;enter_method=search_result&amp;enter_from=search_result</a><br /><br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/shibepubg/">https://www.instagram.com/shibepubg/</a><br />Tiktok - <a rel="nofollow" target="blank" href="https://www.tiktok.com/@shibepubg?">https://www.tiktok.com/@shibepubg?</a><br />Discord - <a rel="nofollow" target="blank" href="https://www.discord.com/invite/2Sby35W">https://www.discord.com/invite/2Sby35W</a><br />Buy your Red Magic Phone here!<br />Red Magic 6: <a rel="nofollow" target="blank" href="https://global.redmagic.gg/pages/redmagic-6?ref=shibeshibe&amp;utm_source=inhouse&amp;utm_medium=shibeshibe">https://global.redmagic.gg/pages/redmagic-6?ref=shibeshibe&amp;utm_source=inhouse&amp;utm_medium=shibeshibe</a><br /><br />Please support by liking the video and subscribing.<br />Watch to the end it helps the video to be recommended<br />Thank you so much! <br />#alltalentchampionship <br />◂••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••▸<br />IGN : SFC・Shibe<br />ID: 555045684<br />SERVER: ASIA<br />MODE: TPP <br />SETUP: FULL GYROSCOPE/4 FINGER CLAW<br />DEVICE: Red Magic 5s{% endraw %}
