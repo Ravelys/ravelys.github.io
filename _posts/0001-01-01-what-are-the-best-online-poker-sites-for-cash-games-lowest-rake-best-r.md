@@ -1,0 +1,15 @@
+---
+title: "What are the BEST online poker sites for Cash Games? | Lowest rake & Best Rakeback (2021)"
+image: "https:\/\/i.ytimg.com\/vi\/rdi4QKOIDy4\/hqdefault.jpg"
+vid_id: "rdi4QKOIDy4"
+categories: "Entertainment"
+tags: ["cash game poker","best poker site","lowest rake poker sites"]
+date: "2021-09-08T19:07:25+03:00"
+vid_date: "2021-04-04T14:00:10Z"
+duration: "PT15M25S"
+viewcount: "8422"
+likeCount: "225"
+dislikeCount: "1"
+channel: "Weazel_1991"
+---
+{% raw %}Weazel_1991's rundown of the BEST Poker sites for online Cash Games. The video covers where to play online poker, including software,  rakeback (including Sign Up bonuses and other promotions) and a rundown of how soft the player pools are, as well as a rake comparison showing the lowest rake across online poker sites<br /><br />Includes information about Pokerstars, PartyPoker, GGPoker, America's Cardroom (WPN Network), Run it Once and more. I do touch briefly on MTT's, but this video mainly relates to Cash Game poker, both regular tables and fast fold (Zoom poker, Rush poker etc)<br /><br />♠Twitch: <a rel="nofollow" target="blank" href="https://www.twitch.tv/weazel_1991">https://www.twitch.tv/weazel_1991</a><br />♥Discord: <a rel="nofollow" target="blank" href="https://discord.gg/pjZvutE">https://discord.gg/pjZvutE</a><br />♣Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Weazel_1991">https://twitter.com/Weazel_1991</a><br />♦Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/weazel_1991">https://www.instagram.com/weazel_1991</a><br /><br />AFFILIATE LINKS<br />Sign up to ACR using REFERRAL code Weazel for 100% bonus + $25 FREE: <a rel="nofollow" target="blank" href="https://cutt.ly/7xiDfyp">https://cutt.ly/7xiDfyp</a><br />15% EXTRA Cashback for new AND existing players on PartyPoker: <a rel="nofollow" target="blank" href="https://bit.ly/Weazel_1991Party">https://bit.ly/Weazel_1991Party</a><br /><br />REFERENCES<br />Rake Comparison: <a rel="nofollow" target="blank" href="https://www.primedope.com/online-poker-rake-comparison-rake-calculator">https://www.primedope.com/online-poker-rake-comparison-rake-calculator</a><br />PokerStars Rewards: <a rel="nofollow" target="blank" href="https://toppokervalue.com/poker-articles/latest-poker-news/pokerstars-chests-rakeback">https://toppokervalue.com/poker-articles/latest-poker-news/pokerstars-chests-rakeback</a><br />GGPoker PVI System: <a rel="nofollow" target="blank" href="https://worldpokerdeals.com/blog/pvi-or-rakeback-on-the-good-game-network">https://worldpokerdeals.com/blog/pvi-or-rakeback-on-the-good-game-network</a><br />Unregulated Sites: <a rel="nofollow" target="blank" href="https://cardplayerlifestyle.com/so-whats-an-unregulated-poker-room-anyway/">https://cardplayerlifestyle.com/so-whats-an-unregulated-poker-room-anyway/</a><br /><br />Introduction: (00:00)<br />Software: (01:09)<br />Rake / Player Pools; (04:14)<br />Rakeback &amp; Bonuses; (07:09)<br />Conclusions: (13:00)<br /><br /><br />#onlinepoker​ #pokerstrategy​  #cashgamepoker{% endraw %}
