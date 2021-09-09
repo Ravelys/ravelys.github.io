@@ -1,0 +1,15 @@
+---
+title: "365 DAYS OF DISCOMFORT - Yes Theory Rewind 2019"
+image: "https:\/\/i.ytimg.com\/vi\/ysj2X0zNtSs\/hqdefault.jpg"
+vid_id: "ysj2X0zNtSs"
+categories: "Entertainment"
+tags: ["yestheory","seek discomfort","comfort zone"]
+date: "2021-09-09T04:49:09+03:00"
+vid_date: "2019-12-22T18:06:28Z"
+duration: "PT8M10S"
+viewcount: "910206"
+likeCount: "69217"
+dislikeCount: "380"
+channel: "Yes Theory"
+---
+{% raw %}Seek Discomfort isn't just jumping out of helicopters and climbing a freezing mountain in shorts. It's about identifying what you need in your life and actively pursuing that fear or discomfort in the name of growth, fulfillment, and adventure.<br /><br />This year was extremely eventful for us and we just want to take a moment to thank our community and express how infinitely grateful we are for all of you. We've learned so much this year and cannot wait to see what 2020 has to bring.<br /><br />See you in 2020!!<br /><br />Our Holiday collection is still available here for those of you who are interested:<br /><a rel="nofollow" target="blank" href="https://www.seekdiscomfort.com/">https://www.seekdiscomfort.com/</a><br /><br />If you want to join the Yes Fam Facebook group which is 100,000+ of our most engaged and badass community members, you can apply here: <a rel="nofollow" target="blank" href="https://www.facebook.com/groups/15653...">https://www.facebook.com/groups/15653...</a><br /><br /><br /><br />PERFECT ROYALTY FREE MUSIC FOR YOUTUBE: free 30 day trial here: <a rel="nofollow" target="blank" href="http://share.epidemicsound.com/wFFbr">http://share.epidemicsound.com/wFFbr</a> <br /><br /><br /><br />Musicbed has amazing montage and cinematic music:<br /><br /><a rel="nofollow" target="blank" href="http://share.mscbd.fm/YesTheory">http://share.mscbd.fm/YesTheory</a><br /><br /><br /><br />For an amazing b-roll and footage library, checkout: <a rel="nofollow" target="blank" href="http://storyblocks.com/YesTheory">http://storyblocks.com/YesTheory</a><br /><br /><br /><br />Yes Theory Spotify Playlist: <br /><br /><a rel="nofollow" target="blank" href="https://open.spotify.com/user/t-boogy...">https://open.spotify.com/user/t-boogy...</a><br /><br /><br /><br />Exclusive challenges on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/yestheory/">https://www.instagram.com/yestheory/</a><br /><br /><br /><br />Who are we? <br /><br />We believe that life can be as fulfilling as you wish, so long as you're willing to seek discomfort. And we make videos about it.<br /><br /><br /><br />Business Inquiries: zack@yestheory.com<br /><br /><br /><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/yestheory/">https://www.instagram.com/yestheory/</a><br /><br /><a rel="nofollow" target="blank" href="https://twitter.com/yestheory">https://twitter.com/yestheory</a><br /><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/yestheory/">https://www.facebook.com/yestheory/</a><br /><br /><br /><br />Hosts: Thomas Brag, Ammar Kandil, Matt Dajer<br /><br />Editors: Thomas Brag, Thomas Dajer, Cam Peddle, Bryce Perry{% endraw %}
