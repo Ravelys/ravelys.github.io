@@ -1,0 +1,15 @@
+---
+title: "Apache 207 - ROLLER prod. by Lucry & Suena (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Fo3DAhiNKQo\/hqdefault.jpg"
+vid_id: "Fo3DAhiNKQo"
+categories: "Music"
+tags: ["Apache 207 Roller","Apache 207","Roller"]
+date: "2021-09-10T03:44:36+03:00"
+vid_date: "2019-08-22T22:00:12Z"
+duration: "PT2M57S"
+viewcount: "128062871"
+likeCount: "1066103"
+dislikeCount: "49057"
+channel: "Apache 207"
+---
+{% raw %}Apache 207 &quot;Roller&quot;<br /><br />,,TREPPENHAUS'' - 31.07.2020 <br />Jetzt die Box für das Album ,,Treppenhaus'' vorbestellen: <a rel="nofollow" target="blank" href="https://www.apache207.de">https://www.apache207.de</a><br />auch auf Amazon:<br /><a rel="nofollow" target="blank" href="https://www.amazon.de/Apache-207/dp/B08CPY4FTZ/">https://www.amazon.de/Apache-207/dp/B08CPY4FTZ/</a><br /><br />Ab sofort auf allen Streamingplattformen!<br />Spotify:<br /><a rel="nofollow" target="blank" href="https://open.spotify.com/track/5dhQeuLGmlhfwlI6BWfSpo?si=cTy1NESlR4SMWh84PXTDSQ">https://open.spotify.com/track/5dhQeuLGmlhfwlI6BWfSpo?si=cTy1NESlR4SMWh84PXTDSQ</a><br /><br />Apple Music:<br /><a rel="nofollow" target="blank" href="https://music.apple.com/de/album/roller/1476253859?i=1476253862">https://music.apple.com/de/album/roller/1476253859?i=1476253862</a><br />KÜNSTLER: Apache 207<br /><br />Social Media:<br />Instagram: Apache_207<br /><br />Management: <br />info@apache207.de<br /><br />Beat: Lucry &amp; Suena<br /><a rel="nofollow" target="blank" href="https://instagram.com/prodby_lucry?igshid=fwscbr0gj678">https://instagram.com/prodby_lucry?igshid=fwscbr0gj678</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/__suena?igshid=1ckc5485pe7vb">https://instagram.com/__suena?igshid=1ckc5485pe7vb</a><br /><br />Mix: Lex Barkey<br /><a rel="nofollow" target="blank" href="https://instagram.com/lexbarkey?igshid=1vxl4zrmra1uj">https://instagram.com/lexbarkey?igshid=1vxl4zrmra1uj</a><br /><br />Master: Lex Barkey<br /><a rel="nofollow" target="blank" href="https://instagram.com/lexbarkey?igshid=1vxl4zrmra1uj">https://instagram.com/lexbarkey?igshid=1vxl4zrmra1uj</a><br /><br />Drehbuch: Feder Filmproduktion <br />feder.filmproduktion@gmail.com<br /><br />Kamera: NBP FILMS<br /><a rel="nofollow" target="blank" href="https://instagram.com/nbp_films?igshid=vkyerj36vyiv">https://instagram.com/nbp_films?igshid=vkyerj36vyiv</a><br /><br />Schnitt &amp; Colourgrading: NBP FILMS<br /><a rel="nofollow" target="blank" href="https://instagram.com/nbp_films?igshid=vkyerj36vyiv">https://instagram.com/nbp_films?igshid=vkyerj36vyiv</a><br /><br /><br />Director of Photographie: Marco Bagnoli<br /><a rel="nofollow" target="blank" href="https://instagram.com/marco_bagnoli?igshid=16tftqojmkr3o">https://instagram.com/marco_bagnoli?igshid=16tftqojmkr3o</a><br /><br />Produktion: Feder Filmproduktion<br />feder.filmproduktion@gmail.com<br /><br />Sound Effekte: Kraatz Audio<br /><br />Impressum:<br /><a rel="nofollow" target="blank" href="https://www.sonymusic.de/page/impressum">https://www.sonymusic.de/page/impressum</a>{% endraw %}
