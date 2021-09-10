@@ -1,0 +1,15 @@
+---
+title: "Huge Abandoned Monastery - Filled with Tuberculosis X-Rays!"
+image: "https:\/\/i.ytimg.com\/vi\/flasXZmevms\/hqdefault.jpg"
+vid_id: "flasXZmevms"
+categories: "Entertainment"
+tags: ["abandoned","urban","exploration"]
+date: "2021-09-10T16:50:17+03:00"
+vid_date: "2021-08-13T22:15:45Z"
+duration: "PT26M36S"
+viewcount: "102108"
+likeCount: "5777"
+dislikeCount: "54"
+channel: "The Proper People"
+---
+{% raw %}Thanks to Native for sponsoring a portion of this video.<br />Save 33% on your first Native Deodorant Pack - normally $36, you’ll get it for $24! Click here <a rel="nofollow" target="blank" href="https://bit.ly/nativeproperpeople">https://bit.ly/nativeproperpeople</a> and use my code PROPERPEOPLE<br /><br />In this episode we are exploring an abandoned monastery that dates back to the 17th century. After World War 1, the complex was converted into a tuberculosis sanitarium. Eventually, the property was abandoned in 2013.<br /><br />Check out @Broken Window Theory's channel as well!<br />Their video: <a rel="nofollow" target="blank" href="https://youtu.be/vQcGBxGYxXI">https://youtu.be/vQcGBxGYxXI</a><br /><br /><a rel="nofollow" target="blank" href="http://theproperpeople.com">http://theproperpeople.com</a><br /><br />JOIN US ON:<br /><a rel="nofollow" target="blank" href="http://facebook.com/theproperpeople">http://facebook.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/theproperpeople">http://twitter.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/theproperpeople">http://instagram.com/theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://www.reddit.com/r/theproperpeople">https://www.reddit.com/r/theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://tiktok.com/@theproperpeople">https://tiktok.com/@theproperpeople</a><br /><a rel="nofollow" target="blank" href="https://discord.gg/theproperpeople">https://discord.gg/theproperpeople</a><br /><br />Thanks to Musicbed for providing the music in this video.<br /><a rel="nofollow" target="blank" href="http://share.mscbd.fm/theproperpeople">http://share.mscbd.fm/theproperpeople</a> (Affiliate Link)<br /><br />Intro Music: <a rel="nofollow" target="blank" href="https://artist.landr.com/music/672985173835">https://artist.landr.com/music/672985173835</a><br /><br />Enjoying our videos? Help us make more by buying a print: <a rel="nofollow" target="blank" href="http://theproperpeople.com/shop">http://theproperpeople.com/shop</a><br />Supporting us on Patreon: <a rel="nofollow" target="blank" href="http://patreon.com/theproperpeople">http://patreon.com/theproperpeople</a><br />Purchasing a t-shirt: <a rel="nofollow" target="blank" href="http://theproperpeople.com/merch">http://theproperpeople.com/merch</a><br /><br />Equipment we use to make our videos: <a rel="nofollow" target="blank" href="https://theproperpeople.com/gear/">https://theproperpeople.com/gear/</a>{% endraw %}
