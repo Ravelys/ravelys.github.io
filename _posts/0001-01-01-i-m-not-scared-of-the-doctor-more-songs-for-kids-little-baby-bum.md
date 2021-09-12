@@ -1,0 +1,15 @@
+---
+title: "I'm Not Scared Of The Doctor + More Songs For Kids | Little Baby Bum"
+image: "https:\/\/i.ytimg.com\/vi\/nm75a3KyDjY\/hqdefault.jpg"
+vid_id: "nm75a3KyDjY"
+categories: "Education"
+tags: ["baby","songs","Nursery"]
+date: "2021-09-13T01:05:55+03:00"
+vid_date: "2020-05-05T10:00:34Z"
+duration: "PT1H3M24S"
+viewcount: "6292222"
+likeCount: "19086"
+dislikeCount: "13115"
+channel: "Lellobee Preschool Playhouse - Kids Songs"
+---
+{% raw %}Click here to subscribe! ▶️<a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCSsu4Uj7Zs5Xe9B9cnNTJeQ?sub_confirmation=1">https://www.youtube.com/channel/UCSsu4Uj7Zs5Xe9B9cnNTJeQ?sub_confirmation=1</a><br /><br /><br />Going To The Doctors I’m Not Scared 0:00<br />Rain Rain Go Away 2:08<br />5 Little Monkeys Jumping On The Bed 4:08<br />ABC Phonics 6:08<br />Apples and Bananas Learn Vowels 8:25<br />Learn Colors With Twinkle 10:28<br />Baa Baa Black Sheep 12:28<br />Baby’s Got A Boo Boo Song 14:20<br />Itsy Bitsy Spider 16:21<br />Going On An Egg Hunt 18:19<br />1,2 What Should We Do? 20:11<br />Animal Train Song 22:08<br />Fairytale Song 24:07<br />Vehicle Sounds Song 26:04<br />Dress Up Song 28:05<br />Twinkle Little Star 30:04<br />Peekaboo 32:03<br />Wheels On The Bus 33:46<br />Old Mac Donald 35:51<br />Going to School Song 37:50<br />Humpty Dumpty Song 39:23<br />My Mommy Is A Super Mommy 41:24<br />Bus Cars Trains Counting Vehicles 43:20<br />Wobbly Tooth Song 45:13<br />Head Shoulders Knees and Toes 47:15<br />Teacher Says 49:15<br />Splish Splash Bath Song 51:14<br />5 Little Ducks 53:16<br />Ice Cream Song 55:11<br />Driving In My Car 57:08<br />Wheels On The Train 59:06<br />Panda Went Over The Mountain 1:01:03<br /><br />If you like this video check out Digley and Dazey's Channel and subscribe!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCueF...">https://www.youtube.com/channel/UCueF...</a><br /><br />Fun Learning Songs at Ollie's Preschool Playhouse | Kids Cartoons | ABCs and 123s Playlist<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=SrlcY...">https://www.youtube.com/watch?v=SrlcY...</a><br /><br />Check Out Our Healthy Habits Playlist!<br /><br />Good Hygiene and Health Songs | Bubble Baths and Cleaning For Kids | Nursery Rhymes and Songs For Kids<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=ioLZ3...">https://www.youtube.com/watch?v=ioLZ3...</a><br /><br />Click here for Ollie's Favorite Songs<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=hiG98...">https://www.youtube.com/watch?v=hiG98...</a><br /><br />Click here for all of Ollie and Friends' Adventures<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=hiG98...">https://www.youtube.com/watch?v=hiG98...</a><br /><br />Check Out Ollie's Sing-along Episodes <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=kYakU...">https://www.youtube.com/watch?v=kYakU...</a><br /><br />#doctors #notscary #healthyhabits #goodhygiene #washyourhands{% endraw %}
