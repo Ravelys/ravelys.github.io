@@ -1,0 +1,15 @@
+---
+title: "Dojo Cuts - I Can Give (feat. Roxie Ray) [Audio]"
+image: "https:\/\/i.ytimg.com\/vi\/bRGxQW85_wM\/hqdefault.jpg"
+vid_id: "bRGxQW85_wM"
+categories: "Music"
+tags: ["Official","Audio","Dojo Cuts"]
+date: "2021-09-12T05:00:28+03:00"
+vid_date: "2013-05-05T21:20:59Z"
+duration: "PT3M49S"
+viewcount: "224017"
+likeCount: "953"
+dislikeCount: "23"
+channel: "RecordKicksCatalogue"
+---
+{% raw %}Download &amp; Stream:  <a rel="nofollow" target="blank" href="https://kud.li/rkx041">https://kud.li/rkx041</a><br />Subscribe: <a rel="nofollow" target="blank" href="https://sb.kud.li/UC2GgZ12L56VVLwoh_5ilCRw">https://sb.kud.li/UC2GgZ12L56VVLwoh_5ilCRw</a><br />Official stream from Record Kicks. Distributed by Kudos Records.<br />More music playlists: <a rel="nofollow" target="blank" href="https://pl.kud.li/UC2GgZ12L56VVLwoh_5ilCRw">https://pl.kud.li/UC2GgZ12L56VVLwoh_5ilCRw</a><br />#RecordKicks #SoulRampB #Funk<br />Album: Take From Me [ALBUM]<br />Track: 2 of 12<br />Title: I Can Give<br />Artist: Dojo Cuts<br />Label: Record Kicks<br />Cat#: RKX041<br />Formats: Digital/CD Album<br />Digital Release: 16th April 2012<br />Physical Release: 16th April 2012<br /><br />About This Release:<br /><br />Sydney soul/funk outfit DOJO CUTS return with a super soulful second album entitled &quot;Take From Me&quot;, once again featuring the sizzling, smoky vocals of Miss Roxie Ray. <br /><br /><br /> This much anticipated follow-up to their debut full-length sees the band taking it back to deep soul roots, but at the same time giving a nod to contemporary funk. With the liner notes written by Russ Dewbury (Night At The Jazz Rooms) and the support of the entire Daptone Records family aka Gabriel Roth, Neal Sugarman and Homer Steinwess... &quot;The secret's out - Dojo Cuts are ready to rock your world!&quot;<br /><br />Reviews for This Release:<br /><br />&quot;&quot;Funky and sultry in equal measures, this is a one fabulous album!&quot;&quot; - Craig Charles (Funk&amp;Soul Show on BBC6)<br /><br />&quot;â€œFeaturing the blistering impassioned vocals of Roxie Ray, heavy instrumentation and great song writing, Dojo Cuts go route 1 to your soul!â€&quot; - Russ Dewbury (Night at The Jazz Rooms)<br /><br />&quot;It has what every great soul record should have and more. Great Feeling, Great Grooves, and Lots and Lots Of Soul &quot; - Neal Sugarman (Daptone Records)<br /><br />&quot;â€œFunky-soulful and jazzy, feel-good music for the mind and feet, and Roxie Ray has the perfect voice to pull it off!â€ &quot; - Phil Levene (Soulm8 / Eclectic Jazz)<br /><br />&quot;â€œThis is super nice!! Great horns &amp; arrangements and what a voice!â€ &quot; - Henry Storch (Unique Records)<br /><br />&quot;â€œThis is super nice!! Great horns &amp; arrangements and what a voice!â€ &quot; - Henry Storch (Unique Records)<br /><br />&quot;This record is exceptionally produced, it sounds authentic and tasteful. Really well done!&quot; - Claudio Passavanti (Sunlightsquare / Innacity){% endraw %}
