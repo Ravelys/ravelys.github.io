@@ -1,0 +1,15 @@
+---
+title: "How To Minimize Large Pores - Top 10 Professional Tips For Pore Tightening"
+image: "https:\/\/i.ytimg.com\/vi\/EtdIAaQzxCs\/hqdefault.jpg"
+vid_id: "EtdIAaQzxCs"
+categories: "Howto-Style"
+tags: ["large pores","big pores","pores"]
+date: "2021-09-12T22:46:57+03:00"
+vid_date: "2018-05-23T22:12:15Z"
+duration: "PT8M32S"
+viewcount: "1047230"
+likeCount: "14189"
+dislikeCount: "725"
+channel: "Dr. Julie - Professional Skincare & Beauty Tips"
+---
+{% raw %}Large pores are a problem for many of us including myself. And a lot of you will know that larger pores predominantly coincide with oily skin.<br />So, if you´ve got large pores, chances are that you have tried many things but nothing really helps.  I will give you now my 10 dermatological and personal tips – how I ultimately got a grip on the problem.<br /><br />If you enjoyed this video, subscribe to my channel and get the world's best skin tips, beautyhacks, inspirations and advice on how to keep your skin healthy and beautiful - delivered straight to your inbox.<br /><br />Thanks for watching ♥<br /><br />FOLLOW ME AT<br />INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/beautydocjulie/">https://www.instagram.com/beautydocjulie/</a><br />INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/sensapur/">https://www.instagram.com/sensapur/</a><br />FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/juliane.habig">https://www.facebook.com/juliane.habig</a><br />FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/beautydocjulie/">https://www.facebook.com/beautydocjulie/</a><br />FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/pg/sensapur/about/">https://www.facebook.com/pg/sensapur/about/</a><br /><br />SUBSCRIPTION TO MY YOUTUBE CHANNEL<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCQouXKj-S7qcZvlmFMR6eNA?sub_confirmation=1">https://www.youtube.com/channel/UCQouXKj-S7qcZvlmFMR6eNA?sub_confirmation=1</a><br /><br />LINKS TO THE PRODUCTS (ADVERTISING ONLY BY LINKING, NO AFFILIATES)<br /><br /><a rel="nofollow" target="blank" href="https://www.niche-beauty.com/de-de/produkte/mario-badescu-drying-lotion/201-054?gclid=Cj0KCQjwmPPYBRCgARIsALOziANxvioxYhmHm7sh4D5RumY3EzwOslZTrQbL01-4lBNnz6HqnKSxh7UaAnxwEALw_wcB">https://www.niche-beauty.com/de-de/produkte/mario-badescu-drying-lotion/201-054?gclid=Cj0KCQjwmPPYBRCgARIsALOziANxvioxYhmHm7sh4D5RumY3EzwOslZTrQbL01-4lBNnz6HqnKSxh7UaAnxwEALw_wcB</a><br /><br /><a rel="nofollow" target="blank" href="https://www.amazon.de/SHISEIDO-PURENESS-%C3%96l-KONTROLLE-L%C3%B6schpapier-St%C3%BCcke/dp/B000186X7A/ref=sr_1_2?ie=UTF8&amp;qid=1533566254&amp;sr=8-2&amp;keywords=shiseido+oil+blotting+paper">https://www.amazon.de/SHISEIDO-PURENESS-%C3%96l-KONTROLLE-L%C3%B6schpapier-St%C3%BCcke/dp/B000186X7A/ref=sr_1_2?ie=UTF8&amp;qid=1533566254&amp;sr=8-2&amp;keywords=shiseido+oil+blotting+paper</a><br /><br />#treatlargepores #skincare #clearskin{% endraw %}
