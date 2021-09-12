@@ -1,0 +1,15 @@
+---
+title: "Grant: Official Trailer | 3-Night Miniseries Event Premieres Memorial Day, May 25 at 9\/8c | History"
+image: "https:\/\/i.ytimg.com\/vi\/lhzBYakZZW0\/hqdefault.jpg"
+vid_id: "lhzBYakZZW0"
+categories: "Entertainment"
+tags: ["history","history channel","history shows"]
+date: "2021-09-12T17:41:59+03:00"
+vid_date: "2020-04-22T16:25:41Z"
+duration: "PT2M8S"
+viewcount: "419904"
+likeCount: "3382"
+dislikeCount: "223"
+channel: "HISTORY"
+---
+{% raw %}HISTORY’s three-night miniseries event, “Grant,” will premiere over three consecutive nights beginning on Monday, May 25 at 9PM ET/PT on HISTORY. The television event will chronicle the life of one of the most complex and underappreciated generals and presidents in U.S. history – Ulysses S. Grant. “Grant,” tells the remarkable and quintessentially American story of a humble man who overcomes incredible obstacles, rises to the highest ranks of power and saves the nation not once, but twice. With a seamless blend of dramatic scenes, expert commentary and beautifully enhanced archival imagery, this series uncovers the true legacy of the unlikely hero who led the nation during its greatest test: The Civil War and Reconstruction – the herculean task to reconcile the North and the South. One of the most courageous and unexpected initiatives of Grant’s presidency was protecting the right to vote for the four million freed slaves in the face of violent and widespread resistance.<br /><br />“Grant” features on-camera interviews with top experts in the field including Ron Chernow, retired United States Army General and former Central Intelligence Agency (CIA) director David Petraeus, acclaimed author and journalist Ta-Nehisi Coates, professor of English at West Point Elizabeth Samet and CEO of the American Civil War Museum in Richmond, VA Christy Coleman to name a few.<br />Subscribe for more from HISTORY:<br /><a rel="nofollow" target="blank" href="http://histv.co/SubscribeHistoryYT">http://histv.co/SubscribeHistoryYT</a><br /><br />Find out more about this and other specials on our site:<br /><a rel="nofollow" target="blank" href="https://histv.co/History">https://histv.co/History</a><br /><br />Check out exclusive HISTORY content:<br />History Newsletter: <a rel="nofollow" target="blank" href="https://histv.co/newsletter">https://histv.co/newsletter</a><br />Website - <a rel="nofollow" target="blank" href="https://histv.co/History">https://histv.co/History</a><br />Facebook - <a rel="nofollow" target="blank" href="https://histv.co/Facebook">https://histv.co/Facebook</a><br />Twitter - <a rel="nofollow" target="blank" href="https://histv.co/Twitter">https://histv.co/Twitter</a><br /><br />HISTORY® is the leading destination for award-winning original series and specials that connect viewers with history in an informative, immersive, and entertaining manner across all platforms. The network’s all-original programming slate features a roster of hit series, premium documentaries, and scripted event programming.{% endraw %}
