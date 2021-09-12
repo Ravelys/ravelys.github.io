@@ -1,0 +1,15 @@
+---
+title: "Comparing things with As...As - Basic English Grammar"
+image: "https:\/\/i.ytimg.com\/vi\/Gb2cB3CaWzs\/hqdefault.jpg"
+vid_id: "Gb2cB3CaWzs"
+categories: "Education"
+tags: ["learn","fun","easy"]
+date: "2021-09-12T15:37:36+03:00"
+vid_date: "2020-04-11T09:30:02Z"
+duration: "PT17M44S"
+viewcount: "54304"
+likeCount: "2262"
+dislikeCount: "15"
+channel: "Learn English with EnglishClass101.com"
+---
+{% raw %}<a rel="nofollow" target="blank" href="https://bit.ly/2JDYoK4">https://bit.ly/2JDYoK4</a>   ← Learn English for everyday life with your free PDF Lessons<br /> <a rel="nofollow" target="blank" href="https://bit.ly/2JY2EUg">https://bit.ly/2JY2EUg</a> ← Ask Alisha your question now! ↓Check how below↓<br /><br />To send your question to Alisha it’s simple and will take you less than 30 seconds.<br />Step 1: Go to <a rel="nofollow" target="blank" href="https://bit.ly/2JY2EUg">https://bit.ly/2JY2EUg</a><br />Step 2: Sign up for a Free Lifetime Account<br />Step 3: Ask any question to Alisha and get your question answered in a video!<br /><br />In this video, Alisha answers 3 questions.<br />- Hi Alisha I've noticed some expressions that use &quot;as + adverb + as.&quot; For example: as soon as, can you tell me about the the adverbs that i can use with this? And explain all about it?<br />- Hi Alisha, how can I get better at pronouncing P &amp; B in words like probably, responsible, purple, back, pack, bath, path and so on?<br />- Hi Alisha, I'm Phoenix from Vietnam. Could you explain the difference between bar, pub, beerclub, and beer garden? Thanks a million.<br /><br />You've got questions about life in the United States, American culture, or any English related questions you don’t want to sift through textbooks for the answer? Your favourite English teacher Alisha takes the questions you've been asking and lay them out in an easy-to-follow format. Turn those question marks into exclamation points and get on with your English study. Interact with Alisha to clear up any confusion you have or just satisfy your curiosity. Not only you’ll be able to send questions but also power up your language with your free lifetime account. Learning English is made easy for you.<br /><br />Follow and write to us for more free content:<br />■ Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/EnglishClass101">https://www.facebook.com/EnglishClass101</a><br />■ Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/EnglishClass101">https://twitter.com/EnglishClass101</a><br />■ Instagram:: <a rel="nofollow" target="blank" href="https://www.instagram.com/wwwEnglishClass101com">https://www.instagram.com/wwwEnglishClass101com</a><br />■ Alisha's Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/arishaintokyo">https://www.instagram.com/arishaintokyo</a><br />■ Alisha's Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/arishaintokyo">https://twitter.com/arishaintokyo</a><br /><br />#English #LearnEnglish #EnglishClass101 #EnglishLesson{% endraw %}
