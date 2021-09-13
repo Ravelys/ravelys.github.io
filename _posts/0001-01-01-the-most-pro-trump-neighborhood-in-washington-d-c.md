@@ -1,0 +1,15 @@
+---
+title: "The most Pro-Trump Neighborhood in Washington, D.C."
+image: "https:\/\/i.ytimg.com\/vi\/WSr61H_DaTQ\/hqdefault.jpg"
+vid_id: "WSr61H_DaTQ"
+categories: "News-Politics"
+tags: ["Pro-Trump","Neighborhood","Washington,"]
+date: "2021-09-13T12:58:14+03:00"
+vid_date: "2021-09-12T19:39:03Z"
+duration: "PT19M26S"
+viewcount: "11330"
+likeCount: "1197"
+dislikeCount: "25"
+channel: "penguinsix"
+---
+{% raw %}Washington D.C. voted 92% - 5% for Joe Biden in the 2020 Presidential Election, but there is one small neighborhood where Republican's do slightly better than average. Let me take you up there and show you around, along with seeing the birthplace of a famous green frog, American University, and a World War 1 Chemical Weapons dump. I then ended up at the National Cathedral where the DC Fire Department was paying respect to NYFD firefighters.  Life in the big city.<br /><br />Show not tell<br /><br />——————<br /><br />PenguinSix is an apolitical guy in a political town who likes to walk a lot. He has hiked over 17,000 miles (27,000kms) in the past six years and is still walking today. He is an American expat who spent the last decade in Hong Kong with his family and is now back in Washington DC, continuing his daily ritual of taking very long hikes around the city catching the sights and sounds of the city while live streaming to share with others.  History, culture, life as an expat (with reverse culture shock), and the pitiful Chinese food in Washington DC are regular topics of discussion. Feel free to follow him on other social media accounts such as:<br /><br />Camera 1: DJI Osmo Pocket 2 — <a rel="nofollow" target="blank" href="https://amzn.to/3bvGEPn">https://amzn.to/3bvGEPn</a><br />Camera 2: iPhone 12 Pro -- <a rel="nofollow" target="blank" href="https://amzn.to/3rnxSrt">https://amzn.to/3rnxSrt</a><br />Camera 3: Canon 70D  -- <a rel="nofollow" target="blank" href="https://amzn.to/39f0vAB">https://amzn.to/39f0vAB</a><br /><br />Shoes:    ASCIS Gel Kayano 27 <br />Tracker:    Fitbit Charge 4<br />Winter Jacket:  Rothco US Army M-65 Field Jacket. <a rel="nofollow" target="blank" href="https://amzn.to/2PAxOHC">https://amzn.to/2PAxOHC</a><br /><br />Miles I walk per day: <br /> Stay at home day: 3-4 miles<br /> Normal day:  4-7 miles<br /> Good hike day: 7-10 miles<br /> Best day: 25 miles  <br /><br /><a rel="nofollow" target="blank" href="http://www.penguinsix.com/">http://www.penguinsix.com/</a><br /><br />Twitter @penguinsix  <a rel="nofollow" target="blank" href="https://twitter.com/PenguinSix">https://twitter.com/PenguinSix</a><br />Happs @penguinsix <a rel="nofollow" target="blank" href="http://happs.tv/invite/@Penguinsix">http://happs.tv/invite/@Penguinsix</a><br />Instagram @penguinsix  <a rel="nofollow" target="blank" href="https://www.instagram.com/penguinsix/">https://www.instagram.com/penguinsix/</a><br />Facebook - PenguinSix  <a rel="nofollow" target="blank" href="https://www.facebook.com/penguinsix">https://www.facebook.com/penguinsix</a><br />Twitch - @ThePenguinsix  <a rel="nofollow" target="blank" href="https://www.twitch.tv/thepenguinsix">https://www.twitch.tv/thepenguinsix</a>{% endraw %}
