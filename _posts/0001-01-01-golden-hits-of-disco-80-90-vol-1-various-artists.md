@@ -1,0 +1,15 @@
+---
+title: "Golden Hits of Disco 80\/90 Vol. 1 (Various artists)"
+image: "https:\/\/i.ytimg.com\/vi\/K9G3OSrAT-E\/hqdefault.jpg"
+vid_id: "K9G3OSrAT-E"
+categories: "Music"
+tags: ["patefon","mp3","muzika"]
+date: "2021-09-13T05:08:33+03:00"
+vid_date: "2018-02-03T09:30:00Z"
+duration: "PT2H8M30S"
+viewcount: "6278763"
+likeCount: ""
+dislikeCount: ""
+channel: "PatefonChannel"
+---
+{% raw %}More great 80's &amp; 90's albums her:<br />BAD BOYS BLUE <a rel="nofollow" target="blank" href="https://youtu.be/ysORKGM_YGI">https://youtu.be/ysORKGM_YGI</a> <br />Boney M &amp; Bobby Farrell <a rel="nofollow" target="blank" href="https://youtu.be/RcM7Ov2KSzI">https://youtu.be/RcM7Ov2KSzI</a><br />FANCY <a rel="nofollow" target="blank" href="https://youtu.be/VfmcC8xqpRA">https://youtu.be/VfmcC8xqpRA</a><br />HADDAWAY  <a rel="nofollow" target="blank" href="https://youtu.be/aJxOiPRovEU">https://youtu.be/aJxOiPRovEU</a><br />LONDONBEAT  <a rel="nofollow" target="blank" href="https://youtu.be/LWVe9r4IUFo">https://youtu.be/LWVe9r4IUFo</a><br />Mr. PRESIDENT <a rel="nofollow" target="blank" href="https://youtu.be/jIcAtmiUb_4">https://youtu.be/jIcAtmiUb_4</a><br />Toto CUTUGNO  <a rel="nofollow" target="blank" href="https://youtu.be/CosKJrDkZ-Y">https://youtu.be/CosKJrDkZ-Y</a><br /><br />======================================================<br />&quot;PATEFON&quot; Music Channel presents!<br />Golden Hits of Disco 80/90 Vol. 1 (Various artists)<br /><br />01. Coco Jamboo - Mr. President 00:00:07<br />02. Touch In The Night - Silent Circle 00:03:46<br />03. What is Love - Haddaway 00:09:22<br />04. Freed from desire - Gala 00:13:54<br />05. Everybody - DJ Bobo 00:17:28<br />06. Hello Mr. Monkey - Arabesque 00:21:21<br />07. Living next door to Alice - Chris Norman 00:24:50<br />08. Lover On The Line - Bad Boys Blue 00:28:19<br />09. Moonlight Affair - Cliff Turner 00:32:08<br />10. Casablanca - Jessica Jay 00:35:29<br />11. Oh La La La - Eivissa 00:41:45<br />12. Flames Of Love - Fancy 00:45:18<br />13. More Than A Kiss - Michael Bedford 00:49:21<br />14. I've Been Thinking About You - Londonbeat 00:53:08<br />15. The Reason is You - Nina 00:56:58<br />16. One Night In Love - Joy Peters 01:00:58<br />17. Stay With Me Tonight - Patty Ryan 01:04:59<br />18. Love-Spy - Mike Mareen 01:08:19<br />19. Soldier Soldier - Captain Jack 01:12:50<br />20. Shut up (and sleep with me) - Sin With Sebastian 01:16:32<br />21. Mary Ann - Ken Laszlo 01:20:12<br />22. Vamos a La Playa - Righeira 01:23:16<br />23. Vision of love - Dj's Project 01:26:54<br />24. Max Don't Have Sex With Your Ex - E-Rotic 01:34:47<br />25. Kalimba De Luna - Tony Esposito 01:38:18<br />26. Do You Really Need Me - K.B. Caps 01:43:18<br />27. You're My Heart, You're My Soul - Lian Ross 01:47:04<br />28. Aliens - Radiorama 01:52:20<br />29. Wings Of Love - Grant Miller 01:57:17<br />30. Llama L'Amor - Charlie G 02:02:29<br /><br />======================================================<br /><br />Subscribe:<br /><a rel="nofollow" target="blank" href="http://bit.ly/patefonchannel">http://bit.ly/patefonchannel</a>{% endraw %}
