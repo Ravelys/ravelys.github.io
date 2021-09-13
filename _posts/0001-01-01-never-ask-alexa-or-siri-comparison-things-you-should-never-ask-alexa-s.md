@@ -1,0 +1,15 @@
+---
+title: "NEVER ASK ALEXA OR SIRI Comparison : Things You Should Never Ask Alexa, Siri or Cortana"
+image: "https:\/\/i.ytimg.com\/vi\/8FE9wqN76lU\/hqdefault.jpg"
+vid_id: "8FE9wqN76lU"
+categories: "Entertainment"
+tags: ["NEVER ASK ALEXA OR SIRI","THINGS YOU SHOULD NEVER ASK ALEXA","NEVER ASK ALEXA"]
+date: "2021-09-13T18:28:36+03:00"
+vid_date: "2021-09-12T13:45:00Z"
+duration: "PT2M42S"
+viewcount: "67633"
+likeCount: "1502"
+dislikeCount: "42"
+channel: "Tally"
+---
+{% raw %}Alexa, Siri, Google Assistant, &amp; Cortana can get real creepy at times, saying weird stuff or cackling for no reason. And the internet loves it every single time. As much as we've got used to helpful, polite voice assistants in every room of the house, it still feels like they could go rogue at any minute. Or have we just been watching way too much sci-fi? Here are some things you should never ask AI assistants.<br /><br />Admit it. If you're one of the millions of Alexa/Siri/Google Assistant/Cortana owners, you've noticed some odd behaviors. Relax. Your AI assistant isn't haunted (probably). Your voice assistant isn't going to murder you in your sleep (it doesn't have hands or feet). And, your AI assistant isn't going insane. Well...<br /><br />And if you’ve owned a voice assistant for an extended time, you know she sometimes goes off the rails – listening even though you never said her name, or asking you to repeat something when you weren’t even talking to her in the first place. Creepy.<br /><br />An AI assistant is basically a spy that we willingly let into our homes.<br />It collects and saves the things we say to it and then uses that data to improve its own intelligence. Have you ever wondered why they’re relatively inexpensive or given away for free?<br /><br />Your voice assistant is just like a friend to you who is obviously a good listener who never ignores you and answers every question for you. People get very comfortable with and ask anything and everything very open-heartedly. There are many times when this conversation turns out creepy and funny.<br /><br />People have started using AI assistants as a fun thing and use them when they want to pass their time. Asking voice assistants creepy questions is their new time pass.<br /><br />** Amazon and Apple have caught on some of these creepy responses and have fixed issues**<br /><br />SUBSCRIBE TO OUR CHANNEL —► - <a rel="nofollow" target="blank" href="https://bit.ly/2YxSZw1">https://bit.ly/2YxSZw1</a><br /><br />Let us know in the comments below if there's a video you'd like to see!<br /><br />The data and statistics videos are based on internet searches, online community discussions and online articles.  Data listed may be out of date, incorrect or valid.  All sources are listed in the description.<br /><br />Follow us on FaceBook for more interesting facts!<br />➤<a rel="nofollow" target="blank" href="https://www.facebook.com/TallyStats/">https://www.facebook.com/TallyStats/</a><br /><br />Sources:<br />➤<a rel="nofollow" target="blank" href="https://pastebin.com/7UmcPd56">https://pastebin.com/7UmcPd56</a>{% endraw %}
