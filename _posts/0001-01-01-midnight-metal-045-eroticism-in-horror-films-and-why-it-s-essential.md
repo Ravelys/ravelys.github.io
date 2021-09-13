@@ -1,0 +1,15 @@
+---
+title: "MIDNIGHT METAL #045: EROTICISM IN HORROR FILMS...AND WHY IT'S ESSENTIAL"
+image: "https:\/\/i.ytimg.com\/vi\/Xba9X8yeus8\/hqdefault.jpg"
+vid_id: "Xba9X8yeus8"
+categories: "Entertainment"
+tags: ["Robert Meyer Burnett","Robservations","The Burnettwork"]
+date: "2021-09-13T18:06:23+03:00"
+vid_date: "2021-09-12T10:35:20Z"
+duration: "PT3H21M20S"
+viewcount: "1944"
+likeCount: "143"
+dislikeCount: "7"
+channel: "THE BURNETTWORK"
+---
+{% raw %}#HorrorFilm #Eroticism #SexandDeath<br /><br />Become a part of the Post-Geek Singularity by joining our YouTube community (you'll also get access to exclusive perks): <a rel="nofollow" target="blank" href="http://bit.ly/PGSJoin">http://bit.ly/PGSJoin</a><br /><br />Have a question or want to say &quot;thanks&quot; for the content? Send Rob a tip and your message will be read live on the show. TIP RIGHT HERE: <a rel="nofollow" target="blank" href="http://bit.ly/RMB_Tip">http://bit.ly/RMB_Tip</a><br /><br />About Robert Meyer Burnett:<br />Rob is best known for directing, co-writing and editing the award-winning, cult-favorite feature film FREE ENTERPRISE, starring Emmy winners William Shatner and Eric McCormack. On ROBSERVATIONS, Rob offers his own unique perspective on the entertainment industry, discusses letters received from fellow &quot;Imagination Connoisseurs and answers questions sent to him via SuperChat or &quot;Tips.&quot;  ROBSERVATIONS streams daily on YouTube and can also be found on The Burnettwork website.<br /><br />About The Burnettwork:<br />The Burnettwork is home to a community of creators and fans from around the world. We're dedicated to creating a dynamic and respectful place where genre entertainment enthusiasts can celebrate the stories they love.<br /><br />Check out The Burnettwork for yourself by going to our website: <a rel="nofollow" target="blank" href="http://theburnettwork.net">http://theburnettwork.net</a><br /><br />Other links you may find of interest:<br />•  Follow us on social media ► <a rel="nofollow" target="blank" href="https://theburnettwork.net/social-media/">https://theburnettwork.net/social-media/</a><br />•  Send us letters ► <a rel="nofollow" target="blank" href="https://theburnettwork.net/contact-us/">https://theburnettwork.net/contact-us/</a><br />•  Take the 7 Words or Less Challenge ► <a rel="nofollow" target="blank" href="https://theburnettwork.net/7-words-or-less/">https://theburnettwork.net/7-words-or-less/</a><br />•  Join the PGS Discord Server ► <a rel="nofollow" target="blank" href="https://discord.gg/rSfFFWVnbv">https://discord.gg/rSfFFWVnbv</a><br />•  Be a guest on a TBN show ► <a rel="nofollow" target="blank" href="https://theburnettwork.net/for-fans/be-our-guest/">https://theburnettwork.net/for-fans/be-our-guest/</a><br />•  Join The Burnettwork ► <a rel="nofollow" target="blank" href="http://bit.ly/PGSJoin">http://bit.ly/PGSJoin</a><br />•  &quot;Rules&quot; for participation in The Burnettwork ► <a rel="nofollow" target="blank" href="http://bit.ly/PGS_Code">http://bit.ly/PGS_Code</a>{% endraw %}
