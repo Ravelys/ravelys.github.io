@@ -1,0 +1,15 @@
+---
+title: "BONEZ MC & RAF Camora - 500 PS (prod. by The Cratez & RAF Camora)"
+image: "https:\/\/i.ytimg.com\/vi\/hLWGlq_2qbk\/hqdefault.jpg"
+vid_id: "hLWGlq_2qbk"
+categories: "Music"
+tags: ["187","187 Strassenbande","BONEZ MC"]
+date: "2021-09-13T16:09:02+03:00"
+vid_date: "2018-08-11T20:22:58Z"
+duration: "PT3M36S"
+viewcount: "114060188"
+likeCount: "751895"
+dislikeCount: "30722"
+channel: "CrhymeTV"
+---
+{% raw %}Palmen aus Plastik 2 erscheint am 05.10.2018!<br />Box vorbestellen: <a rel="nofollow" target="blank" href="http://1raf7.fty.li/PalmenAusPlastik2">http://1raf7.fty.li/PalmenAusPlastik2</a><br /><br />Bonez MC folgen ► <a rel="nofollow" target="blank" href="http://bonezmc.fty.li/social">http://bonezmc.fty.li/social</a> <br />RAF Camora folgen ► <a rel="nofollow" target="blank" href="http://rafcamora.fty.li/social">http://rafcamora.fty.li/social</a><br /><br />CrhymeTV abonnieren ► <a rel="nofollow" target="blank" href="http://ytb.li/CrhymeTV">http://ytb.li/CrhymeTV</a><br />„Palmen aus Plastik 2“ Playlist auf Spotify folgen: <a rel="nofollow" target="blank" href="http://1raf7.fty.li/PalmenAusPlastik2/Spotify">http://1raf7.fty.li/PalmenAusPlastik2/Spotify</a><br /><br />Video:<br />Directed by Shaho Casado: <br /><a rel="nofollow" target="blank" href="http://www.shahocasado.com">http://www.shahocasado.com</a><br />►Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/shahocasado">https://www.facebook.com/shahocasado</a> <br />►Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/shahocasado">https://instagram.com/shahocasado</a> <br /><br /><br />VFX:THEFLAGSHIP <br />Instagram: www.instagram.com/theflagship.official/<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/official.theflagship">https://www.facebook.com/official.theflagship</a><br />Website: <a rel="nofollow" target="blank" href="http://www.theflagship.at">http://www.theflagship.at</a><br /><br /><br />187 Strassenbande auf Social Media: <br />187 Strassenbande ► <a rel="nofollow" target="blank" href="http://187.fty.li/social">http://187.fty.li/social</a> <br /><br />Bonez MC ► <a rel="nofollow" target="blank" href="http://bonezmc.fty.li/social">http://bonezmc.fty.li/social</a> <br />Gzuz ► <a rel="nofollow" target="blank" href="http://gzuz.fty.li/social">http://gzuz.fty.li/social</a> <br />Maxwell ► <a rel="nofollow" target="blank" href="http://maxwell.fty.li/social">http://maxwell.fty.li/social</a> <br />LX ► <a rel="nofollow" target="blank" href="http://lx.fty.li/social">http://lx.fty.li/social</a> <br />Sa4 ► <a rel="nofollow" target="blank" href="http://sa4.fty.li/social">http://sa4.fty.li/social</a><br /><br />Team Platin ► <a rel="nofollow" target="blank" href="https://www.teamplatinshop.de">https://www.teamplatinshop.de</a> <br /><br />Wenn euch das Video gefallen hat, gebt einen Daumen hoch dafür, teilt es mit euren Freunden und schreibt eure Meinung in die Kommentare. Um nichts zu verpassen abonniert: <a rel="nofollow" target="blank" href="http://ytb.li/CrhymeTV">http://ytb.li/CrhymeTV</a>{% endraw %}
