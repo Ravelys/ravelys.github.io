@@ -1,0 +1,15 @@
+---
+title: "Tractor and Combine Harvester & Agricultural Machinery for Kids | Harvest - Traktor i Kombajn"
+image: "https:\/\/i.ytimg.com\/vi\/u8DJ5oGAq_0\/hqdefault.jpg"
+vid_id: "u8DJ5oGAq_0"
+categories: "Film-Animation"
+tags: ["Kombajny","traktory i kombajny","maszyny rolnicze"]
+date: "2021-09-14T22:45:54+03:00"
+vid_date: "2019-12-06T12:43:41Z"
+duration: "PT10M45S"
+viewcount: "756094"
+likeCount: "3357"
+dislikeCount: "2219"
+channel: "Bazylland - Tractors & Excavators"
+---
+{% raw %}Tractor and Combine Harvester &amp; Agricultural Machinery for Kids | Harvest - Traktor i Kombajn #bazylland<br /><br />Subscribe for new videos every week!  <br />SUBSCRIBE: <a rel="nofollow" target="blank" href="https://goo.gl/AvuYKe">https://goo.gl/AvuYKe</a><br /><br /><br />Green Tractor:<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=quLuYZF2-08">https://www.youtube.com/watch?v=quLuYZF2-08</a><br /><br /><br />Colors Tractors:<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=_Vzyywa9rO0&amp;t=368s">https://www.youtube.com/watch?v=_Vzyywa9rO0&amp;t=368s</a><br /><br /><br />Adventures of Rickshaw:<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=2CKwWIQtvrI">https://www.youtube.com/watch?v=2CKwWIQtvrI</a><br /><br /><br />Work on a farm:<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=__KlJrj-TcA&amp;t=69s">https://www.youtube.com/watch?v=__KlJrj-TcA&amp;t=69s</a><br /><br /><br />Colorful farmers:<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=Q0j9TVel5Ck&amp;t=11s">https://www.youtube.com/watch?v=Q0j9TVel5Ck&amp;t=11s</a><br /><br /><br />Cyklop Loader:<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=IOAX9YLJHgk">https://www.youtube.com/watch?v=IOAX9YLJHgk</a><br /><br /><br /><br />W Bazylland zajmujemy się tworzeniem filmów, które mogą pomóc dzieciom w nauce liter, cyfr, kształtów, kolorów, zwierząt, pojazdów i wielu innych rzeczy!<br /><br /><br />Twoje dzieci pokochają nasze przyjazne pojazdy i kolorowe animowane filmy, ucząc się zarówno kolorów, jak i oryginalnych kształtów oraz poznając różne maszyny.<br /><br /><br />➖➖➖➖➖➖<br /><br /><br />At Bazylland, we create movies that can help children learn letters, numbers, shapes, colors, animals, vehicles, and more!<br /><br /><br />Your children will love our friendly vehicles and colorful animated films, learning both colors and original shapes, and learning about different machines.<br /><br />👍 FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/Bazylland">https://www.facebook.com/Bazylland</a><br /><br />👍 WEBSITE: <a rel="nofollow" target="blank" href="http://bazylland.pl">http://bazylland.pl</a><br /><br />👍 TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/bazylland">https://twitter.com/bazylland</a><br /><br /><br /><br /> #bazylland #bazylCartons, #comedy, #comedyvideos, #cartoonmovie, #compilation, #animation, #cartoon, #funnycartoon,  #2danimation, #cartoonseries, #newcartoon, #fun, #bazylland{% endraw %}
