@@ -1,0 +1,15 @@
+---
+title: "Ozark Trail 6-Person Connectent for Canopy"
+image: "https:\/\/i.ytimg.com\/vi\/-PlZuAVFQkE\/hqdefault.jpg"
+vid_id: "-PlZuAVFQkE"
+categories: "Entertainment"
+tags: ["tent camping","big tents","big tent"]
+date: "2021-09-14T09:45:27+03:00"
+vid_date: "2017-07-06T20:50:23Z"
+duration: "PT57S"
+viewcount: "42336"
+likeCount: "152"
+dislikeCount: "7"
+channel: "B.N.L.V"
+---
+{% raw %}Buy it on Amazon: <a rel="nofollow" target="blank" href="https://amzn.to/3eKZ684">https://amzn.to/3eKZ684</a><br />Amazon Best Sellers: <a rel="nofollow" target="blank" href="https://amzn.to/3og4X8y">https://amzn.to/3og4X8y</a><br />Buy it on eBay: <a rel="nofollow" target="blank" href="https://goo.gl/JqrZ6T">https://goo.gl/JqrZ6T</a><br />eBay Daily Deals: <a rel="nofollow" target="blank" href="https://goo.gl/p1tX5H">https://goo.gl/p1tX5H</a><br /><br /><br />Please SUBSCRIBE to My New Channel.<br />New Lyric Video Every Day.<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCH-8wyHKcXGMHyhtvBQHXiQ">https://www.youtube.com/channel/UCH-8wyHKcXGMHyhtvBQHXiQ</a><br /><br />----------------------------------------------------------------------------------------------<br /><br /><br />Convert your 10-foot by 10-foot straight leg canopy (sold separately) into a tent with a spacious interior with cathedral ceiling. Windows on all four sides provide cross ventilation. <br /><br />Convert your 10' x 10' straight-leg canopy into a tent<br />Spacious interior with cathedral ceiling<br />Windows on all 4 sides provide cross ventilation<br />Floor size: 10' x 10'<br />Center height: 98&quot;<br />Sleeps up to 6 people<br />Sets up in 10 minutes<br />Fits 2 queen air mattresses<br />E-port provides easy access for an extension cord<br />Cannot stand alone without the canopy<br />Canopy not included<br />2-3 season tent<br />Model# W604.1<br />CALIFORNIA PROPOSITION 65 WARNING: This product contains one or more chemicals known to the State of California to cause cancer, birth defects and other reproductive harm.<br />For product questions, replacement parts or an extra copy of the set up instructions, please contact our Customer Service department at 1-800-325-4121.<br /><br />Tent Type - Cabin Tents<br />Capacity - 6<br />Manufacturer Part Number - W604.1<br />Season - All Season<br />Brand - Ozark Trail<br />Features - Sleeps up to 6 people, Spacious interior with cathedral ceiling, Windows on all 4 sides provide cross ventilation<br />Assembled Product Weight - 10.20<br /><br /><br />Subscribe for more.<br /><br /><br />Buy it on Amazon: <a rel="nofollow" target="blank" href="https://amzn.to/3eKZ684">https://amzn.to/3eKZ684</a><br />Amazon Best Sellers: <a rel="nofollow" target="blank" href="https://amzn.to/3og4X8y">https://amzn.to/3og4X8y</a><br />Buy it on eBay: <a rel="nofollow" target="blank" href="https://goo.gl/JqrZ6T">https://goo.gl/JqrZ6T</a><br />eBay Daily Deals: <a rel="nofollow" target="blank" href="https://goo.gl/p1tX5H">https://goo.gl/p1tX5H</a>{% endraw %}
