@@ -1,0 +1,15 @@
+---
+title: "Above & Beyond - Making Plans feat. Alex Vargas"
+image: "https:\/\/i.ytimg.com\/vi\/OrcVS3s5D34\/hqdefault.jpg"
+vid_id: "OrcVS3s5D34"
+categories: "Music"
+tags: ["Above & Beyond","Paavo","Jono"]
+date: "2021-09-14T08:29:16+03:00"
+vid_date: "2015-02-02T17:28:09Z"
+duration: "PT5M5S"
+viewcount: "603805"
+likeCount: "2866"
+dislikeCount: "90"
+channel: "Above & Beyond"
+---
+{% raw %}Subscribe to our channel: <a rel="nofollow" target="blank" href="https://lnk.to/YTA_B">https://lnk.to/YTA_B</a><br />Stream us on Spotify: <a rel="nofollow" target="blank" href="https://Anjunabeats.lnk.to/AboveBeyondSpotifyYo">https://Anjunabeats.lnk.to/AboveBeyondSpotifyYo</a><br />Shop Anjuna and A&amp;B: <a rel="nofollow" target="blank" href="https://anjunastore.com">https://anjunastore.com</a><br /><br />A deeply musical and expansive collection, Above &amp; Beyond's third artist album &quot;We Are All We Need&quot; is an an album that places human relationships at its core, and explores the experiences and emotions that bind us.<br /><br />Ranging from anthemic festival tracks such as &quot;All Over The World&quot; to downtempo moments like &quot;Little Something&quot; feat. Justine Suissa, the album also features the singles &quot;We're All We Need&quot; feat. Zoë Johnston, &quot;Blue Sky Action&quot; and &quot;Sticky Fingers&quot; feat. Alex Vargas. <br /><br />The album’s distinctive hand-print artwork is made up of the names of A&amp;B fans from all over the world - plus the names of the band members and album contributors. <br /><br />A deep, musical and melodic approach to electronic dance music, &quot;We Are All We Need' is rich in texture and emotion - capturing the iconic band at their best.<br /><br /> <br />1. Quieter Is Louder<br />2. We're All We Need feat. Zoë Johnston<br />3. Blue Sky Action feat. Alex Vargas<br />4. Peace Of Mind feat. Zoë Johnston<br />5. Counting Down The Days feat. Gemma Hayes<br />6. Sticky Fingers feat. Alex Vargas<br />7. Hello (Album Mix)<br />8. Little Something feat. Justine Suissa<br />9. All Over The World feat. Alex Vargas<br />10. Fly To New York feat. Zoë Johnston<br />11. Making Plans feat. Alex Vargas<br />12. Out Of Time<br />13. Excuses<br />15. Sink The Lighthouse feat. Alex Vargas<br />16. Treasure feat. Zoë Johnston<br /><br /><br />Live dates: <a rel="nofollow" target="blank" href="https://aboveandbeyond.nu/tour">https://aboveandbeyond.nu/tour</a><br />Store: <a rel="nofollow" target="blank" href="https://anjunastore.com">https://anjunastore.com</a><br />Website: <a rel="nofollow" target="blank" href="https://aboveandbeyond.nu">https://aboveandbeyond.nu</a><br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/aboveandbeyond">https://facebook.com/aboveandbeyond</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/aboveandbeyond">https://twitter.com/aboveandbeyond</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/aboveandbeyond">https://instagram.com/aboveandbeyond</a><br /><br />#AboveandBeyond #Anjunabeats{% endraw %}
