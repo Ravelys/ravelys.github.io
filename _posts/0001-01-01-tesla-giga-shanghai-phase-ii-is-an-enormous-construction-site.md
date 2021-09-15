@@ -1,0 +1,15 @@
+---
+title: "Tesla Giga Shanghai Phase II Is an Enormous Construction Site"
+image: "https:\/\/i.ytimg.com\/vi\/I4sA9lGr-J4\/hqdefault.jpg"
+vid_id: "I4sA9lGr-J4"
+categories: "Autos-Vehicles"
+tags: ["Giga Shanghai news","Tesla Giga Shanghai","Gigafactory"]
+date: "2021-09-15T09:26:06+03:00"
+vid_date: "2020-03-18T01:53:44Z"
+duration: "PT10M6S"
+viewcount: "3314"
+likeCount: "136"
+dislikeCount: "7"
+channel: "Torque News"
+---
+{% raw %}This is the latest news update from Tesla's Giga Shanghai showing how phase 2 construction is progressing.<br /><br />My friend Chao Zhou today shared these fresh images from Giga Shanghai showing how phase 2 work is progressing. Chao sent this Giga Shanghai phase 2 news update today and took these pictures this morning. Chao lives in Shanghai, not too far from Tesla's China Gigafactory 3 and has been sending regular news updates from the Giga Shanghai via his Twitter account. He says the Giga Shanghai phase 1.5 and phase 2 are under construction with fast speed. I honestly don't know what he means by phase 1.5, but phase 2 makes good sense.<br /><br />Hello, everyone, this is Armen Hareyan from TorqueNews.com. Please take a moment and subscribe to our channel, ring the bell and like this video to show your appreciation of Chao’s dedicated work bringing us news update from Giga China. <br /><br />As I have been daily reporting news updates from Giga Berlina and sometimes from Giga Shanghai I have heard many people talking about Giga Berlin’s construction speed. Right now we can say the Giga Berlin and Giga Shanghai’s phase 2 start approximately the same time. Now I see people commenting on twitter talking about which of these gig factories will finish sooner and build faster. <br /><br />I want to bring 3 points here. First of all, Tesla is not after the speed in terms of competing between its own two gigafactories. Tesla Giga Shanghai is not going to compete against Tesla Giga Berlin. Second, We want contractors to build safe factories, a safe place for the Tesla employees to work. Therefore, there is no need for rushing. Third, each country has its own lows, red tapes, and regulations. Certain things may move faster in china, while other things may move faster in Germany. Thus, it’s not fair to compete in terms of the speed of building one Gigafactory against the other Gigafactory.<br /><br />Armen Hareyan is the editor of TorqueNews.com. Please, visit us at <a rel="nofollow" target="blank" href="https://www.TorqueNews.com">https://www.TorqueNews.com</a> and follow us on Twitter at <a rel="nofollow" target="blank" href="https://twitter.com/torquenewsauto">https://twitter.com/torquenewsauto</a><br /><br />#GigaShanghai<br />#Tesla<br /><br />Reference:<br />Chao Zhou <a rel="nofollow" target="blank" href="https://twitter.com/realChaoZhou">https://twitter.com/realChaoZhou</a><br />Tsla T<a rel="nofollow" target="blank" href="imeshttps://tslatimes.com/tesla-begins-giga-shanghai-phase-2-construction/">imeshttps://tslatimes.com/tesla-begins-giga-shanghai-phase-2-construction/</a>{% endraw %}
