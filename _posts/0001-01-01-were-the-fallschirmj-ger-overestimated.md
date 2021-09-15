@@ -1,0 +1,15 @@
+---
+title: "Were the Fallschirmjäger overestimated?"
+image: "https:\/\/i.ytimg.com\/vi\/NUP0uyO335U\/hqdefault.jpg"
+vid_id: "NUP0uyO335U"
+categories: "Education"
+tags: ["Military History not Visualized","Military History","mhv"]
+date: "2021-09-15T13:50:41+03:00"
+vid_date: "2021-09-10T19:00:08Z"
+duration: "PT44M15S"
+viewcount: "20026"
+likeCount: "1201"
+dislikeCount: "22"
+channel: "Military History not Visualized"
+---
+{% raw %}In this video Dr. Magnus Pahl from the MHM Dresden and I talk about the military effectiveness and operations of the Fallschirmjäger (German Paratroopers) in World War 2, often also called the  &quot;Green Devils&quot; / &quot;Grüne Teufel&quot;.<br /><br />Disclaimer: I was invited by Militärhistorische Museum der Bundeswehr Dresden in 2019 &amp; 2021. <a rel="nofollow" target="blank" href="http://www.mhmbw.de/">http://www.mhmbw.de/</a><br /><br />Cover:<br />Bundesarchiv, Bild 101I-539-0380-15 / Haas / CC-BY-SA 3.0, <a rel="nofollow" target="blank" href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en">https://creativecommons.org/licenses/by-sa/3.0/de/deed.en</a><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-539-0380-15,_Dr._Bruno_Sassen.jpg">https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-539-0380-15,_Dr._Bruno_Sassen.jpg</a><br /><br /><br />A German prisoner captured by the 16th Infantry Regiment, near Weywertz. Belgium, National Archives Identifier (NAID) 531359, Public Domain<br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:A_German_prisoner_captured_by_the_16th_Infantry_Regiment,_near_Weywertz._Belgium._-_NARA_-_531359.tif">https://commons.wikimedia.org/wiki/File:A_German_prisoner_captured_by_the_16th_Infantry_Regiment,_near_Weywertz._Belgium._-_NARA_-_531359.tif</a><br /><br />»» GET OUR BOOKS ««<br />» The Assault Platoon of the Grenadier-Company November 1944 (StG 44) - <a rel="nofollow" target="blank" href="http://sturmzug.com">http://sturmzug.com</a><br /><br />» Army Regulation Medium Panzer Company 1941 - <a rel="nofollow" target="blank" href="http://www.hdv470-7.com">http://www.hdv470-7.com</a><br /><br /><br />»» SUPPORT MHV ««<br />» patreon, see videos early (adfree) - <a rel="nofollow" target="blank" href="https://www.patreon.com/join/mhv">https://www.patreon.com/join/mhv</a><br />» subscribe star - <a rel="nofollow" target="blank" href="https://www.subscribestar.com/mhv">https://www.subscribestar.com/mhv</a><br />» paypal donation - <a rel="nofollow" target="blank" href="https://paypal.me/mhvis">https://paypal.me/mhvis</a><br /><br />»» MERCHANDISE ««<br />» teespring - <a rel="nofollow" target="blank" href="https://teespring.com/stores/military-history-visualized">https://teespring.com/stores/military-history-visualized</a><br /><br /><br />» SOURCES «<br /><br />Pahl, Magnus: Monte Cassino 1944: Der Kampf um Rom und seine Inszenierung. Verlag Ferdinand Schöningh: Paderborn, Germany, 2021.<br /><br /><br />#MilitaryEffectiveness,#GrüneTeufel,#FallschirmJäger{% endraw %}
