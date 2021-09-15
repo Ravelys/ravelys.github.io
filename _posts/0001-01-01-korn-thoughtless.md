@@ -1,0 +1,15 @@
+---
+title: "Korn - Thoughtless"
+image: "https:\/\/i.ytimg.com\/vi\/xVPvzX-AeSM\/hqdefault.jpg"
+vid_id: "xVPvzX-AeSM"
+categories: "Music"
+tags: ["clown","thoughtless cover","freak on a leash"]
+date: "2021-09-15T04:54:25+03:00"
+vid_date: "2009-10-25T08:46:14Z"
+duration: "PT4M41S"
+viewcount: "46744296"
+likeCount: "234699"
+dislikeCount: "7463"
+channel: "KornVEVO"
+---
+{% raw %}Korn's official music video for 'Thoughtless'. Click to listen to Korn on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/KornSpotify1?IQid=KornTho">http://smarturl.it/KornSpotify1?IQid=KornTho</a><br /><br />As featured on Untouchables. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/KornUniTunes?IQid=KornTho">http://smarturl.it/KornUniTunes?IQid=KornTho</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/KornThoPlay?IQid=KornTho">http://smarturl.it/KornThoPlay?IQid=KornTho</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/KornUnAmazon?IQid=KornTho">http://smarturl.it/KornUnAmazon?IQid=KornTho</a><br /><br />More from Korn<br />Falling Away From Me: <a rel="nofollow" target="blank" href="https://youtu.be/2s3iGpDqQpQ">https://youtu.be/2s3iGpDqQpQ</a><br />Did My Time: <a rel="nofollow" target="blank" href="https://youtu.be/xmOOGeZE-aE">https://youtu.be/xmOOGeZE-aE</a><br />Freak On A Leash: <a rel="nofollow" target="blank" href="https://youtu.be/jRGrNDV2mKc">https://youtu.be/jRGrNDV2mKc</a><br /><br />More great 90's Alternative videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Alternative90?IQid=KornTho">http://smarturl.it/Alternative90?IQid=KornTho</a><br /><br />Follow Korn<br />Website: <a rel="nofollow" target="blank" href="http://www.korn.com">http://www.korn.com</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/korn">https://www.facebook.com/korn</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/korn">https://twitter.com/korn</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/korn_official/">https://instagram.com/korn_official/</a><br /><br />Subscribe to Korn on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/KornSub?IQid=KornTho">http://smarturl.it/KornSub?IQid=KornTho</a><br /><br />---------<br /><br />Lyrics:<br /><br />Thumbing through the pages of my fantasies <br />Pushing all the mercy down, down, down <br />I wanna see you try to take a swing at me <br />Come on, gonna put you on the ground, ground, ground <br /><br />Why are you trying to make fun of me? <br />You think it's funny? <br />What the fuck you think it's doing to me? <br />You take your turn lashing out at me <br />I want you crying with your dirty ass in front of me <br /><br />All of my hate cannot be found <br />I will not be drowned by your thoughtless scheming <br />So you can try to tear me down <br />Beat me to the ground <br />I will see you screaming{% endraw %}
