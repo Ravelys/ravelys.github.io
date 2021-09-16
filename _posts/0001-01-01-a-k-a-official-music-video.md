@@ -1,0 +1,15 @@
+---
+title: "Ρένα Μόρφη a.k.a. Σούλη Ανατολή - Όταν Σου Χορεύω (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/uDQgIucRQG0\/hqdefault.jpg"
+vid_id: "uDQgIucRQG0"
+categories: "Music"
+tags: ["Rena","Morfi","Otan"]
+date: "2021-09-16T09:02:33+03:00"
+vid_date: "2017-06-29T07:00:03Z"
+duration: "PT3M32S"
+viewcount: "24313313"
+likeCount: "84997"
+dislikeCount: "6866"
+channel: "RenaMorfiVEVO"
+---
+{% raw %}Ακολουθήστε την Ρένα Μόρφη στα Social Media: <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/renamorfi/">https://www.facebook.com/renamorfi/</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/renamorfi">https://www.instagram.com/renamorfi</a><br /><br />Σούλη Ανατολή - Όταν Σου Χορεύω (Official Music Video)<br /><br /><a rel="nofollow" target="blank" href="https://SouliAnatoli.lnk.to/NewAlbumID">https://SouliAnatoli.lnk.to/NewAlbumID</a><br /><br />Μουσική - Στίχοι: Φοίβος Δεληβοριάς<br />Παραγωγή: Imam Baildi<br />Τραγούδι: Ρένα Μόρφη <br />Κλ. κιθάρα: Δημήτρης Μπαλογιάννης<br />Ηλ. κιθάρα: Λάμπης Κουντορόγιαννης<br />Ηλ. μπάσο: Ορέστης Φαληρέας<br />Κρουστά: Carlos Menendez<br />Σκηνοθεσία: Αντώνης Αγγελόπουλος <br />Διεύθυνση φωτογραφίας: Αντωνης Κουνέλλας <br />Μοντάζ: Μιχάλης Ρουμπής <br /><br />Παίζουν οι: <br />Ευθύμης Ζησάκης<br />Αντώνης Τσιοτσιόπουλος<br />Ρομίνα Κατσικιάν<br />Έλενα Μεντζέλου<br />Στέλιος Καλαϊτζης<br />Αστέριος Κρικώνης<br />Βαγγέλης Πιτσιλός<br />Δημήτρης Τσέλιος<br />Βασίλης Τσιγκριστάρης<br />Κώστας Φυτίλης<br /><br />Styling: Άννα Ζιαζιά<br />Make up Ρένας: Δημήτρης Δημητρούλης <br />Hairstyling Ρένας :Νίκος Μίχος <br /><br />Ⓒ 2017 Kukin Music, Under Exclusive License to Minos - EMI SA<br /><br />Στίχοι:<br /><br />Όταν σε κοιτάζω<br />σύννεφα και μπόρα<br /><br />Όταν σ´ αγκαλιάζω<br />σταματάει η ώρα<br /><br />Κι όταν σου χορεύω<br />απ´τις άλλες κλέβω<br /><br />Κόσμος δεν υπάρχει<br />μοναχά οι δυο μας<br /><br />Είναι καλοκαίρι<br />απ´τον πυρετό μας<br /><br />Κι όταν σου χορεύω<br />απ´τις άλλες κλέβω<br /><br />Όταν λες θα φύγεις<br />καίγονται τα δάση<br /><br />Ποιος θα με ξοδέψει;<br />Ποιος θα με χορτάσει;<br /><br />Όταν σου χορεύω<br />απ´ τις άλλες κλέβω<br /><br />MINOS EMI - A Universal Music Company <br />Facebook: <a rel="nofollow" target="blank" href="http://bit.ly/MinosEmiFacebook">http://bit.ly/MinosEmiFacebook</a> <br />Twitter: <a rel="nofollow" target="blank" href="http://bit.ly/MinosEMITwitter">http://bit.ly/MinosEMITwitter</a> <br />Instagram: http:// <a rel="nofollow" target="blank" href="http://bit.ly/MinosEmiInstagram">http://bit.ly/MinosEmiInstagram</a> <br />Google+: <a rel="nofollow" target="blank" href="http://bit.ly/MinosEmiGooglePlus">http://bit.ly/MinosEmiGooglePlus</a> <br />YouTube Channel: <a rel="nofollow" target="blank" href="http://bit.ly/MinosEmiYouTube">http://bit.ly/MinosEmiYouTube</a> <br />Pinterest: <a rel="nofollow" target="blank" href="http://bit.ly/MinosEmiPinterest">http://bit.ly/MinosEmiPinterest</a> <br />Snapchat: minosemi{% endraw %}
