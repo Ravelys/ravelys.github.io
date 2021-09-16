@@ -1,0 +1,15 @@
+---
+title: "Study Rarely & Seldom Adverbs | English Grammar Lessons"
+image: "https:\/\/i.ytimg.com\/vi\/v73DcIzGh-0\/hqdefault.jpg"
+vid_id: "v73DcIzGh-0"
+categories: "Education"
+tags: ["english grammar","english lesson","learn a language"]
+date: "2021-09-17T02:18:27+03:00"
+vid_date: "2020-06-08T10:00:32Z"
+duration: "PT2M5S"
+viewcount: "299"
+likeCount: "12"
+dislikeCount: "1"
+channel: "American English"
+---
+{% raw %}The adverbs “Rarely and Seldom” are used with the present simple tense.<br />They are not normally used in question form.<br />When it is used with the verb “To be”, “Rarely” goes before the main verb.<br /><br />The same is true with “Seldom.&quot;<br />“Rarely and Seldom” are used to refer<br />to almost never or 20 percent of the time.<br /><br />Other adverbs are used to form questions.<br />“Rarely and Seldom” have the same meaning.<br /><br />Here are Examples with Present simple:<br /><br />Is she often at work?<br /><br />No, she is seldom at work!<br /><br />Do they always work on Sundays?<br /><br />No, they rarely work on Sundays.<br /><br />Does he always drink coffee in the afternoon?<br /><br />No, it’s seldom.<br /><br />Other uses with Rarely and Seldom:<br /><br />Do you usually have lunch at 3?<br /><br />No, I rarely eat at that time!<br /><br />Are you usually sad?<br /><br />No, it’s seldom!<br /><br />Do you usually sing in the shower?<br /><br />Rarely or almost never!<br /><br />Here are the vocabulary bank definitions:<br /><br />Adverb: Words that modify or describe “verbs, adjectives, and adverbs.”<br /><br />Almost never: Not often or 20 percent of the time.<br /><br />Sad: The opposite of happy and an adjective that describes feelings.<br /><br />Lunch: American English meal at 12:00.<br /><br />Shower: Daily routine before going to work.<br /><br />#adverbs #adverbsoftime #adverbsoffrequency #grammar #grammarlesson #grammarenglish #englishlesson #englishgrammar #americanenglish #Indefinitepronouns #possessivepronouns #studyenglish #learnenglish<br /><br />Spoken English and grammar study for all ESL students and English speakers too!<br /><br />Download my 6 FREE books here; <a rel="nofollow" target="blank" href="https://www.larisaenglishclub.com/english-language-shop/">https://www.larisaenglishclub.com/english-language-shop/</a><br /><br />English book recommendation; <a rel="nofollow" target="blank" href="https://gumroad.com/l/bjPNx">https://gumroad.com/l/bjPNx</a><br /><br />Please subscribe to our channel; <a rel="nofollow" target="blank" href="https://www.youtube.com/c/AmericanEnglish2020">https://www.youtube.com/c/AmericanEnglish2020</a><br /><br />English is so important for students to study! Jobs, education, family, and travel are all reasons to study and speak fluently. Have fun and learn English fast with our video lessons. Visit our site for 100 free English lessons at <a rel="nofollow" target="blank" href="https://www.larisaenglishclub.com/american-english-language-esl-online-course/">https://www.larisaenglishclub.com/american-english-language-esl-online-course/</a>{% endraw %}
