@@ -1,0 +1,15 @@
+---
+title: "Baby Keem, Kendrick Lamar - range brothers (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/IkuBYRUwWdg\/hqdefault.jpg"
+vid_id: "IkuBYRUwWdg"
+categories: "Music"
+tags: ["baby keem album","baby keem issues","baby keem donda"]
+date: "2021-09-18T01:22:43+03:00"
+vid_date: "2021-09-10T04:00:06Z"
+duration: "PT5M19S"
+viewcount: "2642561"
+likeCount: "122961"
+dislikeCount: "3168"
+channel: "BabyKeemVEVO"
+---
+{% raw %}Official audio for “range brothers” by Baby Keem &amp; Kendrick Lamar<br /> <br />Listen &amp; Download ‘the melodic blue’ out now: <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/TheMelodicBlue">https://babykeem.lnk.to/TheMelodicBlue</a><br /> <br />Amazon Music - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/amazonmusic">https://babykeem.lnk.to/themelodicblue/amazonmusic</a><br />Apple Music - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/applemusic">https://babykeem.lnk.to/themelodicblue/applemusic</a><br />Audiomack - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/audiomack">https://babykeem.lnk.to/themelodicblue/audiomack</a><br />Deezer - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/deezer">https://babykeem.lnk.to/themelodicblue/deezer</a><br />iTunes - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/itunes">https://babykeem.lnk.to/themelodicblue/itunes</a><br />SoundCloud - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/soundcloud">https://babykeem.lnk.to/themelodicblue/soundcloud</a><br />Spotify - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/spotify">https://babykeem.lnk.to/themelodicblue/spotify</a><br />Tidal - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/tidal">https://babykeem.lnk.to/themelodicblue/tidal</a><br />YouTube Music - <a rel="nofollow" target="blank" href="https://babykeem.lnk.to/themelodicblue/youtubemusic">https://babykeem.lnk.to/themelodicblue/youtubemusic</a><br /> <br />Follow Baby Keem<br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/babykeem1">https://www.facebook.com/babykeem1</a><br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/keem/">https://www.instagram.com/keem/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/babykeem">https://twitter.com/babykeem</a><br /><br />Follow Kendrick Lamar<br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/kendricklamar">https://www.facebook.com/kendricklamar</a><br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/kendricklamar/">https://www.instagram.com/kendricklamar/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/kendricklamar">https://twitter.com/kendricklamar</a><br /><br /><a rel="nofollow" target="blank" href="https://keemworld.com/">https://keemworld.com/</a><br /> <br />#BabyKeem #rangebrothers #themelodicblue{% endraw %}
