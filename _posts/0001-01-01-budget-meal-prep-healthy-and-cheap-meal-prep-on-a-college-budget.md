@@ -1,0 +1,15 @@
+---
+title: "BUDGET Meal Prep | HEALTHY AND CHEAP | Meal Prep On a College Budget"
+image: "https:\/\/i.ytimg.com\/vi\/tohmC-LOMLI\/hqdefault.jpg"
+vid_id: "tohmC-LOMLI"
+categories: "Howto-Style"
+tags: ["Budget meal prep","meal prep","healthy"]
+date: "2021-09-17T22:28:05+03:00"
+vid_date: "2017-09-26T14:00:03Z"
+duration: "PT8M6S"
+viewcount: "1887270"
+likeCount: "51448"
+dislikeCount: "934"
+channel: "Chloe Ting"
+---
+{% raw %}Meal prep on a budget! All meals are really cheap and healthy. They are really delicious too. Definitely possible to stay healthy and also eat yummy food while you're on a budget. Hope you find this video helpful! Don't forget to subscribe and thumbs up the video!<br /><br />☆ Breakfast ☆ Peanut Butter and Jelly Oats Bar ☆ <br />1.5 cup of rolled oats<br />200-250g of Peanut Butter (Depends on how much peanut butter you like)<br />1 cup of Almond Milk<br />3-5 Tablespoons of Maple Syrup. 3 Tablespoons may not be sweet enough for some! :D<br />1 teaspoon of Cinnamon Powder<br />1/8 Teaspoon of salt if your peanut butter doesn't have any added salt<br />140g of Strawberry/Grape/Blueberry Jam<br />1 egg<br />1/2 teaspoon of Baking Powder<br /><br />(I've also excluded coconut oil in this recipe. You can add a tablespoon if you wish to)<br /><br />Mix all the wet ingredients together then add the dry ingredients. Mix it well and pour it in a tin. Then add some jam! You can add as much jam as you like, or as little as you like.<br /><br />☆ Lunch ☆  Tuna Salad - $2 per serving ☆ <br />1 can of chickpeas<br />2-3 Capsicums (Bell Peppers)<br />2 Carrots<br />Tomatoes<br />Sundried Tomatoes<br />1 can of Tuna (450g)<br />Salt<br />Pepper<br />Paprika<br />Olive oil<br /><br />Mix tuna with two tablespoons of olive oil, some salt, pepper and paprika. I added quite a lot of paprika cause I like it. Adjust to you liking!<br /><br />Sundried tomatoes is the key for this meal (IMO). The salad is super tasty with it but sundried tomatoes are not the cheapest option. I would be using some sort of dressings I didn't add that so it's fine! :)<br /><br />☆ Dinner ☆  Chicken and Rice - Less than $2 per serving ☆ <br />Cook a cup of brown rice with 2 cups of water for around 30 minutes<br /><br />For the chicken part:<br />800g of Chicken Thigh<br />1/2 An onion<br />2 cloves of garlic<br />Paprika<br />Cayenne Pepper<br />Oregano<br />Salt<br />Pepper<br /><br />Cook the onions and garlics first. Add some paprika and cayenne pepper. Then add the chicken! Now add more paprika if you wish to, oregano, salt and pepper. I just eyeball it. It doesn't have to be super precise. <br /><br />Once the chicken is nice and brown, add a can of tomatoes. Then let it cook for around 30 minutes for the liquid to evaporate. <br /><br />Cook some broccoli in the mean time! You can boil or stir fry it. <br /><br />Wearing Gymshark Flex range in my thumbnail:<br /><a rel="nofollow" target="blank" href="http://gym.sh/Shop-Chloe-Ting">http://gym.sh/Shop-Chloe-Ting</a>{% endraw %}
