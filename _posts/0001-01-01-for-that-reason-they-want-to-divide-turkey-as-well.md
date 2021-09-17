@@ -1,0 +1,15 @@
+---
+title: "For that reason they want to divide Turkey as well"
+image: "https:\/\/i.ytimg.com\/vi\/FUJ9WbxjgY8\/hqdefault.jpg"
+vid_id: "FUJ9WbxjgY8"
+categories: "Nonprofits-Activism"
+tags: ["AdnanOktar","TVKayseriSamsunAks100915","armagedon"]
+date: "2021-09-17T10:46:29+03:00"
+vid_date: "2010-11-10T15:04:16Z"
+duration: "PT1M57S"
+viewcount: "262"
+likeCount: "1"
+dislikeCount: "0"
+channel: "Kamui915"
+---
+{% raw %}They know that for Armageddon to be realized, they definitely have to hinder the establishment of Turkish-Islamic Union. For that reason they want to divide Turkey as well.<br /><br /><br /><br />Excerpt from Live Interview with Mr. Adnan Oktar by Tv Kayseri and Samsun Aks Tv (15 September 2010)<br /><br /><br /><br />ADNAN OKTAR: My brother, why are those men obsessed with dividing Turkey? I mean I don't understand what is it that would make them relieved in that? Not into one or two; they want to divide into 22; right into 22. What is this? What is their problem? What will they attain by that? <br /><br />Let's assume, may Allah forbid, that has happened; which organs of these people will cool down? Is it their ears, napes, necks? I do not understand the pain in which part of them would be relieved by that. Isn't this evident that this would be a disaster? <br /><br />OKTAR BABUNA: It is very clear. You stated that, &quot;Division would definitely bring forth invasion.&quot; <br /><br />ADNAN OKTAR: My brother, first of all, we are talking about the Turkish-Islamic Union, and that man talks about being divided. I mean he talks about just the opposite of it. They should come to their senses. What is the way of preventing the Turkish-Islamic Union? Since it wouldn't be maintaining the current situation; they say, &quot;If we divide, the way to the Turkish-Islamic Union will be fully closed.&quot; I mean, that is the solution they come up with. May Allah forbid. The Ottomans was a tiny principality in the beginning, right? That region Osman Ghazi had. What did he do? He founded the enormous Ottoman Empire. This is not a solution either. Therefore they would better put an end to it. Such a mindset is unacceptable. The Turkish-Islamic Union is a destiny, it is predestined by Allah. It will definitely be realized. They have taken some of the academicians, some of the politicians and many other people under their sway; this is the agenda of all Europe. They fearfully say, &quot;Do not let them establish the Turkish-Islamic Union.&quot; That is because once the Turkish-Islamic Union is established, the possibility of the realization of Armageddon would disappear. Once the possibility of the realization of Armageddon vanishes, people will no longer have respect for the Gospel and once they lose their respect for the Gospel, their system will be destroyed. So what should they do? For the realization of Armageddon, they definitely have to hinder the establishment of the Turkish-Islamic Union.  That is because, it is only the Turkish-Islamic Union that will put an end to this bloody war insha'Allah{% endraw %}
