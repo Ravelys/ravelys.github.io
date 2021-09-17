@@ -1,0 +1,15 @@
+---
+title: "Kids vocabulary - [Old] Jobs - Let's learn about jobs - Learn English for kids"
+image: "https:\/\/i.ytimg.com\/vi\/R69YKFmlcnA\/hqdefault.jpg"
+vid_id: "R69YKFmlcnA"
+categories: "Education"
+tags: ["English Singsing","English singing","ESL program"]
+date: "2021-09-18T00:24:51+03:00"
+vid_date: "2016-07-20T23:56:03Z"
+duration: "PT6M46S"
+viewcount: "2098682"
+likeCount: "13794"
+dislikeCount: "1671"
+channel: "English Singsing"
+---
+{% raw %}★ NOTICE: A new version of this video has been uploaded. <br />If you want to watch [NEW] Kids Vocabulary - Jobs, click on the link down below! <br />[NEW] Kids Vocabulary - Jobs: <a rel="nofollow" target="blank" href="https://bit.ly/2SFKCeJ">https://bit.ly/2SFKCeJ</a><br />We have changed the sentence &quot;Where do you work at?&quot; to &quot;Where do you work?&quot; after receiving feedback. <br />Have fun learning English with the new video!<br /><br />★ Subscribe us on YouTube: <a rel="nofollow" target="blank" href="http://goo.gl/gDa963">http://goo.gl/gDa963</a><br /><br /><br />-- Title: Job --<br /><br />Whose tools are these?<br />artist<br />artist<br />Where do you work at?<br />I work in a studio.<br />studio<br /><br />Whose tools are these?<br />carpenter<br />carpenter<br />Where do you work at?<br />I work in a carpenter’s shop.<br />carpenter’s shop<br /><br />Whose tools are these?<br />cook<br />cook<br />Where do you work at?<br />I work in a restaurant.<br />restaurant<br /><br />Whose tools are these?<br />doctor<br />doctor<br />Where do you work at?<br />I work in a hospital.<br />hospital<br /><br />Whose tools are these?<br />engineer<br />engineer<br />Where do you work at?<br />I work in a factory.<br />factory<br /><br />Whose tools are these?<br />farmer<br />farmer<br />Where do you work at?<br />I work in a farm.<br />farm<br /><br />Whose tools are these?<br />firefighter<br />firefighter<br />Where do you work at?<br />I work in a fire station.<br />fire station<br /><br />Whose tools are these?<br />hairdresser<br />hairdresser<br />Where do you work at?<br />I work in a salon.<br />salon<br /><br />Whose tools are these?<br />pilot<br />pilot<br />Where do you work at?<br />I work in an airplane.<br />airplane<br /><br />Whose tools are these?<br />police officer<br />police officer<br />Where do you work at?<br />I work in a police station.<br />police station<br /><br />Whose tools are these?<br />scientist<br />scientist<br />Where do you work at?<br />I work in a science lab.<br />science lab<br /><br />Whose tools are these?<br />singer<br />singer<br />Where do you work at?<br />I work in a broadcasting station.<br />broadcasting station<br /><br />Whose tools are these?<br />teacher<br />teacher<br />Where do you work at?<br />I work in a school.<br />school<br /><br />Whose tools are these?<br />vet<br />vet<br />Where do you work at?<br />I work in an animal hospital.<br />animal hospital<br /><br /><br />Thanks for checking out the &quot;English Singsing&quot;.<br />© Amanta Inc.{% endraw %}
