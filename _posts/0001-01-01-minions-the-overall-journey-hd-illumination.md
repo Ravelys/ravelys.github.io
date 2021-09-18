@@ -1,0 +1,15 @@
+---
+title: "Minions | The Overall Journey (HD) | Illumination"
+image: "https:\/\/i.ytimg.com\/vi\/gmESgyBQ6Bk\/hqdefault.jpg"
+vid_id: "gmESgyBQ6Bk"
+categories: "Film-Animation"
+tags: ["minions","illumination","illumination entertainment"]
+date: "2021-09-18T12:33:47+03:00"
+vid_date: "2014-12-17T16:59:40Z"
+duration: "PT1M41S"
+viewcount: "13429481"
+likeCount: "31121"
+dislikeCount: "9978"
+channel: "Illumination"
+---
+{% raw %}Minions find New York – and their new look!<br /><br />Subscribe to Illumination: <a rel="nofollow" target="blank" href="https://www.youtube.com/illumination">https://www.youtube.com/illumination</a><br /><br />#Minions #Illumination<br /><br />About Minions:<br />Evolving from single-celled yellow organisms at the dawn of time, Minions live to serve, but find themselves working for a continual series of unsuccessful masters, from T. Rex to Napoleon. Without a master to grovel for, the Minions fall into a deep depression. But one minion, Kevin, has a plan; accompanied by his pals Stuart and Bob, Kevin sets forth to find a new evil boss for his brethren to follow. Their search leads them to Scarlet Overkill, the world's first-ever super-villainess.<br /><br />Follow Minions on TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/Minions">https://twitter.com/Minions</a><br />Like Minions on FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/minions">https://www.facebook.com/minions</a><br />Check out Minions on INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/minionnation">https://www.instagram.com/minionnation</a><br /><br />About Illumination:<br />ILLUMINATION, founded by Academy Award® nominee Chris Meledandri in 2007, is one of the entertainment industry's leading producers of event-animated films and home to the highest grossing animated franchise in the world. Its iconic, beloved brands including DESPICABLE ME, THE SECRET LIFE OF PETS and SING - infused with memorable and distinct characters, global appeal and cultural relevance - have grossed more than $6.6 billion worldwide. ILLUMINATION was honored by Fast Company as one of the World's Most Innovative Companies.<br /><br />In 2017, DESPICABLE ME 3 grossed over $1 billion worldwide and broke the record for opening weekend and single-day gross in China. Next summer, ILLUMINATION will release the follow-up to the third-highest grossing animated film of all time worldwide with MINIONS: THE RISE OF GRU.<br /><br />Like Illumination on FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/illuminationent">https://www.facebook.com/illuminationent</a><br />Check out Illumination on INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/illuminationent">https://www.instagram.com/illuminationent</a><br /><br />Minions | The Overall Journey (HD) | Illumination<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/illumination">https://www.youtube.com/illumination</a>{% endraw %}
