@@ -1,0 +1,15 @@
+---
+title: "Céline Dion - A New Day Has Come (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/NaGLVS5b_ZY\/hqdefault.jpg"
+vid_id: "NaGLVS5b_ZY"
+categories: "Music"
+tags: ["Courage World Tour","Carpool Karaoke","Celine"]
+date: "2021-09-18T04:16:59+03:00"
+vid_date: "2009-10-25T06:48:36Z"
+duration: "PT4M19S"
+viewcount: "179022455"
+likeCount: "633695"
+dislikeCount: "32630"
+channel: "CelineDionVEVO"
+---
+{% raw %}Celine Dion - A New Day Has Come (Official Video)<br />Listen on Spotify:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_Spotify_EN">http://smarturl.it/Celine_Spotify_EN</a> <br />Listen on Apple Music:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_AM_EN">http://smarturl.it/Celine_AM_EN</a> <br />Amazon:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_Amazon_EN">http://smarturl.it/Celine_Amazon_EN</a> <br />Listen on Deezer:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_Deezer">http://smarturl.it/Celine_Deezer</a><br />Listen on YouTube Music:  <a rel="nofollow" target="blank" href="http://smarturl.it/Celine_YTM">http://smarturl.it/Celine_YTM</a> <br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/celinedion">https://www.facebook.com/celinedion</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/celinedion">https://twitter.com/celinedion</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/celinedion">https://www.instagram.com/celinedion</a> <br /><br />Lyrics:<br /><br />A new day<br />A new day<br /><br />I was waiting for so long<br />For a miracle to come<br />Everyone told me to be strong<br />Hold on and don't shed a tear<br />Through the darkness and good times<br />I knew I'd make it through<br />And the world thought I had it all<br />But I was waiting for you<br /><br />(Hush, love)<br />I see a light in the sky<br />Oh, it's almost blinding me<br />I can't believe<br />I've been touched by an angel with love<br /><br />Let the rain come down and wash away my tears<br />Let it fill my soul and drown my fears<br />Let it shatter the walls for a new sun<br />(A new day has come)<br /><br />Where it was dark, now there’s light<br />Where there was pain, now there's joy<br />Where there was weakness, I found my strength<br />All in the eyes of a boy<br /><br />(Hush, love)<br />I see a light in the sky<br />Oh, it's almost blinding me<br />I can't believe<br />I've been touched by an angel with love<br /><br />Let the rain come down and wash away my tears<br />Let it fill my soul and drown my fears<br />Let it shatter the walls for a new sun<br />A new day has...<br /><br />Let the rain come down and wash away my tears<br />Let it fill my soul and drown my fears<br />Let it shatter the walls for a new sun<br />A new day has come<br /><br />Hush, now, I see a light in your eyes<br />All in the eyes of a boy<br />I can't believe I’ve been touched<br />By an angel<br />I can't believe I’ve been touched<br />By an angel with love<br />Oh<br /><br />Hush, now<br />A new day<br />Hush, now<br />A new day{% endraw %}
