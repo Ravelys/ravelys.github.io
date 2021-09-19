@@ -1,0 +1,15 @@
+---
+title: "Parts Of A Plant | The Dr. Binocs Show | Learn Videos For Kids"
+image: "https:\/\/i.ytimg.com\/vi\/p3St51F4kE8\/hqdefault.jpg"
+vid_id: "p3St51F4kE8"
+categories: "Education"
+tags: ["parts of a plant","learn about the parts of a plant","leaf"]
+date: "2021-09-19T07:16:07+03:00"
+vid_date: "2015-03-25T13:56:04Z"
+duration: "PT3M14S"
+viewcount: "3023743"
+likeCount: "16218"
+dislikeCount: "1867"
+channel: "Peekaboo Kidz"
+---
+{% raw %}Learn about the Parts Of A Plant with Dr. Binocs.<br /><br />Did you know that plants are very similar to human beings? Join Dr. Binocs as he Zooms In on different parts of a plant and explains their functions.<br /><br />Share on Facebook - <a rel="nofollow" target="blank" href="http://goo.gl/7S8fHx">http://goo.gl/7S8fHx</a><br />Tweet about this - <a rel="nofollow" target="blank" href="http://goo.gl/xqdnTI">http://goo.gl/xqdnTI</a><br /><br />Catch More Of Dr.Binocs - <a rel="nofollow" target="blank" href="https://goo.gl/SXhLmc">https://goo.gl/SXhLmc</a><br /><br />To Watch Popular Nursery Rhymes Go To - <a rel="nofollow" target="blank" href="https://goo.gl/CV0Xoo">https://goo.gl/CV0Xoo</a><br /><br />To Watch Alphabet Rhymes Go To - <a rel="nofollow" target="blank" href="https://goo.gl/qmIRLv">https://goo.gl/qmIRLv</a><br /><br />To Watch Compilations Go To - <a rel="nofollow" target="blank" href="https://goo.gl/nW3kw9">https://goo.gl/nW3kw9</a><br /><br />Watch Popular Nursery Rhymes with Lyrics - <a rel="nofollow" target="blank" href="https://goo.gl/A7kEmO">https://goo.gl/A7kEmO</a><br /><br />Subscribe : <a rel="nofollow" target="blank" href="http://www.youtube.com/subscription_center?add_user=peekaboo">http://www.youtube.com/subscription_center?add_user=peekaboo</a><br /><br /><br /><br />Voice-Over Artist: Joseph D'Souza<br />Script Writer: Sreejoni Nag<br />Background Score: Agnel Roman<br />Sound Engineer: Mayur Bakshi<br />Animation: Qanka Animation Studio<br />Creative Team (Rajshri): Kavya Krishnaswamy, Alisha Baghel, Sreejoni Nag<br />Producer: Rajjat A. Barjatya<br />Copyrights and Publishing: Rajshri Entertainment Private Limited<br />All rights reserved.<br /><br />SUBSCRIBE to Peekaboo Kidz:<a rel="nofollow" target="blank" href="http://bit.ly/SubscribeTo-Peekabookidz">http://bit.ly/SubscribeTo-Peekabookidz</a> <br /><br />Catch Dr.Binocs At - <a rel="nofollow" target="blank" href="https://goo.gl/SXhLmc">https://goo.gl/SXhLmc</a><br /><br />To Watch More Popular Nursery Rhymes Go To - <a rel="nofollow" target="blank" href="https://goo.gl/CV0Xoo">https://goo.gl/CV0Xoo</a><br /><br />To Watch Alphabet Rhymes Go To - <a rel="nofollow" target="blank" href="https://goo.gl/qmIRLv">https://goo.gl/qmIRLv</a><br /><br />To Watch Compilations Go To - <a rel="nofollow" target="blank" href="https://goo.gl/nW3kw9">https://goo.gl/nW3kw9</a><br /><br />Catch More Lyricals At - <a rel="nofollow" target="blank" href="https://goo.gl/A7kEmO">https://goo.gl/A7kEmO</a><br /><br />Like our Facebook page: <a rel="nofollow" target="blank" href="https://www.facebook.com/peekabootv">https://www.facebook.com/peekabootv</a>{% endraw %}
