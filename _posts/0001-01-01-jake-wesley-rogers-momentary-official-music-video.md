@@ -1,0 +1,15 @@
+---
+title: "Jake Wesley Rogers - Momentary (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/OPpBTIHE5to\/hqdefault.jpg"
+vid_id: "OPpBTIHE5to"
+categories: "Music"
+tags: ["jake wesley rogers","jake rogers","middle of love"]
+date: "2021-09-20T16:33:36+03:00"
+vid_date: "2021-06-04T04:00:11Z"
+duration: "PT3M55S"
+viewcount: "118658"
+likeCount: "1828"
+dislikeCount: "20"
+channel: "Jake Wesley Rogers"
+---
+{% raw %}Stream/save my new song Momentary 🖤: <a rel="nofollow" target="blank" href="https://jakewesleyrogers.lnk.to/momentary">https://jakewesleyrogers.lnk.to/momentary</a><br /><br />Follow me:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/jakewesleyrogers/">https://www.instagram.com/jakewesleyrogers/</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@jakewesleyrogers/">https://www.tiktok.com/@jakewesleyrogers/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/jakewrogers">https://twitter.com/jakewrogers</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/jakewesleyrogers/">http://facebook.com/jakewesleyrogers/</a><br /><br />Credits:<br />Director:  Se Oh <br />Producer: John Curtis<br />Director of Photography:  Kai Krause<br />Editor: Se Oh<br />Production Company: SAMACAN LLC<br /><br />Lyrics: <br />Welcome home, Peter Pan, you’re a man<br />Thought you said that you can’t grow old<br />Isn’t it a luxury?<br /><br />Rest in peace, Marsha P., Harvey Milk, Oscar Wilde<br />Sorry that you can’t grow old<br />Such a fucking tragedy<br /><br />I suppose the yellow brick road<br />Is easier to navigate than it’s ever been before<br />I feel like the red finish line<br />Keeps getting pushed back every time I learn a little bit more<br /><br />I thought that truth would set me free<br />But it was momentary<br /><br />Na na na na<br />Na na na na<br />Na na na na<br />It was momentary<br /><br />Welcome home, Icarus, blow a kiss<br />Thank god you wanted me more than the sun<br />It’s so romantic<br /><br />I guess we could assimilate, play it safe, married, kids<br />But that’s not what we want<br />It’s just a habit<br /><br />I suppose the yellow brick road<br />Is easier to navigate than it’s ever been before<br />I feel like the red finish line<br />Keeps getting pushed back every time I learn a little bit more<br /><br />I thought that love would set me free<br />But it was momentary<br /><br />Na na na na<br />Na na na na<br />Na na na na<br />It was momentary<br />Na na na na<br />Na na na na<br />Na na na na<br />It was momentary<br /><br />I thought that love would set me free<br />Set me free<br />But it was momentary<br />I thought that love would set me free<br />Set me free<br />But it was momentary<br /><br />Welcome home, I miss you, I love you<br />Wonder if they’re playing Elvis in heaven<br /><br />I thought that peace would set me free<br />But it was momentary<br /><br />#JakeWesleyRogers #Momentary{% endraw %}
