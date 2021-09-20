@@ -1,0 +1,15 @@
+---
+title: "20.09 Gruby na slottach! Start 2.000!"
+image: "https:\/\/i.ytimg.com\/vi\/mB27KYdBhcs\/hqdefault.jpg"
+vid_id: "mB27KYdBhcs"
+categories: "Entertainment"
+tags: ["20.09","Gruby","slottach!"]
+date: "2021-09-21T01:50:45+03:00"
+vid_date: "2021-09-20T17:24:25Z"
+duration: "PT3H7M31S"
+viewcount: "12746"
+likeCount: "1195"
+dislikeCount: "24"
+channel: "HOMES W KASYNIE 2"
+---
+{% raw %}UWAGA!!!<br />KANAL PRZEZNACZONY DLA WIDZOW DOROSŁYCH<br />POJAWIAJA SIE W NIM! HAZARD, ALKOHOL I WULGARNY JEZYK!<br /><br />REGULAMIN:<br /><br />Zasady loterii:<br />Loteria odpalana jest przy trafieniu bonusa.<br />Gdy Homes uruchomi komendę !loteria  , uruchamia się Ambasador Rumcajs, który odpala loterię, wtedy wpisujemy !join i czekamy na wygraną. Wygrywają 3 osoby. Wpisujemy tylko raz, bo raz można wygrać. Loteria trwa 1 min<br /><br />Zasady Łapanie skrzynek:<br />Skrzynki łapiemy, gdy, jest duża wygrana.<br />Gdy Homes uruchomi komendę !start , uruchamia się Ambasador Rumcajs, który odpala łapanie skrzynek, wtedy wpisujemy !skrzynka i czekamy na odpowiedź Rumcajsa. Wpisujemy tylko raz, bo raz można wygrać !<br /><br />Zasady sprawdzania ilości butelek i czasu:<br />Po wpisaniu komendy !butelki, Ambasador Rumcajs ukazuje nam ilość przesiedzianych godzin na streamie oraz ilość butelek. Sprawdzanie działa co 20 min<br /><br />Zasady grania w ruletkę:<br />Po wpisaniu komendy !ruletka [ilość butelek] lub !ruletka all wchodzimy do gry o butelki. Ruletką można kręcić co 20min. Sezon trwa miesiąc. Każdy sezon zaczyna się od 0 butelek na koncie<br /><br />Co jest do wygrania:<br />10 Dnia kazdego miesiaca  5 osob ktore zebraly najwiecej butelek otrzymuja odemnie butelke dobrego alkocholu!<br />Dodatkowa kazda osoba ktora oglada mnie przez 100h rowniez ma gwarantowana BUTELKE!<br /><br />Odpowiedzi na częste pytania:<br />·        Temperatura u Homesa : +30 Caly rok, czy lato czy zima<br />·        Godzina pokazana jest w lewym dolnym rogu.<br />·        Pytania o Bitcoin tylko w basenie albo na google<br />·        Gdy Wagerujemy bonus, możemy wypłacić kasę, gdy nie ruszymy kręconego bonusu inaczej musimy zwagerować całość.<br />·        Zajmuję się przeprowadzaniem staruszek przez pasy ! TO JEST GŁÓWNY ZAROBEK<br />·        Maszynki to rozrywka nie zarobek<br />·        Pierdole te pociągi ! :D<br />·        Top 10 pokazywane zawsze na koniec transmisji<br />·        Przyjechać można jak otworza granice.<br />·        Streamy PONIEDZIALEK, SRODA, CZWARTEK, SOBOTA od 16;00<br /><br />Regulamin:<br />Bana można dostać, za notoryczne wyzywanie, kręcenie afery itp.<br />Bana wyłapiemy, gdy spamujemy komendę !join przed uruchomieniem Loterii lub skrzynek przed Ambasadorem :D<br />Przedewsszyskitm: Ogarnięcie i dystans i dobra zabawa KURWYYYYYY<br /><br />Moderatorzy:<br />Jacek Nasus<br />Bam Bucza<br />Dj Mci<br />Robert Pawłowski i inni<br />Podoba Ci się muzyka na live ? !muza – link do muzyki, którą robi DJ Mci !<br /><br />RESZTE PYTAŃ DO MODERATORÓW LUB PRÓBOWAĆ ŁAPAĆ HOMESA NA CZACIE !{% endraw %}
