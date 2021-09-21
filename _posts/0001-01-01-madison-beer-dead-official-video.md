@@ -1,0 +1,15 @@
+---
+title: "Madison Beer - Dead (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/_564q9Bwjuc\/hqdefault.jpg"
+vid_id: "_564q9Bwjuc"
+categories: "Music"
+tags: ["Madison","Beer","Dead"]
+date: "2021-09-21T03:46:24+03:00"
+vid_date: "2017-08-03T09:00:03Z"
+duration: "PT3M13S"
+viewcount: "37612573"
+likeCount: "600211"
+dislikeCount: "23252"
+channel: "MadisonBeerMusicVEVO"
+---
+{% raw %}Stream or Download 'Dead' via Spotify, Apple Music or your favourite local service - <a rel="nofollow" target="blank" href="https://madison.lnk.to/deadID">https://madison.lnk.to/deadID</a><br /><br />Dead is new single from Madison Beer. Follow Madison on Instagram at <a rel="nofollow" target="blank" href="https://www.instagram.com/madisonbeer,">https://www.instagram.com/madisonbeer,</a> &amp; Twitter at <a rel="nofollow" target="blank" href="https://twitter.com/madisonbeer.">https://twitter.com/madisonbeer.</a><br /><br />Lyrics:<br />You could be here, but you're there<br />You could be anywhere and these days I don't even care no more<br />You only be showing me love whenever you've had too much<br />Whatever's been filling your cup, no more<br /><br />Baby, no more showing up when you're not sober<br />At my front door just to say you're alone tonight<br />Yeah, tryna fuck me and my mind up<br />It's a reminder you're a liar and you know I'm right<br /><br />You say you can't live without me<br />So why aren't you dead yet?<br />Why you still breathing? (why, why?)<br />And if you say you can't live without me<br />Then why aren't you dead yet?<br />Why do you say that?<br /><br />You could be here but you're not, I give whatever you want<br />But you just take it and run, you run (oh run, run)<br />And I give you so many shots but you just drinking 'em all<br />You never give it a thought, oh love (yeah)<br />Baby, no more showing up when you're not sober (sober)<br />At my front door just to say you're alone tonight (alone tonight)<br />Yeah, tryna fuck me and my mind up<br />It's a reminder you're a liar and you know I'm right<br /><br />You say you can't live without me<br />So why aren't you dead yet?<br />Why you still breathing? (why, why?)<br />If you say you can't live without me<br />Then why aren't you dead yet?<br />Why do you say that?<br /><br />Why, why, why, why?<br />Why, why, why, why?<br />Why, why, why, why?<br />Why aren't you dead yet?<br /><br />Be careful what you say<br />Say only what you mean<br />Mean to me then you're nice<br />You're nice, you're nice<br />It's nice to know you now<br />Now that it all went down<br />Down on your knees you cry<br />You cry, you cry, yeah<br />You say you can't live without me<br />So why aren't you dead yet?<br />Why you still breathing? (why, why?)<br />And you say you can't live without me<br />Then why aren't you dead yet?<br />Why do you say that?<br /><br />Why, why, why, why?<br />Why, why, why, why?<br />Why, why, why, why?<br />Why aren't you dead yet?<br />Why, why, why, why?<br />Why<br />Why aren't you dead yet?<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/U7uv3J">http://vevo.ly/U7uv3J</a>{% endraw %}
