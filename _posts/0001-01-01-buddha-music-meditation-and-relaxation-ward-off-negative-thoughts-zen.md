@@ -1,0 +1,15 @@
+---
+title: "Buddha Music | Meditation and Relaxation | Ward Off Negative Thoughts  | Zen Invocation"
+image: "https:\/\/i.ytimg.com\/vi\/ZkwQ_lOET-s\/hqdefault.jpg"
+vid_id: "ZkwQ_lOET-s"
+categories: "Music"
+tags: ["zen","musicalyzen","musicoterapia"]
+date: "2021-09-21T21:53:30+03:00"
+vid_date: "2021-09-20T14:00:12Z"
+duration: "PT3H45M1S"
+viewcount: "8518"
+likeCount: "571"
+dislikeCount: "8"
+channel: "MusicallyZen - Meditation & Mantras"
+---
+{% raw %}✨ Greatest buddha music, meditation and relaxation, ward off negative thoughts, zen invocation.<br />✨ Music set to clear the mind and feel the clarity of your body, raise the vibration imagining all your spirituality expanding with your greatest desire.<br /><br />🙏 Have a happy meditation! 🙏<br />..................................................<br /><br />🟢 LISTEN AND DOWNLOAD OUR MUSIC ON SPOTIFY! 👉 <a rel="nofollow" target="blank" href="https://spoti.fi/3jSTjQV">https://spoti.fi/3jSTjQV</a><br />✨ FOLLOW US ON OUR SOCIAL NETWORKS ✨<br />👉 Instagram: <a rel="nofollow" target="blank" href="https://n9.cl/zdz4">https://n9.cl/zdz4</a><br />👉 Facebook: <a rel="nofollow" target="blank" href="https://n9.cl/8lt6k">https://n9.cl/8lt6k</a><br />....................................................<br />💖 MusicallyZen 💖<br />💜 We are Creators of Healing music. Since millions of years the Human Being is in search of what is the soul, the macrocosm, microcosm, nature, God and all his religions with which we seek Love and inner Peace.<br />Show Mission in Musicalyzen is, through Music, that you reach your Soul, that each sound illuminates your days, that each note expresses a reflection, that with each chord your soul speaks with your own love.<br /><br />☸ Our commitment is to provide you with high quality videos and 100% original Music created by a team of professionals in Graphic Design and Recording Studios with Traditional instruments that reflect the Melodies of each style and spiritual frequencies that harmonize our Being.<br /><br />🎶 The audios are compositions for Meditations, Mantras, Zen Music, Music for relaxation, Guided Meditations, Hindu Music, Tibetan Music, Yoga Music, Reiki Music and Akashic Records, so that each style deepens you to the maximum expression of the Temple of God in Your Heart.<br /><br />💞 SUBSCRIBE TO OUR CHANNEL - IT'S FREE 💖 <a rel="nofollow" target="blank" href="https://bit.ly/2xPMbze">https://bit.ly/2xPMbze</a><br /><br />💞 Subscribe to the Channel, you are contributing to a greater awakening of consciousness to humanity vibrating in the same harmony of love and peace.<br />.................................................. ..................<br />ABOUT THIS VIDEO:<br />© The music is a 100% original creation made by Hernán Valencia and Gabriel Picone with a special production by MusicallyZen YouTube Channel entitled &quot;Zen Expansion&quot;.<br />Graphic elements, images and effects were created by The MusicallyZen Team.<br />Its reuse is prohibited.{% endraw %}
