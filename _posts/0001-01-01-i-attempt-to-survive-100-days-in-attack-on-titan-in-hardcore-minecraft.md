@@ -1,0 +1,15 @@
+---
+title: "I Attempt to Survive 100 Days in Attack on Titan in Hardcore Minecraft... Here's What Happened!"
+image: "https:\/\/i.ytimg.com\/vi\/t57Cbi6TW8o\/hqdefault.jpg"
+vid_id: "t57Cbi6TW8o"
+categories: "Gaming"
+tags: ["attack on titan","shingeki no kyojin 100 days","attack on titan season 4"]
+date: "2021-09-21T19:03:35+03:00"
+vid_date: "2021-09-16T15:30:14Z"
+duration: "PT38M7S"
+viewcount: "278870"
+likeCount: "13379"
+dislikeCount: "201"
+channel: "ButterJaffa"
+---
+{% raw %}Download Monster Legends now and get this special reward for free until September 26th! <br /><a rel="nofollow" target="blank" href="https://bit.ly/3E7GdqN">https://bit.ly/3E7GdqN</a><br /><br />Hey Guys and welcome to another 100 days in Minecraft... this time we survive in the world of Attack on Titan, not just that but we also must try and become the most powerful Titan Shifter in the world... will we be able to defeat all titans in our way and become the Colossal Titan? Find out right now... So like always, with all that out of the way, sit back, relax and &quot;hopefully&quot; enjoy the video!!!<br /><br />#MinecraftAoT #Minecraft100Days #AttackOnTitan100Days<br /><br />Follow me on Twitter &amp; Instagram for Extras<br />Instagram: @ButterJaffa<br />Twitter: @ButterJaffa<br />TikTok: @NotButterJaffa<br />Discord: <a rel="nofollow" target="blank" href="https://discord.gg/hZC6sWvT">https://discord.gg/hZC6sWvT</a><br />2nd Channel: @ButterJaffa Lives &amp; Shorts <br /><br />Attack On Titan 100 Days - Challenge [Modpack]:<br /><a rel="nofollow" target="blank" href="https://www.mediafire.com/file/omsf1nbz75kssqr/Attack+on+Minecraft+-+100+Days-v1.0.zip/file">https://www.mediafire.com/file/omsf1nbz75kssqr/Attack+on+Minecraft+-+100+Days-v1.0.zip/file</a><br /><br />Datapacks:<br />Titan Shifter - &quot;Found on Origin Discord&quot;<br />AoT Gear - <a rel="nofollow" target="blank" href="https://www.planetminecraft.com/data-pack/attack-on-titan-datapack-3d-maneuver-gear/">https://www.planetminecraft.com/data-pack/attack-on-titan-datapack-3d-maneuver-gear/</a><br /><br />Be sure to check out our MERCH!!<br /><a rel="nofollow" target="blank" href="https://linktr.ee/butterjaffamerch">https://linktr.ee/butterjaffamerch</a><br /><br />If you enjoyed this video be sure to hit that THUMBS UP, also be sure to SUBSCRIBE for more content from me!!!<br /><br />Why not Subscribe... well only if you feel like it: <a rel="nofollow" target="blank" href="http://www.youtube.com/user/ButterJaffa?sub_confirmation=1">http://www.youtube.com/user/ButterJaffa?sub_confirmation=1</a><br /><br />Extra Music Infomation:<br />&quot;All Music in this video wasn't made by me, instead the companies posting said music... all rights for those tracks belong to those companies&quot;<br /><br />Background Music Artist: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCBdsq_zunOyIvBbY6zpwRvw">https://www.youtube.com/channel/UCBdsq_zunOyIvBbY6zpwRvw</a><br /><br />Do not steal this video.<br />#ButterJaffa{% endraw %}
