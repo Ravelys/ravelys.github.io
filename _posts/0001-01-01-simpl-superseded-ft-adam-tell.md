@@ -1,0 +1,15 @@
+---
+title: "Simplí - Superseded (ft. Adam Tell)"
+image: "https:\/\/i.ytimg.com\/vi\/IwMzfDFz444\/hqdefault.jpg"
+vid_id: "IwMzfDFz444"
+categories: "Music"
+tags: ["ENM","EpicNetworkMusic","Epic"]
+date: "2021-09-22T23:08:36+03:00"
+vid_date: "2015-10-12T22:53:15Z"
+duration: "PT4M2S"
+viewcount: "341498"
+likeCount: "4231"
+dislikeCount: "56"
+channel: "ENM"
+---
+{% raw %}Support on iTunes: <a rel="nofollow" target="blank" href="http://enm.link/1G95IYV">http://enm.link/1G95IYV</a><br />Support on Beatport: <a rel="nofollow" target="blank" href="http://enm.link/1hIlG00">http://enm.link/1hIlG00</a><br />Support on Amazon: <a rel="nofollow" target="blank" href="http://enm.link/1VVMwzk">http://enm.link/1VVMwzk</a><br />Support on Google Play: <a rel="nofollow" target="blank" href="http://enm.link/1PlE4L3">http://enm.link/1PlE4L3</a><br /><br />Listen on Spotify: <a rel="nofollow" target="blank" href="http://enm.link/1RM3uQl">http://enm.link/1RM3uQl</a><br />Listen on Soundcloud: <a rel="nofollow" target="blank" href="http://enm.link/1jl63O6">http://enm.link/1jl63O6</a><br /><br />Listen to more on ENM Chill &amp; Relax playlist<br /><a rel="nofollow" target="blank" href="http://enm.link/ChillNRelax">http://enm.link/ChillNRelax</a><br /><br />► Simplí<br />FB: <a rel="nofollow" target="blank" href="http://facebook.com/simpliUK">http://facebook.com/simpliUK</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/simplimusic">http://twitter.com/simplimusic</a><br />Soundcloud: <a rel="nofollow" target="blank" href="http://soundcloud.com/simpli">http://soundcloud.com/simpli</a><br /><br />► Adam Tell<br />FB: <a rel="nofollow" target="blank" href="http://facebook.com/AdamTellMusic">http://facebook.com/AdamTellMusic</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/aTellTweets">http://twitter.com/aTellTweets</a><br />Soundcloud: <a rel="nofollow" target="blank" href="http://soundcloud.com/adam-tell">http://soundcloud.com/adam-tell</a><br /><br />► Janis<br />Patreon: <a rel="nofollow" target="blank" href="http://patreon.com/peachmaiden">http://patreon.com/peachmaiden</a><br />DeviantArt: <a rel="nofollow" target="blank" href="http://peachmaiden.deviantart.com/">http://peachmaiden.deviantart.com/</a><br /><br />► ENM - EpicNetworkMusic<br />FB: <a rel="nofollow" target="blank" href="http://facebook.com/epicnetworkmusic">http://facebook.com/epicnetworkmusic</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/epicnetwork">http://twitter.com/epicnetwork</a><br />Soundcloud: <a rel="nofollow" target="blank" href="http://soundcloud.com/enm">http://soundcloud.com/enm</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/enmofficial">http://instagram.com/enmofficial</a><br />Google+ <a rel="nofollow" target="blank" href="http://google.com/+EpicNetworkMusic">http://google.com/+EpicNetworkMusic</a><br /><br />ENM Art Originals by Tom Skender &amp; Nerior<br /><br />Find this artwork by Tom Skender on our Tumblr<br /><a rel="nofollow" target="blank" href="http://epicnetworkmusic.tumblr.com/">http://epicnetworkmusic.tumblr.com/</a>{% endraw %}
