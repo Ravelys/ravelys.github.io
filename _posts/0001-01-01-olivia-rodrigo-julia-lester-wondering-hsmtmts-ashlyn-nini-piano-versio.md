@@ -1,0 +1,15 @@
+---
+title: "Olivia Rodrigo, Julia Lester - Wondering (HSMTMTS | Ashlyn & Nini Piano Version | Disney+)"
+image: "https:\/\/i.ytimg.com\/vi\/Wc8008B4ENI\/hqdefault.jpg"
+vid_id: "Wc8008B4ENI"
+categories: "Music"
+tags: ["Olivia","Rodrigo","Julia"]
+date: "2021-09-23T08:42:41+03:00"
+vid_date: "2019-11-15T05:00:06Z"
+duration: "PT2M33S"
+viewcount: "12034435"
+likeCount: "200523"
+dislikeCount: "1689"
+channel: "DisneyMusicVEVO"
+---
+{% raw %}From the other side of all I've had and lost...would it be enough or would I still be wondering? 🎶 Watch Olivia Rodrigo (Nini) and Julia Lester (Ashlyn) perform “Wondering” in the official music video from High School Musical: The Musical: The Series!<br /><br />Stream High School Musical: The Musical: The Series only on Disney+.<br /> <br />Watch all High School Musical: The Musical: The Series music videos here:<br /><a rel="nofollow" target="blank" href="https://disneymusic.co/HSM/vevo?IQid=HSMTMTS">https://disneymusic.co/HSM/vevo?IQid=HSMTMTS</a><br /><br />&quot;Wondering&quot; sheet music: <a rel="nofollow" target="blank" href="https://www.musicnotes.com/l/MN0205651">https://www.musicnotes.com/l/MN0205651</a> <br />   <br />Disney+ is the only place to stream your favorites from Disney, Pixar, Marvel, Star Wars, National Geographic and more. Access it all at <a rel="nofollow" target="blank" href="https://disneymusic.co/JoinDisneyPlus?IQid=dmvevo.">https://disneymusic.co/JoinDisneyPlus?IQid=dmvevo.</a> Coming to UK, France, Germany, Italy, Spain, Austria and Switzerland on March 24, 2020.<br /><br />For more info: <br />Website: <a rel="nofollow" target="blank" href="https://disneyplus.com">https://disneyplus.com</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/DisneyPlus">https://www.instagram.com/DisneyPlus</a> and <a rel="nofollow" target="blank" href="https://www.instagram.com/highschoolmusicalseries">https://www.instagram.com/highschoolmusicalseries</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/DisneyPlus">https://twitter.com/DisneyPlus</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/DisneyPlus">https://www.facebook.com/DisneyPlus</a><br /><br />Subscribe to DisneyMusicVEVO: <a rel="nofollow" target="blank" href="https://disneymusic.co/disneymusicYT?IQid=hsmtmts">https://disneymusic.co/disneymusicYT?IQid=hsmtmts</a><br /><br />Follow Disney Music:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/disneymusic">https://www.instagram.com/disneymusic</a>  <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/disneymusic">https://twitter.com/disneymusic</a>  <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/disneymusic">https://www.facebook.com/disneymusic</a><br /><br />#HSMTMTS #Wondering<br /><br />Music video by Olivia Rodrigo, Julia Lester performing Wondering (HSMTMTS | Ashlyn &amp; Nini Piano Version | Disney+). © 2019 Walt Disney Records{% endraw %}
