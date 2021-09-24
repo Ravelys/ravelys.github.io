@@ -1,0 +1,15 @@
+---
+title: "The Training Tip that will EXPLODE Your Martial Arts Skills - DO THIS!"
+image: "https:\/\/i.ytimg.com\/vi\/cjQf2ZQYwEU\/hqdefault.jpg"
+vid_id: "cjQf2ZQYwEU"
+categories: "Sports"
+tags: ["kali stick fighting","escrima stick fighting","arnis stick fighting"]
+date: "2021-09-24T06:00:00+03:00"
+vid_date: "2021-09-23T13:31:06Z"
+duration: "PT12M"
+viewcount: "896"
+likeCount: "107"
+dislikeCount: "1"
+channel: "Kali Center"
+---
+{% raw %}Get the NEW Kali Apex training course here: <a rel="nofollow" target="blank" href="https://www.kaliapex.com/">https://www.kaliapex.com/</a><br /><br />For 1 on 1 Kali Coaching go here: <a rel="nofollow" target="blank" href="https://www.patreon.com/kalicenter">https://www.patreon.com/kalicenter</a><br />Make sure to download the Patreon app to keep Kali Apex in your pocket 24/7<br /><br />JOIN our YouTube Channel Membership Area and become a sponsor of the channel and receive access to many perks and exclusive videos and live-stream training classes, discounts on products, seminars and training camps and more! Join here!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCvpvytLAAvsxTMA-YtUAs5w/join">https://www.youtube.com/channel/UCvpvytLAAvsxTMA-YtUAs5w/join</a><br /><br />Purchase your Kali training gear here:<br /><a rel="nofollow" target="blank" href="https://trigonalgear.com/">https://trigonalgear.com/</a><br /><br />Join my Online School and train with me today at:<br /><a rel="nofollow" target="blank" href="https://www.kalicenter.training/">https://www.kalicenter.training/</a><br /><br />To purchase any of our beginners and advanced training courses, programs and DVD downloads go to:<br /><a rel="nofollow" target="blank" href="https://www.kalicenter.com/">https://www.kalicenter.com/</a><br /><br />Stay connected throughout our social media<br />Instagram: @kalicenter  <a rel="nofollow" target="blank" href="https://instagram.com/kalicenter">https://instagram.com/kalicenter</a><br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/kalicenter">https://facebook.com/kalicenter</a><br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/kalicenter">https://www.youtube.com/user/kalicenter</a><br />Website: <a rel="nofollow" target="blank" href="http://kalicenter.com/">http://kalicenter.com/</a><br /><br />*** *** *** *** *** ***<br />Subscribe to my New VLOG Channel here!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/gokottagardens">https://www.youtube.com/gokottagardens</a><br /><br />and Follow my new Vlog social media<br />Instagram: @gokottagardens <a rel="nofollow" target="blank" href="https://www.instagram.com/gokottagardens/">https://www.instagram.com/gokottagardens/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/gokottagardens">https://www.facebook.com/gokottagardens</a><br />Blog/Website: <a rel="nofollow" target="blank" href="https://www.gokottagardens.com/">https://www.gokottagardens.com/</a>{% endraw %}
