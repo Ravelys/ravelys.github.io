@@ -1,0 +1,15 @@
+---
+title: "LIVE: Specialized Dual Slalom Crankworx BC"
+image: "https:\/\/i.ytimg.com\/vi\/Sd-xdrpO9lU\/hqdefault.jpg"
+vid_id: "Sd-xdrpO9lU"
+categories: "Sports"
+tags: ["red bull","red bull bike","bike"]
+date: "2021-09-24T18:07:04+03:00"
+vid_date: "2021-09-23T20:27:43Z"
+duration: "PT1H42M55S"
+viewcount: "27000"
+likeCount: "1046"
+dislikeCount: "9"
+channel: "Red Bull Bike"
+---
+{% raw %}Watch the Specialized Dual Slalom LIVE from Sun Peaks, British Columbia for Crankworx BC 2021! <br /><br />This crowd-pleasing format pits two competitors against one another in a side-by-side battle against each other and the clock’s cruel hand as racers battle to avoid elimination. Riders take one run down each side of the course, with the fastest combined time taking the win. Each lap through the track raises the stakes and works up everyone’s appetite to win.<br /><br />September 22 – October 2, 2021, Crankworx B.C. will bring some of the world’s top pro riders together to compete at some of the province’s top mountain bike destinations. <br /><br />Crankworx B.C. is a pivot that will provide a temporary replacement for Crankworx Whistler in the Crankworx World Tour calendar in 2021. Crankworx Whistler and Red Bull Joyride is set to return to the Crankworx calendar in August 2022!<br /><br />► Tune into all the action from Crankworx and discover more right here: <a rel="nofollow" target="blank" href="https://www.redbull.com/ie-en/events/crankworx-british-columbia">https://www.redbull.com/ie-en/events/crankworx-british-columbia</a> <br /><br />► Who do you think will take the next Crankworx Slopestyle winner? Place your bets with the Crankworx Medal Predictor and be in with a chance of winning a new bike and more! <a rel="nofollow" target="blank" href="https://win.gs/CrankworxMedalPredictor">https://win.gs/CrankworxMedalPredictor</a> <br /><br />#crankworx<br /><br />____<br />Experience the world of Red Bull Bike like you have never seen it before. With the best bike videos, from Mountain Bike Downhill to Cross Country plus BMX and original series, prepare for your &quot;stoke factor&quot; to be at an all time high.<br /><br />Subscribe to Red Bull Bike on Youtube: <a rel="nofollow" target="blank" href="https://win.gs/SubToRedBullBike">https://win.gs/SubToRedBullBike</a><br /><br />Get the FREE Red Bull TV apps for all your devices: <a rel="nofollow" target="blank" href="http://onelink.to/yfbct7">http://onelink.to/yfbct7</a><br /><br />Watch Red Bull TV: <a rel="nofollow" target="blank" href="https://win.gs/WatchRBTVBike">https://win.gs/WatchRBTVBike</a><br /><br />See into our world: <a rel="nofollow" target="blank" href="http://goo.gl/J49U">http://goo.gl/J49U</a><br /><br />Red Bull Bike on Facebook: <a rel="nofollow" target="blank" href="https://win.gs/RedBullBikeFacebook">https://win.gs/RedBullBikeFacebook</a><br /><br />Red Bull Bike on Instagram: <a rel="nofollow" target="blank" href="http://win.gs/RedBullBikeInstagram">http://win.gs/RedBullBikeInstagram</a>{% endraw %}
