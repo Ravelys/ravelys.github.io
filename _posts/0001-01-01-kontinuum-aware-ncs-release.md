@@ -1,0 +1,15 @@
+---
+title: "Kontinuum - Aware [NCS Release]"
+image: "https:\/\/i.ytimg.com\/vi\/BWdZjZV6bEk\/hqdefault.jpg"
+vid_id: "BWdZjZV6bEk"
+categories: "Music"
+tags: ["Kontinuum - Aware","Kontinuum Aware","Kontinuum"]
+date: "2021-09-25T22:08:08+03:00"
+vid_date: "2015-05-28T17:15:23Z"
+duration: "PT4M32S"
+viewcount: "3770288"
+likeCount: "59500"
+dislikeCount: "802"
+channel: "NoCopyrightSounds"
+---
+{% raw %}NCS: Music Without Limitations<br /><br />NCS Spotify: <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br /><br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://ncs.io/aware">http://ncs.io/aware</a><br /><br />▽ Connect with NCS<br />Facebook <a rel="nofollow" target="blank" href="http://facebook.com/NoCopyrightSounds">http://facebook.com/NoCopyrightSounds</a><br />Twitch <a rel="nofollow" target="blank" href="http://twitch.tv/nocopyrightsounds">http://twitch.tv/nocopyrightsounds</a><br />Twitter <a rel="nofollow" target="blank" href="http://twitter.com/NCSounds">http://twitter.com/NCSounds</a><br />Spotify <a rel="nofollow" target="blank" href="http://spoti.fi/NCS">http://spoti.fi/NCS</a><br />SoundCloud <a rel="nofollow" target="blank" href="http://soundcloud.com/nocopyrightsounds">http://soundcloud.com/nocopyrightsounds</a><br />Goo+ <a rel="nofollow" target="blank" href="http://google.com/+nocopyrightsounds">http://google.com/+nocopyrightsounds</a><br />Instagram <a rel="nofollow" target="blank" href="http://instagram.com/nocopyrightsounds_">http://instagram.com/nocopyrightsounds_</a><br /><br />▽ Follow Kontinuum<br />SoundCloud <a rel="nofollow" target="blank" href="https://soundcloud.com/kontinuum">https://soundcloud.com/kontinuum</a><br />Facebook <a rel="nofollow" target="blank" href="https://www.facebook.com/itsKontinuum">https://www.facebook.com/itsKontinuum</a><br />Twitter <a rel="nofollow" target="blank" href="https://twitter.com/itsKontinuum">https://twitter.com/itsKontinuum</a><br /><br />▽ NCS YouTube Playlists<br />NCS Drumstep - <a rel="nofollow" target="blank" href="http://bit.ly/NCSdrumstep">http://bit.ly/NCSdrumstep</a><br />NCS Melodic Dubstep - <a rel="nofollow" target="blank" href="http://bit.ly/MelodicDubstepNCS">http://bit.ly/MelodicDubstepNCS</a><br />NCS House - <a rel="nofollow" target="blank" href="http://bit.ly/NCShouse">http://bit.ly/NCShouse</a><br />NCS Dubstep - <a rel="nofollow" target="blank" href="http://bit.ly/NCSdubstep">http://bit.ly/NCSdubstep</a><br />NCS Drum&amp;Bass - <a rel="nofollow" target="blank" href="http://bit.ly/NCSdrumandbass">http://bit.ly/NCSdrumandbass</a><br />NCS Trap - <a rel="nofollow" target="blank" href="http://bit.ly/NCStrap">http://bit.ly/NCStrap</a><br />NCS Hardstyle <a rel="nofollow" target="blank" href="http://bit.ly/NCShardstyle">http://bit.ly/NCShardstyle</a><br /><br />© Check out our Usage Policy on how to use NCS music in your videos: <a rel="nofollow" target="blank" href="http://ncs.io/UsagePolicy">http://ncs.io/UsagePolicy</a><br /><br />To request a commercial license visit: <a rel="nofollow" target="blank" href="http://ncs.io/Commercial">http://ncs.io/Commercial</a>{% endraw %}
