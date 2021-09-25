@@ -1,0 +1,15 @@
+---
+title: "How to make DIFFICULT choices by Gaur Gopal das"
+image: "https:\/\/i.ytimg.com\/vi\/OalnrXt2viE\/hqdefault.jpg"
+vid_id: "OalnrXt2viE"
+categories: "People-Blogs"
+tags: ["love","care","depression"]
+date: "2021-09-25T14:01:23+03:00"
+vid_date: "2017-02-28T08:15:34Z"
+duration: "PT5M1S"
+viewcount: "2460577"
+likeCount: "60266"
+dislikeCount: "827"
+channel: "Gaur Gopal Das"
+---
+{% raw %}An unpleasant situation, usually where difficult choices have to be made, dilemma, predicament, or difficulty. Life is not as easy as it seems to be. It comes to make complicated choices anytime. Never abuse anyone in life. The choice you make it's your own and you have to live with its consequences. You have to make a choice because life is not going to spare you. <br />Life is not as easy as it seems often subjecting us to make complicated choices. Often we are faced with moral dilemmas or ethical dilemmas and we have to live with the consequences arising out of the choice we make. A combination of informed and transformed choice will steer us through.<br />To know more about how to make difficult choices do watch videos of Gaur Gopal Das. <br /><br />About Gaur Gopal Das <br /><br />Gaur Gopal Das is an Electrical Engineer, having studied at the College Of Engineering, Pune. He has been speaking at various prestigious academic institutions and corporate firms in India and abroad for over 2 decades and has even spoken at the United Nations &amp; British Parliament. He has spoken at many charity events to raise funds for social initiatives in the field of education and rural development. His motivational videos are viral having reached around 1 Billion views. With over 13 million followers across all social media platforms, he is known as the urban, online monk. <br /><br />He has been the recipient of several awards including the most prestigious Dadasaheb Phalke International Film Festival award, Lokmat’s most stylish international life coach award,  an Honorary Doctorate by KIIT university and many more in recognition of the work he has been doing. Based on the timeless wisdom coming down from ages, his talks make the audience think deeper and find simple solutions to difficult problems.<br /><br />Gaur Gopal Das (Instagram)  - <a rel="nofollow" target="blank" href="https://www.instagram.com/gaurgopaldas/">https://www.instagram.com/gaurgopaldas/</a> <br /><br />Gaur Gopal Das (Facebook)  - <a rel="nofollow" target="blank" href="https://www.facebook.com/gaurgopald">https://www.facebook.com/gaurgopald</a> <br /><br />Gaur Gopal Das (Twitter) - <a rel="nofollow" target="blank" href="https://twitter.com/gaurgopald?s=09">https://twitter.com/gaurgopald?s=09</a> <br /><br />Gaur Gopal Das (LinkedIn) - <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/gaurgopald">https://www.linkedin.com/in/gaurgopald</a> <br /><br />Read Life's Amazing Secrets now! <br /><br />Amazon --  <a rel="nofollow" target="blank" href="https://amzn.to/3uQfFV6">https://amzn.to/3uQfFV6</a> <br /><br />Flipkart --  <a rel="nofollow" target="blank" href="https://bit.ly/3wZhLmR">https://bit.ly/3wZhLmR</a>{% endraw %}
