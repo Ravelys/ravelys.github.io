@@ -1,0 +1,15 @@
+---
+title: "Sleep Walking through a Calming Forest of Butterflies. Sleep Music. Study Music. Anxiety Relief. Sky"
+image: "https:\/\/i.ytimg.com\/vi\/Ol3uQuuAAzQ\/hqdefault.jpg"
+vid_id: "Ol3uQuuAAzQ"
+categories: "Music"
+tags: ["Spa","Relaxing music","peaceful music"]
+date: "2021-09-26T03:00:31+03:00"
+vid_date: "2021-09-25T23:57:35Z"
+duration: "PT1H3M27S"
+viewcount: "0"
+likeCount: "3"
+dislikeCount: "0"
+channel: "Quiet Waters Music"
+---
+{% raw %}Please Subscribe, Like and Comment.<br /><br />Sleep Walking Through A Calming Forest Helps to Fall Asleep Quickly. This Calming Music Features a Peaceful Walk. Under a Heavenly Horizon let your Mind, Body and Soul Absorb The Soothing Trail With a Gentle Visual Dreamscape of Calming Butterflies. Release your Mind and Body with Soothing and Gentle sounds.<br /><br />At Quiet Waters Music, we believe in a balanced Mind, Body and Soul through our Calming Music and Peaceful Artwork.  Our channel provides a Tranquil combination to help Relax the Mind, Calm Anxieties and Escape the Noise in our lives. Perfect for a Soothing and Peaceful Rest for ALL Ages. <br /><br />Our Relaxing and Soothing Music allows you to Calm your Thoughts before Sleeping.  It Also Creates a Peaceful atmosphere that Calms the Spirit and Body. <br /><br />Soothe the Mind with our library of Peaceful Music, Relaxing Music and Calming Music that is accompanied by Beautiful, Tranquil and Captivating Artwork. It reaches both Auditory and Visual Senses for better Relaxation of the Mind and Assists with Focusing or Gently Helping the Body into a Deeper Sleep.  Allow healing through Creating a Healthy, Relaxed, Balanced and Peaceful Mind and Atmosphere.<br /><br />Our Sound Design and Original Compositions include a variety of elements to create a Feeling of Calmness and Zen:  Gentle Streams.  Ocean Waves.  Light Wind.  Soft Rain.  Birds Chirping.  Soft Piano.  Soft Guitar.  Lullabies, Chimes.  Slow Tempo.  <br /><br />Power of Music.  Healing Music. Inner Peace Music.  Zen Music.  Tranquility Music.  Chakra Balancing Music.  Yoga Music.  Spa Music.  Calming Music.  Peaceful Music.  Soothing Music.  Relaxation Music.  Study Music.  Lullabies, Induce Sleep Music.  Calm Anxiety Music.  Balance Music.  Music Therapy.  Ambiance.  Instrumental.  Stress Relief Music. Soundscapes.  Meditation Music.  Harmony Music.  Ambient Sounds. Relaxing Piano Music.  Relaxing Guitar Music.  Deep Sleep Music.<br /><br />Our videos engage the viewer with Original Artwork/Beautiful and Peaceful Photography and video Images to Visually Relax the Mind.  Unwind and Enjoy the Comforting and Calming experience.  <br /><br />Calming Artwork.  Peaceful Artwork.  Moving Artwork.  Soothing Artwork.  Beautiful Artwork.  Captivating Artwork.  3D Artwork.  Tranquil Artwork.  Relaxing Artwork. Glowing Artwork.  <br /><br />By subscribing to Quiet Waters Music, you will get to enjoy all of our content and have immediate access to our newly posted videos.  We appreciate all those who support Quiet Waters Music, and would love to hear from you in the comments.{% endraw %}
