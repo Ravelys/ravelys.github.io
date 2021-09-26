@@ -1,0 +1,15 @@
+---
+title: "Enter Shikari - Slipshod (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/8O72jXoMIkg\/hqdefault.jpg"
+vid_id: "8O72jXoMIkg"
+categories: "Music"
+tags: ["enter","shikari","slipshod"]
+date: "2021-09-26T09:59:39+03:00"
+vid_date: "2014-12-15T17:58:56Z"
+duration: "PT2M15S"
+viewcount: "1663502"
+likeCount: "12884"
+dislikeCount: "331"
+channel: "Enter Shikari"
+---
+{% raw %}News / Tour dates / Merch : <a rel="nofollow" target="blank" href="http://www.entershikari.com/">http://www.entershikari.com/</a> <br />⬇⬇⬇<br />New album “The Mindsweep” out NOW: <br />iTunes - <a rel="nofollow" target="blank" href="http://po.st/mindsweepitunes">http://po.st/mindsweepitunes</a><br />CD - <a rel="nofollow" target="blank" href="http://po.st/themindsweepcd">http://po.st/themindsweepcd</a><br />Vinyl - <a rel="nofollow" target="blank" href="http://po.st/themindsweepvinyl">http://po.st/themindsweepvinyl</a> <br />Spotify - <a rel="nofollow" target="blank" href="http://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF">http://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF</a><br /><br />Let’s be friends on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/entershikari">https://www.facebook.com/entershikari</a><br />Follow us on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/entershikari">https://twitter.com/entershikari</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/entershikariofficial">https://instagram.com/entershikariofficial</a> <br />Add us on Snapchat if you feel like it, we post stuff: ‘entershikarisc’<br /><br />Video directed &amp; animated by Peter MacAdams. (<a rel="nofollow" target="blank" href="http://www.sketchengine.net/)">http://www.sketchengine.net/)</a><br />Thanks to Tim Morris &amp; Dan Weller for voices. <br />Track produced by Dan Weller. Engineered by Tim Morris. <br />Mixed by Jeremy Wheatley.<br /><br />-------------------------------------------------<br /><br />LYRICS:<br /><br />&quot;Oi fucks, let's eat 'ere, it looks niiice&quot;<br /><br />Get me the manager<br />&quot;Oh dear, what seems to be the problem sir?&quot;<br /><br />First of all I was greeted with a grimace<br />Service with a sneer<br />He don’t want to be here<br /><br />Second of all I was seated by the window<br />and the draft was a serious inconvenience <br /><br />There was lipstick on my glass and it wasn’t mine<br />We put our order in - I can’t believe the time <br />This is a shambles, your cook is a heathen<br />Your carpet is ugly and your veg ain’t in season<br /><br />My impatience spread like gravy on a tablecloth<br />And your head looks like it was carved out of a nut<br /><br />Rory C, well, tell ‘em… <br />I was waiting in line for 10 whole minutes<br />This is unacceptable - you’re pushing me to my limits!<br /><br />&quot;Please don’t raise your voice in here sir <br />This is a respected establishment,<br />I’m sure we can sort this out quietly no?&quot;<br /><br />Oh really? Well that’s a great vase you got there,<br />It’d be a real shame if something happened to it…<br /><br />Slipshod, kick it.<br />Cunt.{% endraw %}
