@@ -1,0 +1,15 @@
+---
+title: "CBC News: The National | Michael Kovrig, Michael Spavor on a plane back to Canada"
+image: "https:\/\/i.ytimg.com\/vi\/U9OxB67qWVI\/hqdefault.jpg"
+vid_id: "U9OxB67qWVI"
+categories: "News-Politics"
+tags: ["Breaking News","Michael Kovrig","Michael Spavor"]
+date: "2021-09-26T17:51:38+03:00"
+vid_date: "2021-09-25T05:25:43Z"
+duration: "PT45M3S"
+viewcount: "108958"
+likeCount: "748"
+dislikeCount: "269"
+channel: "CBC News: The National"
+---
+{% raw %}Sept. 24, 2021 | Special coverage after Michael Spavor and Michael Kovrig, two Canadians imprisoned in China for over 1000 days, are released and allowed to return home. This comes after a B.C. court ends the extradition case against Huawei executive Meng Wanzhou. <br /><br />00:00 Breaking News: Kovrig, Spavor returning to Canada<br />01:17 Surprise announcement from Justin Trudeau<br />04:53 Meng Wanzhou enters DPA with the U.S. <br />06:49 Timeline of the Meng and Michaels cases<br />08:57 Michael Kovrig's employer responds<br />09:35 Trudeau announces release of two Michaels<br />11:16 O'Toole, Singh respond to the news<br />11:51 Reaction on the ground in China <br />13:55 Long wait for Kovrig and Spavor's families <br />15:16 Response from U.S. secretary of state <br />15:56 Former Canadian diplomat Ben Rowswell<br />22:00 Breaking News: Kovrig, Spavor returning to Canada<br />22:36 COVID-19 crisis in Saskatchewan <br />25:08 COVID-19 pushes Alberta hospitals to brink<br />25:35 N.B. returns to COVID-19 state of emergency <br />26:24 Breaking News: Kovrig, Spavor returning to Canada<br />33:18 Former Canadian ambassador to China Guy Saint-Jacques<br />36:55 Breaking News: Kovrig, Spavor returning to Canada<br />37:58 Migrants wait on the U.S.-Mexico border<br />40:23 Former Afghan interpreters flee to Greece<br />43:06 Breaking News: Kovrig, Spavor returning to Canada<br /><br />#MengWanzhou #MichaelKovrig  #MichaelSpavor<br /><br />Subscribe to The National: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/CBCTheNational?sub_confirmation=1">https://www.youtube.com/user/CBCTheNational?sub_confirmation=1</a><br /><br />Connect with The National online:<br />Facebook | <a rel="nofollow" target="blank" href="https://www.facebook.com/thenational">https://www.facebook.com/thenational</a><br />Twitter | <a rel="nofollow" target="blank" href="https://twitter.com/CBCTheNational">https://twitter.com/CBCTheNational</a><br />Instagram | <a rel="nofollow" target="blank" href="https://www.instagram.com/cbcthenational">https://www.instagram.com/cbcthenational</a><br /><br />More from CBC News | <a rel="nofollow" target="blank" href="https://www.cbc.ca/news">https://www.cbc.ca/news</a><br /><br />The National is CBC's flagship nightly news program, featuring the day's top stories with in-depth and original journalism, with hosts Adrienne Arsenault and Andrew Chang in Toronto, Ian Hanomansing in Vancouver and the CBC's chief political correspondent, Rosemary Barton in Ottawa.{% endraw %}
