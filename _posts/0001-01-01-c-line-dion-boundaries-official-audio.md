@@ -1,0 +1,15 @@
+---
+title: "Céline Dion - Boundaries (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/7FA-JhqNWmE\/hqdefault.jpg"
+vid_id: "7FA-JhqNWmE"
+categories: "Music"
+tags: ["Imperfections","Lying Down","Courage"]
+date: "2021-09-26T06:19:09+03:00"
+vid_date: "2019-11-15T08:00:02Z"
+duration: "PT3M25S"
+viewcount: "512548"
+likeCount: "5298"
+dislikeCount: "119"
+channel: "CelineDionVEVO"
+---
+{% raw %}Céline Dion – Boundaries (Official Audio)<br /><br />Stream it or buy it here: <a rel="nofollow" target="blank" href="https://smarturl.it/CelineDionCourage">https://smarturl.it/CelineDionCourage</a><br /><br />Subscribe to the official YouTube Channel for Celine: <a rel="nofollow" target="blank" href="https://smarturl.it/CelineDionOnYouTube">https://smarturl.it/CelineDionOnYouTube</a><br /> <br />Watch more music videos by Celine Dion: <a rel="nofollow" target="blank" href="https://smarturl.it/CelineTopTracksYT">https://smarturl.it/CelineTopTracksYT</a><br /> <br />Connect with Celine: <br />Facebook: <a rel="nofollow" target="blank" href="https://smarturl.it/CelineDionOnFacebook">https://smarturl.it/CelineDionOnFacebook</a><br />Twitter: <a rel="nofollow" target="blank" href="https://smarturl.it/CelineDionOnTwitter">https://smarturl.it/CelineDionOnTwitter</a><br />Instagram: <a rel="nofollow" target="blank" href="https://smarturl.it/CelineDionOnIG">https://smarturl.it/CelineDionOnIG</a><br />Spotify: <a rel="nofollow" target="blank" href="https://smarturl.it/CelineDionOnSpotify">https://smarturl.it/CelineDionOnSpotify</a><br />Website: <a rel="nofollow" target="blank" href="https://www.celinedion.com">https://www.celinedion.com</a> <br /><br />LYRICS:<br /> <br />We are the ones that walk to fire <br />And people say don't touch <br />Yeah people say don't touch<br /><br />We are the ones that never listen <br />We can't get burned enough<br />We can't get burned enough<br /><br />And there's no boundaries <br />Can never hurt you<br />You could never hurt me <br />And we're so unique <br />Falling in love<br />And letting love be<br /><br />You’ve  got to take me to that place <br />You let your guard down yeah<br />You let your guard down yeah<br /><br />If you don't take me all the way <br />We'll let the world down, no <br />Can't let the world down, no<br /><br />And there's no boundaries <br />I could never hurt you<br />You could never hurt me <br />And we're so unique <br />Falling in love<br />And letting love be<br /><br />If you don't take me all the way We'll let the world down yeah<br />Can't let the world down, no<br />Can't let the world down, no Can’t let the world down, no<br /><br />There's no boundaries <br />I could never hurt you<br />You could never hurt me <br />And we're so unique <br />Falling in love<br />And letting love be<br />letting love be your heart<br />letting love be your heart<br />letting love be your heart<br />letting love be your heart<br /><br />Just letting love<br /><br />#CelineDion #Boundaries #Courage{% endraw %}
