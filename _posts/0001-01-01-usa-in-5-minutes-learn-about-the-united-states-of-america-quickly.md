@@ -1,0 +1,15 @@
+---
+title: "USA in 5 Minutes - Learn About the United States of America Quickly"
+image: "https:\/\/i.ytimg.com\/vi\/zKaH1dCooQg\/hqdefault.jpg"
+vid_id: "zKaH1dCooQg"
+categories: "Education"
+tags: ["learn","learning","USA"]
+date: "2021-09-27T09:36:44+03:00"
+vid_date: "2018-03-25T16:41:21Z"
+duration: "PT4M49S"
+viewcount: "43071"
+likeCount: "627"
+dislikeCount: "36"
+channel: "All in 5 Minutes"
+---
+{% raw %}With a population of over 325 million, the United States of America is one of the most populated countries in the world. Learn the most important information about The USA in this video!<br /><br />5 minutes were not enough? Learn more about the USA on our playlist:  <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLl7UQZrKV9OO71RTDp77Sj_ySXgK0bOD8">https://www.youtube.com/playlist?list=PLl7UQZrKV9OO71RTDp77Sj_ySXgK0bOD8</a><br /><br />Every week I publish a new video explaining a different topic quickly. If that sounds interesting to you, make sure to subscribe and turn on the notifications to be updated about the latest videos!<br /><br />--- Video Timestamps ---<br />00:00 - Intro<br />00:21 - About the USA<br />01:07 - History<br />02:55 - Government<br />03:59 - Interesting Facts<br />04:25 - Ending<br /><br />--- Read More About the USA ---<br />About the Organization of the U.S. Government - <a rel="nofollow" target="blank" href="https://www.usa.gov/organization-of-the-us-government">https://www.usa.gov/organization-of-the-us-government</a><br />27 Interesting Facts About The United States - <a rel="nofollow" target="blank" href="http://www.uscitytraveler.com/27-interesting-facts-about-the-united-states/">http://www.uscitytraveler.com/27-interesting-facts-about-the-united-states/</a><br />25 Interesting Facts About USA - <a rel="nofollow" target="blank" href="http://www.kickassfacts.com/25-interesting-facts-about-usa/">http://www.kickassfacts.com/25-interesting-facts-about-usa/</a><br />The United States History Timeline - <a rel="nofollow" target="blank" href="http://www.ereferencedesk.com/resources/state-history-timeline/us.html">http://www.ereferencedesk.com/resources/state-history-timeline/us.html</a> <br />Founding Fathers of the United States - <a rel="nofollow" target="blank" href="https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States">https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States</a><br /><br />--- Connect With Me ---<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/AllIn5Minutes">https://twitter.com/AllIn5Minutes</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/allin5minutes/">https://www.instagram.com/allin5minutes/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/AllIn5Minutes/">https://www.facebook.com/AllIn5Minutes/</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@allin5minutes">https://www.tiktok.com/@allin5minutes</a><br />All in 5 Minutes - <a rel="nofollow" target="blank" href="http://AllIn5Minutes.com/">http://AllIn5Minutes.com/</a><br /><br />#usa #america #learning #information{% endraw %}
