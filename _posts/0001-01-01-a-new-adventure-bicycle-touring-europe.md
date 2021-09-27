@@ -1,0 +1,15 @@
+---
+title: "A New Adventure | Bicycle Touring Europe"
+image: "https:\/\/i.ytimg.com\/vi\/DN8rcxhijH4\/hqdefault.jpg"
+vid_id: "DN8rcxhijH4"
+categories: "Travel-Events"
+tags: ["wheels to wander","wheelstowander","bicycle touring"]
+date: "2021-09-27T12:03:30+03:00"
+vid_date: "2021-09-26T08:37:44Z"
+duration: "PT11M48S"
+viewcount: "5324"
+likeCount: "671"
+dislikeCount: "1"
+channel: "Wheels to Wander"
+---
+{% raw %}A New Adventure | Bicycle Touring Europe<br /><br />Join us on our new adventure to the south of Europe. Starting this journey from the coast, through some of the biggest cities into the rural areas of the Netherlands towards the Belgian border. Finding gem natural areas where we cool of from the heat, we cook up some delicious pasta and get help from a very inspiring person!<br /><br />Would you like to support our project? Feel free to check out:<br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/wheelstowander">https://www.patreon.com/wheelstowander</a><br /><br />To support our videos one time! A small gesture goes a long way:<br />Paypal: <a rel="nofollow" target="blank" href="https://www.paypal.me/wheelstowander">https://www.paypal.me/wheelstowander</a><br /><br />More @<br /><a rel="nofollow" target="blank" href="http://wheelstowander.com">http://wheelstowander.com</a><br /><a rel="nofollow" target="blank" href="http://www.instagram.com/wheels.to.wander">http://www.instagram.com/wheels.to.wander</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/wheelstowander">http://www.facebook.com/wheelstowander</a><br /><br />Email Us: wheelstowander@gmail.com<br /><br />Music | Roek Ultra: <a rel="nofollow" target="blank" href="http://open.spotify.com/artist/6GB4nB0BUAJstdeqQrgG4o">http://open.spotify.com/artist/6GB4nB0BUAJstdeqQrgG4o</a><br /><br />Babylon by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/3406-babylon">https://incompetech.filmmusic.io/song/3406-babylon</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br />Night on the Docks - Piano by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://filmmusic.io/song/4131-night-on-the-docks---piano">https://filmmusic.io/song/4131-night-on-the-docks---piano</a><br /><br />Energizing by Kevin MacLeod<br />Link: <a rel="nofollow" target="blank" href="https://incompetech.filmmusic.io/song/5709-energizing">https://incompetech.filmmusic.io/song/5709-energizing</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br />Peaceful by Luca Fraula<br />Link: <a rel="nofollow" target="blank" href="https://filmmusic.io/song/5169-peaceful">https://filmmusic.io/song/5169-peaceful</a><br />License: <a rel="nofollow" target="blank" href="https://filmmusic.io/standard-license">https://filmmusic.io/standard-license</a><br /><br /><br />Additional Music | Mamson<br />a Special Thanks 🙏🏼{% endraw %}
