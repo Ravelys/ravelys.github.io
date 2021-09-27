@@ -1,0 +1,15 @@
+---
+title: "Zubi & Anatu - Start To Call (feat. Andrew Ace)"
+image: "https:\/\/i.ytimg.com\/vi\/honCdh_kWf8\/hqdefault.jpg"
+vid_id: "honCdh_kWf8"
+categories: "Music"
+tags: ["#TakeItEasy","#Deep","#DeepHouse"]
+date: "2021-09-27T04:27:35+03:00"
+vid_date: "2021-09-26T16:51:22Z"
+duration: "PT3M12S"
+viewcount: "13486"
+likeCount: "1051"
+dislikeCount: "21"
+channel: "Take It Easy"
+---
+{% raw %}#TakeItEasy #SmokeMood #Relax<br /><br />● If You Want, Support My Channel:<br />☛ Paypal: <a rel="nofollow" target="blank" href="https://bit.ly/2ywdKKE">https://bit.ly/2ywdKKE</a><br /><br />© Take It Easy<br />☛ Track: Zubi &amp; Anatu - Start To Call (feat. Andrew Ace)<br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/34jwfRu">https://bit.ly/34jwfRu</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/3e2w1ma">https://bit.ly/3e2w1ma</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/2XiGynm">https://bit.ly/2XiGynm</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/2RhHm8e">https://bit.ly/2RhHm8e</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/2V4RySI">https://bit.ly/2V4RySI</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/39LMyrq">https://bit.ly/39LMyrq</a><br /><br />© Subscribe More Channels<br />☛ Take It Easy: <a rel="nofollow" target="blank" href="https://bit.ly/342zXQM">https://bit.ly/342zXQM</a><br />☛ Take It Easy GURU: <a rel="nofollow" target="blank" href="https://bit.ly/333GDfd">https://bit.ly/333GDfd</a><br />☛ Take It Easy Rap: <a rel="nofollow" target="blank" href="https://bit.ly/2MyMNhr">https://bit.ly/2MyMNhr</a><br />☛ Minor SWAG: <a rel="nofollow" target="blank" href="https://bit.ly/2yunvJh">https://bit.ly/2yunvJh</a><br />☛ euphoria: <a rel="nofollow" target="blank" href="https://bit.ly/3qHDsWt">https://bit.ly/3qHDsWt</a><br /><br />© Released by: dojang ®<br /><br />© dojang<br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/3nllnf0">https://bit.ly/3nllnf0</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/3d9RtFL">https://bit.ly/3d9RtFL</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/3jG6P7t">https://bit.ly/3jG6P7t</a><br /><br />© Zubi<br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/33qBsb5">https://bit.ly/33qBsb5</a><br /><br />© Anatu<br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/2GLpjVL">https://bit.ly/2GLpjVL</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/2GCXizI">https://bit.ly/2GCXizI</a><br />☛ <a rel="nofollow" target="blank" href="https://bit.ly/3lovDBr">https://bit.ly/3lovDBr</a><br /><br />© Picture / Unknown<br /><br />© TO OWNERS &amp; COPYRIGHT HOLDERS:<br />This channel is created to promote magnificent songs, and as well, producers. Absolutely, NO COPYRIGHT INFRINGEMENT INTENDED. This CHANNEL CLAIMS NO RIGHTS OR OWNERSHIP over the contents posted. If you wish for a track to be removed, please let us know so we can remove it from our feed immediately: info.takeiteasyrec@gmail.com{% endraw %}
