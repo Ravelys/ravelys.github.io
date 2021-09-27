@@ -1,0 +1,15 @@
+---
+title: "Expert Astronomer's Body Language About Aliens is ABSOLUTELY Food For Thought"
+image: "https:\/\/i.ytimg.com\/vi\/yFVyjanXaWI\/hqdefault.jpg"
+vid_id: "yFVyjanXaWI"
+categories: "Education"
+tags: ["Logan Portenier","Observe","Mentalist"]
+date: "2021-09-27T10:26:17+03:00"
+vid_date: "2021-09-25T05:47:43Z"
+duration: "PT35M59S"
+viewcount: "51176"
+likeCount: "3432"
+dislikeCount: "50"
+channel: "Observe"
+---
+{% raw %}Use code OBSERVE14 for up to 14 FREE MEALS across your first 5 HelloFresh boxes, including free shipping on your first box at <a rel="nofollow" target="blank" href="https://bit.ly/3AairIu.">https://bit.ly/3AairIu.</a><br /><br />Original Video: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=PoL4IlCXDsM&amp;ab_channel=WIRED">https://www.youtube.com/watch?v=PoL4IlCXDsM&amp;ab_channel=WIRED</a><br /><br />Wired’s description: “Astronomer Jill Tarter, former director of the Center for SETI Research, uses the power of Twitter to answer common questions about extraterrestrial life. What if SETI found intelligent life on another planet? Would they keep it a secret? Did US fighter pilots really see a UFO?”<br /><br />She answers the questions, but what does her nonverbal communication tell us? Does her body language hint at secretiveness or authenticity? That is what today’s video will hopefully answer!<br /><br />Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/observeentertainment">https://www.patreon.com/observeentertainment</a><br />My Wife's (Megan's) channel: www.youtube.com/meganportenier<br />Observe Merch Shop: <a rel="nofollow" target="blank" href="https://teespring.com/stores/observe-4">https://teespring.com/stores/observe-4</a><br />Audible Trial Link: <a rel="nofollow" target="blank" href="http://www.audibletrial.com/observe">http://www.audibletrial.com/observe</a><br />Subscribe: <a rel="nofollow" target="blank" href="http://www.youtube.com/c/ObserveWithLogan?sub_confirmation=1">http://www.youtube.com/c/ObserveWithLogan?sub_confirmation=1</a><br /><br />INTRO/OUTRO MUSIC BY AMARIA: <br />––––––––––––––––––––––––––––––<br />&quot;Funky Souls&quot; | &quot;Elizabeth's Groove&quot; | &quot;Lovely Swindler&quot; by Amarià <a rel="nofollow" target="blank" href="https://soundcloud.com/amariamusique">https://soundcloud.com/amariamusique</a><br />Creative Commons — Attribution 3.0 Unported  — CC BY 3.0 <br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://bit.ly/Funky-Souls">http://bit.ly/Funky-Souls</a><br />Music promoted by Audio Library <a rel="nofollow" target="blank" href="https://youtu.be/jFMCyqKF-EE">https://youtu.be/jFMCyqKF-EE</a><br />Lovely Swindler by Amarià <a rel="nofollow" target="blank" href="https://soundcloud.com/amariamusique">https://soundcloud.com/amariamusique</a><br />Free Download / Stream: <a rel="nofollow" target="blank" href="https://bit.ly/lovely-swindler">https://bit.ly/lovely-swindler</a><br />––––––––––––––––––––––––––––––<br />Business Email: observe.contact@gmail.com{% endraw %}
