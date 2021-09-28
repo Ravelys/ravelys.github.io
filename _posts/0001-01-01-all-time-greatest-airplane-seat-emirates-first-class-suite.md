@@ -1,0 +1,15 @@
+---
+title: "ALL TIME GREATEST AIRPLANE SEAT - Emirates First Class Suite"
+image: "https:\/\/i.ytimg.com\/vi\/a7NJ6Gek9v4\/hqdefault.jpg"
+vid_id: "a7NJ6Gek9v4"
+categories: "People-Blogs"
+tags: ["Emirates first class"]
+date: "2021-09-28T15:49:54+03:00"
+vid_date: "2017-12-11T23:45:03Z"
+duration: "PT8M53S"
+viewcount: "52079032"
+likeCount: "811339"
+dislikeCount: "32099"
+channel: "CaseyNeistat"
+---
+{% raw %}MY DOPE MERCH - <a rel="nofollow" target="blank" href="https://shopcaseyneistat.com/">https://shopcaseyneistat.com/</a><br /><br />Music mixed by <a rel="nofollow" target="blank" href="http://youtube.com/dyalla">http://youtube.com/dyalla</a> <br />filmed this video in 4k on this -- <a rel="nofollow" target="blank" href="http://amzn.to/2sTDnRZ">http://amzn.to/2sTDnRZ</a><br />with this lens -- <a rel="nofollow" target="blank" href="http://amzn.to/2rUJOmD">http://amzn.to/2rUJOmD</a><br />big drone - <a rel="nofollow" target="blank" href="http://tinyurl.com/h4ft3oy">http://tinyurl.com/h4ft3oy</a><br />OTHER GEAR ---  <a rel="nofollow" target="blank" href="http://amzn.to/2o3GLX5">http://amzn.to/2o3GLX5</a><br />Sony CAMERA <a rel="nofollow" target="blank" href="http://amzn.to/2nOBmnv">http://amzn.to/2nOBmnv</a><br />OLD CAMERA; <a rel="nofollow" target="blank" href="http://amzn.to/2o2cQBT">http://amzn.to/2o2cQBT</a><br />MAIN LENS; <a rel="nofollow" target="blank" href="http://amzn.to/2od5gBJ">http://amzn.to/2od5gBJ</a><br />BIG SONY CAMERA; <a rel="nofollow" target="blank" href="http://amzn.to/2nrdJRO">http://amzn.to/2nrdJRO</a><br />BIG Canon CAMERA; <a rel="nofollow" target="blank" href="http://tinyurl.com/jn4q4vz">http://tinyurl.com/jn4q4vz</a><br />BENDY TRIPOD THING; <a rel="nofollow" target="blank" href="http://tinyurl.com/gw3ylz2">http://tinyurl.com/gw3ylz2</a><br />YOU NEED THIS FOR THE BENDY TRIPOD; <a rel="nofollow" target="blank" href="http://tinyurl.com/j8mzzua">http://tinyurl.com/j8mzzua</a><br />WIDE LENS; <a rel="nofollow" target="blank" href="http://tinyurl.com/jkfcm8t">http://tinyurl.com/jkfcm8t</a><br />MORE EXPENSIVE WIDE LENS; <a rel="nofollow" target="blank" href="http://tinyurl.com/zrdgtou">http://tinyurl.com/zrdgtou</a><br />SMALL CAMERA; <a rel="nofollow" target="blank" href="http://tinyurl.com/hrrzhor">http://tinyurl.com/hrrzhor</a><br />MICROPHONE; <a rel="nofollow" target="blank" href="http://tinyurl.com/zefm4jy">http://tinyurl.com/zefm4jy</a><br />OTHER MICROPHONE; <a rel="nofollow" target="blank" href="http://tinyurl.com/jxgpj86">http://tinyurl.com/jxgpj86</a><br />OLD DRONE (cheaper but still great);<a rel="nofollow" target="blank" href="http://tinyurl.com/zcfmnmd">http://tinyurl.com/zcfmnmd</a><br /><br />follow me; on <a rel="nofollow" target="blank" href="http://instagram.com/caseyneistat">http://instagram.com/caseyneistat</a><br />on <a rel="nofollow" target="blank" href="https://www.facebook.com/cneistat">https://www.facebook.com/cneistat</a><br />on <a rel="nofollow" target="blank" href="https://twitter.com/CaseyNeistat">https://twitter.com/CaseyNeistat</a>{% endraw %}
