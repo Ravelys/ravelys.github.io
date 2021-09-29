@@ -1,0 +1,15 @@
+---
+title: "GREAT TIME - Rushin [Official Video]"
+image: "https:\/\/i.ytimg.com\/vi\/BDdEhbzWDPs\/hqdefault.jpg"
+vid_id: "BDdEhbzWDPs"
+categories: "Music"
+tags: ["Great Time","Great Album","gr8 thyme"]
+date: "2021-09-29T14:05:15+03:00"
+vid_date: "2019-07-19T11:57:25Z"
+duration: "PT3M52S"
+viewcount: "167128"
+likeCount: "5034"
+dislikeCount: "304"
+channel: "GREAT TIME"
+---
+{% raw %}STREAMING EVERYWHERE: <a rel="nofollow" target="blank" href="https://smarturl.it/rushin">https://smarturl.it/rushin</a><br /><br />GREAT TIME<br />Rushin<br />Released: July 19, 2019<br /><a rel="nofollow" target="blank" href="https://greattimeband.com">https://greattimeband.com</a><br />----------------<br /><br />Director of Photography: Ian Slakas -- [<a rel="nofollow" target="blank" href="https://www.instagram.com/ianslakas]">https://www.instagram.com/ianslakas]</a><br />Edited by Great Time<br />Recorded/Mixed/Mastered by Great Time<br />Recorded at Great Time Studios<br /><br />Clothing provided by:<br /><br />Super Massive Shop -- [<a rel="nofollow" target="blank" href="https://www.supermassiveshop.com/]">https://www.supermassiveshop.com/]</a><br />The Bul Bey -- [<a rel="nofollow" target="blank" href="http://www.thebulbey.com/]">http://www.thebulbey.com/]</a><br />Meernaa -- [<a rel="nofollow" target="blank" href="http://www.meernaa.com/#home]">http://www.meernaa.com/#home]</a><br />Jess Best -- [<a rel="nofollow" target="blank" href="https://www.jessbest.com/]">https://www.jessbest.com/]</a><br /><br />Special thanks to everyone else involved with the making of this track/video:<br /><br />Mike Haldeman (some guitz) -- [<a rel="nofollow" target="blank" href="https://www.instagram.com/haldeman/]">https://www.instagram.com/haldeman/]</a><br />Alex Graff (some guitz) -- [<a rel="nofollow" target="blank" href="https://www.instagram.com/agraffmusics/]">https://www.instagram.com/agraffmusics/]</a><br />Paul Bloom (some keyz) -- [<a rel="nofollow" target="blank" href="https://www.instagram.com/paul.bloom/]">https://www.instagram.com/paul.bloom/]</a><br />ShellBellz (hair) -- [<a rel="nofollow" target="blank" href="https://www.instagram.com/musiciz_mylife/]">https://www.instagram.com/musiciz_mylife/]</a><br /><br />----------------<br /><br />LISTEN TO GREAT ALBUM: <a rel="nofollow" target="blank" href="https://hyperurl.co/GreatAlbum">https://hyperurl.co/GreatAlbum</a><br /><br /><br />Follow GREAT TIME online:<br />Instagram: <a rel="nofollow" target="blank" href="http://smarturl.it/GreatTimeIG?IQid=youtube">http://smarturl.it/GreatTimeIG?IQid=youtube</a><br />Facebook: <a rel="nofollow" target="blank" href="http://smarturl.it/GreatTimeFB?IQid=youtube">http://smarturl.it/GreatTimeFB?IQid=youtube</a><br />Twitter: <a rel="nofollow" target="blank" href="http://smarturl.it/GreatTimeTw?IQid=youtube">http://smarturl.it/GreatTimeTw?IQid=youtube</a><br />Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/GreatTimeSpotify?IQid=youtube">http://smarturl.it/GreatTimeSpotify?IQid=youtube</a><br /><br />gr8™{% endraw %}
