@@ -1,0 +1,15 @@
+---
+title: "Iske Bina Possible Nahi Tha | Lake Pichola Udaipur |Day 3| ExploreTheUnseen2.0"
+image: "https:\/\/i.ytimg.com\/vi\/oHXVWS8YbaQ\/hqdefault.jpg"
+vid_id: "oHXVWS8YbaQ"
+categories: "People-Blogs"
+tags: ["road trip","explore the unseen 2.0","explore the unseen"]
+date: "2021-09-29T19:28:51+03:00"
+vid_date: "2021-09-29T04:22:16Z"
+duration: "PT16M31S"
+viewcount: "63109"
+likeCount: "5343"
+dislikeCount: "93"
+channel: "Explore The Unseen 2.0"
+---
+{% raw %}For all your spare parts needs visit:  <a rel="nofollow" target="blank" href="https://boodmo.com/">https://boodmo.com/</a><br /><br />Google Ne Phir Dhoka Dia | Lake Pichola Udaipur |Day 3| ExploreTheUnseen2.0 <br /><br />Contact Vacation's Club to book your holidays (Nupur : 8178180063)<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/vacationsclub08/">https://www.instagram.com/vacationsclub08/</a><br /><br />Instagram Page : <a rel="nofollow" target="blank" href="https://instagram.com/Vikas.dayal.9">https://instagram.com/Vikas.dayal.9</a><br />For Business/Collaborations  : vikash.dayal1@gmail.com<br /><br />Gears that I use : <br />Walkie Talkie Two-Way Radio : <a rel="nofollow" target="blank" href="https://amzn.to/3mbqnCq">https://amzn.to/3mbqnCq</a><br />Primary Mic for Canon : <a rel="nofollow" target="blank" href="https://amzn.to/3jtZYhf">https://amzn.to/3jtZYhf</a><br />Canon M50 : <a rel="nofollow" target="blank" href="https://amzn.to/3imS4Gk">https://amzn.to/3imS4Gk</a><br />Canon Vlogging Wide Angle Lense : <a rel="nofollow" target="blank" href="https://amzn.to/3gmpPWN">https://amzn.to/3gmpPWN</a><br />Canon 50mm Lense : <a rel="nofollow" target="blank" href="https://amzn.to/3iutljI">https://amzn.to/3iutljI</a><br />Sigma Vlogging Lense : <a rel="nofollow" target="blank" href="https://amzn.to/3hgqOs2">https://amzn.to/3hgqOs2</a><br />Canon EOS M Mount Adapter : <a rel="nofollow" target="blank" href="https://amzn.to/2BiP8Kw">https://amzn.to/2BiP8Kw</a><br />Go Pro Hero 7 Black : <a rel="nofollow" target="blank" href="https://amzn.to/2YMICV9">https://amzn.to/2YMICV9</a><br />Go Pro Hero 7 Black Combo : <a rel="nofollow" target="blank" href="https://amzn.to/2BYLy7X">https://amzn.to/2BYLy7X</a><br />Boya Shortgun Microphone : <a rel="nofollow" target="blank" href="https://amzn.to/3dW5iXu">https://amzn.to/3dW5iXu</a><br />Boya Lavalier Microphone : <a rel="nofollow" target="blank" href="https://amzn.to/2Zkk1py">https://amzn.to/2Zkk1py</a><br />Digitek Tripod : <a rel="nofollow" target="blank" href="https://amzn.to/2CZ4B2K">https://amzn.to/2CZ4B2K</a><br />MonoPod Stick Stand for DSLR/SLR Action Camera ://amzn.to/3im2upW<br />Camera Bagpack : <a rel="nofollow" target="blank" href="https://amzn.to/3hhNisj">https://amzn.to/3hhNisj</a><br />Maono Lav Mic : <a rel="nofollow" target="blank" href="https://amzn.to/3fwXnkd">https://amzn.to/3fwXnkd</a><br />Saramonic Mic : <a rel="nofollow" target="blank" href="https://amzn.to/33nxelq">https://amzn.to/33nxelq</a><br />Rode Video Mic : <a rel="nofollow" target="blank" href="https://amzn.to/31gBHDA">https://amzn.to/31gBHDA</a>{% endraw %}
