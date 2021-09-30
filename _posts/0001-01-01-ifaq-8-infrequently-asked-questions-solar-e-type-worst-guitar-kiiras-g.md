@@ -1,0 +1,15 @@
+---
+title: "iFAQ #8 - inFrequently Asked Questions - Solar E-type, Worst Guitar, Kiiras guitars, Devin, and more"
+image: "https:\/\/i.ytimg.com\/vi\/dzNlozOp7Ko\/hqdefault.jpg"
+vid_id: "dzNlozOp7Ko"
+categories: "Music"
+tags: ["Demo","Playthrough","Ola Englund"]
+date: "2021-09-30T20:07:20+03:00"
+vid_date: "2020-06-06T15:00:15Z"
+duration: "PT16M38S"
+viewcount: "3925"
+likeCount: "242"
+dislikeCount: "3"
+channel: "ArnoldPlaysGuitar"
+---
+{% raw %}Links related to this video's content:<br />Shirt: <a rel="nofollow" target="blank" href="https://teespring.com/stores/olaenglund">https://teespring.com/stores/olaenglund</a><br />Kiiras Guitars: <a rel="nofollow" target="blank" href="https://kiirasinstruments.com/">https://kiirasinstruments.com/</a><br /><br />Links to Support Me: <br />My new EP, &quot;A Profound Disdain For Life&quot; can be found on your favorite streaming services, but also available for sale at: <a rel="nofollow" target="blank" href="http://arnoldplaysguitar.bandcamp.com">http://arnoldplaysguitar.bandcamp.com</a><br />UPDATED LINK!!! T-shirts and other merch is now available at the following link:<br /><a rel="nofollow" target="blank" href="https://teespring.com/stores/arnoldplaysguitar">https://teespring.com/stores/arnoldplaysguitar</a><br />Paypal donations: <a rel="nofollow" target="blank" href="https://www.paypal.me/ArnoldPlaysGuitar">https://www.paypal.me/ArnoldPlaysGuitar</a><br />Want to buy some gear I am selling? Hit up: <a rel="nofollow" target="blank" href="https://reverb.com/shop/arnoldhablewitz">https://reverb.com/shop/arnoldhablewitz</a><br /><br />Affiliate Links:<br />Where do I purchase new gear from? Head over to Sweetwater by clicking my affiliate link: <a rel="nofollow" target="blank" href="https://imp.i114863.net/Z2J0R">https://imp.i114863.net/Z2J0R</a><br />Where do I purchase my used gear from? Head over the Reverb by clicking my affiliate link and set up an account: <a rel="nofollow" target="blank" href="https://reverb.grsm.io/ArnoldHablewitz">https://reverb.grsm.io/ArnoldHablewitz</a> <br />Want to get your music out there to the masses and keep 100% of your royalties? Click the following link to get a discount on your first year: <a rel="nofollow" target="blank" href="http://distrokid.com/vip/ArnoldPlaysGuitar">http://distrokid.com/vip/ArnoldPlaysGuitar</a><br />Use my link <a rel="nofollow" target="blank" href="https://www.tavour.com/referral?referred_by=99923">https://www.tavour.com/referral?referred_by=99923</a> to install the app and we both get $10 in credit when you buy your first beer.<br />Already installed? No problem - just use my code 99923 in the Promos page of the app.<br /><br />DISCLAIMER - all views contained herein are mine and mine alone. They may not reflect your experiences under similar circumstances. All photos and other media content utilized under &quot;fair use&quot; for the purposes of commentary.<br /><br />Please like and subscribe. If you have any questions, comments, or concerns regarding the instrument or the video, please leave a comment.{% endraw %}
