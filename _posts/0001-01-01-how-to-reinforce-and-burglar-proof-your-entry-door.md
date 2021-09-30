@@ -1,0 +1,15 @@
+---
+title: "How to Reinforce and Burglar Proof Your Entry Door"
+image: "https:\/\/i.ytimg.com\/vi\/ZPzngdFpRf8\/hqdefault.jpg"
+vid_id: "ZPzngdFpRf8"
+categories: "Howto-Style"
+tags: ["Reinforce an Entry Door","Entry Door Reinforcement","Burglar Proof Doors"]
+date: "2021-09-30T10:40:33+03:00"
+vid_date: "2013-08-31T12:30:19Z"
+duration: "PT10M5S"
+viewcount: "1376567"
+likeCount: "15891"
+dislikeCount: "1322"
+channel: "Home Repair Tutor"
+---
+{% raw %}Reinforcing your entry door and making it burglar proof may not be sexy but keeping your stuff and your family safe is a noteworthy cause.<br /><br />This is Jeff from Home Repair Tutor and today I'm going to take you through my step-by-step process on how to do use the EZ Armor Kit to reinforce an entry door. Unfortunately almost anyone could kick open your front door because it's most-likely secured with 1/2 or 3/4 inch steel screws. You can buy a kit from a home store like Lowe's that stop burglars in their tracks-literally.  This kit is easy to install and needs only a drill along with a screw bit and 11/64 inch drill bit.<br /><br />EZ Armor Reinforcer Combo Set: <a rel="nofollow" target="blank" href="https://amzn.to/2pNTa7H">https://amzn.to/2pNTa7H</a> <br /><br />Some product links may be Amazon affiliate links. As an Amazon Associate we earn from qualifying purchases at no additional cost to you. <br /><br />For more Exterior DIY project ideas visit:<br /><a rel="nofollow" target="blank" href="https://www.homerepairtutor.com/category/exterior-diy-projects/">https://www.homerepairtutor.com/category/exterior-diy-projects/</a><br /><br />0:00 How to Reinforce an Entry Door<br />0:36 EZ Armor Kit<br />1:36 Make sure that the hinge shield fits<br />2:11 Remove screws from the middle hinge and install the shield<br />4:54 Repeat the process with the bottom hinge<br />5:39 How to knock out the correct spots on the jam shield<br />6:17 How to drill holes in the jamb shield<br />7:07 How to install the jamb shield<br />8:20 See if there is enough space for the deadbolt and door lock shields<br />8:49 Change out screws on the deadbolt and door lock<br /><br />#burglarproofhome #ezarmor #reinforceentrydoor<br /><br />Want our newest DIY videos? Subscribe to our channel and hit the notification bell to see every upload. We upload new videos every Saturday.<br /><br />Disclaimer:<br />Videos produced by Home Repair Tutor are provided for informational, educational, &amp; entertainment purposes only. Some of these projects, materials, and techniques may not be appropriate for all ages or skill levels. Home Repair Tutor does not make any claims of the safety of the projects, techniques, or resources listed on this site and will not take responsibility of what you do with the information provided by this site. Viewers must be aware by doing DIY projects on their homes they are doing it at their own risk and Home Repair Tutor cannot be held liable if they cause any damage to their homes. Home Repair Tutor cannot claim liability with all applicable laws, rules, codes and regulations for a project.{% endraw %}
