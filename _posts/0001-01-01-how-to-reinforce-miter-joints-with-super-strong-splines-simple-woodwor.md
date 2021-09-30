@@ -1,0 +1,15 @@
+---
+title: "How to reinforce miter joints with super-strong splines. Simple woodworking jig."
+image: "https:\/\/i.ytimg.com\/vi\/HkGjC8dUJig\/hqdefault.jpg"
+vid_id: "HkGjC8dUJig"
+categories: "Howto-Style"
+tags: ["woodworking project","woodworking","how-to"]
+date: "2021-09-30T19:02:14+03:00"
+vid_date: "2017-07-14T18:08:09Z"
+duration: "PT6M53S"
+viewcount: "235078"
+likeCount: "7035"
+dislikeCount: "138"
+channel: "Steve Ramsey - Woodworking for Mere Mortals"
+---
+{% raw %}Download my FREE GUIDE to setting up a shop for under $1000 ►► <a rel="nofollow" target="blank" href="http://mytoollist.com/">http://mytoollist.com/</a><br /><br />Adding splines to frame corners is a great way to strengthen the miters. Here is an alternative method for even extra strength!<br /><a rel="nofollow" target="blank" href="http://woodworkingformeremortals.com/super-strong-splines-miter-joints/">http://woodworkingformeremortals.com/super-strong-splines-miter-joints/</a><br /><br />►Get $50 off your first Casper mattress order: <a rel="nofollow" target="blank" href="http://www.casper.com/wwmm">http://www.casper.com/wwmm</a> Use promo code WWMM. <br />More picture frame ideas► <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL2Y7G15DrVt4vbNJ5O7Ih4AwtrPjwJVOo">https://www.youtube.com/playlist?list=PL2Y7G15DrVt4vbNJ5O7Ih4AwtrPjwJVOo</a><br /><br />-------<br />No sponsors, no plugs, no Adsense. AD-FREE versions of my videos ►► <a rel="nofollow" target="blank" href="https://www.patreon.com/wwmm">https://www.patreon.com/wwmm</a><br />__<br />WWMM is sponsored by MicroJig, maker of the GRR-RIPPER<br /><a rel="nofollow" target="blank" href="http://bit.ly/worksafer">http://bit.ly/worksafer</a> <br />Keep your fingers safe. Get a GRR-RIPPER ► <a rel="nofollow" target="blank" href="http://amzn.to/1PQruDW">http://amzn.to/1PQruDW</a><br />----------------<br />Equip your woodworking shop for under $1,000: <a rel="nofollow" target="blank" href="https://theweekendwoodworker.com/tww-...">https://theweekendwoodworker.com/tww-...</a><br /><br />PATREON ► <a rel="nofollow" target="blank" href="https://www.patreon.com/wwmm">https://www.patreon.com/wwmm</a><br />TOOLS I USE► <a rel="nofollow" target="blank" href="https://amzn.to/2F3hxQc">https://amzn.to/2F3hxQc</a><br />WWMM T-SHIRTS► <a rel="nofollow" target="blank" href="http://amzn.to/2scxfYl">http://amzn.to/2scxfYl</a><br />FACEBOOK► <a rel="nofollow" target="blank" href="https://www.facebook.com/WoodworkingF...">https://www.facebook.com/WoodworkingF...</a><br />INSTAGRAM► <a rel="nofollow" target="blank" href="http://instagram.com/steveramsey_wwmm">http://instagram.com/steveramsey_wwmm</a><br />----------------<br />MAILING ADDRESS:<br /><br />WWMM<br />448 Ignacio Blvd. #237<br />Novato CA 94949<br />----------------<br />Woodworking for Mere Mortals® is a registered trademark of  ZRAM Media, LLC.<br />#woodworking #powertools #WWMM<br />Category<br />Howto &amp; Style<br /> <br />----------------<br />Music:<br /> <br />&quot;Princess Meow-Meow's Theme&quot; by Per Almered{% endraw %}
