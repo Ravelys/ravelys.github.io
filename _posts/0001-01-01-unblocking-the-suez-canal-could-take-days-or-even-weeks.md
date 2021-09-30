@@ -1,0 +1,15 @@
+---
+title: "Unblocking the Suez Canal Could Take Days—Or Even Weeks"
+image: "https:\/\/i.ytimg.com\/vi\/7Z62NTC43-I\/hqdefault.jpg"
+vid_id: "7Z62NTC43-I"
+categories: "News-Politics"
+tags: ["Unblocking","Canal","Could"]
+date: "2021-09-30T12:50:35+03:00"
+vid_date: "2021-03-25T17:35:51Z"
+duration: "PT4M45S"
+viewcount: "82950"
+likeCount: "509"
+dislikeCount: "86"
+channel: "Bloomberg Quicktake: Now"
+---
+{% raw %}Two of the world’s largest container carriers said they’re considering sending ships around Africa to avoid the Suez Canal amid warnings it could take days -- or even weeks -- to release a stuck container ship.<br /><br />A.P. Moller-Maersk A/S and Hapag-Lloyd AG are considering sending ships around Africa to avoid gridlock in the waterway. Torm A/S, a Danish owner of tankers, said its customers have asked about the cost of options to divert.<br /><br />The possible diversions are the starkest example yet of how the canal blockage is starting to ripple across maritime markets for everything from finished goods to energy and commodities. Even before the 400-meter long Ever Given got blocked on Tuesday, supply chains had been snarled by the pandemic.<br /><br />“Regarding the possible alternatives, we are looking at all of them, including the Cape of Good Hope but also many others, for example air solutions for critical and time-sensitive cargo,” Maersk said in a statement. “No concrete decision has been taken yet. It will depend on how long the Suez Canal remains impassable.”<br /><br />Subscribe to our YouTube channel: <a rel="nofollow" target="blank" href="https://bit.ly/2TwO8Gm">https://bit.ly/2TwO8Gm</a><br /><br />Bloomberg Quicktake brings you live global news and original shows spanning business, technology, politics and culture. Make sense of the stories changing your business and your world.<br /><br />To watch complete coverage on Bloomberg Quicktake 24/7, visit <a rel="nofollow" target="blank" href="http://www.bloomberg.com/qt/live,">http://www.bloomberg.com/qt/live,</a> or watch on Apple TV, Roku, Samsung Smart TV, Fire TV and Android TV on the Bloomberg app.<br /><br />Have a story to tell? Fill out this survey for a chance to have it featured on Bloomberg Quicktake: <a rel="nofollow" target="blank" href="https://cor.us/surveys/27AF30">https://cor.us/surveys/27AF30</a><br /><br />Connect with us on…<br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/Bloomberg">https://www.youtube.com/user/Bloomberg</a><br />Breaking News on YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/BloombergQuickTakeNews">https://www.youtube.com/c/BloombergQuickTakeNews</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/quicktake">https://twitter.com/quicktake</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/quicktake">https://www.facebook.com/quicktake</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/quicktake">https://www.instagram.com/quicktake</a>{% endraw %}
