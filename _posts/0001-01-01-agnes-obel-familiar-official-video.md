@@ -1,0 +1,15 @@
+---
+title: "Agnes Obel - Familiar (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/32kYH6XZrIo\/hqdefault.jpg"
+vid_id: "32kYH6XZrIo"
+categories: "Music"
+tags: ["Familiar","Philharmonics","agnes obel (musical artist)"]
+date: "2021-09-30T11:56:48+03:00"
+vid_date: "2016-06-29T09:58:15Z"
+duration: "PT4M26S"
+viewcount: "22816331"
+likeCount: "239460"
+dislikeCount: "3211"
+channel: "Agnes Obel"
+---
+{% raw %}Agnes Obel's single 'Familiar' taken from her album 'Citizen Of Glass'.<br /><br />Listen to the 'Citizen Of Glass' album in full and add it to your music library here: <a rel="nofollow" target="blank" href="https://agnesobel.ffm.to/citizenofglass.oyd">https://agnesobel.ffm.to/citizenofglass.oyd</a><br /><br />Discover more of Agnes' music on your preferred music service here: <a rel="nofollow" target="blank" href="https://agnesobel.ffm.to/music.oyd">https://agnesobel.ffm.to/music.oyd</a><br /><br />Buy Agnes Obel merchandise at: <a rel="nofollow" target="blank" href="https://agnesobel.ffm.to/merch.oyd">https://agnesobel.ffm.to/merch.oyd</a><br /><br />Follow Agnes online...<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/agnesobelof...">https://www.instagram.com/agnesobelof...</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/agnesobeloff...">https://www.facebook.com/agnesobeloff...</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/agnesobel">https://twitter.com/agnesobel</a><br /><a rel="nofollow" target="blank" href="http://www.agnesobel.com">http://www.agnesobel.com</a><br /><br />Credits:<br />Music: Written, recorded, produced and mixed by Agnes Obel  <br />Director: Alex Bruel Flagstad  <br />Cinematography: Alex Bruel Flagstad  <br />Lighting Design: Julian Hayr  <br />Editing: Alex Bruel Flagstad and Julian Hayr <br />Cello: Kristina Koropecki, Charlotte Danhier<br />Timbra and shakers: Daniel Matz<br />Violin: John Corban <br /><br />Familiar Lyrics:<br />Can you walk on the water if I, you and I?<br />Be'Cause your blood's running cold outside the familiar true to life<br />Can you walk on the water if I, you and I?<br />Or keep your eyes on the road and live in the familiar without you and I<br />It glows with gates of gold to true life<br /><br />For our love is a ghost that the others can't see<br />It's a danger<br />Every shade of us you fade down to keep<br />them in the dark on who we are<br />(Oh what you do to me)<br />This love is gonna be the death of me<br />It's a danger<br />'Cause our love is a ghost that the others can't see<br /><br />We took a walk to the summit at night, you and I<br />To burn a hole in the old grip of the familiar true to life<br />And the dark was opening wide, do or die<br />Under a mask of vermillion ruling eyes<br /><br />And our love is a ghost that the others can't see<br />It's a danger<br />Every shade of us you fade down to keep<br />them in the dark on who we are<br />(Oh what you do to me)<br />Gonna be the death of me<br />It's a danger<br />'Cause our love is a ghost that the others can't see<br /><br />#AgnesObel #CitizenOfGlass #Piano{% endraw %}
