@@ -1,0 +1,15 @@
+---
+title: "KAROL G - SEJODIOTO (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/D7fP9lnzt_Y\/hqdefault.jpg"
+vid_id: "D7fP9lnzt_Y"
+categories: "Music"
+tags: ["KAROL","SEJODIOTO","UMLE"]
+date: "2021-09-30T14:02:38+03:00"
+vid_date: "2021-09-21T21:00:05Z"
+duration: "PT3M7S"
+viewcount: "16540628"
+likeCount: "464425"
+dislikeCount: "24446"
+channel: "KarolGVEVO"
+---
+{% raw %}KAROL G – SEJODIOTO (Official Video)<br /><br />Stream &quot;SEJODIOTO&quot; on your favorite streaming platform:  <a rel="nofollow" target="blank" href="https://karolg.lnk.to/SeJodioTo!YTD">https://karolg.lnk.to/SeJodioTo!YTD</a> <br /><br />Subscribe to to KAROL’s YouTube channel here: <a rel="nofollow" target="blank" href="https://smarturl.it/SubscribeKarolG">https://smarturl.it/SubscribeKarolG</a> <br /><br />Connect with KAROL G on socials:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/karolg/">https://www.instagram.com/karolg/</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/karolg">https://twitter.com/karolg</a> <br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/karolg">https://facebook.com/karolg</a> <br />Tik Tok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@karolg">https://www.tiktok.com/@karolg</a><br /><br />Shop SEJODIOTO Collection <a rel="nofollow" target="blank" href="https://shopkarolg.com/">https://shopkarolg.com/</a><br /><br />Lyrics<br /><br />SEJODIOTO<br /><br />Me cansé de relaciones No quiero más prisiones Por más que me critiquen Me tiene sin  cojones Papi me puse más mami Lo sabe Colombia<br />PR y Miami<br /><br />Que chimba se siente Hacer el amor con otro<br />Y que quede entre nosotros Tú eres mío sin papeles<br />Y así cero corazones rotos (BIS)<br /><br />En Miami en una moto<br />Si el traje se me sube se me vio to To el día en la Mia<br />toy bien encendía<br />Me dejaron solita y se jodio to<br /><br />Prendo el Ferra y despego de la tierra <br />Hágame el amor no la guerra<br />Que en la disco me espera mi perra Y vamos con la cartera mela<br /><br />En Miami en una moto<br />Si el traje se me sube se me vio to To el día en la Mia<br />toy bien encendía<br />Me dejaron solita y se jodio to<br /><br />Que chimba se siente Hacer el amor con otro<br />Y que quede entre nosotros Tú eres mío sin papeles<br />Y así cero corazones rotos (BIS)<br /><br />Vamo a darnos estos tragos hasta el fondo Si se filtra algún video no les copio<br />De mi nota, No respondo<br />Este tío no es de españa y ta cachondo<br /><br />Hoy te quiero perrear Y contigo sudar<br />No te puedes hoookear Yo me acabo de dejar<br />Dicen que el es logo pero eso es mental <br />El lo hizo primero no se puede quejar<br /><br />#KarolG #SEJODIOTO<br /><br />Music video by KAROL G performing SEJODIOTO. Universal Music Latino; © 2021 UMG Recordings, Inc.<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/OOb54B">http://vevo.ly/OOb54B</a>{% endraw %}
