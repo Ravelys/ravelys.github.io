@@ -1,0 +1,15 @@
+---
+title: "Breaking News | Finally"
+image: "https:\/\/i.ytimg.com\/vi\/fVZ8JK_NX60\/hqdefault.jpg"
+vid_id: "fVZ8JK_NX60"
+categories: "Comedy"
+tags: ["Breaking News","finally","dailly news"]
+date: "2021-10-01T08:26:38+03:00"
+vid_date: "2021-09-20T12:09:53Z"
+duration: "PT10M43S"
+viewcount: "123655"
+likeCount: "8687"
+dislikeCount: "182"
+channel: "Finally"
+---
+{% raw %}#SaveBharathi<br />குழந்தை பாரதியின் உயிரைக் காப்பாற்ற 16 கோடி ரூபாய் நிதி திரட்டும் பணியில் பங்கேற்க விரும்புவோர் கீழேயுள்ள Link-ஐ கிளிக் செய்யவும் :<br /><br /><a rel="nofollow" target="blank" href="https://milaap.org/fundraisers/support-bharathi-j-e?utm_source=whatsapp&amp;utm_medium=fundraisers-title">https://milaap.org/fundraisers/support-bharathi-j-e?utm_source=whatsapp&amp;utm_medium=fundraisers-title</a><br /><br />Phonepe ,Gpay &amp; Paytm Number :9791793435<br /><br /><br />FOLLOW US  <br /><br />FACEBOOK    : <a rel="nofollow" target="blank" href="https://www.facebook.com/FinallyOffl/...">https://www.facebook.com/FinallyOffl/...</a><br />INSTAGRAM  : <a rel="nofollow" target="blank" href="https://www.instagram.com/finallyoffl...">https://www.instagram.com/finallyoffl...</a><br />TWITTER  : <a rel="nofollow" target="blank" href="https://twitter.com/finallyoffl​​​​​​​">https://twitter.com/finallyoffl​​​​​​​</a><br /><br /><br />******** FOR BUSINESS QUERIES CONTACT : 6379983539 &amp; WhatsApp : 8072620023*********<br /><br />-----------------------------------------------------------------------------------------------------------<br />CAST -Raj, Swathika , Guruprasanth, Venkatkumar, Sathishkumar<br />SCRIPT &amp; DIRECTION -  Krishna us<br />CAMERA - Vikash <br />EDITING &amp; SFX - Dhivaker Dennis<br />POSTER DESIGN - Venkat Kumar<br />DUBBING ENGINEER - Anandhakumar<br />ASSISTANT CAMERA - Vishwa<br />MARKETING - Diana<br />SOCIAL MEDIA MANAGER : Vijayakumar Jayakumar<br />MANAGER : Amal Raj U.S<br />CHANNEL HEAD - Krishna us<br />CREATIVE HEAD : Niranjan<br />CEO : Bhaarath<br /><br />-----------------------------------------------------------------------------------------------------------<br />INSTA ID :<br /><br />BHAARATH : @Bhaarath143<br />NIRANJAN : @NiranjanNiranch (FACEBOOK)<br />AMAL RAJ : @amalraj.u.s<br />BALA KRISHNAN : @Krishna_us_<br />RAJ VJ : @Finallyraj<br />DHIVAKER DENNIS : @Editor_Dhivaker<br />ANANDHAKUMAR : @anandh_kavi124<br />SWATHIKA: @swathi_ka_s<br />VIKASHTHARAN : @Vikashtharan<br />SITHARTH : @Editor_sitharth<br />RAMESH : @Ram_mech<br />VENKATKUMAR : @freakypayyan<br />DIANA : @Dianafairleen<br />GURUPRASANTH : @guruprasanth_mani<br />VISHWA: @vishwa_se_me<br />-----------------------------------------------------------------------------------------------------------<br />COMMENT, SHARE, LIKE AND SUBSCRIBE....!<br /><br />#youtubechannel #youtube #youtuber #youtubers #subscribe #youtubevideos #sub #youtubevideo #like #instagram #follow #video #vlog #subscribetomychannel #gaming #music #explorepage #love #smallyoutuber #vlogger #youtubegaming #instagood #gamer #youtubecommunity #likes #explore #youtubelife #youtubecreator #ps #bhfyp #finally{% endraw %}
