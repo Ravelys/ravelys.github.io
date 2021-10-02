@@ -1,0 +1,15 @@
+---
+title: "【睇你點睇 -  女生問題篇上】全新兩性交流綜藝節目！尖銳性處境問題連加蔥豪dee都難倒！女朋友問你佢係咪肥左、夢到你出軌然後嬲左你！點答！？｜微辣Manner"
+image: "https:\/\/i.ytimg.com\/vi\/cgvbYPnjfqQ\/hqdefault.jpg"
+vid_id: "cgvbYPnjfqQ"
+categories: "Entertainment"
+tags: ["微辣","Manner","搞笑"]
+date: "2021-10-02T20:14:04+03:00"
+vid_date: "2021-10-02T12:00:11Z"
+duration: "PT30M53S"
+viewcount: "75962"
+likeCount: "4796"
+dislikeCount: "130"
+channel: "微辣 Manner"
+---
+{% raw %}監製 Executive Producer：煮詞人 JackyLou<br />導演 Director：蕭魂王 Sylvia Wong<br />主持人 Host：煮詞人 JackyLou<br />製片 Producer：Charlie<br />攝影 Cameraman：小豪, Kaki, Wing, Cason, Benjamin<br />燈光 Lighting：小豪, Kaki, Wing, Cason, Benjamin<br />收音 Boom Operator：阿敏, 阿姿<br />美術 Art：Terry<br />剪輯 Editor：蕭魂王 查理老<br />剪輯助理 Editor Assisant：揸流攤字幕組<br />藝人 Artist：<br />霍哥, 加蔥, 阿丞, 豪Dee<br />Tina, Doris, Rosalina, LokB<br />JackyLou<br /><br />更多精彩請關注►►Let's #tastehappiness <br />▼ Follow 微辣Manner<br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCgSbuhAD48A7RxbvflQfdjQ?sub_confirmation=1">https://www.youtube.com/channel/UCgSbuhAD48A7RxbvflQfdjQ?sub_confirmation=1</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/weilamanner">https://www.facebook.com/weilamanner</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/manner__official/">https://www.instagram.com/manner__official/</a><br /><br />成為辣粉（部分地區因YouTube官方未開放暫時無法加入）<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCgSbuhAD48A7RxbvflQfdjQ/join">https://www.youtube.com/channel/UCgSbuhAD48A7RxbvflQfdjQ/join</a><br /><br />演員YouTube<br /> @煮詞人Jacky Lou @Nathan Lam加蔥 @Jeffrey Fok霍哥哥 @豪Dee @少年江流的觀影日誌 <br />@Doris Lee 多多 @Tina田娜 @This is R @bestcouple不是情侶 <br />  <br />▼微辣經典影片<br />【 劇場版MV -《再想當年》 】<br />►►<a rel="nofollow" target="blank" href="https://youtu.be/YYtX7f8bpfc">https://youtu.be/YYtX7f8bpfc</a><br />【微辣大排檔】<br />►►<a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_jnj_Gy1MoIFCKMuGjMiEZHQMTXkSqE9">https://www.youtube.com/playlist?list=PL_jnj_Gy1MoIFCKMuGjMiEZHQMTXkSqE9</a><br />【微辣遊戲王】<br />►►<a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_jnj_Gy1MoLrdg07Qq8v7DQ41afvFcgQ">https://www.youtube.com/playlist?list=PL_jnj_Gy1MoLrdg07Qq8v7DQ41afvFcgQ</a><br />【微辣遊戲王 - 狼人殺】<br />►►<a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_jnj_Gy1MoLkG4nIGuNLZzmBbK9kDDJ9">https://www.youtube.com/playlist?list=PL_jnj_Gy1MoLkG4nIGuNLZzmBbK9kDDJ9</a><br />【微辣搞笑合集】<br />►►<a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_jnj_Gy1MoL4eDz-J5M_uf419Jj2CLGv">https://www.youtube.com/playlist?list=PL_jnj_Gy1MoL4eDz-J5M_uf419Jj2CLGv</a><br />【微辣音樂/劇場版MV】<br />►►<a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL_jnj_Gy1MoKUKBKAmGUSrUp-eBiNIOUx">https://www.youtube.com/playlist?list=PL_jnj_Gy1MoKUKBKAmGUSrUp-eBiNIOUx</a><br /> #睇你點睇  #女生問題篇<br />▼微辣MannerProduction<br />生活的調味►►<a rel="nofollow" target="blank" href="http://mannerproduction.com">http://mannerproduction.com</a>{% endraw %}
