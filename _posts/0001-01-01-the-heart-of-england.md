@@ -1,0 +1,15 @@
+---
+title: "The Heart of England"
+image: "https:\/\/i.ytimg.com\/vi\/Y4Syasft_5Y\/hqdefault.jpg"
+vid_id: "Y4Syasft_5Y"
+categories: "Travel-Events"
+tags: ["Rick Steves","Rick Steves Europe","Europe travel guide"]
+date: "2021-10-03T21:21:15+03:00"
+vid_date: "2019-04-08T20:47:46Z"
+duration: "PT25M2S"
+viewcount: "1331371"
+likeCount: ""
+dislikeCount: ""
+channel: "Rick Steves' Europe"
+---
+{% raw %}Check your local public television station for this Rick Steves’ Europe episode or watch it on <a rel="nofollow" target="blank" href="https://www.ricksteves.com/watch-read-listen/video/tv-show">https://www.ricksteves.com/watch-read-listen/video/tv-show</a>  The heartland of England has sights that put the &quot;Great&quot; in Britain — its venerable universities, its royal heritage, and reminders of its industrial might. At Oxford and Cambridge, we’ll see where kings and prime ministers studied. At Blenheim Palace — Winston Churchill’s birthplace — we’ll connect with English aristocracy. At Ironbridge Gorge, we fire up memories of the Industrial Revolution. And all along the way, we’ll be driving on the left and polishing our pub etiquette.<br /><br />Visit <a rel="nofollow" target="blank" href="http://www.ricksteves.com">http://www.ricksteves.com</a> for more information about this destination and other destinations in Europe.<br /><br />Check out more Rick Steves’ Europe travel resources:<br /> “Rick Steves’ Europe” public television series: <a rel="nofollow" target="blank" href="https://www.ricksteves.com/watch-read-listen/video/tv-show">https://www.ricksteves.com/watch-read-listen/video/tv-show</a><br /> “Travel with Rick Steves” public radio program: <a rel="nofollow" target="blank" href="https://www.ricksteves.com/watch-read-listen/audio/radio">https://www.ricksteves.com/watch-read-listen/audio/radio</a><br /> European Tours: <a rel="nofollow" target="blank" href="https://www.ricksteves.com/tours">https://www.ricksteves.com/tours</a><br /> Guidebooks: <a rel="nofollow" target="blank" href="https://store.ricksteves.com/shop/guidebooks">https://store.ricksteves.com/shop/guidebooks</a><br /> Travel Gear: <a rel="nofollow" target="blank" href="https://store.ricksteves.com/shop/">https://store.ricksteves.com/shop/</a><br /> Trip Consulting: <a rel="nofollow" target="blank" href="https://www.ricksteves.com/travel-help/plan-your-trip-with-our-expert-consultants">https://www.ricksteves.com/travel-help/plan-your-trip-with-our-expert-consultants</a><br /> Travel Classes: <a rel="nofollow" target="blank" href="https://www.ricksteves.com/watch-read-listen/video/travel-talks">https://www.ricksteves.com/watch-read-listen/video/travel-talks</a><br /> Rick Steves Audio Europe App: <a rel="nofollow" target="blank" href="https://www.ricksteves.com/watch-read-listen/audio/audio-europe">https://www.ricksteves.com/watch-read-listen/audio/audio-europe</a><br /> <br />Rick Steves, America's most respected authority on European travel, writes European travel guidebooks and hosts travel shows on public television and public radio.{% endraw %}
