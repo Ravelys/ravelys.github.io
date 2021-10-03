@@ -1,0 +1,15 @@
+---
+title: "Astrid S - Good Choices (#GoodChoicesVideo)"
+image: "https:\/\/i.ytimg.com\/vi\/pzxjqEU2joQ\/hqdefault.jpg"
+vid_id: "pzxjqEU2joQ"
+categories: "Music"
+tags: ["Astrid S","Leave It Beautiful","Astrid"]
+date: "2021-10-03T06:37:12+03:00"
+vid_date: "2021-02-07T13:00:10Z"
+duration: "PT3M36S"
+viewcount: "304185"
+likeCount: "15321"
+dislikeCount: "73"
+channel: "AstridSofficialVEVO"
+---
+{% raw %}Thank you to for all your submissions for 2021's Good Choices!! 3 <br />Listen to “Good Choices”: <a rel="nofollow" target="blank" href="https://AstridS.lnk.to/GoodChoices">https://AstridS.lnk.to/GoodChoices</a> <br />Watch the official lyric video: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=AWN9dtyd4GY">https://www.youtube.com/watch?v=AWN9dtyd4GY</a> <br />Listen to Astrid S’s debut album “Leave It Beautiful”: <a rel="nofollow" target="blank" href="https://AstridS.lnk.to/LeaveItBeautiful">https://AstridS.lnk.to/LeaveItBeautiful</a> <br />Connect with Astrid S: <a rel="nofollow" target="blank" href="https://www.astridsofficial.com">https://www.astridsofficial.com</a> <br />Edit: Sigbjørn Rosø Berg<br />LYRICS<br />I really wanna make good choices <br />But I keep messing up over and over <br />And some days I swear it’s like trouble keeps calling my name <br />Saying <br />Maybe I should stay out late <br />When I know I’m up at 8 <br />Order things that I can’t pay for <br />Oh I wish that I’d walk away more <br />Oh Oh <br />Wake up and try to be someone new <br />Couldn’t even if wanted too <br />It’s part of who I am <br />Can always try again though <br />Try again <br />I really wanna make good choices <br />But I keep messing up over <br />And over some days I swear it’s like trouble keeps calling my name <br />Saying <br />Saying <br />Good choices <br />Avoid it! <br />Good choices <br />Maybe I should call my ex <br />Cause I’m starting to forget him <br />I guess I am just the type that <br />Needs to make the same mistake twice <br />Wake up and try to be someone new <br />Couldn’t even if wanted too <br />It’s part of who I am <br />Can always try again <br />Try again <br />I really wanna make good choices <br />But I keep messing up over and over <br />Some days I swear it’s like trouble keeps calling my name <br />Saying <br />Saying <br />Good choices <br />Avoid it! <br />Good choices <br />Should pick myself up <br />Should love me non-stop <br />Should give me a shot <br />And be my own friend <br />Should cut myself slack <br />Should quit holding back <br />I owe myself that <br />Believe in myself <br />I really wanna make good choices <br />I really wanna make good choices <br />But I keep messing up over and over <br />Some days I swear it’s like trouble keeps calling my name <br />Saying <br />Saying <br />Good choices <br />Avoid it! <br />Good choices <br /><br />#AstridS #GoodChoices #GoodChoicesVideo<br /><br /><br />Music video by Astrid S performing Good Choices. © 2021 Universal Music A/S<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/jiEyOX">http://vevo.ly/jiEyOX</a>{% endraw %}
