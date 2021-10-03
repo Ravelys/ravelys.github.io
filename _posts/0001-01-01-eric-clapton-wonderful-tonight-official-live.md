@@ -1,0 +1,15 @@
+---
+title: "Eric Clapton - Wonderful Tonight [Official Live]"
+image: "https:\/\/i.ytimg.com\/vi\/UprwkbzUX6g\/hqdefault.jpg"
+vid_id: "UprwkbzUX6g"
+categories: "Music"
+tags: ["Eric Clapton","Wonderful Tonight","Rock"]
+date: "2021-10-03T05:05:53+03:00"
+vid_date: "2009-10-27T01:40:12Z"
+duration: "PT6M11S"
+viewcount: "45722118"
+likeCount: "178668"
+dislikeCount: "7983"
+channel: "Eric Clapton"
+---
+{% raw %}Watch the official live video for Wonderful Tonight by Eric Clapton from In Concert: A Benefit for the Crossroads Centre at Antigua.<br />🔔 Subscribe to the channel: <a rel="nofollow" target="blank" href="https://youtube.com/user/ericclapton?sub_confirmation=1">https://youtube.com/user/ericclapton?sub_confirmation=1</a><br /><br />Madison Square Garden - New York City 1999<br /><br />Follow Eric Clapton: <br />Web: <a rel="nofollow" target="blank" href="https://ericclapton.com">https://ericclapton.com</a> <br />Fanclub: <a rel="nofollow" target="blank" href="https://ecaccess.cc/join">https://ecaccess.cc/join</a> <br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/ericclapton">https://facebook.com/ericclapton</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/ericclapton">https://twitter.com/ericclapton</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/ericclapton">https://instagram.com/ericclapton</a><br />Spotify: <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD?si=iAAVIGdwSKOdQLfiamZMyA">https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD?si=iAAVIGdwSKOdQLfiamZMyA</a><br /><br />Eric Clapton is an in international guitarist, singer and songwriter renowned for his hits “Wonderful Tonight,” “Pretending,” “Call Me The Breeze,” “Forever Man,” “My Father’s Eyes,” “Change The World,” and “Layla.” He worked with artists like B.B. King, Roger Waters, Peter Frampton, and George Harrison — amassing billions of global streams and is the only three-time inductee to the “Rock and Roll Hall of Fame.”<br /><br />Lyrics:<br />It's late in the evening, she's wondering what clothes to wear<br />She puts on her make-up and brushes her long blonde hair<br />And then she asks me, &quot;Do I look all right?&quot;<br />And I say, &quot;Yes, you look wonderful tonight&quot;<br /><br />We go to a party and everyone turns to see<br />This beautiful lady that's walking around with me<br />And then she asks me &quot;Do you feel all right?&quot;<br />And I say, &quot;Yes, I feel wonderful tonight&quot;<br /><br />I feel wonderful because I see<br />The love light in your eyes<br />And the wonder of it all<br />Is that you just don't realize how much I love you<br /><br />It's time to go home now and I've got an aching head<br />So I give her the car keys and she helps me to bed<br />And then I tell her, as I turn out the light<br />I say, &quot;My darling, you were wonderful tonight<br />Oh my darling, you were wonderful tonight&quot;<br /><br />#OfficialLiveVideo #EricClapton #WonderfulTonight #WeAreWarnerRecords{% endraw %}
