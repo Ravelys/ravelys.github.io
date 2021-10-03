@@ -1,0 +1,15 @@
+---
+title: "This Statement is False"
+image: "https:\/\/i.ytimg.com\/vi\/PW9jKVRBqBs\/hqdefault.jpg"
+vid_id: "PW9jKVRBqBs"
+categories: "Education"
+tags: ["Liar Paradox","Mathematics (Field Of Study)","This statement is false"]
+date: "2021-10-03T23:42:50+03:00"
+vid_date: "2015-07-10T15:08:25Z"
+duration: "PT2M23S"
+viewcount: "50279"
+likeCount: "750"
+dislikeCount: "44"
+channel: "QHat"
+---
+{% raw %}When someone says &quot;This sentence is false&quot; or &quot;I am a liar,&quot; just what does it mean? In this video, I describe the mathematical logic behind and 3 potential solutions to the classic Liar's Paradox.<br /><br />Share your thoughts and discuss the video below!<br /><br />FURTHER READING:<br /><a rel="nofollow" target="blank" href="http://www.iep.utm.edu/par-liar/#SH1a">http://www.iep.utm.edu/par-liar/#SH1a</a><br /><a rel="nofollow" target="blank" href="http://plato.stanford.edu/entries/truth-values/">http://plato.stanford.edu/entries/truth-values/</a><br />Fuzzy logic: <a rel="nofollow" target="blank" href="http://www.economist.com/node/2099851">http://www.economist.com/node/2099851</a><br />More on fuzzy logic: <a rel="nofollow" target="blank" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.4608&amp;rep=rep1&amp;type=pdf">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.4608&amp;rep=rep1&amp;type=pdf</a><br /><br />IMAGES:<br /><a rel="nofollow" target="blank" href="https://www.flickr.com/photos/mhagemann/10668479803/">https://www.flickr.com/photos/mhagemann/10668479803/</a> “Pinnochio” by flickr user mhagemann (No modifications made, CC BY-SA 2.)<br /><a rel="nofollow" target="blank" href="https://upload.wikimedia.org/wikipedia/commons/7/7c/Pinochio2_1940.jpg">https://upload.wikimedia.org/wikipedia/commons/7/7c/Pinochio2_1940.jpg</a><br /><a rel="nofollow" target="blank" href="http://mitchmartinez.com/portfolio/fireball-3-4k-res/">http://mitchmartinez.com/portfolio/fireball-3-4k-res/</a> Mitch Martinez<br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:Epimenides-poet.jpg">https://commons.wikimedia.org/wiki/File:Epimenides-poet.jpg</a><br /><a rel="nofollow" target="blank" href="https://commons.wikimedia.org/wiki/File:1925_kurt_g%C3%B6del.png">https://commons.wikimedia.org/wiki/File:1925_kurt_g%C3%B6del.png</a><br /><a rel="nofollow" target="blank" href="https://www.flickr.com/photos/simbach/5719933315">https://www.flickr.com/photos/simbach/5719933315</a> “Portal 2 (174)” by flickr user Simbach (No modifications made, CC BY-SA 2.)<br />Video game by Valve<br /><br />MUSIC:<br /><a rel="nofollow" target="blank" href="http://www.bensound.com/royalty-free-music">http://www.bensound.com/royalty-free-music</a><br /><br />&quot;Pamgea&quot; Kevin MacLeod (incompetech.com) <br />Licensed under Creative Commons: By Attribution 3.0<br /><a rel="nofollow" target="blank" href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</a>{% endraw %}
