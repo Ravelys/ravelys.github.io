@@ -1,0 +1,15 @@
+---
+title: "\"I Don't Know If This Is An Interview Or A Roast\" | ScoopWhoop Townhall ft. Rajpal Yadav | Out Now"
+image: "https:\/\/i.ytimg.com\/vi\/5fMS7QW3y7g\/hqdefault.jpg"
+vid_id: "5fMS7QW3y7g"
+categories: "News-Politics"
+tags: ["ScoopWhoop videos","discovery","Townhall"]
+date: "2021-10-04T16:57:40+03:00"
+vid_date: "2021-10-01T13:30:01Z"
+duration: "PT1M58S"
+viewcount: "148278"
+likeCount: "9817"
+dislikeCount: "108"
+channel: "ScoopWhoop Unscripted"
+---
+{% raw %}There's a lot more laughter and entertainment stored in this one. To watch the full episode of ScoopWhoop Townhall with Rajpal Yadav, head over to <a rel="nofollow" target="blank" href="https://www.unscripted.news/.">https://www.unscripted.news/.</a><br /><br />THE NEXT JUMP <br /><br />Our new website <a rel="nofollow" target="blank" href="https://www.unscripted.news/">https://www.unscripted.news/</a> is now live! <br /><br />Why? <br /><br />Because journalism is expensive. And while many newsrooms have cut back on their on-ground journalism, ushering in the age of TV news ‘debates’, that's simply not something we want to do. We want to be out in the field, reporting, researching, and doing work that we believe in, work that is not only time-consuming but increasingly more expensive as we attempt to scale up.<br /><br />Over the last five years, we have tried to do branded content, native brand messaging, a strategy that has worked successfully for ScoopWhoops’ other divisions, and as we’ve grown, trended, and influenced policy, brands have increasingly reached out to us for collaborations. However, what they ask of us, is something we aren’t willing to make, because the tone, rawness, lack of filter, irreverence, and political beliefs of each of our members is what makes us, us. <br /><br />We want to continue to report fearlessly on issues that are important to you and for that we need you. By subscribing to Unscripted you empower us to continue to do work that matters without us having to compromise on the kind of stories we want to do, personnel costs, or to the demands of corporate India.  <br /><br />Go to <a rel="nofollow" target="blank" href="https://www.unscripted.news/">https://www.unscripted.news/</a> for all the details and with your support, we can keep our journalism free from restraints.<br />----------------------------------------------------------------------------------------------------<br /><br /><br /><br />To get notified of all the new videos, subscribe - <a rel="nofollow" target="blank" href="https://www.youtube.com/ScoopWhoopUnscripted">https://www.youtube.com/ScoopWhoopUnscripted</a><br /><br /><br /><br />Show us your love on Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/ScoopWhoopUnscripted/">https://www.facebook.com/ScoopWhoopUnscripted/</a><br /><br /><br /><br />Follow us on Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/scoopwhoopunscripted/">https://www.instagram.com/scoopwhoopunscripted/</a><br /><br />----------------------------------------------------------------------------------------------------{% endraw %}
