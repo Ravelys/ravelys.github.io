@@ -1,0 +1,15 @@
+---
+title: "Brownstone - 5 Miles To Empty (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/tkcQtFKUF48\/hqdefault.jpg"
+vid_id: "tkcQtFKUF48"
+categories: "Music"
+tags: ["Brownstone 5 Miles To Empty","grapevyne","Brownstone"]
+date: "2021-10-04T05:12:32+03:00"
+vid_date: "2009-10-25T09:21:52Z"
+duration: "PT4M19S"
+viewcount: "5593772"
+likeCount: "50751"
+dislikeCount: "1905"
+channel: "BrownstoneVEVO"
+---
+{% raw %}Brownstone's official music video for '5 Miles To Empty'. Click to listen to Brownstone on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/BrownstoneSpotify?IQid=Browns5MT">http://smarturl.it/BrownstoneSpotify?IQid=Browns5MT</a><br /><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/BLDGPlay?IQid=Browns5MT">http://smarturl.it/BLDGPlay?IQid=Browns5MT</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/HumanAmazon?IQid=Browns5MT">http://smarturl.it/HumanAmazon?IQid=Browns5MT</a><br /><br />More From Brownstone<br />Put It Down: <a rel="nofollow" target="blank" href="https://youtu.be/E5svXAZ9-Qk">https://youtu.be/E5svXAZ9-Qk</a><br />Wildest Dreams: <a rel="nofollow" target="blank" href="https://youtu.be/Zh25aap8gH8">https://youtu.be/Zh25aap8gH8</a><br /><br />More great Classic RnB videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/ClassicRNB?IQid=Browns5MT">http://smarturl.it/ClassicRNB?IQid=Browns5MT</a><br /><br />Follow Brownstone<br />Website: <a rel="nofollow" target="blank" href="http://thenextBrownstoneblog.com/">http://thenextBrownstoneblog.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/foreverBrownstone">https://www.facebook.com/foreverBrownstone</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/4everBrownstone">https://twitter.com/4everBrownstone</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/4everBrownstone/">https://instagram.com/4everBrownstone/</a><br /><br />Subscribe to Brownstone on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/BrownstoneSub?IQid=Browns5MT">http://smarturl.it/BrownstoneSub?IQid=Browns5MT</a><br /><br />---------<br /><br />Lyrics:<br /><br />There's only so many songs that I can sing to pass the time. <br />And I'm running out of things to do to get you off my mind (oh whoa). <br />All I have is this picture in a frame (oh ah), <br />that I hold close to see your face everyday. <br /><br />With you is where I'd rather be, <br />but we're stuck where we are. <br />It's so hard, you're so far.. <br />This 5 Miles To Empty is killing me. <br />I wish that you are here with me, <br />but we're stuck where we are <br />it's so hard, you're so far.. <br />This 5 Miles To Empty is killing me.<br /><br />It's so hard, it's so hard, where we are, where we are, you're so far. <br />This 5 Miles To Empty is killing me.<br />It's so hard, it's so hard, where we are, where we are, you're so far <br />(so hard, so hard, where we are, where we are, your so far). <br />This 5 Miles To Empty is killing me.<br /><br />#Brownstone #5MilesToEmpty #Vevo{% endraw %}
