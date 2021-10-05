@@ -1,0 +1,15 @@
+---
+title: "How to Use a FOAM ROLLER for Recovery"
+image: "https:\/\/i.ytimg.com\/vi\/t4A523-O5uk\/hqdefault.jpg"
+vid_id: "t4A523-O5uk"
+categories: "Howto-Style"
+tags: ["runtastic","fitness","health"]
+date: "2021-10-05T10:40:43+03:00"
+vid_date: "2017-05-30T12:30:01Z"
+duration: "PT21M36S"
+viewcount: "1685958"
+likeCount: "31638"
+dislikeCount: "439"
+channel: "adidas Runtastic"
+---
+{% raw %}Foam rolling for runners: <a rel="nofollow" target="blank" href="http://bit.ly/2q9eWO9">http://bit.ly/2q9eWO9</a><br />Total Body Stretching: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=I5y4Cph47nI">https://www.youtube.com/watch?v=I5y4Cph47nI</a><br />Stretching for Legs &amp; Butt: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=6f9wNXc19UE&amp;t=115s">https://www.youtube.com/watch?v=6f9wNXc19UE&amp;t=115s</a><br />*****<br /> ▶︎ Runtastic Blog: <a rel="nofollow" target="blank" href="http://bit.ly/2kRPaM3">http://bit.ly/2kRPaM3</a><br />*****<br />Want to learn how to foam roll? Then grab your foam roller and do it with me! It's time to put this amazing piece of equipment for recovery to good use. I cannot tell you how many people I know who say they want to learn how to foam roll, buy one and never use it - seriously, it's just collecting dust. Let's stop that bad habit and start taking action, together!<br /><br />Find more inspiring workouts in the adidas Training app: <a rel="nofollow" target="blank" href="http://a.did.as/adidas-training-yt">http://a.did.as/adidas-training-yt</a><br /><br />Benefits of foam rolling:<br />* Improved recovery<br />* Better flexibility &amp; mobility<br />* Decrease risk of injury<br />* Great for warm-up and cool down<br />* Decrease muscle soreness<br />*...and more!<br /><br />Chapters<br />0:00 Introduction<br />0:30 What is Foam Rolling<br />1:19 Calfs<br />3:45 IT Band<br />6:45 Quads<br />9:57 Hamstrings<br />11:56 Inner thighs (Adductors)<br />14:27 Upper back<br />16:19 Glutes/piriformis<br />18:44 Lats<br />21:13 Outro<br /><br />♥ LIKE this video ♥<br /><br /><br />*****<br />Subscribe NOW: <a rel="nofollow" target="blank" href="http://bit.ly/rtFitness">http://bit.ly/rtFitness</a> <br />(to get more FREE &amp; great workout and fitness tips)<br /><br />Runtastic Blog: <a rel="nofollow" target="blank" href="http://bit.ly/2kRPaM3">http://bit.ly/2kRPaM3</a><br />Runtastic Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/Runtastic">https://instagram.com/Runtastic</a><br />Runtastic Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/Runtastic">https://facebook.com/Runtastic</a><br />Runtastic Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/Runtastic">https://twitter.com/Runtastic</a><br /><br />*****<br />Reach your fitness, nutrition, health, wellness &amp; happiness goals:<br /><br />New Runtastic Fitness videos are posted weekly, providing you with helpful, high-quality information on how you can lead a healthy and active lifestyle.{% endraw %}
