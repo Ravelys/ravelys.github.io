@@ -1,0 +1,15 @@
+---
+title: "Animal Classification for Kids | Learn how to Classify Animals and the Animal Taxonomies"
+image: "https:\/\/i.ytimg.com\/vi\/tm-Z0gCWsgI\/hqdefault.jpg"
+vid_id: "tm-Z0gCWsgI"
+categories: "Education"
+tags: ["Animal Classification for Kids","Animal Classification","how are animals classified"]
+date: "2021-10-05T22:55:52+03:00"
+vid_date: "2021-04-08T16:32:42Z"
+duration: "PT8M58S"
+viewcount: "31375"
+likeCount: "311"
+dislikeCount: "37"
+channel: "Learn Bright"
+---
+{% raw %}In this video your students and kids will learn how animals are classified into different groups. Classification breaks very large groups down into smaller groups. This makes them easier to be studied. Scientists classify animals, plants and insects based on things they have in common. Just like kids would do with their toys!<br /><br />Taxonomy means to classify living things. Scientists and biologists use a taxonomy chart to classify all the organisms on Earth. This chart includes the following groups: Domain, Kingdom, Phylum, Class, Order, Family, Genus and Species.  Throughout the video we will learn about the different taxonomies, how animals are classified and spend a little more time on vertebrates and invertebrates.  By the end you kid will have a more solid understanding of what makes animals different and may be able to classify them into their proper taxonomies.<br /><br />Would you like even more Animal Classification Learning resources?  Download our free comprehensive lesson plan here: <a rel="nofollow" target="blank" href="https://learnbright.org/?s=animal+classification">https://learnbright.org/?s=animal+classification</a> here you'll find access to lots more content, worksheets, learning activities and more. <br /><br />Thank you for watching and learning with us! We’re constantly releasing new content and videos so click that “Subscribe” button and you’ll notified. <br /><br />Follow us across the web! <br /><br />Find and Follow Us Online:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/LearnBright/">https://www.facebook.com/LearnBright/</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/LearnBrightEducation">https://instagram.com/LearnBrightEducation</a><br />Pinterest: <a rel="nofollow" target="blank" href="https://pinterest.com/LearnBrightEducation">https://pinterest.com/LearnBrightEducation</a> <br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/LearnBright">https://www.youtube.com/LearnBright</a> <br />Website: <a rel="nofollow" target="blank" href="https://learnbright.org/">https://learnbright.org/</a><br /><br />Are you a K-6 grade teacher looking for more teaching resources?  We don’t only provide video content but high quality lesson plans as well.  100% free with handouts, worksheets, classroom activities and more!  <br /><br />Browse our entire collection of Science lesson plans: <a rel="nofollow" target="blank" href="https://learnbright.org/lessons/?filter_subject=science">https://learnbright.org/lessons/?filter_subject=science</a><br /><br />#AnimalClassification<br />#ScienceForKids{% endraw %}
