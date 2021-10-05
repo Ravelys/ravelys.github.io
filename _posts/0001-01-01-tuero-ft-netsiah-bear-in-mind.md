@@ -1,0 +1,15 @@
+---
+title: "Tuero ft. Netsiah - Bear In Mind"
+image: "https:\/\/i.ytimg.com\/vi\/2D5oTq6Xctg\/hqdefault.jpg"
+vid_id: "2D5oTq6Xctg"
+categories: "Music"
+tags: ["Tuero ft. Netsiah - Bear In Mind","Happy Days","Tuero"]
+date: "2021-10-05T11:50:55+03:00"
+vid_date: "2018-06-17T17:21:06Z"
+duration: "PT3M37S"
+viewcount: "72411"
+likeCount: "641"
+dislikeCount: "33"
+channel: "ChillYourMind"
+---
+{% raw %}Tuero ft. Netsiah - Bear In Mind<br />Opening track from 'Summer Chill Mix 2018 Happy Days'<br />🗣Connect with Me: ↪︎ <a rel="nofollow" target="blank" href="https://www.instagram.com/chillyourmind">https://www.instagram.com/chillyourmind</a><br /><br />Spotify Playlist: <a rel="nofollow" target="blank" href="https://www.chillyourmind.com/spotify.php">https://www.chillyourmind.com/spotify.php</a><br /><br />Stream/Download Tuero ft. Netsiah - Bear In Mind here:<br />↪︎ <a rel="nofollow" target="blank" href="https://open.spotify.com/album/2H4Nn9ppkz9nzBVvXnR5bn?si=0jEQWazHRK-Lwj5J4zguBA">https://open.spotify.com/album/2H4Nn9ppkz9nzBVvXnR5bn?si=0jEQWazHRK-Lwj5J4zguBA</a><br /><br />• Subscribe: <a rel="nofollow" target="blank" href="https://goo.gl/Gvj1yF">https://goo.gl/Gvj1yF</a><br /><br />✖️Follow ChillYourMind:<br />• Spotify: <a rel="nofollow" target="blank" href="https://bit.ly/cymspotify">https://bit.ly/cymspotify</a><br />• Instagram: <a rel="nofollow" target="blank" href="http://bit.ly/cyminstagram">http://bit.ly/cyminstagram</a><br />• Deezer: <a rel="nofollow" target="blank" href="http://bit.ly/cymdeezer">http://bit.ly/cymdeezer</a><br />• Apple Music: <a rel="nofollow" target="blank" href="http://bit.ly/cymapple">http://bit.ly/cymapple</a><br />• Snapchat: <a rel="nofollow" target="blank" href="http://bit.ly/cymsnap">http://bit.ly/cymsnap</a><br />• Facebook: <a rel="nofollow" target="blank" href="http://bit.ly/cymfacebook">http://bit.ly/cymfacebook</a><br />• Twitter: <a rel="nofollow" target="blank" href="http://bit.ly/cymtwitter">http://bit.ly/cymtwitter</a><br />• SoundCloud: <a rel="nofollow" target="blank" href="http://bit.ly/cymsoundcloud">http://bit.ly/cymsoundcloud</a><br /><br /><br /><br />• Follow Tuero<br /><a rel="nofollow" target="blank" href="https://soundcloud.com/tuero">https://soundcloud.com/tuero</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/tueromusic/">https://www.facebook.com/tueromusic/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/juan_tuero/">https://www.instagram.com/juan_tuero/</a><br /><a rel="nofollow" target="blank" href="https://open.spotify.com/artist/2xadav5ZTL61tIV1rq9iu3">https://open.spotify.com/artist/2xadav5ZTL61tIV1rq9iu3</a><br /><br />• Photo: Shoot With Kitty<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/shootwithkitty/">https://www.instagram.com/shootwithkitty/</a><br /><a rel="nofollow" target="blank" href="https://www.shootwithkitty.com">https://www.shootwithkitty.com</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/shootwithkitty/?ref=br_rs">https://www.facebook.com/shootwithkitty/?ref=br_rs</a>{% endraw %}
