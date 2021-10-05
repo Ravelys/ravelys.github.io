@@ -1,0 +1,15 @@
+---
+title: "Justin Bieber - Love Yourself (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/oyEuk8j8imI\/hqdefault.jpg"
+vid_id: "oyEuk8j8imI"
+categories: "Music"
+tags: ["justin bieber vevo","love yourself","justin bieber"]
+date: "2021-10-05T15:08:54+03:00"
+vid_date: "2015-11-14T15:00:01Z"
+duration: "PT4M33S"
+viewcount: "1623729181"
+likeCount: "7514654"
+dislikeCount: "505685"
+channel: "JustinBieberVEVO"
+---
+{% raw %}‘Purpose’ Available Everywhere Now!<br />iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/PurposeDlx?IQid=VEVO1113">http://smarturl.it/PurposeDlx?IQid=VEVO1113</a><br />Stream &amp; Add To Your Spotify Playlist: <a rel="nofollow" target="blank" href="http://smarturl.it/sPurpose?IQid=VEVO1113">http://smarturl.it/sPurpose?IQid=VEVO1113</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/gPurpose?IQid=VEVO1113">http://smarturl.it/gPurpose?IQid=VEVO1113</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/aPurpose?IQid=VEVO1113">http://smarturl.it/aPurpose?IQid=VEVO1113</a><br /> <br />Follow Justin:<br /><a rel="nofollow" target="blank" href="http://facebook.com/justinbieber">http://facebook.com/justinbieber</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/justinbieber">http://twitter.com/justinbieber</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/justinbieber">http://instagram.com/justinbieber</a><br /><a rel="nofollow" target="blank" href="http://shots.com/justinbieber">http://shots.com/justinbieber</a> <br /><a rel="nofollow" target="blank" href="http://fahlo.me/justinbieber">http://fahlo.me/justinbieber</a><br />And sign up to Justin’s newsletter: <a rel="nofollow" target="blank" href="http://justinbiebermusic.com">http://justinbiebermusic.com</a><br />Snapchat: rickthesizzler<br /><br />PURPOSE : The Movement<br /> <br />A Short Film<br /> <br />Created by Justin Bieber, Parris Goebel and Scott &quot;Scooter&quot; Braun<br /> <br />Director: Parris Goebel<br />Production Companies: SB Projects and Bieber Time Films<br />Executive Producers: Justin Bieber and Scott &quot;Scooter&quot; Braun<br />Producers: Justin Bieber, Scott &quot;Scooter&quot; Braun, Parris Goebel, and Allison Kaye<br />Associate Producer: Cori Weber<br />Shoot Coordinator: Cyndi Dumo<br />Filmed and Edited By: Jose Omar Hernandez<br />Colorist: Arianna Pane <br />Big Thanks: Brett Goebel<br />Choreographers: Keone and Mari Madrid<br />Dancers: Keone and Mari Madrid<br />Written By: Ed Sheeran, Benjamin Levin, and Justin Bieber<br />Published By: Ed Sheeran Limited / Sony/ATV Music Publishing (UK) Limited (PRS), Please Don't Forget To Pay Me Music / Administered by Universal Music Publishing (GRM), and Bieber Time Publishing / Universal Music (ASCAP)<br />Produced By: Benny Blanco for Matza Ball Productions, Inc.<br /><br /><br />©: 2015 Def Jam Recordings, a division of UMG Recordings, Inc. <br /><br />#JustinBieber #LoveYourself #Vevo{% endraw %}
