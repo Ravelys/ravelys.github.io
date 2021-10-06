@@ -1,0 +1,15 @@
+---
+title: "RATTLE! | Official Lyric Video | Elevation Worship"
+image: "https:\/\/i.ytimg.com\/vi\/xrAdbH28gIg\/hqdefault.jpg"
+vid_id: "xrAdbH28gIg"
+categories: "Music"
+tags: ["RATTLE!","Official","Lyric"]
+date: "2021-10-06T15:18:50+03:00"
+vid_date: "2020-04-15T13:00:11Z"
+duration: "PT10M37S"
+viewcount: "14664335"
+likeCount: "165140"
+dislikeCount: "4585"
+channel: "Elevation Worship"
+---
+{% raw %}Lyric video for “RATTLE!&quot; by Elevation Worship  <br />Available everywhere now: <a rel="nofollow" target="blank" href="https://elevationworship.lnk.to/GravesIntoGardensYT">https://elevationworship.lnk.to/GravesIntoGardensYT</a><br /><br />Subscribe to get the latest videos and songs: <a rel="nofollow" target="blank" href="https://bit.ly/2kzs91K">https://bit.ly/2kzs91K</a> <br /><br />Connect with Elevation Worship: <br />Website | <a rel="nofollow" target="blank" href="https://www.elevationworship.com">https://www.elevationworship.com</a> <br />Facebook | <a rel="nofollow" target="blank" href="https://www.facebook.com/elevationworship/">https://www.facebook.com/elevationworship/</a> <br />Instagram | <a rel="nofollow" target="blank" href="https://www.instagram.com/elevationworship/">https://www.instagram.com/elevationworship/</a> <br />Twitter | <a rel="nofollow" target="blank" href="https://twitter.com/elevation_wrshp">https://twitter.com/elevation_wrshp</a> <br /><br />Lyrics:<br />Saturday was silent<br />Surely it was through<br />But since when has impossible<br />Ever stopped You<br /><br />Friday’s disappointment<br />Is Sunday’s empty tomb<br />Since when has impossible <br />Ever stopped You<br /><br />This is the sound <br />Of dry bones rattling<br />This is the praise <br />Make a dead man walk again<br />Open the grave <br />I'm coming out <br />I'm gonna live<br />Gonna live again<br />This is the sound<br />Of dry bones rattling!<br /><br />Pentecostal fire<br />Stirring something new<br />You're not gonna run out of miracles<br />Anytime soon<br /><br />Resurrection power<br />Runs in my veins too<br />I believe there's another miracle<br />Here in this room!<br /><br />My God is able to save<br />And deliver and heal<br />And restore anything that He wants to<br /><br />Just ask the man <br />Who was thrown <br />On the bones of Elisha<br />If there’s anything that He can’t do<br /><br />Just ask the stone <br />That was rolled <br />At the tomb in the garden<br />What happens when God says to move<br /><br />I feel Him moving it now<br />I feel Him doing it now<br />I feel Him doing it now<br />Do it now<br /><br />LIVE!<br />LIVE!<br />Dry bones <br />Hear the word of the Lord!<br /><br />This is what He said!<br /><br />God said live<br />And the bones began to RATTLE!<br /><br /><br />Written by Steven Furtick, Chris Brown, Brandon Lake <br />©2020 Music by Elevation Worship Publishing, Bethel Music Publishing / Maverick City Publishing Worldwide <br />CCLI #: 7149088<br /><br />#ElevationWorship #RATTLE #StevenFurtick{% endraw %}
