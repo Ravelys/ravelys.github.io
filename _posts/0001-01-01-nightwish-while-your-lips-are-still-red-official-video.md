@@ -1,0 +1,15 @@
+---
+title: "Nightwish - While Your Lips Are Still Red (OFFICIAL VIDEO)"
+image: "https:\/\/i.ytimg.com\/vi\/Kmiw4FYTg2U\/hqdefault.jpg"
+vid_id: "Kmiw4FYTg2U"
+categories: "Music"
+tags: ["while your lips are still red","Nightwish","lieksa"]
+date: "2021-10-07T02:35:59+03:00"
+vid_date: "2015-03-26T13:56:12Z"
+duration: "PT4M14S"
+viewcount: "34072484"
+likeCount: "204706"
+dislikeCount: "5117"
+channel: "Nightwish"
+---
+{% raw %}While Your Lips Are Still Red music video from Nightwish. Theme song for the 2007 movie &quot;Lieksa!&quot; (<a rel="nofollow" target="blank" href="http://www.imdb.com/title/tt0944114/)">http://www.imdb.com/title/tt0944114/)</a><br /><br />Follow @Nightwish:<br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/nightwish/">https://www.facebook.com/nightwish/</a><br />Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/nightwish/">https://www.instagram.com/nightwish/</a><br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/NightwishBand">https://twitter.com/NightwishBand</a><br />Mailing list - <a rel="nofollow" target="blank" href="https://nightwi.sh/newsletter">https://nightwi.sh/newsletter</a><br />Shop - <a rel="nofollow" target="blank" href="http://shop.nightwish.com">http://shop.nightwish.com</a><br />Spotify - <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1">https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1</a><br />Apple Music - <a rel="nofollow" target="blank" href="https://geo.music.apple.com/us/artist/nightwish/2898807?mt=1&amp;app=music">https://geo.music.apple.com/us/artist/nightwish/2898807?mt=1&amp;app=music</a><br /><br />Lyrics:<br />[Verse 1]<br />Sweet little words made for silence<br />Not talk<br />Young heart for love<br />Not heartache<br />Dark hair for catching the wind<br />Not to veil the sight of a cold world<br /><br />[Chorus]<br />Kiss while your lips are still red<br />While he`s still silent<br />Rest while bosom is still untouched, unveiled<br />Hold another hand while the hand`s still without a tool<br />Drown into eyes while they`re still blind<br />Love while the night still hides the withering dawn<br /><br />First day of love never comes back<br />A passionate hour`s never a wasted one<br />The violin, the poet`s hand<br />Every thawing heart plays your theme with care<br /><br />[Chorus]<br />Kiss while your lips are still red<br />While he`s still silent<br />Rest while bosom is still untouched, unveiled<br />Hold another hand while the hand`s still without a tool<br />Drown into eyes while they`re still blind<br />Love while the night still hides the withering dawn<br /><br />Kiss while your lips are still red<br />While he`s still silent<br />Rest while bosom is still untouched, unveiled<br />Hold another hand while the hand`s still without a tool<br />Drown into eyes while they`re still blind<br />Love while the night still hides the withering dawn{% endraw %}
