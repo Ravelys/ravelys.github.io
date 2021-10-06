@@ -1,0 +1,15 @@
+---
+title: "\"To\" and \"towards\" - Confusing English words | Vocabulary"
+image: "https:\/\/i.ytimg.com\/vi\/QDg7qJ1PjmU\/hqdefault.jpg"
+vid_id: "QDg7qJ1PjmU"
+categories: "Education"
+tags: ["to and towards","difference between to and towards","english prepositions"]
+date: "2021-10-06T15:29:30+03:00"
+vid_date: "2015-03-23T09:00:01Z"
+duration: "PT9M35S"
+viewcount: "103699"
+likeCount: "2519"
+dislikeCount: "34"
+channel: "Crown Academy of English"
+---
+{% raw %}What is the difference between to and towards? <br /><br />&quot;To&quot; and &quot;towards&quot; are both English prepositions to describe movement. I explain the difference in meaning in this English vocabulary lesson.<br /><br />If you have any questions, please ask me in the comments section below the video lesson and I will answer.<br /><br />The accent in the video is a British English accent.<br /><br />Here are some other confusing English words:<br /><br />borrow and lend: <a rel="nofollow" target="blank" href="http://www.youtube.com/watch?v=Rs2qEes-r8g">http://www.youtube.com/watch?v=Rs2qEes-r8g</a><br />hear and listen: <a rel="nofollow" target="blank" href="http://youtu.be/LBDULF2F6cM">http://youtu.be/LBDULF2F6cM</a><br /><br /><br />More grammar lessons: <a rel="nofollow" target="blank" href="http://www.youtube.com/playlist?list=PL6BDo90oiwpS4_AM1c0s0ozpROeE2A9ff">http://www.youtube.com/playlist?list=PL6BDo90oiwpS4_AM1c0s0ozpROeE2A9ff</a><br /><br />Listening exercises: <a rel="nofollow" target="blank" href="http://www.youtube.com/playlist?list=PL6BDo90oiwpRdmnAzmYwdc0Az0ZOG2XNA">http://www.youtube.com/playlist?list=PL6BDo90oiwpRdmnAzmYwdc0Az0ZOG2XNA</a><br /><br />Vocabulary videos: <a rel="nofollow" target="blank" href="http://www.youtube.com/playlist?list=PL6BDo90oiwpTlYAYSitjwWn29BEdCBi9j">http://www.youtube.com/playlist?list=PL6BDo90oiwpTlYAYSitjwWn29BEdCBi9j</a><br /><br />Private English lessons &amp; speaking practice: <a rel="nofollow" target="blank" href="http://goo.gl/HCrDVB">http://goo.gl/HCrDVB</a><br /><br />Andrew,<br />Crown Academy of English<br /><a rel="nofollow" target="blank" href="http://www.crownacademyenglish.com">http://www.crownacademyenglish.com</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/Crown_English">https://twitter.com/Crown_English</a><br /><a rel="nofollow" target="blank" href="http://www.youtube.com/user/CrownAcademyEnglish">http://www.youtube.com/user/CrownAcademyEnglish</a><br /><br /><br /><br />Photo credits:<br /><br />&quot;Casual Woman With Open Hand&quot; Image courtesy of stockimages | FreeDigitalPhotos.net <br />&quot;Smiling Shopping Lady Walking&quot; Image courtesy of stockimages | FreeDigitalPhotos.net <br />“Girl Student Holding Books And Bag” by  Image courtesy of Ambro | FreeDigitalPhotos.net <br />“Girl Librarian” Image courtesy of iosphere | FreeDigitalPhotos.net <br />&quot;Natural Background&quot; Image courtesy of samarttiw | FreeDigitalPhotos.net <br />&quot;Pretty Women Having A Discussion&quot; Image courtesy of stockimages | FreeDigitalPhotos.net <br />&quot;Man Having Severe Headache&quot; Image courtesy of stockimages | FreeDigitalPhotos.net{% endraw %}
