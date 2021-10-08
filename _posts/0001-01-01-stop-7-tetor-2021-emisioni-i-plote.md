@@ -1,0 +1,15 @@
+---
+title: "Stop - 7 Tetor 2021 (Emisioni i plote)"
+image: "https:\/\/i.ytimg.com\/vi\/eGTyZRAuWUM\/hqdefault.jpg"
+vid_id: "eGTyZRAuWUM"
+categories: "News-Politics"
+tags: ["albania","denonco","emision satirik"]
+date: "2021-10-08T08:10:29+03:00"
+vid_date: "2021-10-07T19:00:20Z"
+duration: "PT34M7S"
+viewcount: "5438"
+likeCount: "38"
+dislikeCount: "2"
+channel: "RTV KLAN"
+---
+{% raw %}Kush eshte Bad Spenseri i vertete ne PD dhe perdorimi i Tires pa copyright.<br /><br />Basha vendosi sot të tregojë, se kush është Bad Spenseri i vërtetë. Ai u cua në foltoren e Parlamentit, ndërsa fliste ministrja Ogerta Manastirliu, duke detyruar ndërhyrjen e gardës. Më pas, në fjalën e tij,  Basha përdori disa herë personazhin e emisionit “Stop”, Tiren e sanatoriumit, për të thirrur me këtë emër, kryeministrin Rama dhe zëvendësin e tij Ahmetaj.<br /><br />#stoptvklan #tvklan #7Tetor #saimirkodra #gentianzenelaj #Berisha #Basha #Tirja #OgertaManastirliu #EdiRama #ArbenAhmetaj<br /><br />Fier/ I verbri 8 muaj pa kemp, i ngaterrojne te dhenat me person tjeter.<br /><br />Ndodhemi 1 km larg Fierit, në fshatin Mbyet, pasi familja Hebeja ka një problem. Bledi Hebeja tregon, se është i verbër prej 30 vitesh dhe trajtohet me kemp. Por prej 8 muajsh nuk merr pagesën, pasi e ka bllokuar shërbimi social. I gjithë gabimi ka ardhur në vitin 2009, kur është paraqitur në zyrën e gjendjes civile dhe operatori i “Aleat”-it i ka dhënë të dhënat e një personi tjetër, që ka të njejtin emër dhe mbiemër, pak a shumë një moshë dhe është nga fshati Halilaj.<br /><br />#stoptvklan #tvklan #7Tetor #saimirkodra #gentianzenelaj #Fier #paKemp #denoncimi #VioletaShkurti <br /> <br />Fier/ 8 muaj pa kempin e te verbrit, Stop zgjidh problemin e te dhenave.<br /><br />”Stop” mësoi, se prokurorja, që ka dosjen e “bujshme”, është Violeta Shkurti.Por ndërsa cështja po hetohet, ne i drejtohemi Drejtorisë së Përgjithshme të Gjendjes Civile, Pranë Ministrisë së Brendshme, ku zgjidhëm problemin. Bledi Hebeja do të riaplikojë sërish për kartë identiteti, që të rimarrë pensionin.<br /><br />#stoptvklan #tvklan #7Tetor #saimirkodra #gentianzenelaj #Fier #paKemp #denoncimi #VioletaShkurti<br /><br />Stop Tv Klan | Një format satiro-investigativ nga Saimir Kodra &amp; Gentian Zenelaj.<br /><br />SUBSCRIBE to “RTV KLAN” on YouTube for more videos!<br /><br />Për më shumë informacione vizitoni faqen tonë web <a rel="nofollow" target="blank" href="https://tvklan.al/">https://tvklan.al/</a><br />Videot e fundit nga Tv Klan i gjeni në faqen <a rel="nofollow" target="blank" href="https://tvklan.al/video/">https://tvklan.al/video/</a><br />Follow Tvklan on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/tvklan/">https://www.facebook.com/tvklan/</a><br />Follow Tvklan on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/rtvklan/">https://www.instagram.com/rtvklan/</a><br />Programet e Tv Klan mund t’i ndiqni edhe në faqen <a rel="nofollow" target="blank" href="https://tvklan.al/programe/">https://tvklan.al/programe/</a>{% endraw %}
