@@ -1,0 +1,15 @@
+---
+title: "Silver reserves will deplete in 20 years, what happens after that? Matt Watson"
+image: "https:\/\/i.ytimg.com\/vi\/fIegDmRKI9I\/hqdefault.jpg"
+vid_id: "fIegDmRKI9I"
+categories: "News-Politics"
+tags: ["gold","silver","finance"]
+date: "2021-10-08T21:23:24+03:00"
+vid_date: "2021-10-07T18:14:11Z"
+duration: "PT29M25S"
+viewcount: "24508"
+likeCount: "1153"
+dislikeCount: "23"
+channel: "Kitco NEWS"
+---
+{% raw %}There is only enough silver in reserves to last another 16 to 20 years, and that's not counting exponential demand growth due to the electrification of the economy, said Matt Watson, founder of Precious Metals Commodity Management.<br /><br />Follow David Lin on Twitter: @davidlin_TV (<a rel="nofollow" target="blank" href="https://twitter.com/davidlin_TV)">https://twitter.com/davidlin_TV)</a><br /><br />0:00 - Solar power and silver<br />10:30 - Energy grid<br />15:30 - Nuclear power<br />18:24 - Energy storage<br />21:24 - Solar panel costs<br />27:18 - Investment implications<br /><br />#solar #ElectricVehicles #silver <br />__________________________________________________________________<br />Kitco News is the world’s #1 source of metals market information. Our videos feature interviews with prominent industry figures to bring you market-affecting insights, with the goal of helping people make informed investment decisions. <br /><br />Subscribe to our channel to stay up to date on the latest insights moving the metals markets. <br /><br />For more breaking news, visit <a rel="nofollow" target="blank" href="http://www.kitco.com/">http://www.kitco.com/</a><br /><br />Follow us on social media: <br />Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/KitcoNews/?ref=br_rs">https://www.facebook.com/KitcoNews/?ref=br_rs</a> <br />Twitter - <a rel="nofollow" target="blank" href="https://twitter.com/kitconewsnow">https://twitter.com/kitconewsnow</a><br />StockTwits - <a rel="nofollow" target="blank" href="https://stocktwits.com/kitconews">https://stocktwits.com/kitconews</a><br /><br />Live gold price and charts: <a rel="nofollow" target="blank" href="http://www.kitco.com/gold-price-today-usa/">http://www.kitco.com/gold-price-today-usa/</a><br />Live silver price and charts: <a rel="nofollow" target="blank" href="http://www.kitco.com/silver-price-today-usa/">http://www.kitco.com/silver-price-today-usa/</a><br /><br />Don’t forget to sign up for Kitco News’ Weekly Roundup – comes out every Friday to recap the hottest stories &amp; videos of the week:  <a rel="nofollow" target="blank" href="https://connect.kitco.com/subscription/newsletter.html">https://connect.kitco.com/subscription/newsletter.html</a><br /><br />Join the conversation @ The Kitco Forums and be part of the premier online community for precious metals investors: <a rel="nofollow" target="blank" href="https://gold-forum.kitco.com/">https://gold-forum.kitco.com/</a> <br /><br /><br />Disclaimer: Videos are not trading advice and the views expressed may not reflect those of Kitco Metals Inc.{% endraw %}
