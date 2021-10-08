@@ -1,0 +1,15 @@
+---
+title: "Speak English like a native use won't & wouldn't for refusals"
+image: "https:\/\/i.ytimg.com\/vi\/7ZDJ1THvJBs\/hqdefault.jpg"
+vid_id: "7ZDJ1THvJBs"
+categories: "Education"
+tags: ["yt:cc=on","English grammar","will"]
+date: "2021-10-08T06:25:42+03:00"
+vid_date: "2015-12-17T09:44:18Z"
+duration: "PT3M10S"
+viewcount: "29339"
+likeCount: "1076"
+dislikeCount: "11"
+channel: "LetThemTalkTV"
+---
+{% raw %}This grammar will help you speak more like a native English speaker does.  Here we explain how to use &quot;won't&quot; and &quot;wouldn't&quot; for indicating an unsuccessful attempt and a refusal. <br /><br />Subscribe to LetThemTalkTV for more great learning English videos<br /><br /><a rel="nofollow" target="blank" href="http://www.youtube.com/user/letthemtalkparis?sub_confirmation=1">http://www.youtube.com/user/letthemtalkparis?sub_confirmation=1</a><br /><br />Transcript:<br /><br />Hello and welcome to LetThemTalk . If you are learning English you know that the modal verb &quot;will&quot; can be used to express the future but this is not the only way we use it. In English we use &quot;will&quot; in many different ways including in the present. Today we're going to look at &quot;will not&quot; or &quot;won't&quot; to talk about refusals. <br /><br />In English when we want to say that something is not working after attempting to make it work we use &quot;will not&quot; or &quot;won't&quot;. This man is having a lot of trouble with his car. What would you say? That's right. <br />&quot;The car won't start&quot;. <br />Now, If are are thinking that you should say &quot;the car doesn't start&quot; well that's not quite correct because he's making an attempt and it doesn't respond so you use &quot;won't&quot;. His car won't start.<br />and just to remind you we are not talking about the future here we are using will to talk about a present situation<br /><br /> Look at some more examples<br />the computer won't work. <br />the window won't open.<br /><br />We also use this form to talk about people refusing to do something<br /><br />He won't eat his vegetables <br />the soldiers won't fight. <br />I won't go there<br /><br />Remember you must use &quot;will not&quot; or &quot;won't&quot; here if you use &quot;don't&quot; or &quot;doesn't&quot; it can change the meaning<br /><br />For example, &quot;the workers won't work today&quot; - means they refuse to work, they are on strike<br />&quot;the workers don't work today&quot; - means they are not working because it might be a holiday. <br /><br />In the past we use use &quot;wouldn't&quot;. I remind you that wouldn't here is not a conditional it's just expressing the same refusals that we i just talked about but in the past. <br />I was late to work today because the car wouldn't start. <br />I phoned all day but she wouldn't answer the phone...<br />Even though I was telling the truth he wouldn't believe me<br /><br />That's it thanks for watching more English language videos coming soon.{% endraw %}
