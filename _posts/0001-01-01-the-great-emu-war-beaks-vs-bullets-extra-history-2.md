@@ -1,0 +1,15 @@
+---
+title: "The Great Emu War - Beaks vs. Bullets - Extra History - #2"
+image: "https:\/\/i.ytimg.com\/vi\/xxvtYx2CKAU\/hqdefault.jpg"
+vid_id: "xxvtYx2CKAU"
+categories: "Education"
+tags: ["extra history","history lesson","extra credits"]
+date: "2021-10-09T22:16:44+03:00"
+vid_date: "2021-10-09T17:29:47Z"
+duration: "PT11M10S"
+viewcount: "3389"
+likeCount: "2975"
+dislikeCount: "41"
+channel: "Extra Credits"
+---
+{% raw %}Use code EXTRACREDITS14 for up to 14 FREE MEALS across your first 5 HelloFresh boxes plus free shipping at <a rel="nofollow" target="blank" href="https://bit.ly/3wbnmH1">https://bit.ly/3wbnmH1</a> !<br /><br />The Emu War was started because it was assumed to be an easy political victory but these birds had different ideas. Despite heavy machine gun fire, the emus learned, adapted, and overcame. Joseph Lyons faced pressure to put an end to the whole silly affair. And unfortunately, the towns of Campion and Walgoolan would see their support evaporate as more emus trampled the wheatfields so necessary for living.  <br /><br />___________<br /><br />Support the people who make this show, vote for future Extra History topics, and get great perks at our Patreon! <a rel="nofollow" target="blank" href="http://bit.ly/EHPatreon">http://bit.ly/EHPatreon</a> <br /><br />Subscribe &amp; ! to our channel on YouTube at <a rel="nofollow" target="blank" href="http://bit.ly/SubToEC">http://bit.ly/SubToEC</a><br />Got more info about Extra Credits on our website at <a rel="nofollow" target="blank" href="http://extracredits.site/">http://extracredits.site/</a><br />Grab your Extra Credits gear at the store! <a rel="nofollow" target="blank" href="http://extracredits.store/">http://extracredits.store/</a><br />___________<br /><br />Thanks for participating in this week's discussion! We want you to be aware of our community posting guidelines so that we can have high-quality conversations: <a rel="nofollow" target="blank" href="https://www.extracredits.site/extra-credits-community-code-of-con">https://www.extracredits.site/extra-credits-community-code-of-con</a><br /><br />Come chat with us live on Twitch <a rel="nofollow" target="blank" href="http://bit.ly/ECtwitch">http://bit.ly/ECtwitch</a><br />Want to contact us directly? Email us: contact@extra-credits.net<br />Interested in sponsoring an episode? Email us: extracredits@standard.tv<br />___________<br /><br />Want more Extra Credits? Follow us on social media:<br />Twitter : <a rel="nofollow" target="blank" href="http://bit.ly/ECTweet">http://bit.ly/ECTweet</a><br />Facebook : <a rel="nofollow" target="blank" href="http://bit.ly/ECFBPage">http://bit.ly/ECFBPage</a><br />Instagram : <a rel="nofollow" target="blank" href="http://bit.ly/ECisonInstagram">http://bit.ly/ECisonInstagram</a><br />___________<br /><br />♪ Get the intro music here!<br /><a rel="nofollow" target="blank" href="http://bit.ly/1EQA5N7">http://bit.ly/1EQA5N7</a><br />   *Music by Demetori: <a rel="nofollow" target="blank" href="http://bit.ly/1AaJG4H">http://bit.ly/1AaJG4H</a><br /><br />♪ Outro music: &quot;Extra History Theme&quot; by Sean and Dean Kiner{% endraw %}
