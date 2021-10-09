@@ -1,0 +1,15 @@
+---
+title: "John Farnham - You're the Voice (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/tbkOZTSvrHs\/hqdefault.jpg"
+vid_id: "tbkOZTSvrHs"
+categories: "Music"
+tags: ["you're the voice hot rod","you're the voice live 2014","acoustic"]
+date: "2021-10-09T13:26:08+03:00"
+vid_date: "2010-11-20T13:49:21Z"
+duration: "PT5M12S"
+viewcount: "24477801"
+likeCount: "157050"
+dislikeCount: "4623"
+channel: "JohnFarnhamVEVO"
+---
+{% raw %}John Farnahm's official music video for 'You're The Voice'. Click to listen to John Farnham on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/JFarnhamSpotify?IQid=FarnhamYTV">http://smarturl.it/JFarnhamSpotify?IQid=FarnhamYTV</a><br /><br />As featured on John Farnham: Greatest Hits. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/JFarnhamGH?IQid=FarnhamYTV">http://smarturl.it/JFarnhamGH?IQid=FarnhamYTV</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/JFarnhamGPlay?IQid=FarnhamYTV">http://smarturl.it/JFarnhamGPlay?IQid=FarnhamYTV</a><br />Stream more music from John Farnahm here: <a rel="nofollow" target="blank" href="http://smarturl.it/JohnFarMulti?IQis=FarnhamYTV">http://smarturl.it/JohnFarMulti?IQis=FarnhamYTV</a><br /><br />More from John Farnham<br />Burn For You: <a rel="nofollow" target="blank" href="https://youtu.be/mDJMgANjLwk">https://youtu.be/mDJMgANjLwk</a><br />Age Of Reason: <a rel="nofollow" target="blank" href="https://youtu.be/adVR3MT8fGg">https://youtu.be/adVR3MT8fGg</a><br />Pressure Down: <a rel="nofollow" target="blank" href="https://youtu.be/Emutat3_IP0">https://youtu.be/Emutat3_IP0</a><br /><br />More great 80's videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate80?IQid=Farnham?IQid=FarnhamYTV">http://smarturl.it/Ultimate80?IQid=Farnham?IQid=FarnhamYTV</a><br /><br />Follow John Farnham<br />Website: <a rel="nofollow" target="blank" href="http://www.johnfarnham.com.au">http://www.johnfarnham.com.au</a><br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/farnhammusic">http://www.facebook.com/farnhammusic</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/johnfarnham">http://twitter.com/johnfarnham</a><br /><br />Subscribe to John Farnham on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/JFarnhamSubscribe?IQid=FarnhamYTV">http://smarturl.it/JFarnhamSubscribe?IQid=FarnhamYTV</a><br /><br />---------<br /><br />Lyrics:<br /><br />We have the chance to turn the pages over<br />We can write what we want to write<br />We gotta make ends meet, before we get much older<br /><br />We're all someone's daughter<br />We're all someone's son<br />How long can we look at each other<br />Down the barrel of a gun?<br /><br />You're the voice, try and understand it<br />Make a noise and make it clear<br />Oh-wo-wo-wo, oh-wo-wo-wo<br />We're not gonna sit in silence<br />We're not gonna live with fear<br />Oh-wo-wo-wo, oh-wo-wo-wo<br /><br />#JohnFarnham #YoureTheVoice #Vevo{% endraw %}
