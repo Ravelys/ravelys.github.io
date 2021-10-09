@@ -1,0 +1,15 @@
+---
+title: "Lamborghini Huracan Turbo vs Kawasaki H2R: DRAG RACE"
+image: "https:\/\/i.ytimg.com\/vi\/D_IAXFIi31M\/hqdefault.jpg"
+vid_id: "D_IAXFIi31M"
+categories: "Autos-Vehicles"
+tags: ["carwow","mat watson","car review"]
+date: "2021-10-09T17:27:16+03:00"
+vid_date: "2021-10-09T08:04:42Z"
+duration: "PT10M34S"
+viewcount: "422654"
+likeCount: "42716"
+dislikeCount: "271"
+channel: "carwow"
+---
+{% raw %}Need help buying your next car? Click the following link and my team and I will help you choose your ideal car at a fair price - from Mat Watson! <a rel="nofollow" target="blank" href="http://bit.ly/-Help-Me-carwow">http://bit.ly/-Help-Me-carwow</a><br />.............................................................<br /><br />Check out JM Imports - @JM-Imports <br />Check out Bike World - @Bike World <br /><br />This is going to be EPIC! <br /><br />Mat’s rolled up to our latest drag race in a Lamborghini Huracan and he’s about to face off against an awesome Kawasaki Ninja H2R! <br /><br />Trust us, the stats on both of these vehicles are insane! Starting with the Lambo, it’s had not one, but TWO turbochargers added to its 5.2-litre V12, and as a result, it now puts out an immense 1,100hp &amp; 1,000Nm of torque! In terms of weight, it tips the scales at 1,450kg. <br /><br />Then we have the Kawasaki… Naturally, it’s SO much lighter than the Lambo, weighing in at 216kg. It’ll also put down an awesome 310hp &amp; 165Nm! <br /><br />So how’s this one going to play out… Will the Lambo smash the bike off the line? Or will the bike shoot off and snatch the win? There’s only one way to find out… LET’S RACE!<br /><br />.............................................................<br />Instagram – <a rel="nofollow" target="blank" href="http://www.instagram.com/carwow">http://www.instagram.com/carwow</a><br /><br />Tiktok - <a rel="nofollow" target="blank" href="https://www.tiktok.com/@carwow">https://www.tiktok.com/@carwow</a><br /><br />Facebook – <a rel="nofollow" target="blank" href="http://www.facebook.com/carwowuk">http://www.facebook.com/carwowuk</a><br /><br />Twitter – <a rel="nofollow" target="blank" href="http://www.twitter.com/carwowuk">http://www.twitter.com/carwowuk</a><br /><br />Sign Up to our Newsletter – <a rel="nofollow" target="blank" href="http://bit.ly/carwow-Newsletter">http://bit.ly/carwow-Newsletter</a><br /><br />Awkward haggling is a thing of the past with carwow. Choose your perfect car with our configurator tool and let the country’s best dealers compete over you. Compare the five best offers by price, location and dealer ratings and choose the one that’s right for you – no hassle, no haggling, just a great deal. <br /><br />Oder auch in Deutschland Geld beim Autokauf sparen – <a rel="nofollow" target="blank" href="http://bit.ly/carwow-DE">http://bit.ly/carwow-DE</a><br /><br />Visita nuestra página web para saber cuánto te puedes ahorrar en tu nuevo coche – <a rel="nofollow" target="blank" href="http://bit.ly/carwow-ES">http://bit.ly/carwow-ES</a>{% endraw %}
