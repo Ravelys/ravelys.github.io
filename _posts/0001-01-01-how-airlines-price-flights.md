@@ -1,0 +1,15 @@
+---
+title: "How Airlines Price Flights"
+image: "https:\/\/i.ytimg.com\/vi\/72hlr-E7KA0\/hqdefault.jpg"
+vid_id: "72hlr-E7KA0"
+categories: "Education"
+tags: ["ticket","pricing","airlines"]
+date: "2021-10-10T01:04:09+03:00"
+vid_date: "2018-01-02T16:30:26Z"
+duration: "PT11M59S"
+viewcount: "3092101"
+likeCount: "43859"
+dislikeCount: "1096"
+channel: "Wendover Productions"
+---
+{% raw %}Get 3 free meals from Blue Apron at <a rel="nofollow" target="blank" href="http://cook.ba/2CdixUK">http://cook.ba/2CdixUK</a><br /><br />Subscribe to Half as Interesting (The other channel from Wendover Productions): <a rel="nofollow" target="blank" href="https://www.youtube.com/halfasinteresting">https://www.youtube.com/halfasinteresting</a><br /><br />Check out my podcast with Brian from Real Engineering:<br /><a rel="nofollow" target="blank" href="https://itunes.apple.com/us/podcast/showmakers/id1224583218?mt=2">https://itunes.apple.com/us/podcast/showmakers/id1224583218?mt=2</a> (iTunes link)<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC_10vJJqf2ZK0lWrb5BXAPg">https://www.youtube.com/channel/UC_10vJJqf2ZK0lWrb5BXAPg</a> (YouTube link)<br /><br />Support Wendover Productions on Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/wendoverproductions">https://www.patreon.com/wendoverproductions</a><br /><br />Get a Wendover Productions t-shirt for $20: <br /><a rel="nofollow" target="blank" href="https://store.dftba.com/products/wendover-productions-shirt">https://store.dftba.com/products/wendover-productions-shirt</a><br /><br />Youtube: <a rel="nofollow" target="blank" href="http://www.YouTube.com/WendoverProductions">http://www.YouTube.com/WendoverProductions</a><br />Twitter: <a rel="nofollow" target="blank" href="http://www.Twitter.com/WendoverPro">http://www.Twitter.com/WendoverPro</a><br />Email: WendoverProductions@gmail.com<br />Reddit: <a rel="nofollow" target="blank" href="http://Reddit.com/r/WendoverProductions">http://Reddit.com/r/WendoverProductions</a><br /><br />Animation by Josh Sherrington (<a rel="nofollow" target="blank" href="https://www.youtube.com/heliosphere)">https://www.youtube.com/heliosphere)</a><br />Sound by Graham Haerther (<a rel="nofollow" target="blank" href="http://www.Haerther.net)">http://www.Haerther.net)</a><br />Thumbnail by Joe Cieplinski (<a rel="nofollow" target="blank" href="http://joecieplinski.com/)">http://joecieplinski.com/)</a><br /><br />Music: “Back Vibes Rollin at 5” by Kevin MacLeod, “Not for Nothing” by Otis McDonald, “Cold Funk Funkorama” by Kevin MacLeod, “It's Always Too Late To Start Over” by Chris Zabriskie, and “The Big Score” by MK2<br /><br />American A321, Air Canada Q400 footage courtesy PDX Aviation<br /><br />Big thanks to Patreon supporters: M, Pete, Ken Lee, Victor Zimmer, Paul Jihoon Choi, Dylan Benson, Etienne Deschamps, Donald, Chris Allen, Abil Abdulla, Anson Leng, John &amp; Becki Johnston, Connor J Smith, Arkadiy Kulev, Hagai Bloch Gabot, William Chappell, Eyal Matsliah, Joseph Bull, Marcelo Alves Vieira, Hank Green, Plinio Correa, Brady Bellini{% endraw %}
