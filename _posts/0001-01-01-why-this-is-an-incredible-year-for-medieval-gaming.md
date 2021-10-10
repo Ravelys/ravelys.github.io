@@ -1,0 +1,15 @@
+---
+title: "Why THIS Is An INCREDIBLE Year For Medieval Gaming..."
+image: "https:\/\/i.ytimg.com\/vi\/oKtJoVaJJlk\/hqdefault.jpg"
+vid_id: "oKtJoVaJJlk"
+categories: "Gaming"
+tags: ["medieval","medieval games","medieval games 2020"]
+date: "2021-10-10T11:02:30+03:00"
+vid_date: "2021-10-09T20:30:05Z"
+duration: "PT10M46S"
+viewcount: "8479"
+likeCount: "551"
+dislikeCount: "9"
+channel: "Resonant"
+---
+{% raw %}2020 - 2021 has perhaps been the best year ever for medieval gaming. From Mount and Blade II bannerlord to Crusader Kings 3, From going medieval to chivalry 2, there has been nothing like it for big budget medieval titles and I cant wait to see where it goes in the future with Valheim and Age of Empires 4. What an incredible year for historical gaming. <br /><br />Podcast - <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCwthwcTzj7t6o-BQlekM-4g">https://www.youtube.com/channel/UCwthwcTzj7t6o-BQlekM-4g</a><br />Gaming Channel - <a rel="nofollow" target="blank" href="https://www.youtube.com/c/ResonantUpr...">https://www.youtube.com/c/ResonantUpr...</a><br />Shorts Channel  - <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCedq...">https://www.youtube.com/channel/UCedq...</a><br /><br />======================================================<br />Business Enquiries- contact@resonantvideo.co.uk<br /><br />Join The Discord, Play with me-  <br /><a rel="nofollow" target="blank" href="https://discord.gg/mPGRsqM">https://discord.gg/mPGRsqM</a><br /><br />Join The Steam Group!- <a rel="nofollow" target="blank" href="http://steamcommunity.com/groups/resonantuprisingofficialgroup">http://steamcommunity.com/groups/resonantuprisingofficialgroup</a><br /><br />Follow me on twitter- <a rel="nofollow" target="blank" href="https://twitter.com/resonantyoutube">https://twitter.com/resonantyoutube</a><br /><br />Join my Subreddit, Give me your ideas/memes - <a rel="nofollow" target="blank" href="https://www.reddit.com/r/LegionsOfResonant/">https://www.reddit.com/r/LegionsOfResonant/</a><br /><br />Like my Facebook page-<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/resonantgaming/?ref=bookmarks">https://www.facebook.com/resonantgaming/?ref=bookmarks</a><br /><br />Production Music courtesy of Epidemic Sound: <a rel="nofollow" target="blank" href="http://www.epidemicsound.com">http://www.epidemicsound.com</a><br /><br />Royalty Free Music by <a rel="nofollow" target="blank" href="http://audiomicro.com/royalty-free-music">http://audiomicro.com/royalty-free-music</a> (for videos that make use of music tracks)<br />Sound Effects by <a rel="nofollow" target="blank" href="http://audiomicro.com/sound-effects">http://audiomicro.com/sound-effects</a> (for videos that make use of sound effects)<br /><br />medieval,medieval games,medieval games 2020,best year for medieval gaming,crusader kings 3,mount and blade II bannerlord,chivalry 2,going medieval,medieval dynasty,valheim,the best medieval games of 2020,the best games of 2021,best upcoming historical games 2021,valheims next big update,bannerlord vs chivalry,chivalry 2 vs mordhau{% endraw %}
