@@ -1,0 +1,15 @@
+---
+title: "Tiana Major9 Feat. Jvck James - Exclusively (Remix) (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/pGKqrN7fYdE\/hqdefault.jpg"
+vid_id: "pGKqrN7fYdE"
+categories: "Music"
+tags: ["tiana major9","music","chill music"]
+date: "2021-10-11T06:00:55+03:00"
+vid_date: "2021-04-02T16:00:33Z"
+duration: "PT3M54S"
+viewcount: "24487"
+likeCount: "773"
+dislikeCount: "13"
+channel: "TianaMajor9VEVO"
+---
+{% raw %}Stream/Download Tiana Major9 &quot;At Sixes &amp; Sevens Remixed&quot; here:<br /><a rel="nofollow" target="blank" href="https://TianaMajor9.lnk.to/AtSixesAndSevensRemixed">https://TianaMajor9.lnk.to/AtSixesAndSevensRemixed</a><br /><br />Connect with Tiana Major9:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/tianamajor9/​">https://www.instagram.com/tianamajor9/​</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/TianaMajor9​">https://twitter.com/TianaMajor9​</a><br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/TianaMajor9">https://www.youtube.com/user/TianaMajor9</a><br /><br />Tiana Major9 Feat. Jvck James - &quot;Exclusively&quot; (Remix) Lyrics:<br /><br />[Hook]<br /><br />No more messing around<br />No more shying away<br />We’re both feeling the same<br />I want you exclusively<br />No more messing around<br />No more shying away<br />We’re both feeling the same<br />I want you exclusively<br /><br />[Verse 1]<br /><br />Everything I do, I do it for you<br />I hope you want it<br />Keeping up this front is getting long<br />I’m being honest<br />Holding back these feels for you is something I ain’t<br />longing<br />I want you exclusively<br />Turning a new leaf<br />You got me falling like it’s August<br />I will keep my word, you’ll never hurt and that’s a promise<br />Just wanna give you dreams that never leave you in the<br />morning<br />I want you exclusively<br /><br />[Chorus]<br />What you looking for?<br />Look no more<br />It is right, right here<br />With me<br />Look at me, telling all<br />Want it all, right here<br />With me<br />I wanna fall<br />I wanna fall<br />Already fallen deep<br />When you will fall<br />When will you fall<br />When will you fall<br />With me<br /><br />[Verse 2]<br /><br />Im still tryna keep my cool<br />but when we're not together Im still thinking about you<br />You I found a treasure that I never want to lose<br />I want you exclusively , I want you with me baby<br />I was patient I was waiting on you<br />Was never messing for the record on her<br />Late night I would wonder who youre kissin<br />Wondering if youre missing me<br />And to you I would give my children<br />I want you exclusively<br /><br />[Chorus +Hook in unison]<br /><br />#TianaMajor9 #AtSixesandSevensRemixed<br /><br />Music video by Tiana Major9, Jvck James performing ...Exclusively (Remix / Visualizer). Motown Records; © 2021 Zero Point Nine Limited, under exclusive license to UMG Recordings, Inc.<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/VTlacd">http://vevo.ly/VTlacd</a>{% endraw %}
