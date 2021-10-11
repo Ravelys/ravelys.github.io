@@ -1,0 +1,15 @@
+---
+title: "Database Indexing Explained (with PostgreSQL)"
+image: "https:\/\/i.ytimg.com\/vi\/-qNSXK7s7_w\/hqdefault.jpg"
+vid_id: "-qNSXK7s7_w"
+categories: "Science-Technology"
+tags: ["hussein nasser","backend engineering","database"]
+date: "2021-10-11T14:56:41+03:00"
+vid_date: "2020-09-30T14:00:00Z"
+duration: "PT18M19S"
+viewcount: "84399"
+likeCount: "3043"
+dislikeCount: "30"
+channel: "Hussein Nasser"
+---
+{% raw %}This is a practical video on Database Indexing where I explain what is an index, why do we need it and how it can improve the performance of the queries. Also how (if used incorrectly) it can slow down your queries<br /><br /><br />intro 0:00 <br />What is an index 0:30 <br />Describe Table 2:15 <br />SELECT [ID] WHERE ID 4:00 <br />SELECT [NAME] WHERE ID 6:30<br />SELECT [ID] WHERE [NAME] (No index) 9:20<br />SELECT [ID] WHERE NAME LIKE 11:12 <br />CREATE INDEX ON [NAME] 12:00<br />SELECT [ID] WHERE NAME (Indexed) 12:50<br />SELECT [1D] WHERE NAME LIKE (Indexed) 14:30 <br />Summary 16:00 <br /><br />Support my work on PayPal<br /><a rel="nofollow" target="blank" href="https://bit.ly/33ENps4">https://bit.ly/33ENps4</a><br /> <br />Become a Member on YouTube<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join">https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join</a><br /><br />🧑‍🏫 Courses I Teach<br /><a rel="nofollow" target="blank" href="https://husseinnasser.com/courses">https://husseinnasser.com/courses</a> <br /><br />🏭 Backend Engineering Videos in Order<br /><a rel="nofollow" target="blank" href="https://backend.husseinnasser.com">https://backend.husseinnasser.com</a><br /><br /><br /><br />💾 Database Engineering Videos<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2">https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2</a><br /><br />🏰 Load Balancing and Proxies Videos<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC">https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC</a><br /><br />🏛️ Software Archtiecture Videos<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9">https://www.youtube.com/playlist?list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9</a><br /><br />📩 Messaging Systems<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLQnljOFTspQVcumYRWE2w9kVxxIXy_AMo">https://www.youtube.com/playlist?list=PLQnljOFTspQVcumYRWE2w9kVxxIXy_AMo</a><br /><br />Become a Member <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join">https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join</a><br /><br />Support me on PayPal<br /><a rel="nofollow" target="blank" href="https://bit.ly/33ENps4">https://bit.ly/33ENps4</a><br /><br />Stay Awesome,<br />Hussein{% endraw %}
