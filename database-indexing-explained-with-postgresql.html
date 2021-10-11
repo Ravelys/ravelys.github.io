@@ -1,0 +1,549 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link rel="dns-prefetch" href="//images1-focus-opensocial.googleusercontent.com" />
+    <link rel="dns-prefetch" href="//static.addtoany.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msvalidate.01" content="0BFBDCA75B34C1CB23DC2FD683C25AD6">
+    <meta name="yandex-verification" content="c62ca330a3c090a2">
+    <meta name="google-site-verification" content="Jx9QNLenjm4TKwQV86CDYKTUG3i51k3OgbMphqnhCgg">
+    <meta charset="UTF-8" />
+    <title>Database Indexing Explained (with PostgreSQL)</title>
+    <meta name="description" content="This is a practical video on Database Indexing where I explain what is an index, why do we need it and how it can improve the p...">
+	<meta name="keywords" content="hussein nasser,backend engineering,database">
+    <meta property="og:site_name" content="Ravelys">
+    <meta property="og:url" content="https://ravelys.github.io/database-indexing-explained-with-postgresql.html">
+    <meta property="og:title" content="Database Indexing Explained (with PostgreSQL)">
+    <meta property="og:image" content="https://i.ytimg.com/vi/-qNSXK7s7_w/hqdefault.jpg">
+    <meta property="og:description" content="This is a practical video on Database Indexing where I explain what is an index, why do we need it and how it can improve the p...">
+    <meta name='twitter:card' content='summary_large_image' />
+    <link rel="canonical" href="https://ravelys.github.io/database-indexing-explained-with-postgresql.html" />
+    <link rel="stylesheet" href="https://ravelys.github.io/inc/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css">
+</head>
+<body class="bg-light">
+    <nav class="navbar mb-3 navbar-expand-lg navbar-light bg-white mb-4 shadow-sm">
+        <div class="container py-2"><a class="navbar-brand" href="https://ravelys.github.io/">Ravelys</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-urls" aria-controls="navbar-urls" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <form
+                action="/search/" class="my-2 my-lg-0 offset-md-2 col-md-6 col-sm-12 px-0 mr-auto">
+                <div class="input-group"><input name="s" class="form-control rounded-0 py-2" type="text" placeholder="video search..." id="example-search-input"><span class="input-group-append"><button aria-label="search" role="button" class="btn btn-secondary rounded-0" type="submit"><span class="px-2"><svg class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"></path></svg></span></button>
+                    </span>
+                </div>
+                </form>
+                <div class="collapse navbar-collapse flex-md-grow-0" id="navbar-urls">
+
+                </div>
+        </div>
+    </nav>
+    <div class="container min-height-62" >
+        <div class="resp-container" id="top_720"></div>
+        <div class="row">
+            <div class="col-12 col-md-8">
+                <div class="bg-white"><noscript><a href="https://www.youtube.com/watch?v=-qNSXK7s7_w"><img alt="Database Indexing Explained (with PostgreSQL)" src="https://i.ytimg.com/vi/-qNSXK7s7_w/hqdefault.jpg" /></a></noscript>
+                    <div id="video-player"></div>
+                    <div class="p-3">
+                        <h1 class="h5 video-title bwr">Database Indexing Explained (with PostgreSQL)</h1>
+                        <div class="py-1 row">
+                            <div class="col-12 col-md-6 my-auto"><b class="text-danger">Share this & earn $10</b></div>
+                            <div class="col-12 col-md-6">
+                                <div class="a2a_kit a2a_kit_size_32 a2a_default_style"><a class="a2a_dd" href="https://www.addtoany.com/share"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a><a class="a2a_button_reddit"></a><a class="a2a_button_facebook_messenger"></a><a class="a2a_button_whatsapp"></a></div>
+                            </div>
+                        </div>
+                        <div align="center" class="py-1">
+
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="mb-2 bwr"><strong>Hussein Nasser</strong><br> Published at : 11 Oct 2021  </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="h-100 d-flex align-items-center justify-content-center"><a  target="_blank" rel="noopener" class="btn btn-block btn-danger bwr" href="https://www.youtube.com/watch?v=-qNSXK7s7_w">Subscribe to Hussein Nasser</a></div>
+                                </div>
+                            </div>
+                            <div class="resp-container" id="in_post_bottomads"></div>
+                        </div>
+                        <div class="py-1">
+                            <div class="row">
+                                <div class="col-12 col-md-6">
+                                    <div class="text-center bg-light mb-2 p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-eye fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M569.354 231.631C512.969 135.949 407.81 72 288 72 168.14 72 63.004 135.994 6.646 231.631a47.999 47.999 0 0 0 0 48.739C63.031 376.051 168.19 440 288 440c119.86 0 224.996-63.994 281.354-159.631a47.997 47.997 0 0 0 0-48.738zM288 392c-75.162 0-136-60.827-136-136 0-75.162 60.826-136 136-136 75.162 0 136 60.826 136 136 0 75.162-60.826 136-136 136zm104-136c0 57.438-46.562 104-104 104s-104-46.562-104-104c0-17.708 4.431-34.379 12.236-48.973l-.001.032c0 23.651 19.173 42.823 42.824 42.823s42.824-19.173 42.824-42.823c0-23.651-19.173-42.824-42.824-42.824l-.032.001C253.621 156.431 270.292 152 288 152c57.438 0 104 46.562 104 104z"></path></svg></span>                                        84399 views </span>
+                                    </div>
+                                </div>
+                                <div class="col-12 col-md-6">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-up fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path></svg></span>                                                3043 </span>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="text-center bg-light p-1 bwr"><span><span class="pr-1"><svg class="svg-inline--fa fa-thumbs-down fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M0 56v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H24C10.745 32 0 42.745 0 56zm40 200c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24zm272 256c-20.183 0-29.485-39.293-33.931-57.795-5.206-21.666-10.589-44.07-25.393-58.902-32.469-32.524-49.503-73.967-89.117-113.111a11.98 11.98 0 0 1-3.558-8.521V59.901c0-6.541 5.243-11.878 11.783-11.998 15.831-.29 36.694-9.079 52.651-16.178C256.189 17.598 295.709.017 343.995 0h2.844c42.777 0 93.363.413 113.774 29.737 8.392 12.057 10.446 27.034 6.148 44.632 16.312 17.053 25.063 48.863 16.382 74.757 17.544 23.432 19.143 56.132 9.308 79.469l.11.11c11.893 11.949 19.523 31.259 19.439 49.197-.156 30.352-26.157 58.098-59.553 58.098H350.723C358.03 364.34 384 388.132 384 430.548 384 504 336 512 312 512z"></path></svg></span>                                                30 </span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <hr/>
+                        <div class="py-1 d-md-block bwr" id="video-description"><p>This is a practical video on Database Indexing where I explain what is an index, why do we need it and how it can improve the performance of the queries. Also how (if used incorrectly) it can slow down your queries<br /><br /><br />intro 0:00 <br />What is an index 0:30 <br />Describe Table 2:15 <br />SELECT [ID] WHERE ID 4:00 <br />SELECT [NAME] WHERE ID 6:30<br />SELECT [ID] WHERE [NAME] (No index) 9:20<br />SELECT [ID] WHERE NAME LIKE 11:12 <br />CREATE INDEX ON [NAME] 12:00<br />SELECT [ID] WHERE NAME (Indexed) 12:50<br />SELECT [1D] WHERE NAME LIKE (Indexed) 14:30 <br />Summary 16:00 <br /><br />Support my work on PayPal<br /><a rel="nofollow" target="blank" href="https://bit.ly/33ENps4">https://bit.ly/33ENps4</a><br /> <br />Become a Member on YouTube<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join">https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join</a><br /><br />🧑‍🏫 Courses I Teach<br /><a rel="nofollow" target="blank" href="https://husseinnasser.com/courses">https://husseinnasser.com/courses</a> <br /><br />🏭 Backend Engineering Videos in Order<br /><a rel="nofollow" target="blank" href="https://backend.husseinnasser.com">https://backend.husseinnasser.com</a><br /><br /><br /><br />💾 Database Engineering Videos<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2">https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2</a><br /><br />🏰 Load Balancing and Proxies Videos<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC">https://www.youtube.com/playlist?list=PLQnljOFTspQVMeBmWI2AhxULWEeo7AaMC</a><br /><br />🏛️ Software Archtiecture Videos<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9">https://www.youtube.com/playlist?list=PLQnljOFTspQXNP6mQchJVP3S-3oKGEuw9</a><br /><br />📩 Messaging Systems<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLQnljOFTspQVcumYRWE2w9kVxxIXy_AMo">https://www.youtube.com/playlist?list=PLQnljOFTspQVcumYRWE2w9kVxxIXy_AMo</a><br /><br />Become a Member <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join">https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg/join</a><br /><br />Support me on PayPal<br /><a rel="nofollow" target="blank" href="https://bit.ly/33ENps4">https://bit.ly/33ENps4</a><br /><br />Stay Awesome,<br />Hussein</p>
+</div>
+                        <div class="d-none"><span>hussein nasser</span><span>backend engineering</span><span>database</span></div>
+                        <hr/>
+                        <div class="py-3"><div class="resp-container" id="extra_bottomads"><iframe data-aa="1773070" src="//ad.a-ads.com/1773070?size=728x90" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>
+</div></div>
+                    </div>
+                </div>
+                <div class="position-sticky fixed-top d-md-block d-none">
+                    <div align="center" class="py-2">
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+            <div class="mb-4">
+                <div class="resp-container py-3" id="sidebar_300"></div>
+            </div>
+                
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/the-steps-of-the-strategic-planning-process-in-under-15-minutes.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/HQ6348u6o08/mqdefault.jpg" alt="The steps of the strategic planning process in under 15 minutes">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The steps of the strategic planning process in under 15 minutes</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/savecash-treinamento-dos-associados.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/0yH9ud3SDyI/mqdefault.jpg" alt="SaveCash | Treinamento dos associados">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">SaveCash | Treinamento dos associados</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/bushes-of-love-extended-lyric-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/RySHDUU2juM/mqdefault.jpg" alt="&quot;BUSHES OF LOVE&quot; -- Extended Lyric Video">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">&quot;BUSHES OF LOVE&quot; -- Extended Lyric Video</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/this-guy-does-to-his-wasted-attic-space-is-astounding-you-have-to-see.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/uxgDYVXwY_w/mqdefault.jpg" alt="This Guy Does To His Wasted Attic Space Is Astounding  You Have to See It">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">This Guy Does To His Wasted Attic Space Is Astounding  You Have to See It</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/modern-continuous-manufacturing-processes-for-a-next-level-of-producti.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/XyP_7IZzpeI/mqdefault.jpg" alt="Modern Continuous Manufacturing Processes For A Next Level Of Productivity ▶ 3">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Modern Continuous Manufacturing Processes For A Next Level Of Productivity ▶ 3</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/5-things-you-re-doing-wrong-when-removing-gel-polish.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Rj1_2TqqoHM/mqdefault.jpg" alt="5 Things You&#39;re Doing WRONG When Removing Gel Polish!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">5 Things You&#39;re Doing WRONG When Removing Gel Polish!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/aceyalone-the-guidelines.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/GnsCO0Fxw3A/mqdefault.jpg" alt="Aceyalone- The Guidelines">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Aceyalone- The Guidelines</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/the-obligatory-trump-remix.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/eN2wN1V5_F4/mqdefault.jpg" alt="♪ The Obligatory Trump Remix">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">♪ The Obligatory Trump Remix</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/bureaucracy-basics-crash-course-government-and-politics-15.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/I8EQAnKntLs/mqdefault.jpg" alt="Bureaucracy Basics: Crash Course Government and Politics #15">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Bureaucracy Basics: Crash Course Government and Politics #15</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/how-to-polish-a-car-detail-car-polishing-for-beginners-car-detailing-a.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/h3t7jULUCpc/mqdefault.jpg" alt="How To Polish A Car Detail - Car Polishing For Beginners Car Detailing and Paint Correction!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How To Polish A Car Detail - Car Polishing For Beginners Car Detailing and Paint Correction!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/how-to-speak-so-that-people-want-to-listen-julian-treasure.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/eIho2S0ZahI/mqdefault.jpg" alt="How to speak so that people want to listen | Julian Treasure">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How to speak so that people want to listen | Julian Treasure</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/ja-rule-ft-r-kelly-ashanti-wonderful-official-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/QVXE1EzMrfw/mqdefault.jpg" alt="Ja Rule ft. R. Kelly, Ashanti - Wonderful (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Ja Rule ft. R. Kelly, Ashanti - Wonderful (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/vlog-life-there-s-a-lot-going-on.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/6ZYkv1_1X8g/mqdefault.jpg" alt="VLOG LIFE | there&#39;s a lot going on">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">VLOG LIFE | there&#39;s a lot going on</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/excellent.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/zQATCn5zc1Y/mqdefault.jpg" alt="Excellent">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Excellent</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/vertigo-maneuvers-performing-the-hints-exam.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/VwmrjYuvqtQ/mqdefault.jpg" alt="Vertigo maneuvers: Performing the HINTS exam">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Vertigo maneuvers: Performing the HINTS exam</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/determine-the-form-of-a-particular-solution-sect4-4-29.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/nyOKJwcAins/mqdefault.jpg" alt="Determine the form of a particular solution, sect4.4 #29">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Determine the form of a particular solution, sect4.4 #29</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/why-do-i-try-to-have-faith-in-people-married-at-first-sight-body-langu.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/5Ljsu2uLVDI/mqdefault.jpg" alt="Why Do I Try To Have Faith In People? Married At First Sight Body Language Analysis">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Why Do I Try To Have Faith In People? Married At First Sight Body Language Analysis</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/hatsune-miku-project-diva-f-2nd-pv-the-intense-voice-of-hatsune-miku-e.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/VFtJk-vgti4/mqdefault.jpg" alt="Hatsune Miku: Project DIVA F 2nd - [PV] &quot;The Intense Voice of Hatsune Miku&quot; (Eng Subs/Sub. Esp)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Hatsune Miku: Project DIVA F 2nd - [PV] &quot;The Intense Voice of Hatsune Miku&quot; (Eng Subs/Sub. Esp)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/eskapist-entering-into-figurex02.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/2qBBQL8Y1ZE/mqdefault.jpg" alt="Eskapist - Entering Into [FIGUREX02]">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Eskapist - Entering Into [FIGUREX02]</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/challenge-the-quran-produce-a-single-verse-if-you-able-sfdawah-sfdawah.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/zITmsUHiDrg/mqdefault.jpg" alt="&#39;CHALLENGE THE QURAN, PRODUCE A SINGLE VERSE IF YOU ABLE&#39;  #sfdawah #sfdawahArabic - Speakers Corner">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">&#39;CHALLENGE THE QURAN, PRODUCE A SINGLE VERSE IF YOU ABLE&#39;  #sfdawah #sfdawahArabic - Speakers Corner</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/complete.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/O5HMohB1GWM/mqdefault.jpg" alt="Complete">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Complete</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/learn-english-vocabulary-kind-of-sort-of-type-of-style-of.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/4kuhQzbc2Tw/mqdefault.jpg" alt="Learn English Vocabulary: kind of, sort of, type of, style of...">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Learn English Vocabulary: kind of, sort of, type of, style of...</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/tuero-netsiah-bear-in-mind-original-mix.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/8rUepsihceQ/mqdefault.jpg" alt="Tuero &amp; Netsiah - Bear In Mind (Original Mix)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Tuero &amp; Netsiah - Bear In Mind (Original Mix)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/nf-let-you-down.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/fbHbTBP_u7U/mqdefault.jpg" alt="NF - Let You Down">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">NF - Let You Down</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/punjab-thriller-ends-is-selecting-charanjit-channi-as-new-cm-of-punjab.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/drUDb1-PDeo/mqdefault.jpg" alt="Punjab Thriller Ends: Is Selecting Charanjit Channi As New CM Of Punjab A Masterstroke By Congress?">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Punjab Thriller Ends: Is Selecting Charanjit Channi As New CM Of Punjab A Masterstroke By Congress?</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/how-to-start-your-day-into-greatness.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/GABe8sp0058/mqdefault.jpg" alt="How To Start Your Day Into Greatness">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How To Start Your Day Into Greatness</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/real-or-fake-10-most-terrifying-recent-discoveries.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/vLF9aLXTNaI/mqdefault.jpg" alt="Real Or Fake? 10 Most Terrifying Recent Discoveries!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Real Or Fake? 10 Most Terrifying Recent Discoveries!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/taylor-swift-you-need-to-calm-down.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/Dkk9gvTmCXY/mqdefault.jpg" alt="Taylor Swift - You Need To Calm Down">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Taylor Swift - You Need To Calm Down</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/the-scariest-dishes-for-an-extraordinarily-frightening-halloween-party.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/SF2Vc4YC5OU/mqdefault.jpg" alt="The Scariest Dishes 🧟‍♂️ For an Extraordinarily Frightening Halloween Party 🎃">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Scariest Dishes 🧟‍♂️ For an Extraordinarily Frightening Halloween Party 🎃</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/mozart-s-road-trip-countries-that-inspired-history-s-greatest-composer.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/LL1pZyuPtZ0/mqdefault.jpg" alt="Mozart&#39;s Road Trip: Countries That Inspired History&#39;s Greatest Composer | Perspective">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Mozart&#39;s Road Trip: Countries That Inspired History&#39;s Greatest Composer | Perspective</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/how-to-customise-app-icons-on-iphone-ios-14-kayla-s-world.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/9hlATAYXDaw/mqdefault.jpg" alt="How to Customise App Icons on iPhone (iOS 14) | Kayla&#39;s World">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">How to Customise App Icons on iPhone (iOS 14) | Kayla&#39;s World</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/rag-n-bone-man-human-official-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/L3wKzyIN1yk/mqdefault.jpg" alt="Rag&#39;n&#39;Bone Man - Human (Official Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Rag&#39;n&#39;Bone Man - Human (Official Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/negative-still-alive-with-lyrics.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/hfHb5P1gF-s/mqdefault.jpg" alt="Negative Still Alive (with Lyrics)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Negative Still Alive (with Lyrics)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/7-brutal-dating-mistakes-that-turn-men-off.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ZaG2ntl8FN4/mqdefault.jpg" alt="7 Brutal Dating Mistakes That Turn Men Off">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">7 Brutal Dating Mistakes That Turn Men Off</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/the-best-awesomest-coolest-raddest-dapperest-and-amazing-books-video-s.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/msi2HWiSYCQ/mqdefault.jpg" alt="The best awesomest coolest raddest dapperest and amazing books video summary">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The best awesomest coolest raddest dapperest and amazing books video summary</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/the-kidnappers.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/bq8HLgemmeg/mqdefault.jpg" alt="The Kidnappers">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Kidnappers</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/r3hab-khrebto-you-could-be-lyric-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/e9XKztw4XmM/mqdefault.jpg" alt="R3HAB &amp; Khrebto - You Could Be (Lyric Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">R3HAB &amp; Khrebto - You Could Be (Lyric Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/zara-larsson-i-would-like-lyric-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/9bzMaiczpXU/mqdefault.jpg" alt="Zara Larsson - I Would Like (Lyric Video)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Zara Larsson - I Would Like (Lyric Video)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/the-best-of-alternative-incubus-oasis-matchbox-20-rhcp-vertical-horizo.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/eJgARwvI21o/mqdefault.jpg" alt="THE BEST OF ALTERNATIVE  | Incubus, Oasis, Matchbox 20, RHCP, Vertical Horizon, Bush, No Doub">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">THE BEST OF ALTERNATIVE  | Incubus, Oasis, Matchbox 20, RHCP, Vertical Horizon, Bush, No Doub</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/zillakami-minimizya-ft-idk-official-audio.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/3EFHf_DiHRo/mqdefault.jpg" alt="ZillaKami - MINIMIZYA ft. IDK (Official Audio)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">ZillaKami - MINIMIZYA ft. IDK (Official Audio)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/the-most-effective-squat-challenge-100-rep-fitness-blender-squat-chall.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/mGvzVjuY8SY/mqdefault.jpg" alt="The Most Effective Squat Challenge: 100 Rep Fitness Blender Squat Challenge">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">The Most Effective Squat Challenge: 100 Rep Fitness Blender Squat Challenge</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/how-to-make-money-who-can-make-more-money-in-24-hours-cool-startups-by.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/HW9zql8V0UI/mqdefault.jpg" alt="HOW TO MAKE MONEY || Who Can Make More Money In 24 Hours? Cool Startups by 123 GO!">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">HOW TO MAKE MONEY || Who Can Make More Money In 24 Hours? Cool Startups by 123 GO!</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/a-program-which-encourages-lifelong-learning.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/3AJQQX0VlcU/mqdefault.jpg" alt="A Program which encourages Lifelong Learning">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">A Program which encourages Lifelong Learning</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/hues-of-earth-giwtavr.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/kkmVKFl4vto/mqdefault.jpg" alt="Hues of Earth | Giwtavr">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Hues of Earth | Giwtavr</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/remember-the-name-official-video-fort-minor.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/VDvr08sCPOc/mqdefault.jpg" alt="Remember The Name (Official Video) - Fort Minor">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Remember The Name (Official Video) - Fort Minor</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/division-all-stars-hang-out-music-video.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/1GBUaZP17N4/mqdefault.jpg" alt="ヒプノシスマイク Division All Stars『Hang out!』Music Video">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">ヒプノシスマイク Division All Stars『Hang out!』Music Video</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/many-useful-korean-conjunctions.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/ZJwfVHLS1o0/mqdefault.jpg" alt="Many useful Korean conjunctions">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Many useful Korean conjunctions</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/culture-club-victims-video-1983.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/OH6KApqmrBk/mqdefault.jpg" alt="Culture Club - Victims (Video 1983)">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Culture Club - Victims (Video 1983)</h2>
+    </div>
+
+    <div class="mb-4">
+        <a href="https://ravelys.github.io/hollow-man-2000-gorilla-visible-scene-1-10-movieclips.html">
+        <div class="d-flex align-items-center justify-content-center shadow-sm"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/JwAVnG8iemw/mqdefault.jpg" alt="Hollow Man (2000) - Gorilla Visible Scene (1/10) | Movieclips">
+        <div class="play-btn"></div></div>
+        </a>
+        <h2 class="h6 mt-2 bwr">Hollow Man (2000) - Gorilla Visible Scene (1/10) | Movieclips</h2>
+    </div>
+
+            </div>
+    </div>
+    </div>
+    <script type="text/javascript">
+        function load_vid() { var player = document.getElementById('video-player'); player.innerHTML = labnolThumb(); player.onclick = labnolIframe; } function labnolThumb() { return '<div class="d-flex align-items-center justify-content-center"><div class="image-16by9"><img class="w-100" src="https://ravelys.github.io/img/iph.png" data-src="https://ytimg.googleusercontent.com/vi/-qNSXK7s7_w/hqdefault.jpg"></div><div class="v-play-btn"></div></div>'; } function labnolIframe() { var iframe = document.createElement("iframe"); iframe.setAttribute("src", "//www.youtube-nocookie.com/embed/-qNSXK7s7_w?rel=0&amp;showinfo=0"); iframe.setAttribute("frameborder", "0"); iframe.setAttribute("allowfullscreen", "1"); var div = document.createElement("div"); div.setAttribute("class", "embed-responsive embed-responsive-16by9"); div.innerHTML = iframe.outerHTML; this.parentNode.replaceChild(div, this); } load_vid()
+    </script>
+    <script async src="https://static.addtoany.com/menu/page.js"></script>
+        <footer class="mt-auto bg-white pt-4">
+        <div class="container-fluid text-center text-md-left">
+            <div class="row">
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <h5 class="text-uppercase">Ravelys Network</h5>
+                    <p>Entertainment content from all over the web.</p>
+                </div>
+                <hr class="clearfix w-100 d-md-none pb-3">
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Privacy & Terms</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="">DMCA</a></li>
+                        <li><a href="">Privacy</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 mb-md-0 mb-3">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-center py-3"> © Copyright : <a target="_blank" rel="noopener" href="https://www.youtube.com"> youtube.com</a></div>
+    </footer>
+    <script async="" src="https://ravelys.github.io/js/app.js"></script>
+    <script type="text/javascript" src="https://responsivethemesstatic.github.io/static/wp.js"></script>
+    <script type="text/javascript">
+        if(!Histats_variables){var Histats_variables=[];}
+        Histats_variables.push("tags","https://ravelys.github.io");
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4360507,4,0,0,0,00000000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+    </script>
+</body>
+</html>
