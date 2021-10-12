@@ -1,0 +1,15 @@
+---
+title: "Carla's Dreams | Deliric - Dependent | Nocturn: Act 8"
+image: "https:\/\/i.ytimg.com\/vi\/SrOj-JG_VEY\/hqdefault.jpg"
+vid_id: "SrOj-JG_VEY"
+categories: "Music"
+tags: ["carla's dreams","feat","deliric"]
+date: "2021-10-12T05:55:03+03:00"
+vid_date: "2019-05-07T18:41:29Z"
+duration: "PT4M18S"
+viewcount: "10056500"
+likeCount: "77906"
+dislikeCount: "2419"
+channel: "Carla's Dreams"
+---
+{% raw %}SUBSCRIBE @ Carla's Dreams Official YT: <a rel="nofollow" target="blank" href="http://smarturl.it/CarlasDreamsYT">http://smarturl.it/CarlasDreamsYT</a><br /><br />Stream x Download: <a rel="nofollow" target="blank" href="https://backl.ink/1870456">https://backl.ink/1870456</a><br /><br />Booking &amp; Licensing:<br />International Booking: +40.751.013.745<br />Romania: +40.757.104.166<br />booking@globalrecords.com<br /><a rel="nofollow" target="blank" href="https://globalbooking.ro/carlas-dreams">https://globalbooking.ro/carlas-dreams</a><br />licensing@globalrecords.com<br /><br />#CarlasDreams #Deliric #Nocturn #Act8<br /> <br />Muzica si Text: Carla’s Dreams | Deliric<br />Productie: Quick | Alexandru Cotoi<br /><br />Directed by: Roman Burlaca D.O.P.: George Secrieru<br />Produced by Global Records &amp; BR Films<br /><br />Carla's Dreams Online: <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/carlasdreamss">https://www.facebook.com/carlasdreamss</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/carlasdreams">https://instagram.com/carlasdreams</a><br />Official Site: <a rel="nofollow" target="blank" href="http://www.carlasdreams.com">http://www.carlasdreams.com</a><br /><br />Follow Deliric:<br />INSTA: <a rel="nofollow" target="blank" href="https://www.instagram.com/deliric">https://www.instagram.com/deliric</a><br />FB: <a rel="nofollow" target="blank" href="https://www.facebook.com/Deliric1">https://www.facebook.com/Deliric1</a><br />SITE: <a rel="nofollow" target="blank" href="https://www.porcporc.com">https://www.porcporc.com</a><br /><br />Global Records Online: <br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/GlobalRecordsCom">https://www.facebook.com/GlobalRecordsCom</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/GlobalRecords">https://www.instagram.com/GlobalRecords</a><br />Official Website: <a rel="nofollow" target="blank" href="http://globalrecords.com">http://globalrecords.com</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/GlobalRecordsRO">https://twitter.com/GlobalRecordsRO</a><br /><br /><br />(C) &amp; (P) 2019 #GlobalRecords<br /><br />Toate drepturile sunt rezervate. Orice upload neautorizat al acestui videoclip este ilegal si poate fi raportat oricand la Youtube. <br /><br />All rights reserved. Unauthorized reproduction is a violation of applicable laws. In order to avoid copyright infringement, please do not upload this video on your channel.{% endraw %}
