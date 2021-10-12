@@ -1,0 +1,15 @@
+---
+title: "Get better handheld videos with these five tips!"
+image: "https:\/\/i.ytimg.com\/vi\/eTKLLnfjTIs\/hqdefault.jpg"
+vid_id: "eTKLLnfjTIs"
+categories: "Film-Animation"
+tags: ["LUTS","monkeypixels","damien cooper"]
+date: "2021-10-12T03:17:38+03:00"
+vid_date: "2020-05-24T16:00:32Z"
+duration: "PT7M56S"
+viewcount: "10153"
+likeCount: "472"
+dislikeCount: "5"
+channel: "Monkeypixels"
+---
+{% raw %}Get better handheld videos with these five tips! Here are some great tips to get the best footage when shooting handheld. <br /><br />Luts, Presets and production contracts: <a rel="nofollow" target="blank" href="https://sellfy.com/monkeypixels">https://sellfy.com/monkeypixels</a><br />Favorite plugins: <a rel="nofollow" target="blank" href="http://motionvfx.sjv.io/c/2245172/614046/10011">http://motionvfx.sjv.io/c/2245172/614046/10011</a><br />Where we get our music: <a rel="nofollow" target="blank" href="http://share.epidemicsound.com/DZFq8">http://share.epidemicsound.com/DZFq8</a><br /><br />---------------------------------------------------<br /><br />Our gear to make youtube videos: <br /><br />Main Camera: <a rel="nofollow" target="blank" href="http://geni.us/rtBYIx">http://geni.us/rtBYIx</a><br /><br />Must-Have camera strap: <a rel="nofollow" target="blank" href="http://geni.us/PZeLY">http://geni.us/PZeLY</a><br /><br />Best memory cards: <a rel="nofollow" target="blank" href="https://geni.us/BNenBex">https://geni.us/BNenBex</a><br /><br />Favorite lens: <a rel="nofollow" target="blank" href="https://geni.us/b9sj">https://geni.us/b9sj</a><br /><br />Youtube Light: <a rel="nofollow" target="blank" href="http://geni.us/ZbEltW">http://geni.us/ZbEltW</a><br /><br />Stabilizer: <a rel="nofollow" target="blank" href="http://geni.us/eYtZyqr">http://geni.us/eYtZyqr</a><br /><br />Run and gun mic: <a rel="nofollow" target="blank" href="http://geni.us/l59OTb9">http://geni.us/l59OTb9</a><br /><br />Studio mic: <a rel="nofollow" target="blank" href="http://geni.us/r5BH8a">http://geni.us/r5BH8a</a><br /><br />travel monitor: <a rel="nofollow" target="blank" href="http://geni.us/Xrly">http://geni.us/Xrly</a><br /><br />7&quot; monitor: <a rel="nofollow" target="blank" href="http://geni.us/YKKG">http://geni.us/YKKG</a><br /><br />Backpack: geni.us/loweprobackpack<br /><br />Carry on: <a rel="nofollow" target="blank" href="http://geni.us/xYEhI">http://geni.us/xYEhI</a><br /><br />Joby tripod: <a rel="nofollow" target="blank" href="http://geni.us/XQWNWHI">http://geni.us/XQWNWHI</a><br /><br /><br />---------------------------------------------------<br />Follow us: <br /><br /><a rel="nofollow" target="blank" href="http://www.instagram.com/monkeypixels">http://www.instagram.com/monkeypixels</a><br /><br /><a rel="nofollow" target="blank" href="http://www.instagram.com/Belle_schoenberger">http://www.instagram.com/Belle_schoenberger</a><br /><br /><a rel="nofollow" target="blank" href="http://www.monkeypixels.com">http://www.monkeypixels.com</a><br /><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/monkeypixels">https://www.facebook.com/monkeypixels</a>{% endraw %}
