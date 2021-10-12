@@ -1,0 +1,15 @@
+---
+title: "Lost Frequencies feat. Flynn - Recognise (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/z-W6Wqy_WSw\/hqdefault.jpg"
+vid_id: "z-W6Wqy_WSw"
+categories: "Music"
+tags: ["Lost Frequencies ft. Flynn - Recognise (Official Music Video)","Lost Frequencies","Flynn"]
+date: "2021-10-12T17:44:05+03:00"
+vid_date: "2019-03-13T13:00:10Z"
+duration: "PT3M24S"
+viewcount: "2742568"
+likeCount: "35275"
+dislikeCount: "594"
+channel: "Lost Frequencies"
+---
+{% raw %}Stream it now via; <a rel="nofollow" target="blank" href="https://FF018.lnk.to/Recognise">https://FF018.lnk.to/Recognise</a>  <br /><br />Subscribe to Lost Frequencies channel: <a rel="nofollow" target="blank" href="http://bit.ly/2CwQGek">http://bit.ly/2CwQGek</a><br /><br />Hot off the back of his headline US tour and previous Found Frequencies smash hits including ‘Like I Love You’ with indie darlings The NGHBRS, as well as the 'most played track on Dutch Radio' in 2018 'Crazy' with Zonderling, label head Lost Frequencies returns with the irresistible ‘Recognise’ featuring new artist Flynn.<br /><br />A shining star when it comes to both his record-breaking solo tracks, as well as a plethora of collaborations with the industry’s most promising vocalists and producers alike, Lost Frequencies takes acoustic guitar plucks and sensual, emotive soaring vocals from Flynn on ‘Recognise’. Merging with Lost Frequencies’ tropical take on self-proclaimed “indie-dance”, the work of the two artists together on this collaboration transcends genres, fusing together brooding pop, introspective lyrics and native woodwind and studio-driven percussion for a brooding pop hit.<br /><br />Music video by Soulvizion <a rel="nofollow" target="blank" href="http://soulvizion.com">http://soulvizion.com</a> <br />Special thanks to: Yetunde &amp; The Vintage Alternatives - Inu4vintage and Wisseloord Studios<br /><br />Follow Lost Frequencies on<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/LostFrequenc...">https://www.facebook.com/LostFrequenc...</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/lostfrequen...">https://www.instagram.com/lostfrequen...</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/LFrequencies">https://twitter.com/LFrequencies</a><br /><br />Follow Flynn on:<br />Youtube: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/darrenf921">https://www.youtube.com/user/darrenf921</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/iamflynn/?h...">https://www.instagram.com/iamflynn/?h...</a><br />Facebook: <a rel="nofollow" target="blank" href="https://en-gb.facebook.com/IamFLYNNmusic/">https://en-gb.facebook.com/IamFLYNNmusic/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/iamflynnmusic?lang=en">https://twitter.com/iamflynnmusic?lang=en</a><br /><br />#LostFrequencies #FoundFrequencies #Flynn #Recognise{% endraw %}
