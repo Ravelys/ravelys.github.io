@@ -1,0 +1,15 @@
+---
+title: "TAU018 | Nandu - Outlined"
+image: "https:\/\/i.ytimg.com\/vi\/BCEnEStySI4\/hqdefault.jpg"
+vid_id: "BCEnEStySI4"
+categories: "Music"
+tags: ["TAU018","Nandu","Outlined"]
+date: "2021-10-12T16:58:12+03:00"
+vid_date: "2020-08-28T15:12:55Z"
+duration: "PT6M6S"
+viewcount: "1114"
+likeCount: "31"
+dislikeCount: "0"
+channel: "TAU"
+---
+{% raw %}Vinyl/Digital/Stream: <a rel="nofollow" target="blank" href="http://bit.ly/Tau018">http://bit.ly/Tau018</a><br /><br />Over the last couple of years Nandu has made quite an impact, dropping several releases both with Innervisions on their Secret Weapons compilations, his massive cut ‘Child Of A Child’ leveled dance floors across the world last year, and now he’s landed on TAU with four new cuts fresh from his lab.<br /><br />Kicking off with ‘Horisont’, a bumpin’ cut with dense kicks and an energy-fueled main melody which bounces around the mid-range. Shimmer- ing synths complement the riff, transporting us from our mortal bodies into another vibrational dimension.<br /><br />Then we have ‘Outlined’, where Nandu channels his mystical aura into a rousing cut that blends arcane sounds with warped vocals and entrancing instrumentation. This one feels like an adventure in the rustic, indoor souks of a vibrant desert land.<br /><br />‘Not The First’ is next up, offering more of that Nandu magic. At its essence, this one undulates way down below, growing and slowly billowing out into a smooth, serene soundscape. The track is optimistic, emotive and nourishing, taking us by the hand and leading us into a life-affirming breakdown and an equally enriching second half, full of joy and euphoric energy.<br /><br />Finally ‘Telesaki’ is like a portal that transports us into a hopeful future. Gentle piano keys combine with the soothing low end as a melancholy melody triggers memories of a distant past. Towards the middle of the track a gnarly riff appears, switching up the energy of the track and ushering in a pumped up second half. When you look into the past you can see where you’re going...<br /><br />c+p 2020 TAU <br /><br />Nandu: <br /><a rel="nofollow" target="blank" href="http://www.instagram.com/nanduofficialinsta">http://www.instagram.com/nanduofficialinsta</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/nanduofficial">http://www.facebook.com/nanduofficial</a><br /><a rel="nofollow" target="blank" href="http://www.soundcloud.com/nanduofficial">http://www.soundcloud.com/nanduofficial</a><br /><br />TAU:<br /><a rel="nofollow" target="blank" href="http://www.tautautau.de">http://www.tautautau.de</a><br /><a rel="nofollow" target="blank" href="http://www.instagram.com/tautautau.official">http://www.instagram.com/tautautau.official</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/tautautauofficial">http://www.facebook.com/tautautauofficial</a><br /><a rel="nofollow" target="blank" href="http://www.soundcloud.com/tautautauofficial">http://www.soundcloud.com/tautautauofficial</a>{% endraw %}
