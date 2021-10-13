@@ -1,0 +1,15 @@
+---
+title: "Someone To You - Banners (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/U2H1LInYPXE\/hqdefault.jpg"
+vid_id: "U2H1LInYPXE"
+categories: "Music"
+tags: ["#BANNERLYRICS#SOMEONETOYOULYRICS#PGLyrics"]
+date: "2021-10-14T02:08:25+03:00"
+vid_date: "2020-03-12T10:45:28Z"
+duration: "PT3M39S"
+viewcount: "20033318"
+likeCount: "319128"
+dislikeCount: "2749"
+channel: "Studio503Music"
+---
+{% raw %}Hi guys this is my youtube channel<br />Please Support Like and Subscribe <br />Thank you so much for watching. Enjoy<br /><br />Someone To You - Banners Lyrics<br /><br />I don't wanna die or fade away<br />I just wanna be someone<br />I just wanna be someone<br />Dive and disappear without a trace<br />I just wanna be someone<br />Well, doesn't everyone?<br />And if you feel the great dividing<br />I wanna be the one you're guiding<br />'Cause I believe that you could lead the way<br /><br />I just wanna be somebody to someone, oh<br />I wanna be somebody to someone, oh<br />I never had nobody and no road home<br />I wanna be somebody to someone<br /><br />And if the sun's upset and the sky goes cold<br />Then if the clouds get heavy and start to fall<br />I really need somebody to call my own<br />I wanna be somebody to someone<br />Someone to you<br />Someone to you<br />Someone to you<br />Someone to you<br /><br />I don't even need to change the world<br />I'll make the moon shine just for your view<br />I'll make the starlight circle the room<br />And if you feel like night is falling<br />I wanna be the one you're calling<br />'Cause I believe that you could lead the way<br /><br />I just wanna be somebody to someone, oh<br />I wanna be somebody to someone, oh<br />I never had nobody and no road home<br />I wanna be somebody to someone<br /><br />And if the sun's upset and the sky goes cold<br />Then if the clouds get heavy and start to fall<br />I really need somebody to call my own<br />I wanna be somebody to someone<br />Someone to you<br />Someone to you<br />Someone to you<br />Someone to you<br /><br />The kingdom come, the rise, the fall<br />The setting sun above it all<br />I just wanna be somebody to you<br /><br />I just wanna be somebody to someone, oh<br />I wanna be somebody to someone, oh<br />I never had nobody and no road home<br />I wanna be somebody to someone<br /><br />And if the sun's upset and the sky goes cold<br />Then if the clouds get heavy and start to fall<br />I really need somebody to call my own<br />I wanna be somebody to someone<br />Someone to you<br />Someone to you<br />Someone to you<br />Someone to you<br />Someone to you<br /><br /><br /><br />I do not own anything. All credits go to the right owners. No copyright intended. <br />-<br />© Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for &quot;fair use&quot; for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.{% endraw %}
