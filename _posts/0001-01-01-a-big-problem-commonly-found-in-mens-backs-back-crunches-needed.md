@@ -1,0 +1,15 @@
+---
+title: "A Big Problem Commonly Found in Mens' Backs - Back CRUNCHES NEEDED!"
+image: "https:\/\/i.ytimg.com\/vi\/moFO6Ovly_Y\/hqdefault.jpg"
+vid_id: "moFO6Ovly_Y"
+categories: "Education"
+tags: ["Problem","Commonly","Found"]
+date: "2021-10-16T17:11:54+03:00"
+vid_date: "2021-06-24T15:02:11Z"
+duration: "PT25M56S"
+viewcount: "1153119"
+likeCount: "16125"
+dislikeCount: "410"
+channel: "Mondragon Chiropractic"
+---
+{% raw %}Low back pain caused by spinal imbalances. Super satisfying back crunches relieves years of tension brought on by poor posture. Extension exercises are given at the end to relieve some of the swelling in the back. <br />Membership link: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCw2rs0uJqzN0ZzfmfkQ03pQ/join">https://www.youtube.com/channel/UCw2rs0uJqzN0ZzfmfkQ03pQ/join</a><br /><br />DISCLAIMER: THIS VIDEO IS FOR ENTERTAINMENT AS WELL AS EDUCATION. THESE TECHNIQUES ARE NOT TO BE USED BY UNLICENSED PROFESSIONALS. *See Full Legal Disclaimer Below<br /><br />Dr. Brenda Mondragon, DC Orlando, FL<br /><br />❤WHERE TO FIND ME <br />FB: <a rel="nofollow" target="blank" href="https://www.facebook.com/MondragonChiropractic">https://www.facebook.com/MondragonChiropractic</a><br />Reddit: <a rel="nofollow" target="blank" href="https://www.reddit.com/r/MondragonSubmissions/">https://www.reddit.com/r/MondragonSubmissions/</a><br />TIKTOK: @brenda_mondragon<br />Twitch: <a rel="nofollow" target="blank" href="https://www.twitch.tv/chirogirl17/">https://www.twitch.tv/chirogirl17/</a> <br />Instagram: @chiro_dragon<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/chiro_dragon">https://twitter.com/chiro_dragon</a><br />website: <a rel="nofollow" target="blank" href="http://www.mondragonchiropractic.com/">http://www.mondragonchiropractic.com/</a><br /><br /><br />Camera Girl Linnea’s Channel: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCs9RxAKuL3Ji9hszrzFmcTg">https://www.youtube.com/channel/UCs9RxAKuL3Ji9hszrzFmcTg</a><br /><br />#relaxing<br />#satisfying<br />#crunches<br /><br />*I reserve the right to disregard any direct messages, emails, or personal requests. If you need personal assistance, direct contact with YOUR medical office is needed. This site is accessed by the public. Consider your comments carefully. Do not include any information that you deem as personal or private. You are responsible for the content you post. <br /><a rel="nofollow" target="blank" href="http://www.mondragonchiropractic.com">http://www.mondragonchiropractic.com</a><br /><br />DISCLAIMER: Content posted contains generalized statements based on medical knowledge/product usage does not and is not intended to offer medical advice, diagnosis, or act as a prescriber of treatment. No promises, representations, or warranties are provided regarding the suitability of any of its content, products, or offerings for individualized self care. (FULL DISCLAIMERS HERE: <a rel="nofollow" target="blank" href="http://www.mondragonchiropractic.com)">http://www.mondragonchiropractic.com)</a>{% endraw %}
