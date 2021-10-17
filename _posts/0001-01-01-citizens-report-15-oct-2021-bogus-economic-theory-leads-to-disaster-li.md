@@ -1,0 +1,15 @@
+---
+title: "CITIZENS REPORT 15 Oct 2021 -Bogus economic theory leads to disaster \/ Liberals ignore Labor scandal"
+image: "https:\/\/i.ytimg.com\/vi\/VX-r6J3vfsM\/hqdefault.jpg"
+vid_id: "VX-r6J3vfsM"
+categories: "News-Politics"
+tags: ["australian","citizens","party"]
+date: "2021-10-17T06:12:21+03:00"
+vid_date: "2021-10-16T05:55:38Z"
+duration: "PT40M44S"
+viewcount: "1123"
+likeCount: "177"
+dislikeCount: "6"
+channel: "Australian Citizens Party"
+---
+{% raw %}1. The bogus theory behind Australia's economic disaster<br />2. The Labor party scandal the Liberals are ignoring<br /><br />Presented by Elisa Barwick and Robert Barwick<br /><br /><br />For information on contacting your senators, go to this link: <a rel="nofollow" target="blank" href="https://citizensparty.org.au/aus-senate">https://citizensparty.org.au/aus-senate</a><br /><br />Sign the Citizens Party Petition to create an Australia Post Bank!: <a rel="nofollow" target="blank" href="https://info.citizensparty.org.au/auspost-bank-petition">https://info.citizensparty.org.au/auspost-bank-petition</a><br /><br />Download the Commonwealth Postal Savings Bank Resolution and mobilise local councils and other institutions!: <a rel="nofollow" target="blank" href="https://citizensparty.org.au/sites/default/files/2021-06/Unite-Australia-in-support-of-the-Commonwealth-Postal-Savings-Bank.pdf">https://citizensparty.org.au/sites/default/files/2021-06/Unite-Australia-in-support-of-the-Commonwealth-Postal-Savings-Bank.pdf</a><br /><br />Become a member of the Australian Citizens Party: <a rel="nofollow" target="blank" href="https://citizensparty.org.au/membership">https://citizensparty.org.au/membership</a><br /><br />Subscribe to the Australian Alert Service: <a rel="nofollow" target="blank" href="https://info.citizensparty.org.au/subscribe">https://info.citizensparty.org.au/subscribe</a><br /><br />Watch the video &quot;The Sterling First scam: another example of Australia's widespread financial corruption&quot;: <a rel="nofollow" target="blank" href="https://youtu.be/wWPPT8xDVDM">https://youtu.be/wWPPT8xDVDM</a><br /><br />Read the media release &quot;Media buries China scandal revealed at Victoria’s branch-stacking inquiry&quot;: <a rel="nofollow" target="blank" href="https://citizensparty.org.au/media-releases/media-buries-china-scandal-revealed-victorias-branch-stacking-inquiry">https://citizensparty.org.au/media-releases/media-buries-china-scandal-revealed-victorias-branch-stacking-inquiry</a><br /><br /><br />Read the Citizens Party special series of articles &quot;The China Narrative&quot;: <a rel="nofollow" target="blank" href="https://citizensparty.org.au/china-narrative-part-one-war-machine-propaganda">https://citizensparty.org.au/china-narrative-part-one-war-machine-propaganda</a><br /><br /><br /><br />Chapters:<br />00:00 Intro<br />01:05 Topic 1: The bogus theory behind Australia's economic disaster<br />28:05 Topic 2: The Labor party scandal the Liberals are ignoring<br />40:26 End Credits{% endraw %}
