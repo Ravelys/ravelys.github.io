@@ -1,0 +1,15 @@
+---
+title: "Earth Has Mysterious Red Glow. What Is This?"
+image: "https:\/\/i.ytimg.com\/vi\/x5hexo-hETk\/hqdefault.jpg"
+vid_id: "x5hexo-hETk"
+categories: "Howto-Style"
+tags: ["bright side","brightside","bright side videos"]
+date: "2021-10-19T19:47:21+03:00"
+vid_date: "2021-10-19T13:00:23Z"
+duration: "PT8M1S"
+viewcount: "23861"
+likeCount: "1460"
+dislikeCount: "28"
+channel: "BRIGHT SIDE"
+---
+{% raw %}There're thousands of satellites flying around our planet and collecting different kinds of data. One of such satellites documented strange red glow surrounding the entire Earth. What was it? The thing is that such glow doesn't only come from our planet. It's also present in some distant Nebulas. Let's explore this strange and fascinating phenomenon...<br /><br /><br /><br />#brightside<br /><br /><br /><br />Credit:<br /><br />Horsehead Nebula (also known as Barnard 33 in emission nebula IC 434) is a dark nebula in the constellation Orion: By Ken Crawford, CC BY-SA 3.0 <a rel="nofollow" target="blank" href="https://creativecommons.org/licenses/by-sa/3.0,">https://creativecommons.org/licenses/by-sa/3.0,</a> <a rel="nofollow" target="blank" href="https://commons.wikimedia.org/w/index.php?curid=31584618">https://commons.wikimedia.org/w/index.php?curid=31584618</a><br /><br />Animation is created by Bright Side.<br />----------------------------------------------------------------------------------------<br />Music by Epidemic Sound <a rel="nofollow" target="blank" href="https://www.epidemicsound.com">https://www.epidemicsound.com</a> <br /><br />Check our Bright Side podcast on Spotify and leave a positive review! <a rel="nofollow" target="blank" href="https://open.spotify.com/show/0hUkPxD34jRLrMrJux4VxV">https://open.spotify.com/show/0hUkPxD34jRLrMrJux4VxV</a> <br /><br />Subscribe to Bright Side: <a rel="nofollow" target="blank" href="https://goo.gl/rQTJZz">https://goo.gl/rQTJZz</a> <br />----------------------------------------------------------------------------------------<br />Our Social Media:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/brightside">https://www.facebook.com/brightside</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/brightside.official">https://www.instagram.com/brightside.official</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@brightside.official?lang=en">https://www.tiktok.com/@brightside.official?lang=en</a> <br /><br />Stock materials (photos, footages and other):<br /><a rel="nofollow" target="blank" href="https://www.depositphotos.com">https://www.depositphotos.com</a><br /><a rel="nofollow" target="blank" href="https://www.shutterstock.com">https://www.shutterstock.com</a><br /><a rel="nofollow" target="blank" href="https://www.eastnews.ru">https://www.eastnews.ru</a><br />----------------------------------------------------------------------------------------<br /><br />For more videos and articles visit:<br /><a rel="nofollow" target="blank" href="http://www.brightside.me">http://www.brightside.me</a>{% endraw %}
