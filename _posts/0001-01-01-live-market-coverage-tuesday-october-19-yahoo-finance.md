@@ -1,0 +1,15 @@
+---
+title: "LIVE: Market Coverage: Tuesday October 19 Yahoo Finance"
+image: "https:\/\/i.ytimg.com\/vi\/j484_GY7tMk\/hqdefault.jpg"
+vid_id: "j484_GY7tMk"
+categories: "News-Politics"
+tags: ["stock market","investing","Yahoo Finance"]
+date: "2021-10-19T20:32:45+03:00"
+vid_date: "2021-10-18T21:01:26Z"
+duration: "P0D"
+viewcount: "11253"
+likeCount: "179"
+dislikeCount: "13"
+channel: "Yahoo Finance"
+---
+{% raw %}LIVE: Market Coverage: Tuesday October 19 Yahoo Finance<br /><br />#bitcoin #Biden #Stockmarket #coronavirus #memestocks #Fed<br />#YahooFinance #investing #stockmarket #bitcoin #crypto<br />Get the latest up-to-the-minute continuous stock market coverage and big interviews in the world of finance every Monday–Friday from 9 am to 5pm (ET).<br /><br />Stocks advanced on Tuesday as investors digested a slew of new earnings results that topped Wall Street's expectations, suggesting more companies were able to work through ongoing supply chain challenges and still generate solid profits. <br /><br />The Dow gained about 100 points, or 0.3%, just after market open. Component stock The Travelers Companies (TRV) outperformed after the insurance company posted quarterly results that far exceeded expectations as underwriting revenue reached a record. Both the S&amp;P 500 and Nasdaq also headed toward a fifth straight day of gains. <br /><br />Companies including consumer giants Johnson &amp; Johnson (JNJ) and Procter &amp; Gamble (PG) were among those to post quarterly results that exceeded estimates Tuesday morning, though the latter also flagged the impact of rising materials and shipping prices. P&amp;G said it expected to see $2.3 billion in after-tax expenses during the current fiscal year due to rising commodity and freight costs. <br /><br />Companies including Netflix (NFLX) and United Airlines (UAL) are set to report results after market close. <br /><br />The latest quarterly results, guidance and executive commentary from the broad array of companies still left to report are set to help illustrate the extent of how labor shortages, increasing input costs and lingering pandemic-related concerns have weighed on companies – and whether some firms have managed to more nimbly navigate this confluence of challenges. <br /><br />&quot;We're dealing with supply chain challenges because of the unique situation that we're in right now, where we've unleashed a lot of demand before businesses were really ready for it. That may persist for some time, drive volatility, raise some concerns,&quot; Brian Levitt, Invesco global market strategist of North America, told Yahoo Finance Live on Monday. &quot;But ultimately I think the supply-demand imbalances will moderate, enabling this cycle to move on further.&quot; <br /><br />For more on this article, please visit:<br /><a rel="nofollow" target="blank" href="https://finance.yahoo.com/news/stock-market-news-live-updates-october-19-2021-221347505.html">https://finance.yahoo.com/news/stock-market-news-live-updates-october-19-2021-221347505.html</a>{% endraw %}
