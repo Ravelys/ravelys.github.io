@@ -1,0 +1,15 @@
+---
+title: "Tame Impala - Let It Happen (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/pFptt7Cargc\/hqdefault.jpg"
+vid_id: "pFptt7Cargc"
+categories: "Music"
+tags: ["Elephant","the less I know the better","feels like we only going go backwards"]
+date: "2021-10-20T03:13:22+03:00"
+vid_date: "2015-08-17T14:05:01Z"
+duration: "PT4M17S"
+viewcount: "84884270"
+likeCount: "688098"
+dislikeCount: "13767"
+channel: "tameimpalaVEVO"
+---
+{% raw %}Listen to 'The Slow Rush' now: <a rel="nofollow" target="blank" href="https://TameImpala.lnk.to/TheSlowRushID">https://TameImpala.lnk.to/TheSlowRushID</a><br />Listen to more Tame Impala: <a rel="nofollow" target="blank" href="https://TameImpala.lnk.to/TameImpalaID">https://TameImpala.lnk.to/TameImpalaID</a><br />See Tame Impala on Tour: <a rel="nofollow" target="blank" href="https://tameimpalalive.com/">https://tameimpalalive.com/</a><br />Subscribe to Tame Impala’s YouTube channel: <a rel="nofollow" target="blank" href="https://TameImpala.lnk.to/YouTubeID">https://TameImpala.lnk.to/YouTubeID</a><br />Follow the Complete Tame Impala Playlist on Spotify: <a rel="nofollow" target="blank" href="https://TameImpala.lnk.to/StreamingID">https://TameImpala.lnk.to/StreamingID</a><br /><a rel="nofollow" target="blank" href="https://www.tameimpala.com/">https://www.tameimpala.com/</a><br /><br />Lyrics<br />[Verse 1]<br />It's always around me, all this noise<br />But not nearly as loud as the voice saying<br />&quot;Let it happen, let it happen (It's gonna feel so good)<br />Just let it happen, let it happen&quot;<br /><br />[Chorus 1]<br />All this running around<br />Trying to cover my shadow<br />A notion growing inside<br />Now all the others seem shallow<br />All this running around<br />Bearing down on my shoulders<br />I can hear an alarm<br />It must be morning<br /><br />[Verse 2]<br />I heard about a whirlwind that's coming 'round<br />It's gonna carry off all that isn't bound<br />And when it happens, when it happens (I won't be holding on)<br />So let it happen, let it happen<br />It's gonna feel so good<br />It's gonna feel so good<br /><br />[Verse 1]<br />It's always around me, all this noise<br />But not nearly as loud as the voice saying<br />&quot;Let it happen, let it happen (It's gonna feel so good)<br />Just let it happen, let it happen&quot;<br />It's gonna feel so good<br /><br />[Chorus 2]<br />All this running around<br />I can't fight it much longer<br />Something's trying to get out<br />And it's never been closer<br />If my take-off fails<br />Make up some other story<br />But if I never come back<br />Tell my mother I'm sorry<br /><br />[Bridge]<br />(Gibberish)<br /><br />[Outro]<br />Baby, now I'm ready, moving on<br />Oh but maybe I was ready all along<br />Oh I'm ready for the moment and the sound<br />Oh but maybe I was ready all along<br />Baby, now I'm ready, moving on<br />Oh but maybe I was ready all along<br />Oh I'm ready for the moment and the sound<br />Oh but maybe I was ready all along<br /><br />#TameImpala #KevinParker #LetItHappen #Currents #OfficialAudio{% endraw %}
