@@ -1,0 +1,15 @@
+---
+title: "How to Organize ANYTHING in 5 Steps: The NEAT Method"
+image: "https:\/\/i.ytimg.com\/vi\/d9cexsVJc9g\/hqdefault.jpg"
+vid_id: "d9cexsVJc9g"
+categories: "Howto-Style"
+tags: ["home organization","how to organize","organization tips"]
+date: "2021-10-20T14:47:01+03:00"
+vid_date: "2018-12-02T18:49:02Z"
+duration: "PT7M30S"
+viewcount: "430996"
+likeCount: "17598"
+dislikeCount: "232"
+channel: "Brittany Vasseur"
+---
+{% raw %}Today I'm sharing a new organization system you can use to organize any area in your home from closets to pantries to bedrooms. This method is basically home organization 101 - made easy.<br /><br /><br />♡ S O C I A L M E D I A ♡ <br /><br />⇨ INSTAGRAM:  ‪<a rel="nofollow" target="blank" href="https://instagram.com/vasseurbeauty">https://instagram.com/vasseurbeauty</a>     ‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬<br />⇨ TWITTER:  ‪ <a rel="nofollow" target="blank" href="https://twitter.com/vasseurbeauty">https://twitter.com/vasseurbeauty</a> ‬‬‬‬‬‬‬‬<br /><br /><br />♡ I N F O ♡<br /><br />The NEAT Method: www.neatmethod.com<br /><br />Tiered can shelf <a rel="nofollow" target="blank" href="https://amzn.to/2KRaa3a">https://amzn.to/2KRaa3a</a> <br />Label maker <a rel="nofollow" target="blank" href="https://amzn.to/2U8ffYO">https://amzn.to/2U8ffYO</a> <br />Toy organizer <a rel="nofollow" target="blank" href="https://amzn.to/2E8I7vp">https://amzn.to/2E8I7vp</a> <br />Pants hanger <a rel="nofollow" target="blank" href="https://amzn.to/2U5vNAM">https://amzn.to/2U5vNAM</a> <br /><br />How to make a command center (in this video) <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=1vRNKbDu0qU&amp;t=286s">https://www.youtube.com/watch?v=1vRNKbDu0qU&amp;t=286s</a> <br /><br />MY NEW SECOND CHANNEL! Please subscribe! <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCWzBAau15oS19UnQV_BWYmw">https://www.youtube.com/channel/UCWzBAau15oS19UnQV_BWYmw</a> <br /><br /><br />♡ A B O U T  M E  ♡<br /><br />Hi + welcome!! My name is Brittany and my family has been in the skin care business for over 30 years. I made this channel to share my passion for skin care, beauty, organization, health + DIYs in a fun and entertaining way! <br /><br />My family's skin care line is called Vasseur Skincare. Vasseur products are made with the highest concentration of active ingredients and are 100% natural: no parabens, chemical preservatives, synthetics, sulfates, toxins, dangerous chemicals or animal cruelty. For more information visit  <a rel="nofollow" target="blank" href="https://www.vasseurskincare.com">https://www.vasseurskincare.com</a>  <br /><br /><br />FTC: This video is not sponsored. Some affiliate links are used, which I earn a small commission from. This helps support and improve my channel. If you would like to support me, thank you, otherwise please feel free to search anything mentioned in Google to find where to purchase them. Thanks so much!<br /><br /><br />♡  Thank you for watching and PLEASE SUBSCRIBE if you are new! I upload new videos 1-2 times per week! ♡{% endraw %}
