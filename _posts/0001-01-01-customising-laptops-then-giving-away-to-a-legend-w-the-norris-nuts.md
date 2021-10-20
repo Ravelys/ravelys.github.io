@@ -1,0 +1,15 @@
+---
+title: "CUSTOMISING LAPTOPS THEN GIVING AWAY TO A LEGEND w\/The Norris Nuts"
+image: "https:\/\/i.ytimg.com\/vi\/BgD85FoEWso\/hqdefault.jpg"
+vid_id: "BgD85FoEWso"
+categories: "People-Blogs"
+tags: ["norris nuts","family friendly","family vlog"]
+date: "2021-10-21T01:16:15+03:00"
+vid_date: "2021-10-20T10:45:00Z"
+duration: "PT29M14S"
+viewcount: "532808"
+likeCount: "28986"
+dislikeCount: "472"
+channel: "The Norris Nuts"
+---
+{% raw %}WE AUDITIONED FOR @Dhar Mann  *ending is shocking* <a rel="nofollow" target="blank" href="https://youtu.be/LDnQ9EsZv54">https://youtu.be/LDnQ9EsZv54</a><br />LAST TO LEAVE THE LOUNGE <a rel="nofollow" target="blank" href="https://youtu.be/nBDRmW2fSpg">https://youtu.be/nBDRmW2fSpg</a><br />WHO CAN CUSTOMISE BEST TIE DYE CLOTHES <a rel="nofollow" target="blank" href="https://youtu.be/s9tHmgLM86g">https://youtu.be/s9tHmgLM86g</a><br />WHO CAN EAT MOST FRIES <a rel="nofollow" target="blank" href="https://youtu.be/8laG-jfyTC8">https://youtu.be/8laG-jfyTC8</a><br /><br />Our Latest challenges here <a rel="nofollow" target="blank" href="https://youtu.be/7VNvxbEN1sI">https://youtu.be/7VNvxbEN1sI</a> <br /><br />#familyvlog #challenge #norrisnuts<br />In this video we find out which Norris Nut can best customise a laptop computer and then give it away to someone. The Norris Nuts will try to find someone who watches our videos to receive the customized laptop notebook computer. It is a brand new PC custom build. Mama has lots of twists and extra challenges in this video too so there will be sure to be some entertaining funny family moments with the Norris siblings!<br /><br />Check out our other channels here <br />NORRIS NUTS GAMING <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSGAMING">http://bit.ly/NORRISNUTSGAMING</a><br />MAIN CHANNEL <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTS">http://bit.ly/NORRISNUTS</a><br />NORRIS NUTS DO STUFF <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSDOSTUFF">http://bit.ly/NORRISNUTSDOSTUFF</a><br />NORRIS NUTS COOKING <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSCOOKING">http://bit.ly/NORRISNUTSCOOKING</a><br />NORRIS NUTS CLIPS <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSCLIPS">http://bit.ly/NORRISNUTSCLIPS</a><br />NORRIS NUTS SQUAD (adventures) <a rel="nofollow" target="blank" href="http://bit.ly/NORRISNUTSSQUAD">http://bit.ly/NORRISNUTSSQUAD</a><br /><br />Our MOST POPULAR VIDEOS HERE <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL92HrKDrbQZ1ljDSJdh-sQb10oYb_OsoS">https://www.youtube.com/playlist?list=PL92HrKDrbQZ1ljDSJdh-sQb10oYb_OsoS</a><br /><br />*Comment on our Community Tab on the Channel Page<br /><br />MAKE CLOSED CAPTIONS (subtitles) in your language here <a rel="nofollow" target="blank" href="http://www.youtube.com/timedtext_cs_panel?c=UCYd0us2OtW4d4-1cfpT2ktw&amp;tab=2">http://www.youtube.com/timedtext_cs_panel?c=UCYd0us2OtW4d4-1cfpT2ktw&amp;tab=2</a>{% endraw %}
