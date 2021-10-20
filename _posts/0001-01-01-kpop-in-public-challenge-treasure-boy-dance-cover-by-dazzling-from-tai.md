@@ -1,0 +1,15 @@
+---
+title: "[KPOP IN PUBLIC CHALLENGE] TREASURE _ BOY Dance Cover by DAZZLING from Taiwan"
+image: "https:\/\/i.ytimg.com\/vi\/Ga67_TbiTOU\/hqdefault.jpg"
+vid_id: "Ga67_TbiTOU"
+categories: "Music"
+tags: ["[KPOP","PUBLIC","CHALLENGE]"]
+date: "2021-10-20T08:00:48+03:00"
+vid_date: "2021-03-19T11:00:17Z"
+duration: "PT3M53S"
+viewcount: "144326"
+likeCount: "11380"
+dislikeCount: "68"
+channel: "DAZZLING"
+---
+{% raw %}● DAZZLING from Taiwan<br /><br />● Cast：<br />YIJin(Do Young) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/yijin.917​">https://www.instagram.com/yijin.917​</a><br />Ting(Yoshi) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/ting950221">https://www.instagram.com/ting950221</a><br />YiWei(Jeong Woo) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/dzlyw.0524">https://www.instagram.com/dzlyw.0524</a><br />Shiaw(Asahi) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/dzlshiaw">https://www.instagram.com/dzlshiaw</a><br />CHENG(Yedam) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/johnson_9702​">https://www.instagram.com/johnson_9702​</a><br />Lu’s(Hyun Suk) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/lushsueh">https://www.instagram.com/lushsueh</a><br /><br />● Special thanks to：<br />Wenhao(Mashiho) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/wh__0029​">https://www.instagram.com/wh__0029​</a><br />Jiaxiang(Jae Hyuk) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/jiaxiang.zheng">https://www.instagram.com/jiaxiang.zheng</a><br />Hao(Jun Kyu) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/ying_hao1125">https://www.instagram.com/ying_hao1125</a><br />Li.an(Jihoon) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/lian____0430">https://www.instagram.com/lian____0430</a><br />Wei Jen(Jung Hwan) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/h_wei_jen">https://www.instagram.com/h_wei_jen</a><br />Fan Fan(Haruto) _ <a rel="nofollow" target="blank" href="https://www.instagram.com/fan.fan_1119">https://www.instagram.com/fan.fan_1119</a><br /> <br />● Filmed by：Rainy<br />● Edited by：JY<br /><br />►YouTube DAZZLING <br /><a rel="nofollow" target="blank" href="http://www.youtube.com/Dazzling011​">http://www.youtube.com/Dazzling011​</a><br /><br />►DAZZLINGTV<br /><a rel="nofollow" target="blank" href="http://bit.ly/2NVpwEo​">http://bit.ly/2NVpwEo​</a><br /><br />►Facebook Dazzling<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/Dazzling011​">https://www.facebook.com/Dazzling011​</a><br /><br />►Instagram<br /><a rel="nofollow" target="blank" href="https://instagram.com/dazzling_tw/​">https://instagram.com/dazzling_tw/​</a><br /><br />►Twitter @dazzling_tw<br /><a rel="nofollow" target="blank" href="https://twitter.com/dazzling_tw?s=09​">https://twitter.com/dazzling_tw?s=09​</a><br /><br />#TREASURE #BOY​ #KPOPINPUBLIC{% endraw %}
