@@ -1,0 +1,15 @@
+---
+title: "SOLAGE'S 7th BIRTHDAY SURPRISE!! | Familia Diamond"
+image: "https:\/\/i.ytimg.com\/vi\/mOE0KSyQwMU\/hqdefault.jpg"
+vid_id: "mOE0KSyQwMU"
+categories: "People-Blogs"
+tags: ["birthday surprise","surprise","bday"]
+date: "2021-10-21T22:00:46+03:00"
+vid_date: "2021-10-20T21:30:01Z"
+duration: "PT18M"
+viewcount: "327132"
+likeCount: "16813"
+dislikeCount: "222"
+channel: "Familia Diamond"
+---
+{% raw %}She got the BEST SURPRISE EVER!! SOLAGE'S 7th BIRTHDAY SURPRISE!! Become part of our family &amp; 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 ➡ <a rel="nofollow" target="blank" href="https://www.youtube.com/c/FamiliaDiamond">https://www.youtube.com/c/FamiliaDiamond</a> 💎<br /><br />Watch our RECENT VIDEOS  ➡ <a rel="nofollow" target="blank" href="https://bit.ly/3n7lNqd">https://bit.ly/3n7lNqd</a><br />Watch Our CHALLENGES  ➡ <a rel="nofollow" target="blank" href="https://bit.ly/3gHSM2R">https://bit.ly/3gHSM2R</a><br />Watch Our POPULAR VIDEOS! ➡ <a rel="nofollow" target="blank" href="https://bit.ly/3xfM5uu">https://bit.ly/3xfM5uu</a><br /><br />♡ Let's be BFF'S &amp; FOLLOW Our Instagram Accounts:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/rangerortiz/">https://www.instagram.com/rangerortiz/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/txunamy/">https://www.instagram.com/txunamy/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/diezelortiz/">https://www.instagram.com/diezelortiz/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/solageortiz/">https://www.instagram.com/solageortiz/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/esthalla/">https://www.instagram.com/esthalla/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/sdiezzel/">https://www.instagram.com/sdiezzel/</a><br /><br />~IF YOUR READING THIS FAR DOWN KNOW WE LOVE YOU 💕<br />💎 Hey Diamonds 💎 Welcome to our channel where we post every Wednesday &amp; Saturday, You may already know us from TikTok and Instagram. Our family includes Sdiezzel, Esthalla, Txunamy, Diezel, Solage, and our newest member the family, Ranger! Subscribe to be a part of our family and turn on the notifications bell to never miss a video! We hope you join this journey with us! Xoxo<br /><br />#Solage #FamilyVlog #FamiliaDiamond<br /><br />Track: Kisma - We Are [NCS Release]<br />Music provided by NoCopyrightSounds.<br />Watch: <a rel="nofollow" target="blank" href="https://youtu.be/WfluodjOkOk">https://youtu.be/WfluodjOkOk</a><br />Free Download / Stream: <a rel="nofollow" target="blank" href="http://ncs.io/WeAreID">http://ncs.io/WeAreID</a><br /><br />SOLAGE'S 7th BIRTHDAY SURPRISE!! | Familia Diamond<br /><a rel="nofollow" target="blank" href="https://youtu.be/mOE0KSyQwMU">https://youtu.be/mOE0KSyQwMU</a><br /><br />Familia Diamond: <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC5ZOSZ-Bpass2ZkJY9q9ISg">https://www.youtube.com/channel/UC5ZOSZ-Bpass2ZkJY9q9ISg</a>{% endraw %}
