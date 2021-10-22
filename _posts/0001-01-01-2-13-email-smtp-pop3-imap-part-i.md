@@ -1,0 +1,15 @@
+---
+title: "2.13 - Email: SMTP, POP3, IMAP - Part I"
+image: "https:\/\/i.ytimg.com\/vi\/rl2ZvdT4hRI\/hqdefault.jpg"
+vid_id: "rl2ZvdT4hRI"
+categories: "Education"
+tags: ["Email","Eletronic mail","internet mail"]
+date: "2021-10-22T19:26:20+03:00"
+vid_date: "2018-05-10T06:57:15Z"
+duration: "PT11M9S"
+viewcount: "20413"
+likeCount: "155"
+dislikeCount: "28"
+channel: "Darshan University"
+---
+{% raw %}This video describes about email system, SMTP - Simple Mail Transfer Protocol, Post office version 3, Internet mail access protocol. How its works?<br /><br />&quot;Email is an asynchronous communication medium in which people send and read messages as convenient for them. Email is fast, easy to distribute, and inexpensive. <br /><br />- High level view of Internet mail system and its key components.<br />1. User agents: User agents allow users to read, reply to, forward, save, and compose messages.<br />2. Mail servers: A mailbox contains incoming messages for user.<br />3. Simple Mail Transfer Protocol (SMTP): It is a principal application layer protocol between mail servers to send email messages.<br /><br />SMTP: Simple Mail Transfer Protocol used in sending and receiving e-mail.<br />It use TCP to reliably transfer email message from SENDER MAIL SERVER  to RECEPIENT MAIL SERVER using port 25.<br /><br />POP3:  Post Office Protocol – Version 3<br />IMAP:  Internet Mail Access Protocol<br />- A mail access protocol, such as POP3, is used to transfer mail from the recipient’s mail server to the recipient’s user agent.<br /><br />GTU - Computer Engineering (CE) - Semester 4 - 2140709 - Computer Networks - Application Layer - Email: SMTP, POP3, IMAP - Part I<br /><br />Computer Networks PPTs are available here: <a rel="nofollow" target="blank" href="http://www.darshan.ac.in/DIET/CE/GTU-Computer-Engineering-Study-Material">http://www.darshan.ac.in/DIET/CE/GTU-Computer-Engineering-Study-Material</a><br /><br />This video is recorded by Prof. Maulik Trivedi (maulik.trivedi@darshan.ac.in, +91-9998265805) at Computer Engineering Department of Darshan Institute of Engineering &amp; Technology, Rajkot as per GTU Syllabus. <br /><br />Darshan Institute of Engineering &amp; Technology, Rajkot is a leading institute offering undergraduate, graduate and postgraduate programs in engineering. The Institute is affiliated to the Gujarat Technological University (GTU) and approved by the AICTE, New Delhi. <br /><br />Visit us: <a rel="nofollow" target="blank" href="http://www.darshan.ac.in">http://www.darshan.ac.in</a><br />Write us: info@darshan.ac.in<br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/DarshanInstitute.Official">https://www.facebook.com/DarshanInstitute.Official</a><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/darshan_inst">https://www.twitter.com/darshan_inst</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/darshan_inst/&quot;">https://www.instagram.com/darshan_inst/&quot;</a>{% endraw %}
