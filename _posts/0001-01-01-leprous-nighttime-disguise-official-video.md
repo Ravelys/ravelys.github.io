@@ -1,0 +1,15 @@
+---
+title: "LEPROUS - Nighttime Disguise (OFFICIAL VIDEO)"
+image: "https:\/\/i.ytimg.com\/vi\/hOMSRmfcvag\/hqdefault.jpg"
+vid_id: "hOMSRmfcvag"
+categories: "Music"
+tags: ["prog rock","progressive rock","progressive metal"]
+date: "2021-10-23T13:49:51+03:00"
+vid_date: "2021-08-27T11:59:28Z"
+duration: "PT7M8S"
+viewcount: "162851"
+likeCount: "6518"
+dislikeCount: "97"
+channel: "InsideOutMusicTV"
+---
+{% raw %}LEPROUS – Nighttime Disguise (OFFICIAL VIDEO)<br />Taken from the new album “Aphelion”, Out August 27, 2021.<br />Order the album here: <a rel="nofollow" target="blank" href="https://leprousband.lnk.to/AphelionID">https://leprousband.lnk.to/AphelionID</a><br /><br />Directed, shot, and edited by Elena Sihida<br /><br />Also appearing:<br /><br />Blasemafian<br />Trumpet: Stig Espen Hundsnes<br />Saxophone: Jørgen Lund Karlsen<br />Trombone: Sigurd Evensen<br /><br />The music video is based on the video footage shot as part of the livestream project “Let's write a song together”, which took place on January 2021, where the band was under the sights of video cameras 24/7 at the Ocean Sound Studio and wrote this composition based on the vote of their fans. This project was filmed and produced by Munin Live.<br /><br />Production, livestream assistance: Vetle Kristiansen Syftestad<br /><br />Studio location: Ocean Sound Studio, Sonic Attic Studio<br /><br />Follow Leprous:<br /><a rel="nofollow" target="blank" href="http://www.leprous.net">http://www.leprous.net</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/leprousband">http://www.facebook.com/leprousband</a><br /><a rel="nofollow" target="blank" href="https://www.omerch.eu/shop/leprous">https://www.omerch.eu/shop/leprous</a><br /><br />---<br /><br />Follow InsideOutMusic here:<br /><a rel="nofollow" target="blank" href="https://www.insideoutmusic.com">https://www.insideoutmusic.com</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/InsideOutMusic">https://www.facebook.com/InsideOutMusic</a><br /><br />Shop:<br />EU: <a rel="nofollow" target="blank" href="https://www.insideoutshop.de/">https://www.insideoutshop.de/</a><br />US: <a rel="nofollow" target="blank" href="https://www.insideoutmusic.store">https://www.insideoutmusic.store</a><br /><br />Twitter:<br />EU: <a rel="nofollow" target="blank" href="https://twitter.com/insideouteu">https://twitter.com/insideouteu</a><br />US: <a rel="nofollow" target="blank" href="https://www.twitter.com/InsideOutUSA">https://www.twitter.com/InsideOutUSA</a><br /><br />Spotify Prog Rock Essentials Playlist: <a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/4whzMXikOGzFVekQmAzMdo?si=-gS9TdR_Suy293cEmVpsJQ">https://open.spotify.com/playlist/4whzMXikOGzFVekQmAzMdo?si=-gS9TdR_Suy293cEmVpsJQ</a><br />Spotify Prog Metal Essentials Playlist: <a rel="nofollow" target="blank" href="https://open.spotify.com/playlist/62sl2B97a8xD7B99pNdJwc?si=eH1XC3i5RBSXD4hUjiLcNA">https://open.spotify.com/playlist/62sl2B97a8xD7B99pNdJwc?si=eH1XC3i5RBSXD4hUjiLcNA</a>{% endraw %}
