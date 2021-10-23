@@ -1,0 +1,15 @@
+---
+title: "Charli D'Amelio - The Feelings (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/vtWHcJ99zg0\/hqdefault.jpg"
+vid_id: "vtWHcJ99zg0"
+categories: "Entertainment"
+tags: ["charli d'amelio song","charli d'amelio","charli damelio song"]
+date: "2021-10-23T06:44:18+03:00"
+vid_date: "2020-04-30T21:28:01Z"
+duration: "PT4M4S"
+viewcount: "6952035"
+likeCount: "130235"
+dislikeCount: "8509"
+channel: "Leroy Merius"
+---
+{% raw %}Charli D'Amelio - The Feelings (Official Video)<br />@imleroymerius<br /><br /><br /><br /><br />Follow Charli<br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@charlidamelio">https://www.tiktok.com/@charlidamelio</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/charlidamelio/">https://www.instagram.com/charlidamelio/</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/charlidamelio">http://twitter.com/charlidamelio</a><br />Youtube: <a rel="nofollow" target="blank" href="https://www.youtube.com/charlidamelio">https://www.youtube.com/charlidamelio</a><br />website: <a rel="nofollow" target="blank" href="https://www.charlidamelio.com/">https://www.charlidamelio.com/</a><br /><br /><br /><br />Lyrics<br />You are to me<br />A part of me just like anatomy, oh<br />You're pulling me<br />You're pulling me in like you're gravity, oh<br />I'm notorious for thinking you're<br />Full of beautiful instead of hollow<br />Sugar on your lips, it's hard to kill<br />Jagged like a pill, so hard to swallow<br />Am I in love with you? Am I in love with you?<br />Or am I in love with the feeling?<br />Trying to find the truth, trying to find the truth<br />Sometimes the heart is deceiving<br />Can't get out of my head, I need you to save me<br />If I am delusional then maybe I'm crazy<br />In love with you, am I in love with you?<br />Or am I in love with the feeling? (Oh)<br />You give to me<br />Everything, anything that I could dream<br />And at least that's what it seems<br />Could it be I don't know what's good for me?<br />I'm notorious for thinking you're<br />Full of beautiful instead of hollow<br />Sugar on your lips, it's hard to kill<br />Jagged like a pill, so hard to swallow<br />Am I in love with you? Am I in love with you?<br />Or am I in love with the feeling?<br />Trying to find the truth, trying to find the truth<br />Sometimes the heart is deceiving<br />Can't get out of my head, I need you to save me<br />If I am delusional then maybe I'm crazy<br />In love with you, am I in love with you?<br />Or am I in love with the feeling? (Oh)<br />I'm sinking faster and faster<br />Between heaven and disaster<br />Sorry if I made you feel like I'm standing on the borderline, oh<br />Am I in love with you? Am I in love with you?<br />Or am I in love with the feeling?<br />Trying to find the truth, trying to find the truth<br />Sometimes the heart is deceiving<br />Can't get out of my head, I need you to save me<br />If I am delusional then maybe I'm crazy<br />In love with you, am I in love with you?<br />Or am I in love with the feeling? (Oh)<br /><br /><br />#CharlieDamelio #VEVO #TheFeelings{% endraw %}
