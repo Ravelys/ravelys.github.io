@@ -1,0 +1,15 @@
+---
+title: "Transforming My Daughter Into A Cheerleader ft\/ Anna McNulty"
+image: "https:\/\/i.ytimg.com\/vi\/sR0DLq2lMzU\/hqdefault.jpg"
+vid_id: "sR0DLq2lMzU"
+categories: "Entertainment"
+tags: ["jordan matter","dance photography","challenge"]
+date: "2021-10-23T09:39:54+03:00"
+vid_date: "2021-10-14T16:00:12Z"
+duration: "PT11M58S"
+viewcount: "4751611"
+likeCount: "129227"
+dislikeCount: "2439"
+channel: "Jordan Matter"
+---
+{% raw %}Anna McNulty and a champion cheer team have 7 challenges to turn my daughter Salish into a cheerleader. If they're successful I get a horrible consequence. Special guest Gabi Butler! SUBSCRIBE &amp; LIKE this video to win Apple Airpods Pro, then comment why you want them!<br /><br />See last week's video: Instagram Controls My Daughter At Disneyland *NOT a Date!* <a rel="nofollow" target="blank" href="https://youtu.be/ffsxyPC4000">https://youtu.be/ffsxyPC4000</a><br /><br />See Salish's diss track: My Daughter Quits YouTube (Official Music Video) ft/ Piper Rockelle <a rel="nofollow" target="blank" href="https://youtu.be/Y953EmGss4Y">https://youtu.be/Y953EmGss4Y</a><br /><br />SUBSCRIBE, LIKE and SHARE this video! Turn on POST NOTIFICATIONS to get notified whenever I post! <a rel="nofollow" target="blank" href="https://www.youtube.com/user/jordanmatter">https://www.youtube.com/user/jordanmatter</a><br /><br />SUBSCRIBE!! <br />Me: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/jordanmatter?sub_confirmation=1">https://www.youtube.com/user/jordanmatter?sub_confirmation=1</a><br />Anna: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/AnnaMcnulty?sub_confirmation=1">https://www.youtube.com/c/AnnaMcnulty?sub_confirmation=1</a><br />Britt: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/BrittHertz?sub_confirmation=1">https://www.youtube.com/c/BrittHertz?sub_confirmation=1</a><br />Drew: <a rel="nofollow" target="blank" href="https://www.youtube.com/c/DrewDirksen?sub_confirmation=1">https://www.youtube.com/c/DrewDirksen?sub_confirmation=1</a><br /><br />Follow:<br />Me: <a rel="nofollow" target="blank" href="https://www.instagram.com/jordanmatter/">https://www.instagram.com/jordanmatter/</a><br />Salish: <a rel="nofollow" target="blank" href="https://www.instagram.com/saysaymatter/">https://www.instagram.com/saysaymatter/</a><br />Anna: <a rel="nofollow" target="blank" href="https://www.instagram.com/annaemcnulty/">https://www.instagram.com/annaemcnulty/</a><br />Britt: <a rel="nofollow" target="blank" href="https://www.instagram.com/britthertz/">https://www.instagram.com/britthertz/</a><br />Drew: <a rel="nofollow" target="blank" href="https://www.instagram.com/drewdirksen/">https://www.instagram.com/drewdirksen/</a><br />Jake: <a rel="nofollow" target="blank" href="https://www.instagram.com/its.jakeg/">https://www.instagram.com/its.jakeg/</a><br /><br />Video by Sandy Chase<br /><br />Business Inquiries: info@jordanmatter.com<br /><br />Music licensed through Epidemic Sound<br /><br />Wow, if you're still reading you are awesome! BOOOMMMM!!{% endraw %}
