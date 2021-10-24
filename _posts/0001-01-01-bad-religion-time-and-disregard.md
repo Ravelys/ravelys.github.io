@@ -1,0 +1,15 @@
+---
+title: "Bad Religion - Time and Disregard"
+image: "https:\/\/i.ytimg.com\/vi\/eAthBH8pZOg\/hqdefault.jpg"
+vid_id: "eAthBH8pZOg"
+categories: "Music"
+tags: ["bad","religion","into"]
+date: "2021-10-24T04:49:16+03:00"
+vid_date: "2008-12-01T19:05:57Z"
+duration: "PT7M5S"
+viewcount: "33446"
+likeCount: "156"
+dislikeCount: "12"
+channel: "harrybelly"
+---
+{% raw %}From Wikipedia:<br /><br />Into the Unknown is the second album by Bad Religion, which was released in 1983. The album was a major change from their previous style, delving into progressive rock heavy in keyboards, though it wasn't at all popular as fans at the time were confused by the sudden style shift. When the band released the 1991 compilation album 80-85, a collection of recordings before their third album Suffer, Into the Unknown was not part of the compilation, also partly due to the band changing their style.<br /><br />The album is widely reputed to have been a major factor in their 1984 breakup as the recording sessions were riddled with discord. As a matter of fact, drummer Pete Finestone and bass player Jay Bentley left during the recording of the first song.<br /><br />Only 10,000 of these albums were produced and distributed, but almost all were quickly returned to Epitaph's warehouse. Guitarist Brett Gurewitz jokingly recalls having &quot;[sent out] ten thousand copies and [getting] eleven thousand back.&quot;[1] However, many did in fact end up in the hands of fans, when Brett Gurewitz's girlfriend Suzy Shaw, who worked at the warehouse, surreptitiously sold all but 300 of them. Compact cassettes were also produced, but they are rare.<br /><br />The album is generally disowned by the band, and there has never been a second pressing. Despite its abandonment however, it has become highly desirable and is now something of a collector's item. The band has commented on the album on their site saying that they are not trying to hide it from fans, and that anyone who listens to it will understand why they have never re-released it.<br /><br />Track listing<br /><br />1. &quot;It's Only Over When...&quot; (Graffin) -- 3:36<br />2. &quot;Chasing the Wild Goose&quot; (Gurewitz) -- 2:50<br />3. &quot;Billy Gnosis&quot; (Gurewitz) -- 3:31<br />4. &quot;Time and Disregard&quot; (Graffin) -- 7:03<br />5. &quot;The Dichotomy&quot; (Gurewitz) -- 4:52<br />6. &quot;Million Days&quot; (Graffin) -- 3:47<br />7. &quot;Losing Generation&quot; (Graffin) -- 3:37<br />8. &quot;...You Give Up&quot; (Graffin) -- 2:55<br /><br /><br />Personnel * Greg Graffin - vocals, synthesizer, piano, acoustic guitar, production * Brett Gurewitz - electric guitar, acoustic guitar, backing vocals, production * Paul Dedona - bass guitar * Davy Goldman - drums * Jim Mankey - engineering<br /><br />Edit: I just created a Youtube account for my band (influenced by Bad Religion and others). Feel free to check it out: <a rel="nofollow" target="blank" href="http://www.youtube.com/user/Mordingjarnir">http://www.youtube.com/user/Mordingjarnir</a>{% endraw %}
