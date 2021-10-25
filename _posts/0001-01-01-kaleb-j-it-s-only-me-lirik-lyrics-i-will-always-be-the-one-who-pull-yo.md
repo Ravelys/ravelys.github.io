@@ -1,0 +1,15 @@
+---
+title: "Kaleb J - It's Only Me (Lirik \/ Lyrics) | I will always be the one who pull you up"
+image: "https:\/\/i.ytimg.com\/vi\/ZNmF2fveDng\/hqdefault.jpg"
+vid_id: "ZNmF2fveDng"
+categories: "Music"
+tags: ["it's only me","I will always be the one who pull you up","it's only me lirik"]
+date: "2021-10-25T18:05:20+03:00"
+vid_date: "2021-08-23T14:30:07Z"
+duration: "PT3M23S"
+viewcount: "10392294"
+likeCount: "92169"
+dislikeCount: "1411"
+channel: "Cakes & Eclairs"
+---
+{% raw %}Kaleb J - It's Only Me (Lirik / Lyrics) | I will always be the one who pull you up<br />🎵 Follow Cakes &amp; Eclairs on Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/CakesEclairs">http://bit.ly/CakesEclairs</a><br />Stream It's Only Me Kaleb J : <a rel="nofollow" target="blank" href="https://backl.ink/143036183">https://backl.ink/143036183</a><br /><br />🔔 Don't forget to subscribe and turn on notifications!<br /><br />Follow KALEB J<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/kalebjonath">https://www.instagram.com/kalebjonath</a><br /><br />Follow PASSION VIBE<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/passionvibeid">https://www.instagram.com/passionvibeid</a><br /><a rel="nofollow" target="blank" href="http://www.passionvibeid.com">http://www.passionvibeid.com</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/belanegara.abe">https://www.instagram.com/belanegara.abe</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/edoabraham">https://www.instagram.com/edoabraham</a><br /><br /><br />__________________<br />It's Only Me Lyrics<br />[Verse 1]<br />Selama ini<br />Ribuan Hari<br />Kudekat denganmu<br />Lewati berbagai hal, ku ada di sisi mu<br /><br /><br />Tanpa kau tahu perasaan ku padamu <br />Sendiri ku berharap<br /><br />Memberi kasih walau tak kembali<br /><br /><br />[Chorus]<br /><br />I maybe not yours and you're not mine<br />But I’ll be there for you when you need me <br />It is only me<br />Believe me girl, it's only me <br />Yeah, it's only me!<br /><br /><br />I will always be the one who pull you up <br />When everybody push you down<br />And it's only me<br /><br />Believe me girl, it's only me!<br />Yeah it's only me<br /><br />[Verse 2]<br />Sekali pun, kau tak pernah perdulikan rasa ku <br />Ku takkan acuhkan dirimu<br /><br />Tapi kuharap<br /><br />Suatu saat nanti kau tahu <br />Sendiri ku berharap <br />Memberi kasih <br />walau tak kembali<br /><br /><br /><br />[Chorus]<br /><br />I maybe not yours and you're not mine<br />But I’ll be there for you when you need me <br />It is only me<br />Believe me girl, it's only me <br />Yeah, it's only me!<br /><br /><br />I will always be the one who pull you up <br />When everybody push you down<br />And it's only me<br /><br />Believe me girl, it's only me!<br />Yeah it's only me<br /><br /><br />[Bridge]<br />Aku memang bukan <br />Rasa yang kau mau <br />Namun ku kan slalu ada <br />Untukmu<br />.... Untukmu<br /><br />#itsonlyme #kalebj{% endraw %}
