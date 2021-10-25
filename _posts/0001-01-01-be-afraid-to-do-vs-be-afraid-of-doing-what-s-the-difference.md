@@ -1,0 +1,15 @@
+---
+title: "Be Afraid to Do vs Be Afraid of Doing. (What's the difference?)"
+image: "https:\/\/i.ytimg.com\/vi\/VAjBs2CceVI\/hqdefault.jpg"
+vid_id: "VAjBs2CceVI"
+categories: "Education"
+tags: ["be afraid of doing","how to use be afraid of in english","be afraid to do vs doing"]
+date: "2021-10-25T05:48:25+03:00"
+vid_date: "2020-11-23T14:00:14Z"
+duration: "PT5M19S"
+viewcount: "685"
+likeCount: "24"
+dislikeCount: "0"
+channel: "Acquire English"
+---
+{% raw %}In this lesson, you'll learn how to use BE AFRAID OF, BE AFRAID (OF DOING) and BE AFRAID (TO DO). We'll also explain the difference between be afraid of doing and be afraid to do.<br /><br />What are you afraid of? Let us know in the comments. <br />0:00 INTRO<br />0:17 MEANING OF AFRAID<br />0:37 BE AFRAID OF SOMETHING<br />We use be afraid of (something) to talk about general fears. <br />He's really afraid of spiders. <br />Joe is afraid of heights. He'll never go skydiving. <br />My son is afraid of the dark. <br />I'm afraid of public speaking. <br />1:38 BE AFRAID (TO DO SOMETHING)<br />Marta is afraid to show her dad her test scores. <br />I'm afraid to go out at night. My neighborhood is really dangerous. <br />2:20 BE AFRAID OF (DOING SOMETHING)<br />We use be afraid of (doing something) when we fear something bad will happen. <br />John works really hard, but he's still afraid of getting fired. <br />James didn't want to go to school. He was afraid of being bullied. <br />3:00 COMPARE BE AFRAID TO DO SOMETHING VS BE AFRAID OF DOING SOMETHING<br />Be afraid to do something means we don't want to do because it is dangerous of the result could be bad. <br />Practice along with this video to improve your English speaking, listening and pronunciation. <br />We use be afraid of doing something when we fear something bad will happen. <br />I'm afraid to go out at night. I'm afraid of being robbed. <br />4:30 POLITELY SAY SORRY<br />Could I speak with Phil, please? I'm afraid he's not here at the moment. <br />Are you free on Thursday at 2:30? I'm afraid that doesn't work for me. How about Friday?<br /><br />Do you want to improve your English Speaking Listening and Pronunciation?<br />Udemy Courses:<br />A1 to A2 course:<br /><a rel="nofollow" target="blank" href="https://www.udemy.com/course/acquire-...">https://www.udemy.com/course/acquire-...</a><br /><br />A2 to B1 course<br /><a rel="nofollow" target="blank" href="https://www.udemy.com/course/acquire-english-speaking-listening-and-pronunciation-a2-b1/?referralCode=8EF62B2E4CED95923BF7">https://www.udemy.com/course/acquire-english-speaking-listening-and-pronunciation-a2-b1/?referralCode=8EF62B2E4CED95923BF7</a><br /><br />Skillshare Courses:<br />A2 to B1 course:<br /><a rel="nofollow" target="blank" href="https://skl.sh/36x9zic">https://skl.sh/36x9zic</a><br /><br />A1 to A2 course:<br /><a rel="nofollow" target="blank" href="https://skl.sh/3jMqIui">https://skl.sh/3jMqIui</a><br /><br />#beafraid #howtouse #englishGrammar{% endraw %}
