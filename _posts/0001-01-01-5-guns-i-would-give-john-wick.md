@@ -1,0 +1,15 @@
+---
+title: "5 Guns I would give John Wick"
+image: "https:\/\/i.ytimg.com\/vi\/5Ncy9xUeXvc\/hqdefault.jpg"
+vid_id: "5Ncy9xUeXvc"
+categories: "Sports"
+tags: ["would"]
+date: "2021-10-26T10:20:55+03:00"
+vid_date: "2021-10-25T15:10:36Z"
+duration: "PT4M4S"
+viewcount: "21068"
+likeCount: "1875"
+dislikeCount: "21"
+channel: "Arm&Gun"
+---
+{% raw %}Welcome back Mr. Wick...<br />-<br />Follow me on Instagram for daily content &amp; GIVEAWAYS: <a rel="nofollow" target="blank" href="https://www.instagram.com/arm.and.gun/">https://www.instagram.com/arm.and.gun/</a><br />-<br />Support me on Patreon &amp; slide into those dm's: <a rel="nofollow" target="blank" href="https://www.patreon.com/armandgun">https://www.patreon.com/armandgun</a><br />-<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/armandgun">https://www.facebook.com/armandgun</a><br />-<br />Cool gear from companies I have collab'd with:<br />American Defense Manufacturing: Code ARMANDGUN for 10% off most stuff on their site<br />Accu-Tac Bipods: Code ARMANDGUN for 25% off products on their site<br />Cases: Air Armor Tech | <a rel="nofollow" target="blank" href="https://www.airarmortech.com">https://www.airarmortech.com</a><br />Combat Clothing: UF PRO | <a rel="nofollow" target="blank" href="https://ufpro.com/int/">https://ufpro.com/int/</a><br />AR 550 Targets | <a rel="nofollow" target="blank" href="https://tatargets.com/">https://tatargets.com/</a><br />Plate Carriers: HRT Tactical | <a rel="nofollow" target="blank" href="https://hrttacticalgear.com/">https://hrttacticalgear.com/</a><br />Safe: Rhino Metals | <a rel="nofollow" target="blank" href="https://rhinosafe.com/">https://rhinosafe.com/</a><br />Gun wall: Gallowtech | <a rel="nofollow" target="blank" href="https://www.gallowtech.com/">https://www.gallowtech.com/</a><br />Books: Vickers Guide | <a rel="nofollow" target="blank" href="https://www.vickersguide.com/">https://www.vickersguide.com/</a><br />Flannels: Dixxon | USA <a rel="nofollow" target="blank" href="https://dixxonquality.com/">https://dixxonquality.com/</a> Canada <a rel="nofollow" target="blank" href="https://dixxon.ca/">https://dixxon.ca/</a><br />Gloves: Fist Handwear | <a rel="nofollow" target="blank" href="https://www.fisthandwear.com">https://www.fisthandwear.com</a><br />-<br />Affiliates:<br />Purchasing from the below links helps support Arm&amp;Gun.<br />-<br />Bolt Action Coffee | Use 'armandgun' for 10% off: <a rel="nofollow" target="blank" href="https://www.boltactioncoffee.com/shop-online">https://www.boltactioncoffee.com/shop-online</a><br />-<br />Black Arch Holsters | <a rel="nofollow" target="blank" href="https://www.blackarchholsters.com/?rfsn=4881029.340e73&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=4881029.340e73">https://www.blackarchholsters.com/?rfsn=4881029.340e73&amp;utm_source=refersion&amp;utm_medium=affiliate&amp;utm_campaign=4881029.340e73</a><br />-<br />#armandgun #5guns #johnwick<br /><br />**This video was filmed at Wolverine Supplies, a licensed business. All firearms shown are legally possessed.{% endraw %}
