@@ -1,0 +1,15 @@
+---
+title: "Auckland Clip 3:  The Dawning of the Moral Sense"
+image: "https:\/\/i.ytimg.com\/vi\/48ewiClu9Ho\/hqdefault.jpg"
+vid_id: "48ewiClu9Ho"
+categories: "Education"
+tags: ["Auckland","Dawning","Moral"]
+date: "2021-10-27T01:32:54+03:00"
+vid_date: "2019-08-18T01:39:09Z"
+duration: "PT4M41S"
+viewcount: "247485"
+likeCount: "6791"
+dislikeCount: "175"
+channel: "Jordan B Peterson"
+---
+{% raw %}My wife, Tammy, and I toured Australia and New Zealand in February. I was lecturing about the topics covered in my book, 12 Rules for Life (and also Maps of Meaning, my first book). I had a number of the lectures professionally filmed.  This is a highlight from my lecture in Auckland on the origin of the moral sense. <br /><br />--- SUPPORT THIS CHANNEL ---<br /><br />Direct Support: <a rel="nofollow" target="blank" href="https://www.jordanbpeterson.com/donate">https://www.jordanbpeterson.com/donate</a><br />Merchandise: <a rel="nofollow" target="blank" href="https://teespring.com/stores/jordanbp...">https://teespring.com/stores/jordanbp...</a><br /><br />--- BOOKS ---<br /><br />12 Rules for Life: An Antidote to Chaos: <a rel="nofollow" target="blank" href="https://jordanbpeterson.com/12-rules-...">https://jordanbpeterson.com/12-rules-...</a><br />Maps of Meaning: The Architecture of Belief: <a rel="nofollow" target="blank" href="https://jordanbpeterson.com/maps-of-m...">https://jordanbpeterson.com/maps-of-m...</a><br /><br />--- LINKS ---<br /><br />Website: <a rel="nofollow" target="blank" href="https://jordanbpeterson.com/">https://jordanbpeterson.com/</a><br />12 Rules for Life Tour: <a rel="nofollow" target="blank" href="https://jordanbpeterson.com/events/">https://jordanbpeterson.com/events/</a><br />Blog: <a rel="nofollow" target="blank" href="https://jordanbpeterson.com/blog/">https://jordanbpeterson.com/blog/</a><br />Podcast: <a rel="nofollow" target="blank" href="https://jordanbpeterson.com/podcast/">https://jordanbpeterson.com/podcast/</a><br />Reading List: <a rel="nofollow" target="blank" href="https://jordanbpeterson.com/great-books/">https://jordanbpeterson.com/great-books/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/jordanbpeterson">https://twitter.com/jordanbpeterson</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/jordan.b.pe...">https://www.instagram.com/jordan.b.pe...</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/drjordanpete...">https://www.facebook.com/drjordanpete...</a><br /><br />--- PRODUCTS ---<br /><br />Personality Course: <a rel="nofollow" target="blank" href="https://www.jordanbpeterson.com/personality">https://www.jordanbpeterson.com/personality</a><br />Self Authoring Suite: <a rel="nofollow" target="blank" href="https://selfauthoring.com/">https://selfauthoring.com/</a><br />Understand Myself personality test: <a rel="nofollow" target="blank" href="https://understandmyself.com/">https://understandmyself.com/</a><br />Merchandise: <a rel="nofollow" target="blank" href="https://teespring.com/stores/jordanbp...">https://teespring.com/stores/jordanbp...</a>{% endraw %}
