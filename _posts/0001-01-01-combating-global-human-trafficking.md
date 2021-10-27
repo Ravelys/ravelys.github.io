@@ -1,0 +1,15 @@
+---
+title: "Combating Global Human Trafficking"
+image: "https:\/\/i.ytimg.com\/vi\/JJWytx8r_Lk\/hqdefault.jpg"
+vid_id: "JJWytx8r_Lk"
+categories: "News-Politics"
+tags: ["afghanistan","secretary blinken","department of state"]
+date: "2021-10-27T19:16:31+03:00"
+vid_date: "2021-10-27T16:16:13Z"
+duration: "PT2H7M15S"
+viewcount: "260"
+likeCount: "13"
+dislikeCount: "0"
+channel: "House Foreign Affairs Committee"
+---
+{% raw %}Subcommittee on Africa, Global Health, and Global Human Rights<br />Chair Karen Bass<br />Location: 2172 Rayburn House Office Building and virtually via Cisco WebEx<br /> <br />WITNESSES: <br />Mr. Alex Thier<br />Chief Executive Officer<br />Global Fund to End Modern Slavery<br /><br />Ms. Catherine Chen<br />Chief Executive Officer<br />Polaris<br /><br />Ms. Evelyn Chumbow<br />Board Member/Survivor<br />Free the Slaves<br /><br />Mr. Peter Williams<br />Principal Advisor, Modern Slavery<br />International Justice Mission<br /> <br /> <br />The House Foreign Affairs Committee is responsible for oversight and legislation relating to: <br /><br />- Foreign assistance - including development assistance, Millennium Challenge Corporation, the Millennium Challenge Account, HIV/AIDS in foreign countries, security assistance, and Public Law 480 programs abroad<br /><br />- National security developments affecting foreign policy <br /><br />- Strategic planning and agreements<br /><br />- War powers, treaties, executive agreements, and the deployment and use of United States Armed Forces<br /><br />- Peacekeeping, peace enforcement, and enforcement of United Nations or other international sanctions<br /><br />- Arms control and disarmament issues<br /><br />- The International Development Finance Corporation, the United States Agency for International Development<br /><br />- Activities and policies of the State, Commerce, and Defense Departments and other agencies related to the Arms Export Control Act and the Foreign Assistance Act, including export and licensing policy for munitions items and technology and dual-use equipment and technology<br /><br />- International law<br /><br />- Promotion of democracy<br /><br />- International law enforcement issues, including narcotics control programs and activities<br /><br />- International cyber issues<br /><br />- U.S. Agency for Global Media<br /><br />- Embassy security; international broadcasting<br /><br />- Public diplomacy, including international communication and information policy, and international education and exchange programs; and all other matters not specifically assigned to a subcommittee. <br /><br />- The Export Administration Act, including the export and licensing of dual-use equipment and technology and other matters related to international economic policy and trade not otherwise assigned to a subcommittee, and with respect to the United Nations, its affiliated agencies, and other international organizations, including assessed and voluntary contributions to such organizations.{% endraw %}
