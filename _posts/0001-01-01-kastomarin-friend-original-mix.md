@@ -1,0 +1,15 @@
+---
+title: "KASTOMARIN - Friend (Original Mix)"
+image: "https:\/\/i.ytimg.com\/vi\/s3r4G3A1HkY\/hqdefault.jpg"
+vid_id: "s3r4G3A1HkY"
+categories: "Music"
+tags: ["KASTOMARIN - Friend (Original Mix)","KastomariN","Friend"]
+date: "2021-10-27T09:53:06+03:00"
+vid_date: "2020-10-13T17:59:57Z"
+duration: "PT8M14S"
+viewcount: "8448643"
+likeCount: "70628"
+dislikeCount: "1600"
+channel: "9"
+---
+{% raw %}© 9 <br />🔔 Subscribe and Turn on Notifications to Stay Updated With The Best Music Every Day.<br />🎧 Free Download / Stream: <a rel="nofollow" target="blank" href="https://fanlink.to/Frieend">https://fanlink.to/Frieend</a><br /><br /><br />☛ Track: KASTOMARIN - Friend (Original Mix)<br /><br />◉ Follow 9:<br />• Soundcloud - <a rel="nofollow" target="blank" href="https://bit.ly/3BFUaKH">https://bit.ly/3BFUaKH</a><br />• Facebook - <a rel="nofollow" target="blank" href="https://bit.ly/3mSAugu">https://bit.ly/3mSAugu</a><br />• Instagram - <a rel="nofollow" target="blank" href="https://bit.ly/3Du7MJI">https://bit.ly/3Du7MJI</a><br />• Spotify - <a rel="nofollow" target="blank" href="https://spoti.fi/3mOpJfk">https://spoti.fi/3mOpJfk</a><br /><br />◉ Follow KastomariN:<br />• Soundcloud - <a rel="nofollow" target="blank" href="https://soundcloud.com/zdykxylljmbj">https://soundcloud.com/zdykxylljmbj</a><br />• Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/profile.php?id=100002001787114">https://www.facebook.com/profile.php?id=100002001787114</a><br />• Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/konstantinkastomarin/">https://www.instagram.com/konstantinkastomarin/</a><br />• Vkontakte - <a rel="nofollow" target="blank" href="https://vk.com/club116430915">https://vk.com/club116430915</a><br />• Spotify - <a rel="nofollow" target="blank" href="https://spoti.fi/3lBjjRu">https://spoti.fi/3lBjjRu</a><br /><br />◉ Follow © Sound of Soul Recods:<br />• Soundcloud - <a rel="nofollow" target="blank" href="https://soundcloud.com/soundoofsoul">https://soundcloud.com/soundoofsoul</a><br />• Facebook - <a rel="nofollow" target="blank" href="https://www.facebook.com/soundofssoul">https://www.facebook.com/soundofssoul</a><br />• Instagram - <a rel="nofollow" target="blank" href="https://www.instagram.com/soundofsoulrec">https://www.instagram.com/soundofsoulrec</a><br />• Artist Submission - <a rel="nofollow" target="blank" href="https://soundofsoulrecords.com/">https://soundofsoulrecords.com/</a><br />• Spotify - <a rel="nofollow" target="blank" href="https://spoti.fi/30tWMek">https://spoti.fi/30tWMek</a> <br /><br />◉ Follow Picture ©:<br />• Instagram - <a rel="nofollow" target="blank" href="https://bit.ly/3Du7MJI">https://bit.ly/3Du7MJI</a><br /><br />#KastomariN #Deephouse #SoundofSoulRecords<br /><br />Licensing: soundoofsoul@gmail.com<br /><br />All rights reserved. ©Ⓟ 2021 Sound of Soul Records<br /><br />____________________________________________________________<br />✔ Also you can contact about cooperation and <br />PR. ✉ infinitimuzzic99@gmail.com{% endraw %}
