@@ -1,0 +1,15 @@
+---
+title: "Lito is ready to seize Renato's business | FPJ's Ang Probinsyano"
+image: "https:\/\/i.ytimg.com\/vi\/S7Fk8Ej8nU4\/hqdefault.jpg"
+vid_id: "S7Fk8Ej8nU4"
+categories: "Entertainment"
+tags: ["ABS-CBN","ABS-CBN Philippines","ABS-CBN Entertainment"]
+date: "2021-10-29T01:06:01+03:00"
+vid_date: "2021-10-28T17:07:05Z"
+duration: "PT4M18S"
+viewcount: "844"
+likeCount: "10"
+dislikeCount: "5"
+channel: "ABS-CBN Entertainment"
+---
+{% raw %}Lito (Richard Gutierrez) is ready to seize Renato's (John Arcilla) business.<br /><br />Never miss any episode, exclusive contents and more of FPJ's Ang Probinsyano.<br /><br />Subscribe to ABS-CBN Entertainment channel! - <a rel="nofollow" target="blank" href="http://bit.ly/ABS-CBNEntertainment">http://bit.ly/ABS-CBNEntertainment</a><br /> <br />Watch the full episodes of FPJ's Ang Probinsyano on iWantTFC:<br /><a rel="nofollow" target="blank" href="http://bit.ly/AngProbinsyano-iWantTFC">http://bit.ly/AngProbinsyano-iWantTFC</a><br /> <br />Visit our official websites! <br /><a rel="nofollow" target="blank" href="http://entertainment.abs-cbn.com/tv/shows/angprobinsyano/main">http://entertainment.abs-cbn.com/tv/shows/angprobinsyano/main</a><br /><a rel="nofollow" target="blank" href="http://www.push.com.ph">http://www.push.com.ph</a><br /><br />Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/ABSCBNnetwork">http://www.facebook.com/ABSCBNnetwork</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/ABSCBN">https://twitter.com/ABSCBN</a> <br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/abscbn">http://instagram.com/abscbn</a><br /><br />Episode 1492 Cast:<br />Coco Martin (P/Cpt. Ricardo “Cardo” Dalisay) / John Prats (PC/MSgt. Jerome Girona Jr.) / Susan Roces (Flora “Lola Kap” Borja-de Leon) / Malou Crisologo (Yolanda &quot;Yolly&quot; Capuyao-Santos) / Lorna Tolentino (First Lady Lily Ann Cortez-Hidalgo) / Dax Augustus (Augustus) / Tirso Cruz III (Sec. Arturo “Art” Padua) / Ara Mina (Ellen Padua) / Rowell Santiago (Mariano, President Oscar Hidalgo) / Geoff Eigenmann (P/Maj. Albert de Vela) / Paolo Paraiso (P/Cpt. David Alcantara) / Mark McMahon (P/Cpt. Cris Fabia) / Angel Aquino (BGen. Diana Olegario) / Jaime Fábregas (P/Lt. Gen. Delfin Borja) / Shaina Magdayao (P/Maj. Roxanne Opeña) / Raymart Santiago (P/Maj. Victor Basco) / John Medina (P/Cpt. Avel “Billy” Guzman) / Marc Solis (P/MSgt. Rigor Soriano) / CJ Ramos (Pat. Patrick Espinosa) / Julia Montes (Mara) / John Arcilla (Renato Hipolito) / Richard Gutierrez (Lito Valmoria)<br /><br />Watch more FPJ's Ang Probinsyano videos here:<br />Highlights - <a rel="nofollow" target="blank" href="http://bit.ly/AngProbinsyanoHighlights">http://bit.ly/AngProbinsyanoHighlights</a><br />Recaps - <a rel="nofollow" target="blank" href="http://bit.ly/AngProbinsyanoRecaps">http://bit.ly/AngProbinsyanoRecaps</a><br /><br />#KapamilyaChannel<br />#FPJAngProbinsyanoEpisode1492<br />#FPJAP6Seguridad{% endraw %}
