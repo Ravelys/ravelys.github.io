@@ -1,0 +1,15 @@
+---
+title: "Burak Yeter & Cecilia Krull - My Life Is Going On (Burak Yeter Remix) (Lyric Video)"
+image: "https:\/\/i.ytimg.com\/vi\/qBDyiZ8ZXWI\/hqdefault.jpg"
+vid_id: "qBDyiZ8ZXWI"
+categories: "Music"
+tags: ["Time Records","Rise Records","official video"]
+date: "2021-10-28T16:05:07+03:00"
+vid_date: "2018-06-21T07:24:05Z"
+duration: "PT3M55S"
+viewcount: "48391935"
+likeCount: "276620"
+dislikeCount: "9404"
+channel: "Time Records"
+---
+{% raw %}Burak Yeter &amp; Cecilia Krull - My Life Is Going On (Burak Yeter Remix) (Official Lyric Video) HD - Time Records<br />Buy or Stream: <a rel="nofollow" target="blank" href="https://lnk.to/BYMyLifeIsGoingOn">https://lnk.to/BYMyLifeIsGoingOn</a> <br />A key track in Netflix’s biggest foreign-language drama ‘La Casa Del Papel’ (English title: ‘Money Heist’), Cecilia Krull’s ‘My Life Is Going On’ has already passed 55 million streams. Now it’s set to reach an even bigger crossover audience with the release of a remix courtesy of leading DJ / producer Burak Yeter.<br /><br />Burak Yeter’s remix adds pulsating house energy to Cecilia Krull’s evocative vocal to create a soaring summer anthem that stands out among the competition. It adds a new dimension to a track which is firmly established a pivotal part of an international TV phenomenon.<br /><br />After playing shows all over the world, releasing numerous underground anthems and dropping three albums, Burak Yeter released his smash hit ‘Tuesday’ in 2016. It hit #1 in 75 different countries and has exceeded 300 million streams and 400 million video views.<br /><br />His most recent high profile remix was of Anne-Marie’s ‘Ciao Adios’.<br /><br />A TIME RECORDS WORLDWIDE PRIORITY<br /><br />Like us on Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/timerec">http://facebook.com/timerec</a><br />Subscribe to TimeRecTv!!! <a rel="nofollow" target="blank" href="http://bit.ly/2fVwESX">http://bit.ly/2fVwESX</a><br />Time HEAVY ROTATION on Youtube: <a rel="nofollow" target="blank" href="http://goo.gl/N2b511">http://goo.gl/N2b511</a><br />Time HEAVY ROTATION on Spotify: <a rel="nofollow" target="blank" href="https://goo.gl/bkK2G0">https://goo.gl/bkK2G0</a><br /><br />FOLLOW US! Stay Connected:<br /><a rel="nofollow" target="blank" href="http://facebook.com/timerec">http://facebook.com/timerec</a><br /><a rel="nofollow" target="blank" href="http://www.timerec.it">http://www.timerec.it</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/TimeRecordsIta">http://twitter.com/TimeRecordsIta</a><br /><a rel="nofollow" target="blank" href="http://google.com/+TimeRecords">http://google.com/+TimeRecords</a><br /><a rel="nofollow" target="blank" href="http://spoti.fi/13h6Dju">http://spoti.fi/13h6Dju</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/timerecordsofficial">http://instagram.com/timerecordsofficial</a><br /><a rel="nofollow" target="blank" href="http://www.soundcloud.com/timerec">http://www.soundcloud.com/timerec</a><br /><br />#burakyeter #mylifeisgoingon #timerecords{% endraw %}
