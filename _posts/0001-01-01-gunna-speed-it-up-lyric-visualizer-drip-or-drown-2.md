@@ -1,0 +1,15 @@
+---
+title: "Gunna - Speed It Up (Lyric Visualizer) [Drip or Drown 2]"
+image: "https:\/\/i.ytimg.com\/vi\/vKnpuFvO-PM\/hqdefault.jpg"
+vid_id: "vKnpuFvO-PM"
+categories: "Music"
+tags: ["Gunna","YSL","YSL Gunna"]
+date: "2021-10-28T10:13:04+03:00"
+vid_date: "2019-02-11T17:00:13Z"
+duration: "PT3M1S"
+viewcount: "10757409"
+likeCount: "147494"
+dislikeCount: "6933"
+channel: "Gunna"
+---
+{% raw %}Gunna - Speed It Up (Lyric Visualizer) [Drip or Drown II] <br /><br />Stream &quot;Speed It Up&quot; on all platforms here: <br /><a rel="nofollow" target="blank" href="https://ffm.to/speeditup">https://ffm.to/speeditup</a><br /><br />One Call: <a rel="nofollow" target="blank" href="https://ffm.to/onecall">https://ffm.to/onecall</a><br /><br />Follow Gunna:<br /><a rel="nofollow" target="blank" href="https://only1gunna.com/">https://only1gunna.com/</a><br />IG: <a rel="nofollow" target="blank" href="https://www.instagram.com/gunna/">https://www.instagram.com/gunna/</a><br />TW: <a rel="nofollow" target="blank" href="https://twitter.com/1GunnaGunna">https://twitter.com/1GunnaGunna</a><br />FB: <a rel="nofollow" target="blank" href="https://www.facebook.com/gunnaofficial/">https://www.facebook.com/gunnaofficial/</a><br />SC: <a rel="nofollow" target="blank" href="https://soundcloud.com/gunna">https://soundcloud.com/gunna</a><br /><br />Speed It Up Lyrics:<br />Hold on, hold on, speed it up, hold on<br />(Run that back Turbo) <br />speed it up, speed it up, speed it up, eat it up, eat it up, speed it up, speed it up,<br />hold on, hold on, eat it up, hold on, hold on, speed it up, hold on, hold on, hold on, hold on, speed it up, hold on, speed it up, haaaa, speed it up <br /><br />Scotty hotty, Scotty to Hotty,<br />Charlie Wally, cha wally, <br />Chedder, cottage, got cheddar and cottage<br />good brain, college (good brain) her frame, body<br />Mussain, bought, (bought it)?<br />My plane, private, <br />Diamond chain, wallets, (wallets) <br />No shame, I got it (I got it) couple plain watches (watches) <br />I lay in Versace (Versace)<br />The hate, can’t stop it <br /><br />Speed it up, speed it up, speed it up, eat it up, eat it up, eat it up, speed it up, speed it up,<br />hold on, hold on, eat it up, hold on, hold on, speed it up, hold on, hold on, hold on, hold on, speed it up, hold on, speed it up, haaaa, speed it up <br /><br />Godly, baby, Katie, coupe, Mercedes<br />Wheezy, wavy, eyes lazy, my life’s crazy (crazy)<br />My price, pay me, (pay me)<br />My eyes, HD (HD) <br />My eyes, 3D<br />I’m high, geekin<br />I lied, at the precinct <br />I didn’t sign, 360 (360)<br />I got mine, not greedy (not greedy) <br />I’m in the ride, speedin <br /><br />Speed it up, speed it up, eat it up, eat it up, eat it up, speed it up, speed it up,<br />hold on, hold on, eat it up, hold on, hold on, speed it up, hold on, hold on, hold on, hold on, speed it up, hold on, speed it up, haaaa, speed it up <br /><br /><br />#YoungStonerLife #Slatt<br /><br /><br />℗ 2019 Young Stoner Life Records / 300 Entertainment{% endraw %}
