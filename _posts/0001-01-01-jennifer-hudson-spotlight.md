@@ -1,0 +1,15 @@
+---
+title: "Jennifer Hudson - Spotlight"
+image: "https:\/\/i.ytimg.com\/vi\/p9qtRcHJVI8\/hqdefault.jpg"
+vid_id: "p9qtRcHJVI8"
+categories: "Music"
+tags: ["rick ross","and i am telling you","acapella"]
+date: "2021-10-29T08:57:09+03:00"
+vid_date: "2009-10-03T04:54:24Z"
+duration: "PT4M37S"
+viewcount: "58856855"
+likeCount: "291694"
+dislikeCount: "10940"
+channel: "jenniferhudsonVEVO"
+---
+{% raw %}Jennifer Hudson's official music video for 'Spotlight'. Click to listen to Jennifer Hudson on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/JenHudSpot?IQid=JHudSL">http://smarturl.it/JenHudSpot?IQid=JHudSL</a><br /><br />As featured on Jennifer Hudson. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/JenHudJHiTunes?IQid=JHudSL">http://smarturl.it/JenHudJHiTunes?IQid=JHudSL</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/JenHudSLPlay?IQid=JHudSL">http://smarturl.it/JenHudSLPlay?IQid=JHudSL</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/JenHudJHAmz?IQid=JHudSL">http://smarturl.it/JenHudJHAmz?IQid=JHudSL</a><br /><br />More from Jennifer Hudson<br />If This Isn't Love: <a rel="nofollow" target="blank" href="https://youtu.be/6_Iqk3t6lT0">https://youtu.be/6_Iqk3t6lT0</a><br />No One Gonna Love You: <a rel="nofollow" target="blank" href="https://youtu.be/dqkt7WIf144">https://youtu.be/dqkt7WIf144</a><br />Where You At: <a rel="nofollow" target="blank" href="https://youtu.be/qB_IvRcr04E">https://youtu.be/qB_IvRcr04E</a><br /><br />Follow Jennifer Hudson<br />Website: <a rel="nofollow" target="blank" href="http://www.jenniferhudson.com/home">http://www.jenniferhudson.com/home</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/jenniferhudson">https://www.facebook.com/jenniferhudson</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/IAMJHUD">https://twitter.com/IAMJHUD</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/iamjhud/">https://instagram.com/iamjhud/</a><br /><br />Subscribe to Jennifer Hudson on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/JenHudSub?IQid=JHudSL">http://smarturl.it/JenHudSub?IQid=JHudSL</a><br /><br />More great noughties videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate00?IQid=JHudSL">http://smarturl.it/Ultimate00?IQid=JHudSL</a><br /><br />---------<br /><br />Lyrics:<br /><br />Are you a man who loves and cherishes and cares for me?<br />Is that you? Is that you? Is that you?<br />Are you a guard in prison maximum security?<br />Is that you? is that you? Is that you?<br />do we stay home all the time because you want me to yourself?<br />Is that you? Is that you? Is that you?<br />Or am I stay locked away out of fear I'll find someone else?<br />Is that you Is that you Is that you?<br /><br />Well I don't like (o-hoo)<br />Living under your spotlight (o-hoo)<br />Just because you think I might (o-hoo)<br />Find somebody worthy{% endraw %}
