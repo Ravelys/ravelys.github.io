@@ -1,0 +1,15 @@
+---
+title: "Motionless in White - Disguise [OFFICIAL VIDEO]"
+image: "https:\/\/i.ytimg.com\/vi\/cIEc_11Aydc\/hqdefault.jpg"
+vid_id: "cIEc_11Aydc"
+categories: "Music"
+tags: ["motionless in white","disguise","official video"]
+date: "2021-10-30T23:18:23+03:00"
+vid_date: "2019-04-29T13:58:41Z"
+duration: "PT4M1S"
+viewcount: "13586683"
+likeCount: "202451"
+dislikeCount: "4218"
+channel: "Motionless In White"
+---
+{% raw %}Subscribe to our Youtube channel: <a rel="nofollow" target="blank" href="https://miw.lnk.to/subscribe">https://miw.lnk.to/subscribe</a><br />Stream 'Disguise': <a rel="nofollow" target="blank" href="https://miw.lnk.to/disguise">https://miw.lnk.to/disguise</a><br />Get Merch Bundles: <a rel="nofollow" target="blank" href="http://miwmerch.com">http://miwmerch.com</a><br /><br />Motionless In White's official music video for 'Disguise' from the upcoming record, Disguise - available now on Roadrunner Records.<br /><br />Directed by Jeremy Danger &amp; Travis Shinn<br /><br />Site: <a rel="nofollow" target="blank" href="http://motionlessinwhite.net">http://motionlessinwhite.net</a><br />iTunes: <a rel="nofollow" target="blank" href="http://itunes.com/motionlessinwhite">http://itunes.com/motionlessinwhite</a><br />Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/motionlessinwhite">http://facebook.com/motionlessinwhite</a><br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/MIWband">http://twitter.com/MIWband</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/MIWband">http://instagram.com/MIWband</a><br /><br />Lyrics: <br /><br />Spiraling inside my own disguise <br />“This is my design” <br />But we’re not here together<br /><br />Mirror mirror tell me who you see <br />Am I you or me? <br />I can never remember <br />But you can’t hide forever <br /><br />I found myself by losing hope <br />I lost my way to find a home <br />I hid myself to stay alive<br />Now I’m ready to face my disguise <br /><br />I am locked within the box I built from the inside out <br />Reassured by my doubt I,<br />I don’t want this fucking codependent vice<br />But desperate measures call for desperate lies <br /><br />Sick of wearing a mask<br />Sick of hiding my face <br />Sick of every motherfucker that is in my way <br />Sick of digging for answers <br />While you bury the truth  <br />Fuck your method to my sadness, I will bury you<br />Dig<br /><br />I will not become a figure of my mistakes <br />I will not become the mask / fear is not my fate<br />You can’t turn down anger <br />You can’t silence pain<br />You will not put out the fire that burns in me<br />That burns in me <br /><br />I sold my soul to my disguise<br />I hid myself to stay alive<br /><br />I found myself by losing hope <br />I lost my way to find a home <br />I hid myself to spite my eyes<br />I was losing myself In my disguise   <br /><br />Fear I follow <br />Safe in sorrow <br />(With) time l borrowed<br />I’m ready to face my disguise{% endraw %}
