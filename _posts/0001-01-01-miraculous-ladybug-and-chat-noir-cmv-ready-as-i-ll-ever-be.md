@@ -1,0 +1,15 @@
+---
+title: "Miraculous Ladybug and Chat Noir - CMV - Ready As I'll Ever Be"
+image: "https:\/\/i.ytimg.com\/vi\/G_gMdzL_A28\/hqdefault.jpg"
+vid_id: "G_gMdzL_A28"
+categories: "Entertainment"
+tags: ["miraculous ladybug and chat noir","cmv","cosplay music video"]
+date: "2021-10-30T10:42:47+03:00"
+vid_date: "2019-12-06T17:00:11Z"
+duration: "PT5M11S"
+viewcount: "138721149"
+likeCount: ""
+dislikeCount: ""
+channel: "LinaSakura"
+---
+{% raw %}Cast:<br /><br />Adrien Agreste - Shironi (<a rel="nofollow" target="blank" href="https://www.instagram.com/shironi_cchi/)">https://www.instagram.com/shironi_cchi/)</a><br />Mariette Duapin-Cheng - LinaSakura (<a rel="nofollow" target="blank" href="https://www.instagram.com/linasakura610/)">https://www.instagram.com/linasakura610/)</a><br />Queen Bee/Carapace/Nino Lahiffe - Harukali (<a rel="nofollow" target="blank" href="https://www.instagram.com/aliselle_/)">https://www.instagram.com/aliselle_/)</a><br />Alya Césaire - Chester (<a rel="nofollow" target="blank" href="https://www.instagram.com/czestterfield/)">https://www.instagram.com/czestterfield/)</a><br />Chloé Bourgeois/Luka Couffaine - SeSa (<a rel="nofollow" target="blank" href="https://www.instagram.com/cookiesesa/)">https://www.instagram.com/cookiesesa/)</a><br />Lila  Rossi - Liv (<a rel="nofollow" target="blank" href="https://www.instagram.com/liv.coss/)">https://www.instagram.com/liv.coss/)</a><br />Gabriel Agreste - Krykiet (<a rel="nofollow" target="blank" href="https://www.instagram.com/krykiet_cosplay/)">https://www.instagram.com/krykiet_cosplay/)</a><br />Emilie Agreste - Ame (<a rel="nofollow" target="blank" href="https://www.instagram.com/ameedoll/)">https://www.instagram.com/ameedoll/)</a><br />Hawk Moth - Tomek aka Perfekcja (<a rel="nofollow" target="blank" href="https://www.instagram.com/perfectionatelier/)">https://www.instagram.com/perfectionatelier/)</a><br />Mayura - Faryna (<a rel="nofollow" target="blank" href="https://www.instagram.com/faryncia/)">https://www.instagram.com/faryncia/)</a><br />Master Wang Fu  - Grucha (<a rel="nofollow" target="blank" href="https://www.instagram.com/gruszyslaw/)">https://www.instagram.com/gruszyslaw/)</a><br /><br /><br />Music: “Ready as I’ll ever be” from “Tangled: The Series”<br />sung by Jeremy Jordan, Eden Espinosa, Mandy Moore, Zachary Levi, Clancy Brown, Sean Hayes and Diedrich Bader<br /><br /><br />Script based on the video by Kawaii ComicUvU (<a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=Ryw-Dj8fYdo&amp;t=2s)">https://www.youtube.com/watch?v=Ryw-Dj8fYdo&amp;t=2s)</a><br /><br /><br />Video by Astartes Film Production (<a rel="nofollow" target="blank" href="https://www.facebook.com/astartes.production/)">https://www.facebook.com/astartes.production/)</a><br /><br />Helpers: Force and Liv<br /><br />Carapace’s outfit made by Miłosz<br /><br />Luka and Nino’s t-shirts/Gabriel’s outfit made by LinaSakura<br /><br />Other costumes are made by cosplayers who wore them<br /><br /><br />All scenes were recorded in Poznań (Poland) in 2019{% endraw %}
