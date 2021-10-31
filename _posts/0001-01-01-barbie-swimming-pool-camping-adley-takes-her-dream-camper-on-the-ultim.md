@@ -1,0 +1,15 @@
+---
+title: "BARBiE Swimming Pool CAMPiNG!!  Adley takes her Dream Camper on the Ultimate Backyard Camp Adventure"
+image: "https:\/\/i.ytimg.com\/vi\/uZvETpj28r0\/hqdefault.jpg"
+vid_id: "uZvETpj28r0"
+categories: "Entertainment"
+tags: ["adley","shonduras","barbie dream camper"]
+date: "2021-10-31T14:24:30+03:00"
+vid_date: "2020-06-08T20:35:16Z"
+duration: "PT18M36S"
+viewcount: "7400906"
+likeCount: "31416"
+dislikeCount: "8440"
+channel: "A for Adley - Learning & Fun"
+---
+{% raw %}we find Wild Horses and get stuck inside a Giant Skate Park!! join our ADVENTURE! <br /><br />LET'S BE FRIENDS -- <a rel="nofollow" target="blank" href="https://goo.gl/a7ctjJ">https://goo.gl/a7ctjJ</a><br /><br />HEY EVERYBODY!! Today we are playing with Chelsea, Barbie, and Ken! They were hanging out in our house watching adley videos but then Ken said that they needed to go outside and have fun! They all thought together and said that camping would be a really fun idea!! I played as chelsea, my mom played as Barbie, and my dad played as Ken! We rushed to find our barbie camper and went outside for a new fun adventure! First we had to find the perfect camping site so we searched high and low and found a mountain that would work perfectly! We unpacked our barbie camper and dad wanted to relax and take a nap and mom and I wanted to play and have fun in our portable swimming pool! We sneaked away and grabbed some water to fill up the pool and we also splashed dad to wake him up! After playing in the pool for a while we dried off and ate some delicious lunch! While mom and I were eating dad hiked to the top of the mountain to see where we should explore and found a valley with a pretty view that we could go check out! We then hiked down the mountain as a family a went into the valley and you'll never guess what we found!! Horses!! They were so nice to us and let them ride them! It was fun playing with spirit the horse!! While riding around we found a lost bunny that told us that he needed help finding some chickens so we sprung into action and helped out! After we found the chickens I wanted to ride on the razer that was on the mountain! The problem is that I'm just a little kid and didn't know how to steer the thing and i accidentally drove it into the skate park!! My dad helped me get out and we made our way back to the camping site! While hanging out we saw that it was going to rain so we packed up and let the rain fall down! It was so fun playing in the rain and hanging out with my family!! <br /><br />my last video - Mermaid PiLLOW FiGHT!! Adley vs Dad magic trampoline battle with a Giant LoveSac in the Backyard!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=1Llk9rF9Y-g">https://www.youtube.com/watch?v=1Llk9rF9Y-g</a><br /><br />my dad's last video - DRiFT KART KiDS!! Adley &amp; Niko speed test new electric toy, morning routine with mom, pillow fight!<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=xqUcag1eqS8">https://www.youtube.com/watch?v=xqUcag1eqS8</a><br /><br />Bye vlog *pshhhhh*{% endraw %}
