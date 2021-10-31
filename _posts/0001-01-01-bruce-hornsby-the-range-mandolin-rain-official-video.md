@@ -1,0 +1,15 @@
+---
+title: "Bruce Hornsby, The Range - Mandolin Rain (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/bDgOwX72fLI\/hqdefault.jpg"
+vid_id: "bDgOwX72fLI"
+categories: "Music"
+tags: ["Bruce Hornsby & the Range Mandolin Rain official","every little kiss","the way it is"]
+date: "2021-10-31T11:19:50+03:00"
+vid_date: "2013-09-25T05:09:26Z"
+duration: "PT4M46S"
+viewcount: "16907496"
+likeCount: "77456"
+dislikeCount: "3911"
+channel: "BruceHornsbyVEVO"
+---
+{% raw %}Bruce Hornsby &amp; the Range's official music video for 'Mandolin Rain'. Click to listen to Bruce Hornsby &amp; the Range on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/BruceHSpotify?IQid=BruceHMR">http://smarturl.it/BruceHSpotify?IQid=BruceHMR</a><br /><br />As featured on Greatest Radio Hits. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/BHGRH?IQid=BruceHMR">http://smarturl.it/BHGRH?IQid=BruceHMR</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/MRGPlay?IQid=BruceHMR">http://smarturl.it/MRGPlay?IQid=BruceHMR</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/BHGRHAmazon?IQid=BruceHMR">http://smarturl.it/BHGRHAmazon?IQid=BruceHMR</a><br /><br />More From Bruce Hornsby &amp; The Range<br />The Way It Is: <a rel="nofollow" target="blank" href="https://youtu.be/cOeKidp-iWo">https://youtu.be/cOeKidp-iWo</a><br />The Valley Road: <a rel="nofollow" target="blank" href="https://youtu.be/KfKIq1Pmc8Q">https://youtu.be/KfKIq1Pmc8Q</a><br />Every Little Kiss: <a rel="nofollow" target="blank" href="https://youtu.be/PPmyYs92GDs">https://youtu.be/PPmyYs92GDs</a><br /><br />More great 80s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Ultimate80?IQid=BruceHMR">http://smarturl.it/Ultimate80?IQid=BruceHMR</a><br /><br />Follow Bruce Hornsby &amp; the Range<br />Website: <a rel="nofollow" target="blank" href="http://www.brucehornsby.com/">http://www.brucehornsby.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/brucehornsby">https://www.facebook.com/brucehornsby</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/brucehornsby">https://twitter.com/brucehornsby</a><br /><br />Subscribe to Bruce Hornsby &amp; the Range on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/BruceHornsbySub?IQid=BruceHMR">http://smarturl.it/BruceHornsbySub?IQid=BruceHMR</a><br /><br />---------<br /><br />Lyrics:<br /><br />The song came and went<br />Like the times that we spent<br />Hiding out from the rain under the carnival tent<br />I laughed and she'd smile<br />It would last for awhile<br />You don't know what you've got till you lose it all again<br /><br />Listen to the mandolin rain<br />Listen to the music on the lake<br />Oh, listen to my heart break every time she runs away<br />Oh, listen to the banjo wind<br />A sad song drifting low<br />Listen to the tears roll<br />Down my face as she turns to go<br /><br />#BruceHornsbyTheRange #BruceHornsby #MandolinRain #Vevo{% endraw %}
