@@ -1,0 +1,15 @@
+---
+title: "BAD BUNNY - 120 | EL ÚLTIMO TOUR DEL MUNDO [Visualizer]"
+image: "https:\/\/i.ytimg.com\/vi\/NKVI1zbtLHY\/hqdefault.jpg"
+vid_id: "NKVI1zbtLHY"
+categories: "Music"
+tags: ["bad bunny","bad bunny el ultimo tour","bad bunny el ultimo tour del mundo"]
+date: "2021-11-01T20:07:25+03:00"
+vid_date: "2020-11-27T04:12:42Z"
+duration: "PT2M32S"
+viewcount: "55920310"
+likeCount: "713867"
+dislikeCount: "8746"
+channel: "Bad Bunny"
+---
+{% raw %}BAD BUNNY<br />120 | EL ÚLTIMO TOUR DEL MUNDO [Visualizer]<br /><a rel="nofollow" target="blank" href="https://elultimotourdelmundo.com/">https://elultimotourdelmundo.com/</a><br /><br />Merch: <a rel="nofollow" target="blank" href="https://shop.elultimotourdelmundo.com/">https://shop.elultimotourdelmundo.com/</a><br /><br />Suscríbete al canal: <a rel="nofollow" target="blank" href="https://rimas.io/ytbadbunny">https://rimas.io/ytbadbunny</a><br /><br />Más de Bad Bunny:<br />EUTDM- <a rel="nofollow" target="blank" href="https://rimas.io/EUTDM">https://rimas.io/EUTDM</a><br />Una Vez ft. Mora - <a rel="nofollow" target="blank" href="https://youtu.be/gSMYGP0TYC4">https://youtu.be/gSMYGP0TYC4</a><br /><br />Sigue a Bad Bunny:<br />Spotify: <a rel="nofollow" target="blank" href="https://rimas.io/spotifybb">https://rimas.io/spotifybb</a><br />Apple Music: <a rel="nofollow" target="blank" href="https://rimas.io/applemusicbb">https://rimas.io/applemusicbb</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/badbunnypr">https://www.instagram.com/badbunnypr</a><br /><br />Letra:<br />[Intro]<br />Ey, ey<br /><br />[Verso]<br />Por ti me monto en el carro y meto 120<br />Si me dice' qué quiere' de frente<br />Me está' tentando, tú ere' una serpiente<br />Psíquica, te metiste en mi mente (Eh, eh)<br />Por ti me voy en contra de la corriente (Ah)<br />No te quite' la ropa sin ponerme los lente' (Eh, eh)<br />Que quiero verte bien, ey (Quiero verte bien)<br />Que quiero darte bien, ey (Que quiero darte bien; ey, eh)<br />¿Bajarle yo? Nah, nunca se me va a ocurrir (No)<br />Bad Bunny en una pista e' un Bugatti en un carril (Uh-uh)<br />Ya salió el sol y no quiero dormir (No)<br />Mueve ese culo y yo tiro cien mil (Eh, eh)<br />Tú cumple' en octubre, pero yo te quiero abril (Ey, ey, ey)<br />Ven, que te voy a hacer venir (Uh)<br />A la casa en P.R. o la de Beverly Hills (Uh-uh)<br />Por si me llaman los Lakers pa' dirigir<br />Porque saben que aquí siempre coronamo'<br />Invicto', nunca perdemo'<br />La baby e' piquetúa', por eso roncamo'<br />En la G-Wagon siempre prendemo'<br />Fuck you, ey, a to' el mundo le pichamo'<br />Porque nadie sabe lo que tenemo'<br />Y lo rico que se siente cuando chingamo'<br />Después a la normalidad volvemo' sin decirno' &quot;te amo&quot;<br /><br />[Puente Instrumental]<br /><br />[Outro]<br />Por ti me monto en el carro y meto 120<br />Me está' tentando, tú ere' una serpiente<br />Psíquica, te metiste en mi mente<br /><br /><br />#BADBUNNY #120 #ELÚLTIMOTOURDELMUNDO<br />Bad,Bunny,120,El,Ultimo,Tour,Del,Mundo<br /><br />© 2020 Rimas Entertainment{% endraw %}
