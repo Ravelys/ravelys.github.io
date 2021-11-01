@@ -1,0 +1,15 @@
+---
+title: "Broker tips Zip Co's share price to jump 30% to $8.56"
+image: "https:\/\/i.ytimg.com\/vi\/UNafaweoeCE\/hqdefault.jpg"
+vid_id: "UNafaweoeCE"
+categories: "Entertainment"
+tags: ["Broker","share","price"]
+date: "2021-11-01T12:00:07+03:00"
+vid_date: "2021-10-29T21:00:27Z"
+duration: "PT12M32S"
+viewcount: "1864"
+likeCount: "57"
+dislikeCount: "2"
+channel: "Phil Your Mind"
+---
+{% raw %}🚨 Join the Phil Your Mind patreon community today and receive up to date and real time access the moment I'm buying and/or selling shares, portfolio reveals, day trading updates and research information on various sectors and stocks that are on my active watchlists.<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/philyourmind">https://www.patreon.com/philyourmind</a><br /><br />Who Is Patreon PYM Lite For?<br />👉 New and old investors looking for an edge in the stock market.<br /><br />What Do I Get With PYM Lite?<br />👉 Inside look at how I trade the stock market<br />👉 Exclusive stock market trading posts<br />👉 Regular day trading signals<br />👉 Access to insights in the markets, investing and chart analysis<br />👉 Weekly analysis on various stocks<br /><br />All included in PYM Lite:<br />👉 Weekly Patreon only Q&amp;A livestreams: Tuesday 8pm (AEDT)<br />👉 Real-time access to my personal trading<br />👉 Digital downloads: detailed analyst reports on various stocks<br />👉 Exclusive content<br />👉 Complete post archive<br />👉 Weekly Market Videos<br />👉 Monthly Market Reports<br />🚨 Join today: <a rel="nofollow" target="blank" href="https://www.patreon.com/philyourmind">https://www.patreon.com/philyourmind</a><br /><br />💵FREE CASH FOR YOU + ME!!!<br />►Get 1 FREE US STOCK ON STAKE When you deposit within 24 hours - I also get a free stock. Join today using my referral code phillipm645 and we can both get a free stock.<br /><a rel="nofollow" target="blank" href="https://hellostake.com/au/referral?referrer=phillipm645BNPL">https://hellostake.com/au/referral?referrer=phillipm645BNPL</a><br /><br />🚨 Coaching sessions available:<br />One hour - $149<br />Two hours - $249<br />Anything and everything from how I go about; valuing stocks, portfolio management, day trading, insights on stocks, risk management, real estate investing, home loan applications and much much more!<br />All sessions are carried out on zoom.<br />Feel free to reach out to me personally with any enquiry - Email: phil@philyourmind.net<br /><br />Disclaimer:<br />The information in this video is general information only and should not be taken as constituting professional advice from Phillip Miraldo.<br />Phillip Miraldo is not a financial adviser. You should consider seeking independent legal, financial, taxation or other advice to check how the information relates to your unique circumstances.<br />Phillip Miraldo is not liable for any loss caused, whether due to negligence or otherwise arising from the use of, or reliance on, the information provided directly, by the use of this video.{% endraw %}
