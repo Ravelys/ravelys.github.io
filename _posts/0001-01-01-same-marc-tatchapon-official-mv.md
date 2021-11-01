@@ -1,0 +1,15 @@
+---
+title: "ยังคิดถึง...(same) - MARC TATCHAPON [ Official MV ]"
+image: "https:\/\/i.ytimg.com\/vi\/8SXNPVdFR_U\/hqdefault.jpg"
+vid_id: "8SXNPVdFR_U"
+categories: "Music"
+tags: ["BOXX","MUSIC","บ็อกซ์"]
+date: "2021-11-01T21:14:13+03:00"
+vid_date: "2017-05-29T12:59:27Z"
+duration: "PT3M57S"
+viewcount: "46333244"
+likeCount: "210900"
+dislikeCount: "3730"
+channel: "BOXX MUSIC"
+---
+{% raw %}“ยังคิดถึง... (same)” ซิงเกิลแรกของ มาร์ค กับค่าย Boxx Music เพลงซึ้งๆ ของคนที่ยังเฝ้ารอ เรื่องราวของคนที่ยังไม่เคยลืมความรักครั้งเก่า ยังคงคิดถึงและรออยู่เสมอ “เพราะแค่คำว่า “รัก” ก็เป็นเหตุผลมากพอที่จะ “รอ” ใครบางคน โดยไม่รู้ว่าใครคนนั้นจะกลับมาหาหรือเปล่า.....” กับดนตรีอคูสติกในสไตล์ SOUL-POP  <br />_____________________________________<br /><br />SINGLE  : ยังคิดถึง...(same)<br />ARTIST : มาร์ค ธัชพล (Marc Tatchapon)<br />LABEL : BOXX MUSIC<br />EXECUTIVE SUPERVISOR : วุฒินันต์ ภิรมย์ภักดี<br />EXECUTIVE PRODUCER : คชภัค ผลธนโชติ <br />PRODUCER : THE TOYS<br />LYRICS / MELODY / ARRANGER  : THE TOYS<br />MUSICIAN : THE TOYS<br />LYRICS DIRECTOR : THE TOYS<br />VOCAL DIRECTOR : คชภัค ผลธนโชติ, อนันต์ ดาบเพ็ชรธิกรณ์ <br />DIGITAL EDITOR : THE TOYS, คชภัค ผลธนโชติ <br />RECORDING ENGINEER : THE TOYS, คชภัค ผลธนโชติ <br />MIX ENGINEER : ดนุภพ กมล<br />MASTERING ENGINEER : ดนุภพ กมล <br /><br />เธอ เธอคงไม่รู้ ว่าคนอย่างฉันนั้นเคย<br />ได้รักเธอแค่ไหน เมื่อก่อนนี้<br /><br />แต่วันหนึ่ง เมื่อเธอเดินไป<br />ปล่อยให้ฉันเคว้งคว้าง เดียวดาย<br />รอเธอ อยุ่ตรงนี้<br /><br />วันเวลาผ่านไปนานเท่าไหร่<br />เหมือนใจฉันยังไม่เปลี่ยน<br />แค่ยังอยากรุ้ว่าเธอจะเป็นอะไรไหม<br /><br />เธอยังเป็นอย่างเดิมอยุ่หรือเปล่า<br />ยังคิดถึงกันหรือเปล่า<br />เหมือนวันเก่าๆนั้น  ใครคนนั้นดูแลเธอดีไหม<br />หากวันไหนเธอไม่สบายจะทำอย่างไร <br />กลับมาได้ไหม จะนานสักแค่ไหน ฉันรอ<br /><br />You just little girl that I never thought I should gave my love<br />แค่อยากให้เธอได้รู้ว่าทั้งชีวิตของฉันนั้นคิดถึงเธอเท่าไหร่ ไม่อาจเปิดเผยไป<br /><br />Spent my time with you baby just want you know just listen girl <br />ขยับเข้ามาใกล้ๆ จะบอกถึงความในใจ <br /><br />Don't you know how long I've waited someone like you, <br />just want you want me too girl..<br /><br />จะนานสักแค่ไหน กลับมาได้ไหม<br /><br />_____________________________________<br /><br />AVAILABLE FOR DOWNLOAD : *492 222 345<br />✭ ITUNES : <a rel="nofollow" target="blank" href="https://itun.es/th/RuSDjb">https://itun.es/th/RuSDjb</a><br />✭ APPLE MUSIC : <a rel="nofollow" target="blank" href="http://apple.co/same">http://apple.co/same</a><br />_____________________________________<br /><br />ติดตามผลงานของมาร์คได้ทาง<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/boxxmusicofficial">https://www.facebook.com/boxxmusicofficial</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/MarcTatchapon">https://www.facebook.com/MarcTatchapon</a><br />instagram : boxxmusicofficial<br />instagram : marctatc<br /><br />▶ ติดต่องาน (โทร) 062 4949 583<br />02 241 4472 ต่อ 6514<br />▶ ต้องการ cover เพลงนี้ ส่ง E-Mail มาได้ที่<br />: muzikmove.cover@gmail.com{% endraw %}
