@@ -1,0 +1,15 @@
+---
+title: "10 MIN INNER THIGH - Floor only, Low Impact \/ chilled, slow & effective I Pamela Reif"
+image: "https:\/\/i.ytimg.com\/vi\/h9uZVP_qLVo\/hqdefault.jpg"
+vid_id: "h9uZVP_qLVo"
+categories: "Sports"
+tags: ["workout","training","butt"]
+date: "2021-11-01T18:30:18+03:00"
+vid_date: "2021-09-22T03:30:16Z"
+duration: "PT10M37S"
+viewcount: "1117008"
+likeCount: "23660"
+dislikeCount: "233"
+channel: "Pamela Reif"
+---
+{% raw %}You can almost stay lazy for this workout! :D No squats, no sweat, no standing up ♥️ / Werbung <br /><br />This routine targets the inner part of the top of your legs = the INNER THIGHS. <br /><br />▸ You might think they are a bit wobbly &amp; hard to target during normal leg days. That’s normal!! It’s a small muscle that is usually secondary. <br />▸ With slow and concentrated exercises, we can wake up those muscles &amp; make them more tight and toned :) <br />▸ You will also train them more effectively, if you continue with additional leg workouts afterwards. <br />▸ This also works amazing as a „finisher“ after your leg day. To make sure those inner thighs will be soooore tomorrow! <br /><br />PS: I filmed this workout completely on my own! My mind was busy with „s**t I hope the focus is still correct“ &amp; „its so windy I cannot hear the beep“ :D :D the video turned out nice though, lucky me!! <br />__<br /><br />➞ my Pam App ♥️ Free workout plans (8 versions), lot of recipes &amp; tips: <br />H<a rel="nofollow" target="blank" href="ttps://www.pam-app.de/app">ttps://www.pam-app.de/app</a><br /><br />▸ 3 of those FREE WORKOUT PLANS are on my Instagram Channel. <br />30min, 45min and Beginner Friendly. Check out the Highlight Bubble &quot;Workout Plans&quot; for that.  <br /><br />➞ Instagram <a rel="nofollow" target="blank" href="http://www.instagram.com/pamela_rf/">http://www.instagram.com/pamela_rf/</a><br />➞ Food Account <a rel="nofollow" target="blank" href="http://www.instagram.com/pamgoesnuts/">http://www.instagram.com/pamgoesnuts/</a><br /><br />__<br /> <br />You can always find all songs in my workout playlist. I update it weekly &amp; it's available on Spotify, Apple Music, etc. <br /><a rel="nofollow" target="blank" href="http://wmg.click/GetActive">http://wmg.click/GetActive</a><br /><br />1. Alle Farben - Alright (feat. KIDDO) <br />2. Ofenbach, Ella Henderson - Hurricane<br />3. Ed Sheeran - Shivers<br />4. Griff - One Night<br /><br />__<br /><br />Business Contact:<br />pamela_reif@icloud.com<br /><br />__<br />unterstützt durch Warner Music Germany<br /><br />Disclaimer:<br />When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video{% endraw %}
