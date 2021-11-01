@@ -1,0 +1,15 @@
+---
+title: "THE ANDES HEADBAND - CROCHET TUTORIAL | CJ Design By Danii´s Ways"
+image: "https:\/\/i.ytimg.com\/vi\/AjFBNfTBHXU\/hqdefault.jpg"
+vid_id: "AjFBNfTBHXU"
+categories: "People-Blogs"
+tags: ["crochet","crochet headband","how to crochet"]
+date: "2021-11-02T02:01:32+03:00"
+vid_date: "2020-08-04T16:00:02Z"
+duration: "PT12M1S"
+viewcount: "1158653"
+likeCount: "36211"
+dislikeCount: "399"
+channel: "CJ Design"
+---
+{% raw %}THE ANDES HEADBAND - CROCHET TUTORIAL...<br />____________________________________________________________<br />FREE WRITTEN PATTERN:<br /><a rel="nofollow" target="blank" href="http://www.cjdesignblog.com/the-andes-headband">http://www.cjdesignblog.com/the-andes-headband</a><br />VISIT MY ONLINE STORE <br /><a rel="nofollow" target="blank" href="https://www.cjdsgn.com/">https://www.cjdsgn.com/</a><br />_____________________________________________________________<br />My Etsy store:<br /><a rel="nofollow" target="blank" href="https://www.CJKnitwear.etsy.com">https://www.CJKnitwear.etsy.com</a> <br /><br />Get 40 listing for free when you open an Etsy Shop for the first time!<br /><a rel="nofollow" target="blank" href="https://etsy.me/2VkQqg3">https://etsy.me/2VkQqg3</a><br />_____________________________________________________________<br />MATERIALS I USED IN THIS VIDEO:<br /><br />- 70 Grams of Bulky weight yarn #5 <br /><a rel="nofollow" target="blank" href="https://amzn.to/3hfpsxv">https://amzn.to/3hfpsxv</a><br />- Clover 6.5 mm crochet hook<br /><a rel="nofollow" target="blank" href="https://amzn.to/3jjZI4Q">https://amzn.to/3jjZI4Q</a><br />- Clover Tapestry Needle<br /><a rel="nofollow" target="blank" href="https://amzn.to/2ZGC4I3">https://amzn.to/2ZGC4I3</a><br />- Stitch marker (optional)<br /><a rel="nofollow" target="blank" href="https://amzn.to/2BbPD8W">https://amzn.to/2BbPD8W</a><br />_____________________________________________________________<br />VISIT MY AMAZON ESSENTIALS<br /><a rel="nofollow" target="blank" href="https://www.amazon.ca/shop/daniisways ">https://www.amazon.ca/shop/daniisways </a> <br />_____________________________________________________________<br />CONTACT:<br />cjdesign@daniisways.com<br /><br />If this video was helpful to you don't forget to give it a thumbs up!! Share and Subscribe!!<br />_____________________________________________________________<br />See you on my social media accounts, xoxo!!!<br /><br />♡ FACEBOOK - CJ.DESIGN.18<br /><a rel="nofollow" target="blank" href="http://www.facebook.com/cj.design.18/">http://www.facebook.com/cj.design.18/</a><br /><br />♡ INSTAGRAM - @CJ.DSGN<br /><a rel="nofollow" target="blank" href="http://instagram.com/cj.dsgn/">http://instagram.com/cj.dsgn/</a><br />_____________________________________________________________<br />I make my videos with love and dedication for my followers, any inappropriate or offensive comment will be deleted. Thank you!<br />_____________________________________________________________<br />PLEASE DO NOT USE MY VIDEOS, PHOTOS OR AUDIO WITHOUT MY PERMISSION <br /><br />#CJDesign #CrochetHeadbandl #CrochetPattern #TwistedHeadband{% endraw %}
