@@ -1,0 +1,15 @@
+---
+title: "A Narcissist's Inability To Handle Differences"
+image: "https:\/\/i.ytimg.com\/vi\/UYRjvlzrfYI\/hqdefault.jpg"
+vid_id: "UYRjvlzrfYI"
+categories: "People-Blogs"
+tags: ["conflict resolution","assertiveness","malignant narcissists"]
+date: "2021-11-01T08:33:34+03:00"
+vid_date: "2021-10-30T15:00:12Z"
+duration: "PT12M11S"
+viewcount: "20967"
+likeCount: "1987"
+dislikeCount: "16"
+channel: "Surviving Narcissism"
+---
+{% raw %}A hallmark of a healthy relationship is the ability to maneuver cleanly through differences.  Dr. Les Carter explains that variety is built into the entire human experience, so it makes sense to have a well conceived plan for managing each other's distinctives.  Narcissists, however, put so much emphasis on conformity to their preferences that this is an almost impossible task for them.<br /><br />Sign up for Dr. Carter's course Free to Be HERE: <br /><a rel="nofollow" target="blank" href="https://survivingnarcissism.tv/go/freetobeyoutube/">https://survivingnarcissism.tv/go/freetobeyoutube/</a><br />Use the following coupon code to get 20% off Free To Be: FTBYouTube20<br /><br />Dr. Carter's new course:  This Is Me, Setting Boundaries With The Controllers In Your Life:   <a rel="nofollow" target="blank" href="https://survivingnarcissism.tv/this-is-me">https://survivingnarcissism.tv/this-is-me</a><br /><br />Join our Community HERE: <a rel="nofollow" target="blank" href="https://survivingnarcissism.tv/subscribe/">https://survivingnarcissism.tv/subscribe/</a><br /><br />Dr. Les Carter is a best selling author and therapist who has semi-retired to Waco, Tx. In the past 40+ years he has conducted more than 65,000 counseling sessions and many workshops and seminars.  He specializes in anger management and narcissistic personality disorder.<br /><br />If you are interested in online therapy, Dr. Carter has a sponsor who can assist.  As the need is there, please seek the help you deserve: <a rel="nofollow" target="blank" href="https://betterhelp.com/drcarter">https://betterhelp.com/drcarter</a><br />We receive commissions on referrals to BetterHelp. We only recommend services that we trust.<br /><br />Sign up for our email list and check out other videos, articles, webinars, quizzes, and more at our website:  <a rel="nofollow" target="blank" href="http://survivingnarcissism.tv">http://survivingnarcissism.tv</a><br />Twitter:  Surviving Narcissism @SNarcissism101<br />Instagram:  @survivingnarcissism101<br />Tik Tok:  <a rel="nofollow" target="blank" href="https://www.tiktok.com/@survivingnarcissism101?lang=en">https://www.tiktok.com/@survivingnarcissism101?lang=en</a><br /><br />Dr. Carter's personal website:  <a rel="nofollow" target="blank" href="http://drlescarter.com/">http://drlescarter.com/</a><br />Dr. Carter's other YouTube channel:  <a rel="nofollow" target="blank" href="https://www.youtube.com/c/drlescarter">https://www.youtube.com/c/drlescarter</a><br />Bookstore: <a rel="nofollow" target="blank" href="https://survivingnarcissism.tv/books-on-narcissism-surviving-narcissism/">https://survivingnarcissism.tv/books-on-narcissism-surviving-narcissism/</a>{% endraw %}
