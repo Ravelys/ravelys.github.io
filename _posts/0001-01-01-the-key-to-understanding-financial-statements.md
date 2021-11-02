@@ -1,0 +1,15 @@
+---
+title: "The KEY to Understanding Financial Statements"
+image: "https:\/\/i.ytimg.com\/vi\/_F6a0ddbjtI\/hqdefault.jpg"
+vid_id: "_F6a0ddbjtI"
+categories: "Education"
+tags: ["financial statements","income statement","balance sheet"]
+date: "2021-11-02T16:47:46+03:00"
+vid_date: "2020-10-27T13:00:07Z"
+duration: "PT6M29S"
+viewcount: "87840"
+likeCount: "3386"
+dislikeCount: "18"
+channel: "Accounting Stuff"
+---
+{% raw %}🆓Expanded Accounting Equation Cheat Sheet → <a rel="nofollow" target="blank" href="https://accountingstuff.com/shop">https://accountingstuff.com/shop</a><br />🛒 Get your Accounting Stuff Merch → <a rel="nofollow" target="blank" href="https://accountingstuff.com/merch">https://accountingstuff.com/merch</a><br /><br />In this video I'll share the key to understanding Financial Statements. You'll learn the relationship between the Balance Sheet and the Accounting Equation, and where the Income Statement fits into the big picture of Accounting.<br /><br />🎬LEARN ACCOUNTING BASICS FOR FREE<br />▪ The Full Playlist → <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL5zKSeS09l339nB6ujJPQ9Rsv99_b-aTb">https://www.youtube.com/playlist?list=PL5zKSeS09l339nB6ujJPQ9Rsv99_b-aTb</a><br /><br />🔴Subscribe for more Accounting Tutorials → <a rel="nofollow" target="blank" href="https://geni.us/subtothechannel">https://geni.us/subtothechannel</a><br /><br />⏱️TIMESTAMPS<br />00:00 - Intro<br />00:16 - Financial Statements Definition<br />00:35 - The Accounting Equation<br />01:16 - The Balance Sheet<br />02:16 - What is Equity made up of?<br />02:29 - Capital Contributions Definition<br />02:47 - Retained Earnings Definition<br />03:03 - Profit Definition<br />03:27 - What are Retained Earnings made up of?<br />03:50 - The Expanded Accounting Equation<br />05:08 - The Link between the Balance Sheet and the Income Statement<br />05:57 - Outro<br /><br />🔎FAQ<br />▪ My Favourite Accounting Book for Beginners → <a rel="nofollow" target="blank" href="http://geni.us/5mKR7m">http://geni.us/5mKR7m</a><br /><br />🔝 CLOUD ACCOUNTING SOFTWARE<br />▪ QuickBooks Online USA (FREE TRIAL/DISCOUNT) → <a rel="nofollow" target="blank" href="http://geni.us/jA9N">http://geni.us/jA9N</a><br />▪ QuickBooks Online Canada (FREE TRIAL/DISCOUNT) → <a rel="nofollow" target="blank" href="https://geni.us/bNN7">https://geni.us/bNN7</a><br /><br />🚶FOLLOW ME ON<br />▪ Insta → <a rel="nofollow" target="blank" href="https://www.instagram.com/accountingstuff">https://www.instagram.com/accountingstuff</a><br />▪ Twitter → <a rel="nofollow" target="blank" href="https://twitter.com/AccountantStuff">https://twitter.com/AccountantStuff</a><br /><br />________________________<br />DISCLAIMER <br /><br />Some of the links above are affiliate links, where I earn a small commission if you click on the link and purchase an item. You are not obligated to do so, but it does help fund these videos in hopes of bringing value to you! <br />________________________<br /><br />#accounting #financialstatements #accountingstuff{% endraw %}
