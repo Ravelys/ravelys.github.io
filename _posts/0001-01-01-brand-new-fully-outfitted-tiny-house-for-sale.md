@@ -1,0 +1,15 @@
+---
+title: "Brand-New, Fully-Outfitted Tiny House For Sale"
+image: "https:\/\/i.ytimg.com\/vi\/78FitIa5p0o\/hqdefault.jpg"
+vid_id: "78FitIa5p0o"
+categories: "Howto-Style"
+tags: ["Living Design For A Tiny House","Living Design","Living Big Design"]
+date: "2021-11-03T17:35:29+03:00"
+vid_date: "2021-10-29T17:00:07Z"
+duration: "PT2M47S"
+viewcount: "556"
+likeCount: "30"
+dislikeCount: "2"
+channel: "Living Design For A Tiny House"
+---
+{% raw %}Living Design For A Tiny House 🏡 is a Channel sharing design houses and living tiny house!<br />► Subscribe for more: <a rel="nofollow" target="blank" href="https://goo.gl/KzPBU2">https://goo.gl/KzPBU2</a><br />===========================================<br />Brand-New, Fully-Outfitted Tiny House For Sale<br /><br />Price: $49,999.00<br />This is a brand-new, move-in ready tiny house on a 20-ft. x 8.5-ft trailer built by a contractor with 18 years of experience building custom off and on-grid homes in Taos, NM. You can get a lot more information about this tiny house, including a detailed list of exactly how much we spent on each material used in its construction and information about how we built it, here: www.weshelterpeople.com.<br /><br /><br /><br />The price includes almost everything you need to immediately start living in this tiny house off-grid (or on), including a 24-volt, 1.24kW solar system, propane hot water heater, composting toilet and propane heater. <br /><br />All you need to start living in it is:<br /><br />a) a place to put it (land is not included with this tiny house) <br /><br />b) water to fill up the water tank <br /><br />c) a standard propane tank<br /><br />If you'd be putting this on an existing property with electrical and water hookups, no problem--it will take you a couple of minutes to connect a hose and plug the tiny house into an existing electrical supply with the built-in connectors. We can even remove the solar if you don't need it and we'll reduce the price by exactly how much the solar cost us.<br /><br />Other things to know...<br /><br />The tiny house is 209 square feet, which includes 160 SF downstairs and 49 in the loft.<br /><br />Price doesn't include shipping (you can pick it up, we can get you a quote or you can contract a shipper from Taos, NM on your own).<br /><br />We unfortunately don't offer loans for this tiny house.<br /><br />We're a Taos, NM-based tiny house builder with years of experience building and renovating homes. We've rigorously built this tiny house with quality finishes and mechanicals that will last decades. And though it'd be great if you'd confidently take our word for it, we believe in transparency so visit www.weshelterpeople.com for a full list of materials used to build it and construction details.<br /><br />===========================================<br />#LivingDesignForATinyHouse #TinyHouse #LivingDesign#TinyHouseOnWheels #TinyHouseTour #SmallHouse #TinyHouseDesign #SmallHouseDesign<br />==========================================={% endraw %}
