@@ -1,0 +1,15 @@
+---
+title: "PRODUCTS AND SERVICES OF INDIA POST MEGA VIDEO | PRODUCT AND SERVICE MCQ also."
+image: "https:\/\/i.ytimg.com\/vi\/YxsZUoKWrcA\/hqdefault.jpg"
+vid_id: "YxsZUoKWrcA"
+categories: "Education"
+tags: ["products and services of india post mega video","products and services of india post in telugu","wumts"]
+date: "2021-11-03T08:58:02+03:00"
+vid_date: "2021-10-22T02:45:10Z"
+duration: "PT1H39M20S"
+viewcount: "3321"
+likeCount: "98"
+dislikeCount: "2"
+channel: "Career Post"
+---
+{% raw %}PRODUCTS AND SERVICES OF INDIA POST MEGA VIDEO | PRODUCT AND SERVICE MCQ also.<br /><br /><br />Today's Career Post brings you a video on the topic: This is going to be a MEGA Video on <br />PRODUCTS AND SERVICES OF INDIA POST: <a rel="nofollow" target="blank" href="https://youtu.be/YxsZUoKWrcA">https://youtu.be/YxsZUoKWrcA</a><br /><br />Secondly, you will be learning product and service MCQ at the same time. Today's topic basically covers the following aspects: products and services mails banking and remittance insurance stamp and business.<br /><br /><br />India Post services include IMO, IMTS, WUMTS, IFS MO, International mails, Savings Bank products, and services, PLI, RPLI, Media Post, Business Post, Direct Post, Business Post, COD, Speed Post, Logistics Post, BNPL, etc. For Corporate customers, a discount is also offered. <br /><br />Subscribe to Career Post YouTube Channel, if you like the video: <a rel="nofollow" target="blank" href="https://bit.ly/3BhmALu">https://bit.ly/3BhmALu</a> <br />1. GDS to MTS Exam  Playlist: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=3CK53JwkCDY&amp;list=PLjTSFaN994M8qbs_Wdu8We7wjzzxLrJak">https://www.youtube.com/watch?v=3CK53JwkCDY&amp;list=PLjTSFaN994M8qbs_Wdu8We7wjzzxLrJak</a><br /><br />2. GDS to Postman Exam Playlist: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=aqt62hC6MtI&amp;list=PLjTSFaN994M8wg69KVEodkvzCPJYR4FrB">https://www.youtube.com/watch?v=aqt62hC6MtI&amp;list=PLjTSFaN994M8wg69KVEodkvzCPJYR4FrB</a><br /><br />3. GDS to PA Exam Playlist: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=5rkgrPchtSM&amp;list=PLjTSFaN994M_OOXJLK_0zU-UcPItY3W28">https://www.youtube.com/watch?v=5rkgrPchtSM&amp;list=PLjTSFaN994M_OOXJLK_0zU-UcPItY3W28</a><br /><br />4. IPO Exam Playlist: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=aNdMBNFEr6w&amp;list=PLjTSFaN994M9dvXwJKNk5cu7o-I6xae5C">https://www.youtube.com/watch?v=aNdMBNFEr6w&amp;list=PLjTSFaN994M9dvXwJKNk5cu7o-I6xae5C</a><br /><br />5. PS Group B Exam Playlist: <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=j0wehVIb3qs&amp;list=PLjTSFaN994M9NbRF-mDvqZBc1ztxSCo-6">https://www.youtube.com/watch?v=j0wehVIb3qs&amp;list=PLjTSFaN994M9NbRF-mDvqZBc1ztxSCo-6</a><br /><br />#ProductsAndServicesOfIndiaPost #ProductsAndServices #ProductsAndServicesMcq #ProductsAndServicesOfIndiaPostInTelugu<br />#IndiaPostProductsAndServices #ProductsAndServices #ProductsAndServicesPostOffice #ProductsAndService #Imts #Wumts<br /> #ProductsAndServicesMailsBankingAndRemittanceInsuranceStampAndBusiness{% endraw %}
