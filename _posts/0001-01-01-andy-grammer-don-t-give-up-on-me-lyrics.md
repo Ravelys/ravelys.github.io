@@ -1,0 +1,15 @@
+---
+title: "Andy Grammer - Don't Give Up On Me (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/bDwNbi-3O-k\/hqdefault.jpg"
+vid_id: "bDwNbi-3O-k"
+categories: "Music"
+tags: ["Andy grammer","Dont give up on me","Don't give up on me lyrics"]
+date: "2021-11-04T09:43:12+03:00"
+vid_date: "2019-02-13T06:27:54Z"
+duration: "PT3M17S"
+viewcount: "25338603"
+likeCount: "295673"
+dislikeCount: "3938"
+channel: "Epic Sound"
+---
+{% raw %}Subscribe and press (🔔) to join the Notification Squad and stay updated with new uploads<br /><br />Listen to &quot;Don't Give Up On Me&quot; here: <a rel="nofollow" target="blank" href="http://smarturl.it/DontGiveUpOnMeAG">http://smarturl.it/DontGiveUpOnMeAG</a><br /><br />Follow  Andy Grammer<br /><a rel="nofollow" target="blank" href="http://andygrammer.com/">http://andygrammer.com/</a> <br /><a rel="nofollow" target="blank" href="https://www.facebook.com/andygrammer/">https://www.facebook.com/andygrammer/</a><br /><a rel="nofollow" target="blank" href="https://www.twitter.com/andygrammer/">https://www.twitter.com/andygrammer/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/andygrammer/">https://www.instagram.com/andygrammer/</a><br />Snapchat: @AndyGrammer1<br /><br />©️ If any producer or label has an issue with this song or picture, please get in contact with us and we will delete it immediately.<br /><br />Lyrics <br /><br />&quot;Don't Give Up On Me&quot;<br />(from &quot;Five Feet Apart&quot; soundtrack)<br /><br />I will fight<br />I will fight for you<br />I always do until my heart<br />Is black and blue<br /><br />And I will stay<br />I will stay with you<br />We'll make it to the other side<br />Like lovers do<br /><br />I'll reach my hands out in the dark<br />And wait for yours to interlock<br />I'll wait for you<br />I'll wait for you<br /><br />'Cause I'm not givin' up<br />I'm not givin' up, givin' up<br />No not yet<br />Even when I'm down to my last breath<br />Even when they say there's nothin' left<br />So don't give up on...<br /><br />I'm not givin' up<br />I'm not givin' up, givin' up<br />No not me<br />Even when nobody else believes<br />I'm not goin' down that easily<br />So don't give up on me<br /><br />And I will hold<br />I'll hold onto you<br />No matter what this world'll throw<br />I won't shake me loose<br /><br />I'll reach my hands out in the dark<br />And wait for yours to interlock<br />I'll wait for you<br />I'll wait for you<br /><br />'Cause I'm not givin' up<br />I'm not givin' up, givin' up<br />No not yet<br />Even when I'm down to my last breath<br />Even when they say there's nothin' left<br />So don't give up on...<br /><br />I'm not givin' up<br />I'm not givin' up, givin' up<br />No not me<br />Even when nobody else believes<br />I'm not goin' down that easily<br />So don't give up on me<br /><br />Whoa, whoa<br />Whoa, whoa<br />Yeah yeah yeah yeah<br />Yeah yeah yeah<br /><br />I will fight<br />I will fight for you<br />I always do until my heart<br />Is black and blue{% endraw %}
