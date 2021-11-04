@@ -1,0 +1,15 @@
+---
+title: "Russ - Paid Off (Official Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/HKXQFAizXfU\/hqdefault.jpg"
+vid_id: "HKXQFAizXfU"
+categories: "Music"
+tags: ["russ paid off official audio","paid off official audio russ","russ paid off"]
+date: "2021-11-04T17:42:17+03:00"
+vid_date: "2020-10-09T04:00:01Z"
+duration: "PT2M36S"
+viewcount: "2038297"
+likeCount: "44879"
+dislikeCount: "439"
+channel: "Russ"
+---
+{% raw %}Official Audio for &quot;Paid Off&quot; - Available Everywhere Now: <br /><a rel="nofollow" target="blank" href="https://russ.is">https://russ.is</a><br /><br />Lyrics<br /><br />[Chorus]<br />Okay, all my cars paid off, some houses too<br />I could never get laid off, I don't know about you<br />I get weed by the pound, and I don't even smoke (Hahaha)<br />Bitches crazy, y'all can't phase me<br />I know y'all just want my baby<br /><br />[Verse 1]<br />I need a driver with a suit, just to drop me off<br />I need a full-time freak, just to top me off<br />I need a couple million dollars every month, at least<br />I know we just got in a fight, can we fuck at least?<br />I got a girl, the whole world would love to jump out with<br />People followed us home, I pulled the gun out quick<br /><br />[Pre-Chorus]<br />That's just part of bein' great, love comes with the hate<br />It's alright, oh, oh<br /><br />[Chorus]<br />Okay, all my cars paid off, some houses too<br />I could nеver get laid off, I don't know about you<br />I get weed by thе pound, and I don't even smoke (Hahaha)<br />Bitches crazy, y'all can't phase me<br />I know y'all just want my baby<br /><br /><br />[Verse 2]<br />I got a hundred thousand dollars in the booth right now<br />'K I'm cool with the legends, I'll call Snoop right now<br />This is TRAW two, I don't need no labels<br />Kanye told me on the phone, &quot;Congrats on sellin' out Staples&quot;<br />All because I stayed me, against all odds<br />If a rapper talkin' crazy, we gon' test his jaw<br /><br />[Pre-Chorus]<br />That's just part of bein' great, love comes with the hate<br />It's alright, oh, oh<br /><br />[Chorus]<br />Okay, all my cars paid off, some houses too<br />I could never get laid off, don't know about you<br />I get weed by the pound, and I don't even smoke (Hahaha)<br />Bitches crazy, y'all can't phase me<br />I know y'all just want my baby<br /><br /><br /><br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/russdiemon">https://www.twitter.com/russdiemon</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/russ">https://www.instagram.com/russ</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/russtheone">https://www.facebook.com/russtheone</a><br />TikTok: <a rel="nofollow" target="blank" href="https://tiktok.com/@russ">https://tiktok.com/@russ</a><br /><br />Shop: <a rel="nofollow" target="blank" href="https://shop.russ.is/">https://shop.russ.is/</a><br /><br />Produced By: Russ<br /><br />℗ 2020 Russ My Way Inc.<br /><br />#Russ #PaidOff{% endraw %}
