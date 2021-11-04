@@ -1,0 +1,15 @@
+---
+title: "Tere Jaisa Yaar Kahan|Yeh Dosti Ham Nahi Todenge|Friendship Story|Heart Touching Friendship Story"
+image: "https:\/\/i.ytimg.com\/vi\/18TbFPb9ZiU\/hqdefault.jpg"
+vid_id: "18TbFPb9ZiU"
+categories: "Entertainment"
+tags: ["friendship.","friendship story.","friendship stories."]
+date: "2021-11-05T00:12:52+03:00"
+vid_date: "2021-11-04T05:30:17Z"
+duration: "PT4M22S"
+viewcount: "289980"
+likeCount: "6203"
+dislikeCount: "536"
+channel: "ALBUM CREATIONS"
+---
+{% raw %}Someone has rightly said, friendship is the purest form of love .<br />Let's relieve those moments again with this iconic friendship anthem &quot;Yeh Dosti Ham Nahi Todenge&quot; from the movie &quot;Sholay&quot;<br /><br />Original Song Credits<br />Song : Yeh Dosti Ham Nahi Todenge<br />Movie : Sholay (1975)<br />Singers : Kishore Kumar and Manna Dey<br />Music Directors : R.D Burman<br />Lyricists : Anand Sakshi<br />Picturized on :  Dharmendra and Amitabh Bachan<br />Music Label : Universal Music India Pvt.ltd<br /><br />Original Song Credits<br />Singer : Tere Jaisa Yaar Kahan<br />Film : Yaarana<br />Music Directors : Rajesh Roshan<br />Music Label : T - Series<br /><br />Female Version Cover By Pallavi Mukund !!<br /><br />I am not the owner of this audio song !! Please do not strike !!If you want to get our video removed then please tell us once before taking any action !! I will happily remove my video as soon as possible !! <br /><br />Album Creation Present's &quot;A Heart Touching Friendship Story&quot;<br /><br />This Video Is Purely For Entertainment Purpose !!<br /><br />Original Video Credits<br />Cast : Shobha, Alina, Gayatri, Neha, Deep &amp; Shahbaz<br />Directed &amp; Written By : Bikki Gupta<br />D.O.P, Cinematography &amp; Edited By : Palash Saha<br /><br />Managed By : Idiotic.Media<br /><br />For Business Enquiry : shankargupta517@gmail.com<br /><br />Whatsapp &amp; Call : 7908547171 &amp; 8101203306<br /><br />Social Links <br /><br />Shobha Singh Instagram : <a rel="nofollow" target="blank" href="https://instagram.com/officialshobhasingh?igshid=12t3blnux3kmp">https://instagram.com/officialshobhasingh?igshid=12t3blnux3kmp</a><br /><br />Alina Singh Instagram : <a rel="nofollow" target="blank" href="https://instagram.com/alina24_18__?utm_medium=copy_link">https://instagram.com/alina24_18__?utm_medium=copy_link</a><br /><br />Shahbaz Shaikh Instagram :<a rel="nofollow" target="blank" href="https://instagram.com/shaikh_official_92?utm_medium=copy_link">https://instagram.com/shaikh_official_92?utm_medium=copy_link</a><br /><br />Deep Paul Instagram :<a rel="nofollow" target="blank" href="https://instagram.com/deeppaul_24_18?utm_medium=copy_link">https://instagram.com/deeppaul_24_18?utm_medium=copy_link</a><br /><br />Palash Saha Instagram :<a rel="nofollow" target="blank" href="https://instagram.com/palashsahaofficial?utm_medium=copy_link">https://instagram.com/palashsahaofficial?utm_medium=copy_link</a><br /><br />#friendshipstory<br />#bestfriendshipstory<br />#albumcreation<br /><br />                      Thanking You All❤️{% endraw %}
