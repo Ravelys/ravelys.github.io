@@ -1,0 +1,15 @@
+---
+title: "Breath After Coma - Make Amends (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/Sx1Re-RvqAM\/hqdefault.jpg"
+vid_id: "Sx1Re-RvqAM"
+categories: "Music"
+tags: ["alternative rock 2018","alternative rock","alternative rock playlist2018"]
+date: "2021-11-05T13:10:43+03:00"
+vid_date: "2018-05-22T10:53:16Z"
+duration: "PT5M25S"
+viewcount: "21890"
+likeCount: "329"
+dislikeCount: "13"
+channel: "Breath After Coma"
+---
+{% raw %}Make Amends is the first single from Breath After Coma's new album &quot;Woke Up In Babel&quot;, out April 5 2019 on Ikaros Records.<br /><br />Follow Breath After Coma:<br /><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/breathaftercomaband">https://www.facebook.com/breathaftercomaband</a><br />Bandcamp: <a rel="nofollow" target="blank" href="https://www.breathaftercomaband.bandcamp.com">https://www.breathaftercomaband.bandcamp.com</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/breathaftercomaofficial">https://www.instagram.com/breathaftercomaofficial</a><br />Website: <a rel="nofollow" target="blank" href="https://www.breathaftercomaband.com">https://www.breathaftercomaband.com</a><br /><br />Produced by Giannis Damianos &amp; Breath After Coma<br />Vocals &amp; Bass Recorded at Suono Studio, by Giannis Damianos<br />Guitars recorded at 8Yard Studio, by Mikko Chris Vlachos<br />Drums recorded at Antart Studios, by Nikos Kollias<br />Mixed by Giannis Damianos<br />Mastered by Ioannis Petrolias<br /><br />Video Credits:<br />Directed by Haris Kountouris<br />(<a rel="nofollow" target="blank" href="https://www.facebook.com/hkvisualcreations/)">https://www.facebook.com/hkvisualcreations/)</a><br />2nd Director: Panos Tzortzakis<br />(<a rel="nofollow" target="blank" href="https://www.facebook.com/FubARTproductions/)">https://www.facebook.com/FubARTproductions/)</a><br />Starring Harissa Helioti<br />Creative Director/Story: Lelos Matthaios<br />Aerial Cinematography by Orfeas Kalafatis<br />Visual Effects by HK Visual Creations<br /><br />Big thanks to Penelope Alpou from ΕΥΔΑΠ PR Office and the Crew from Marathon Dam for their assistance.<br /><br />Lyrics:<br /><br />I gotta dig in deep <br />Turn back in time<br />Right from the womb<br />We are asked to comply<br /><br />Genetic Providence <br />Out of time<br /><br />I don't know <br />What we stand for now<br />There's a bit of you <br />In me somehow<br /><br />Hey, I learned the hard way<br /><br />Bad blood <br />I need to spit it out<br />Bad blood<br />I know I will stand out <br /><br />It always struck me as slavery<br />To wear this armour of my bravery<br />Why do we have to be this way?<br /><br />I want out, I will cast no blame<br />Had to see me through<br />Four toxins and one cane <br /><br />Hey, I learned the hard way<br /><br />Bad blood <br />I need to spit it out<br />Bad blood<br />I know I will stand out<br /><br />Seems like I fall<br />But I make amends<br />Seems like I fall<br />But I make amends{% endraw %}
