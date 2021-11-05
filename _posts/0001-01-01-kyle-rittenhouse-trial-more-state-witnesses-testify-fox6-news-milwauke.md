@@ -1,0 +1,15 @@
+---
+title: "Kyle Rittenhouse trial: More state witnesses testify  | FOX6 News Milwaukee"
+image: "https:\/\/i.ytimg.com\/vi\/JqJSxK9VVn0\/hqdefault.jpg"
+vid_id: "JqJSxK9VVn0"
+categories: "News-Politics"
+tags: ["Rittenhouse","trial:","state"]
+date: "2021-11-05T18:05:48+03:00"
+vid_date: "2021-11-05T13:12:49Z"
+duration: "P0D"
+viewcount: "4085"
+likeCount: "84"
+dislikeCount: "7"
+channel: "FOX6 News Milwaukee"
+---
+{% raw %}WATCH: Friday marks day four of witness testimony in the Kyle Rittenhouse trial. Another witness who was there the night of the shootings takes the stand. MORE: <a rel="nofollow" target="blank" href="https://bit.ly/3ELwQfQ">https://bit.ly/3ELwQfQ</a> WARNING: Some language in the trial may not be appropriate for all viewers.<br /><br />Subscribe to FOX6 News Milwaukee: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/fox6now?...​">https://www.youtube.com/user/fox6now?...​</a><br /><br />Watch FOX6 News Milwaukee Live: <a rel="nofollow" target="blank" href="https://www.fox6now.com/live​">https://www.fox6now.com/live​</a><br /><br />FOX6 News Milwaukee delivers breaking news, live events, investigations, politics, entertainment, business news and local stories from southeast Wisconsin and across the nation.<br /><br />Watch more FOX6 News Milwaukee on YouTube:<br /><br />COVID-19 vaccine: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list...​">https://www.youtube.com/playlist?list...​</a><br /><br />Contact 6: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list...​">https://www.youtube.com/playlist?list...​</a><br /><br />FOX6 Investigators: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list...​">https://www.youtube.com/playlist?list...​</a><br /><br />Beyond the Game: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list...​">https://www.youtube.com/playlist?list...​</a><br /><br />FOX6 WakeUp News: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list...​">https://www.youtube.com/playlist?list...​</a><br /><br />Download the FOX6 News Milwaukee app: <a rel="nofollow" target="blank" href="https://fox6news.onelink.me/MVy8?pid=...​">https://fox6news.onelink.me/MVy8?pid=...​</a><br /><br />Download the FOX6 Storm Center app: <a rel="nofollow" target="blank" href="https://www.fox6now.com/apps​">https://www.fox6now.com/apps​</a><br /><br />Follow FOX6 News Milwaukee on Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/fox6news/​">https://www.facebook.com/fox6news/​</a><br /><br />Follow FOX6 News Milwaukee on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/fox6now/​">https://twitter.com/fox6now/​</a><br /><br />Follow FOX6 News Milwaukee on Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/fox6now/​">https://www.instagram.com/fox6now/​</a><br /><br />Subscribe to the FOX6 News Milwaukee newsletter: <a rel="nofollow" target="blank" href="https://www.fox6now.com/email">https://www.fox6now.com/email</a>{% endraw %}
