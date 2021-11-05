@@ -1,0 +1,15 @@
+---
+title: "This Is Important... Listen Until The End #EndTheStigma"
+image: "https:\/\/i.ytimg.com\/vi\/LoU-jQ8NkAk\/hqdefault.jpg"
+vid_id: "LoU-jQ8NkAk"
+categories: "Entertainment"
+tags: ["PJ's not so secret diary","tea spiracy","J kj Declassified"]
+date: "2021-11-05T13:28:05+03:00"
+vid_date: "2021-11-04T19:17:10Z"
+duration: "PT39M52S"
+viewcount: "2689"
+likeCount: "344"
+dislikeCount: "13"
+channel: "Tea Spiracy"
+---
+{% raw %}People around here keep trying to dull my shine, but I remain #UnfukWitAble. This conversation needs to be had for the same reason I told the story to begin with. <br /><br />Listen up<br /><br />END THE STIGMA<br /><br />0:00 Start<br /><br />1:00 How did we get here?<br /><br />25:40 LISTEN CLOSELY <br /><br />35:10 MY HEART NEEDS U 2 HEAR THIS..<br /><br /><br />---------------------------------------<br /><br />✭Help get Gabby to her 1M Subscriber dream! <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCsgnE460ebvgB1I30gwuLkw">https://www.youtube.com/channel/UCsgnE460ebvgB1I30gwuLkw</a><br /><br />✭Join my channel if you want to help support what I do:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCN9h65dNxIHXzZPYWlcSkwQ/join">https://www.youtube.com/channel/UCN9h65dNxIHXzZPYWlcSkwQ/join</a><br /><br />✭Check Out My Merch:<br /><a rel="nofollow" target="blank" href="https://my-store-10898794.creator-spring.com/">https://my-store-10898794.creator-spring.com/</a><br /><br />✭It would be really cool if you bought me a coffee! Sometimes the &quot;tea&quot; doesn't cut it. <a rel="nofollow" target="blank" href="https://www.buymeacoffee.com/Teaspiracy">https://www.buymeacoffee.com/Teaspiracy</a> <br /><br />✭Follow me on Instagram, because Twitter is the Armpit of the internet: <br />@Tea.spiracy or you can click this link: <a rel="nofollow" target="blank" href="https://www.instagram.com/invites/contact/?i=vtad4tx0r1f4&amp;utm_content=lshc03f">https://www.instagram.com/invites/contact/?i=vtad4tx0r1f4&amp;utm_content=lshc03f</a><br /><br />✭Follow Leon On IG: <a rel="nofollow" target="blank" href="https://instagram.com/leon_247365?utm_medium=copy_link">https://instagram.com/leon_247365?utm_medium=copy_link</a><br /><br />✭Need a break from the drama? Moderator &quot;Sher Mare&quot; has a cute channel! Go Subscribe:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC8oa3zwXcAaI4YtQ5rqD8mA">https://www.youtube.com/channel/UC8oa3zwXcAaI4YtQ5rqD8mA</a><br /><br />✭Stacy &amp; Kim S. have a cool channel you can subscribe to:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/Righteousverse">https://www.youtube.com/c/Righteousverse</a><br /><br />╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳╳<br /><br />I am well versed in fair use.  If you have a problem with a video I have made then perhaps you should get in line. Just kidding! You can contact me, and we can talk about it. The other option is you can be a snitch, and file a copyright claim that I will likely appeal and win anyways. Either way... holla.{% endraw %}
