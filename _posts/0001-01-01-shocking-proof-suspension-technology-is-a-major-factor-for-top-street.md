@@ -1,0 +1,15 @@
+---
+title: "SHOCKING PROOF SUSPENSION TECHNOLOGY IS A MAJOR FACTOR FOR TOP STREET TIRE MOTORCYCLE DRAG RACERS!"
+image: "https:\/\/i.ytimg.com\/vi\/B5r-g8VRkJ4\/hqdefault.jpg"
+vid_id: "B5r-g8VRkJ4"
+categories: "Sports"
+tags: ["rickey gadson","moor mafia","m2 shocks"]
+date: "2021-11-06T15:21:15+03:00"
+vid_date: "2020-04-17T17:30:56Z"
+duration: "PT11M3S"
+viewcount: "4818"
+likeCount: "160"
+dislikeCount: "3"
+channel: "CycleDrag"
+---
+{% raw %}A proper suspension setup is not always the first thing motorcycle drag racers have strived for in the past. That is much different today as Marcus McBain of M2 Shocks and RPS Manufacturing discusses what incredible gains turbo HAYABUSA and nitrous Pro Street drag bike racers as well as street tire and no bar H2, ZX-14, Bagger and more motorcycle drag racers have seen from suspension upgrades and refinements. In this video we will get an understanding of why suspension technology is so important in the drag racing application, how it’s come so far so fast and how top racers like Rickey Gadson consider this area of performance one of their best kept secrets. We also let you know how you can get hooked up with a M2 shock for your street or race bike.<br /><br />Watch more awesome FAST MOTORCYCLE action video playlists here on our channel:<br /><br /><a rel="nofollow" target="blank" href="https://www.youtube.com/CycleDrag">https://www.youtube.com/CycleDrag</a><br /><br /><br />Watch more of our recent &amp; related videos!<br /><br />Rocket Bike -  <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=pApvlM3ZTgs">https://www.youtube.com/watch?v=pApvlM3ZTgs</a><br /><br />Motorcycle drag racing tips with Brock Davidson - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=oUrdlX_rW4g&amp;t=277s">https://www.youtube.com/watch?v=oUrdlX_rW4g&amp;t=277s</a><br />Supercharged Kawasaki H2R Drag Racing -<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=VCQET1zDtlo">https://www.youtube.com/watch?v=VCQET1zDtlo</a><br />Nitro Harley With Pro Charger Runs 6.06! - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=eNbSv8U5k60&amp;t=6s">https://www.youtube.com/watch?v=eNbSv8U5k60&amp;t=6s</a><br />Orange County Choppers 246 MPH Top Fuel Pass - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=grIF8h5OnFQ">https://www.youtube.com/watch?v=grIF8h5OnFQ</a><br />Larry “Spiderman” McBride Gets Best Run on New Bike - <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=__tbbKaDULw">https://www.youtube.com/watch?v=__tbbKaDULw</a><br /><br /><br />Subscribe ► <a rel="nofollow" target="blank" href="https://www.youtube.com/CycleDrag">https://www.youtube.com/CycleDrag</a><br /><br /><br /><br />To take advantage of some amazing discounts at Brock's Performance, click - <a rel="nofollow" target="blank" href="http://brocksperformance.com?aff=12">http://brocksperformance.com?aff=12</a><br /><br />Subscribe ► <a rel="nofollow" target="blank" href="https://www.youtube.com/CycleDrag">https://www.youtube.com/CycleDrag</a>{% endraw %}
