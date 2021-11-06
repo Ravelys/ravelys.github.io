@@ -1,0 +1,15 @@
+---
+title: "A Beginner's Guide To SEWING! How to use a sewing machine"
+image: "https:\/\/i.ytimg.com\/vi\/oD_KpZm7OaM\/hqdefault.jpg"
+vid_id: "oD_KpZm7OaM"
+categories: "Howto-Style"
+tags: ["How to use a sewing machine","beginner sewing","how to sew"]
+date: "2021-11-06T11:19:59+03:00"
+vid_date: "2020-04-18T18:31:04Z"
+duration: "PT14M59S"
+viewcount: "1138462"
+likeCount: "44480"
+dislikeCount: "474"
+channel: "coolirpa"
+---
+{% raw %}Hope this video helps out any beginner sewers out there! #sewing101 #howtosew #coolirpa<br /><br />SEWING TOOLS MENTIONED: <br />Fabric Scissors: <a rel="nofollow" target="blank" href="https://amzn.to/3eAf42I">https://amzn.to/3eAf42I</a><br />Fabric Marking Pen: <a rel="nofollow" target="blank" href="https://amzn.to/2N9EKFd">https://amzn.to/2N9EKFd</a><br />Seam ripper: <a rel="nofollow" target="blank" href="https://amzn.to/2VKzspA">https://amzn.to/2VKzspA</a><br />Clear Ruler: <a rel="nofollow" target="blank" href="https://amzn.to/2XOcJLI">https://amzn.to/2XOcJLI</a><br />Rotary Cutter: <a rel="nofollow" target="blank" href="https://amzn.to/2uo1NnS">https://amzn.to/2uo1NnS</a><br />Rotary Cutting Mat: <a rel="nofollow" target="blank" href="https://amzn.to/2zuFfHK">https://amzn.to/2zuFfHK</a><br />Universal Needles: <a rel="nofollow" target="blank" href="https://amzn.to/3akywNM">https://amzn.to/3akywNM</a><br />Ballpoint Needle: <a rel="nofollow" target="blank" href="https://amzn.to/34JF4Ez">https://amzn.to/34JF4Ez</a><br /><br />Pattern Making Book:<br /><a rel="nofollow" target="blank" href="http://amzn.to/2Gzx7W9">http://amzn.to/2Gzx7W9</a><br />Draping Book: <a rel="nofollow" target="blank" href="https://amzn.to/2NjL4O4">https://amzn.to/2NjL4O4</a><br />Sewing machine - Juki HZL-G Series<br /><a rel="nofollow" target="blank" href="http://amzn.to/2yqjaro">http://amzn.to/2yqjaro</a><br />Dress Forms for Draping:<br /><a rel="nofollow" target="blank" href="https://go.magik.ly/ml/cfvs/">https://go.magik.ly/ml/cfvs/</a><br />Loop Turner: <a rel="nofollow" target="blank" href="https://amzn.to/2uqV9wS">https://amzn.to/2uqV9wS</a><br /><br />Follow Me:<br /><a rel="nofollow" target="blank" href="http://instagram.com/coolirpa">http://instagram.com/coolirpa</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/coolirpa">http://www.facebook.com/coolirpa</a><br /><br />Ways To Support This Channel:<br />Become a Patron: <a rel="nofollow" target="blank" href="https://www.patreon.com/coolirpa">https://www.patreon.com/coolirpa</a><br /><br />FILMING EQUIPMENT:<br />My camera:<br />Canon M5: <a rel="nofollow" target="blank" href="https://amzn.to/2vXPFPl">https://amzn.to/2vXPFPl</a><br />Canon G7X Mark II: <a rel="nofollow" target="blank" href="https://amzn.to/3cSfYqy">https://amzn.to/3cSfYqy</a><br />Microphone: <a rel="nofollow" target="blank" href="https://amzn.to/3aWmNpe">https://amzn.to/3aWmNpe</a><br />Lights: <br /><a rel="nofollow" target="blank" href="https://amzn.to/2WcCswH">https://amzn.to/2WcCswH</a><br /><a rel="nofollow" target="blank" href="https://amzn.to/2U49IDK">https://amzn.to/2U49IDK</a>{% endraw %}
