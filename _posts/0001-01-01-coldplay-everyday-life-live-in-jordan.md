@@ -1,0 +1,15 @@
+---
+title: "Coldplay: Everyday Life Live in Jordan"
+image: "https:\/\/i.ytimg.com\/vi\/tO7CCP7liwI\/hqdefault.jpg"
+vid_id: "tO7CCP7liwI"
+categories: "Music"
+tags: ["Coldplay","Coldplay Livestream","Coldplay new album"]
+date: "2021-11-07T23:23:01+03:00"
+vid_date: "2020-08-07T16:07:30Z"
+duration: "PT58M16S"
+viewcount: "12348021"
+likeCount: "131119"
+dislikeCount: "3378"
+channel: "Coldplay"
+---
+{% raw %}On November 22, 2019, Coldplay premiered their new album, Everyday Life, live at the Amman Citadel, Jordan. The first half was performed at sunrise, the second at sunset. It was the first and only time the album was performed in full, broadcast live around the world. <br /><br />Subscribe for more content from Coldplay: <a rel="nofollow" target="blank" href="https://bit.ly/subscribecoldplay">https://bit.ly/subscribecoldplay</a><br /><br />Listen to the album Everyday Life on YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=OLAK5uy_mbiRc-WQKXNRCfAeZBsoA-hILP3Oeu2WU">https://www.youtube.com/playlist?list=OLAK5uy_mbiRc-WQKXNRCfAeZBsoA-hILP3Oeu2WU</a><br /><br />See more official videos from Coldplay: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU">https://www.youtube.com/playlist?list=PLsvoYlzBrLFAJd4hNQSHw1lYjDKeQB_iU</a><br /><br />FOLLOW COLDPLAY<br />Website: <a rel="nofollow" target="blank" href="http://www.coldplay.com">http://www.coldplay.com</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/coldplay">http://instagram.com/coldplay</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/coldplay">https://twitter.com/coldplay</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/coldplay">https://www.facebook.com/coldplay</a><br />Tiktok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@coldplay">https://www.tiktok.com/@coldplay</a><br />Spotify: <a rel="nofollow" target="blank" href="https://bit.ly/coldplayspotify">https://bit.ly/coldplayspotify</a><br />Tumblr: <a rel="nofollow" target="blank" href="http://coldplay.tumblr.com/">http://coldplay.tumblr.com/</a><br />VK: <a rel="nofollow" target="blank" href="https://vk.com/coldplay">https://vk.com/coldplay</a><br /><br />ABOUT COLDPLAY<br />Since forming at university in London, Coldplay have gone on to become one of the planet’s most popular acts, selling more than 80 million copies of their eight Number One albums, which have spawned a string of hits including Yellow, Clocks, Fix You, Paradise, Viva La Vida, A Sky Full Of Stars, Hymn For The Weekend, Adventure Of A Lifetime and, most recently, Orphans.<br /><br />In November 2019, the band released their eighth album Everyday Life, described by Rolling Stone as “Coldplay’s rangiest and deepest release by orders of magnitude, maybe even their best” and by GQ as &quot;A gift – hard to deem it anything less than Coldplay's best&quot;.<br /><br />#Coldplay #EverydayLife #LiveInJordan #ColdplayJordan{% endraw %}
