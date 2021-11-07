@@ -1,0 +1,15 @@
+---
+title: "Don't Make This Long Term Investing Mistake"
+image: "https:\/\/i.ytimg.com\/vi\/dkPWyjCl1A0\/hqdefault.jpg"
+vid_id: "dkPWyjCl1A0"
+categories: "Education"
+tags: ["investing mistakes","how to invest","investing mistakes to avoid"]
+date: "2021-11-07T09:40:53+03:00"
+vid_date: "2021-11-05T13:35:48Z"
+duration: "PT11M26S"
+viewcount: "16498"
+likeCount: "1289"
+dislikeCount: "25"
+channel: "Sasha Yanshin"
+---
+{% raw %}There is a very common problem with long-term investors that needs addressing.<br /><br />Because long term investing strategy seems to confuse a lot of people who quickly mix it up with joining a company fan club.<br /><br />Long term investing is seen as a fundamentally different investing strategy to value investing or growth investing, but in reality those differences are not as pronounced as people sometimes think.<br /><br />Long term investing strategy has the same goals as other types of investing - to get the best possible return on investment from the stock market.<br /><br />And if you want to get the best possible return from the stock market, even if you are a long term investor, you have to know the point at which you will sell the stock and if you ever reach that point and you decide there is not a reason to continue holding, then you should sell.<br /><br />💵 GREAT INVESTING APPS I USE<br /><br />GET A FREE SHARE WORTH UP TO $150 WITH STAKE (UK, Australia, NZ)<br /><a rel="nofollow" target="blank" href="https://hellostake.pxf.io/qnA3xq">https://hellostake.pxf.io/qnA3xq</a><br />You will get a free share if you sign up using this link and deposit a minimum of £50.<br /><br />SIGN UP FOR ETORO (Global investing app)<br /><a rel="nofollow" target="blank" href="https://med.etoro.com/B15358_A95689_TClick_SSasha.aspx">https://med.etoro.com/B15358_A95689_TClick_SSasha.aspx</a><br />67% of retail investor accounts lose money when trading CFDs with this provider. Your capital is at risk. Other fees may apply.<br /><br />GET A FREE SHARE WORTH FROM £3 TO £200 WITH FREETRADE (UK Only)<br /><a rel="nofollow" target="blank" href="https://magic.freetrade.io/join/sasha-yanshin">https://magic.freetrade.io/join/sasha-yanshin</a><br />You need to sign up and make any deposit to get the free share.<br /><br />👍 SUBSCRIBE TO MY CHANNEL<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/c/SashaYanshin?sub_confirmation=1">https://www.youtube.com/c/SashaYanshin?sub_confirmation=1</a><br /><br />DISCLAIMER: Some of these links may be affiliate links. If you purchase a product or service using one of these links, I will receive a small commission from the seller. There will be no additional charge for you.<br /><br />DISCLAIMER: I am not a financial advisor and this is not a financial advice channel. All information is provided strictly for educational purposes. It does not take into account anybody's specific circumstances or situation. If you are making investment or other financial management decisions and require advice, please consult a suitably qualified licensed professional.{% endraw %}
