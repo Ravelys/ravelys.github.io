@@ -1,0 +1,15 @@
+---
+title: "Mindy Gledhill - I Do Adore"
+image: "https:\/\/i.ytimg.com\/vi\/s64wCDCZyHE\/hqdefault.jpg"
+vid_id: "s64wCDCZyHE"
+categories: "Music"
+tags: ["Mindy Gledhill","I Do Adore","Anchor"]
+date: "2021-11-07T09:04:09+03:00"
+vid_date: "2014-06-12T19:04:42Z"
+duration: "PT2M32S"
+viewcount: "884830"
+likeCount: "25977"
+dislikeCount: "232"
+channel: "Mindy Gledhill"
+---
+{% raw %}Mindy Gledhill's &quot;I Do Adore&quot; from her album, Anchor. Download &quot;I Do Adore&quot; on iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/DownloadAnchor">http://smarturl.it/DownloadAnchor</a> and Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/DownloadAnchor-GP">http://smarturl.it/DownloadAnchor-GP</a><br /><br />Download the &quot;I Do Adore&quot; sheet music: <a rel="nofollow" target="blank" href="http://mnot.es/1tsA7bH">http://mnot.es/1tsA7bH</a><br /><br />Lyrics:<br />Everything you do, it sends me<br />Higher than the moon with every<br />Twinkle in your eye<br />You strike a match that lights my heart on fire<br />When you're near, I hide my blushing face<br />And trip on my shoelaces<br />Grace just isn't my forté<br />But it brings me to my knees when you say<br />Hello, how are you, my darling, today?<br />I fall into a pile on the floor<br />Puppy love is hard to ignore<br />When every little thing you do, I do adore<br /><br />We're as different as can be<br />I've noticed you're remarkably relaxed<br />And I'm overly uptight<br />We balance out each other nicely<br />You wear sandals in the snow<br />In mid-July, I still feel cold<br />We're opposites in every way<br />But I can't resist it when you say<br />Hello, how are you, my darling, today?<br />I fall into a pile on the floor<br />Puppy love is hard to ignore<br />When every little thing you do, I do adore<br /><br />Finding words, I mutter<br />Tongue-tied, twisted<br />Foot in mouth, I start to stutter<br />Ha, ha, Heaven help me<br />Hello, how are you, my darling, today?<br />I fall into a pile on the floor<br />Puppy love is hard to ignore<br />When every little thing you do, I do adore<br />Every little thing, ba ba ba ba<br />Every little thing, ba ba ba ba<br />Every little thing you do, I do adore<br /><br />Subscribe to Mindy Gledhill on YouTube:<br /><a rel="nofollow" target="blank" href="http://goo.gl/xdtkUz">http://goo.gl/xdtkUz</a><br /><br />Follow Mindy Gledhill:<br /><a rel="nofollow" target="blank" href="http://mindygledhill.com">http://mindygledhill.com</a><br /><a rel="nofollow" target="blank" href="http://facebook.com/mindygledhillmusic">http://facebook.com/mindygledhillmusic</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/mindygledhill">http://instagram.com/mindygledhill</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/mindygledhill">http://twitter.com/mindygledhill</a><br /><a rel="nofollow" target="blank" href="http://pinterest.com/mindygledhill">http://pinterest.com/mindygledhill</a><br /><br />The Official YouTube Channel of Singer / Songwriter Mindy Gledhill{% endraw %}
