@@ -1,0 +1,15 @@
+---
+title: "The Most Popular College Majors For America’s Billionaires | Forbes"
+image: "https:\/\/i.ytimg.com\/vi\/FWyWH27-La8\/hqdefault.jpg"
+vid_id: "FWyWH27-La8"
+categories: "News-Politics"
+tags: ["Forbes","Forbes Media","Forbes Magazine"]
+date: "2021-11-08T21:39:24+03:00"
+vid_date: "2021-11-03T14:10:28Z"
+duration: "PT2M16S"
+viewcount: "92086"
+likeCount: "2432"
+dislikeCount: "56"
+channel: "Forbes"
+---
+{% raw %}Dallas Mavericks owner Mark Cuban took night classes at the University of Pittsburgh as a high school junior when he wasn’t allowed to take an economics class for high school seniors. <br /><br />At Indiana University, Cuban says he took MBA classes as a freshman until school officials “pushed him back to undergrad” when they realized he was 18 and “had never applied to be there.” He eventually graduated with a general business degree. <br /><br />Others who were business majors include Oracle of Omaha Warren Buffett, Salesforce’s Marc Benioff and Walmart heir Jim Walton. <br /><br />That makes it the most popular undergraduate degree of America’s richest, but only by a slim margin — economics and engineering ranked a close second and third. Fifty-eight Forbes 400 members majored in economics. The field’s wealthiest alumni include hedge fund investor, New York Mets owner and University of Pennsylvania grad Steve Cohen; the bitcoin billionaire twins Cameron and Tyler Winklevoss, who rowed crew at Harvard; and Charles Schwab, founder of the eponymous brokerage firm. Schwab overcame his dyslexia to graduate from Stanford. And 55 chose engineering, including former New York City mayor Michael Bloomberg and former Google CEO Eric Schmidt. Amazon’s Jeff Bezos, who topped this year’s list, studied both engineering and computer science. <br /><br />Read the full story on Forbes: <a rel="nofollow" target="blank" href="https://www.forbes.com/sites/mattdurot/2021/10/08/want-to-be-a-billionaire-these-are-the-most-popular-majors-of-the-richest-americans/?sh=472dba4426ef">https://www.forbes.com/sites/mattdurot/2021/10/08/want-to-be-a-billionaire-these-are-the-most-popular-majors-of-the-richest-americans/?sh=472dba4426ef</a><br /><br />Subscribe to FORBES: <a rel="nofollow" target="blank" href="https://www.youtube.com/user/Forbes?sub_confirmation=1">https://www.youtube.com/user/Forbes?sub_confirmation=1</a><br /><br />Stay Connected<br />Forbes newsletters: <a rel="nofollow" target="blank" href="https://newsletters.editorial.forbes.com">https://newsletters.editorial.forbes.com</a><br />Forbes on Facebook: <a rel="nofollow" target="blank" href="http://fb.com/forbes">http://fb.com/forbes</a><br />Forbes Video on Twitter: <a rel="nofollow" target="blank" href="http://www.twitter.com/forbes">http://www.twitter.com/forbes</a><br />Forbes Video on Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/forbes">http://instagram.com/forbes</a><br />More From Forbes:  <a rel="nofollow" target="blank" href="http://forbes.com">http://forbes.com</a><br /><br />Forbes covers the intersection of entrepreneurship, wealth, technology, business and lifestyle with a focus on people and success.{% endraw %}
