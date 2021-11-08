@@ -1,0 +1,15 @@
+---
+title: "The surprising effects of pregnancy"
+image: "https:\/\/i.ytimg.com\/vi\/F_ssj7-8rYg\/hqdefault.jpg"
+vid_id: "F_ssj7-8rYg"
+categories: "Education"
+tags: ["pregnancy","effects of pregnancy","hormones"]
+date: "2021-11-08T03:25:17+03:00"
+vid_date: "2020-10-01T15:00:54Z"
+duration: "PT5M46S"
+viewcount: "5029019"
+likeCount: "122809"
+dislikeCount: "1556"
+channel: "TED-Ed"
+---
+{% raw %}Discover how pregnancy changes every organ in the body— from the heart, to the brain and kidneys— and what we still don’t know about it.<br /><br />--<br /><br />Muscles and joints shift and jostle. The heart’s pounding rhythm speeds up. Blood roars through arteries and veins. Over the course of a pregnancy, every organ in the body changes. Initiated by a range of hormones, these changes begin as soon as a pregnancy begins. Explore what we know— and don’t know— about pregnancy's effects on the body and brain.<br /><br />Lesson by TED-Ed, directed by Roxane Campoy and Charlotte Cambon.<br /><br />Animator's website: <a rel="nofollow" target="blank" href="http://charlottecambon.fr/">http://charlottecambon.fr/</a> &amp; <a rel="nofollow" target="blank" href="https://www.roxanecampoy.com/">https://www.roxanecampoy.com/</a><br />Sign up for our newsletter: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdNewsletter">http://bit.ly/TEDEdNewsletter</a><br />Support us on Patreon: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdPatreon">http://bit.ly/TEDEdPatreon</a><br />Follow us on Facebook: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdFacebook">http://bit.ly/TEDEdFacebook</a><br />Find us on Twitter: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdTwitter">http://bit.ly/TEDEdTwitter</a><br />Peep us on Instagram: <a rel="nofollow" target="blank" href="http://bit.ly/TEDEdInstagram">http://bit.ly/TEDEdInstagram</a><br />View full lesson: <a rel="nofollow" target="blank" href="https://ed.ted.com/lessons/the-surprising-effects-of-pregnancy">https://ed.ted.com/lessons/the-surprising-effects-of-pregnancy</a><br /><br />Thank you so much to our patrons for your support! Without you this video would not be possible! Nicolle Fieldsend-Roxborough, John Saveland, Jason Garcia, Robson Martinho, Martin Lau, Senjo Limbu, Joe Huang, SungGyeong Bae, Christian Kurch, Begum Tutuncu, David Matthew Ezroj, Sweetmilkcoco , Raphaël LAURENT, Joe Meyers, Farah Abdelwahab, Brian Richards, Divina Grace Dar Santos, Jessie McGuire, Abdullah Altuwaijri, Sarah Burns, Clement , Hadi Salahshour, FAWWAZ GHUWAIDI, Dino Biancolini, Reagen O'Connor, Nicu Boanda, Cindy O., Karla Brilman, Jørgen Østerpart, Sergi Páez, rakesh Katragadda, Carolyn Corwin, Charlene You, Boris Langvand, Exal Enrique Cisneros Tuch, Carsten Tobehn, Kin Lon Ma, Katie Dean, Ezgi Yersu, Eunsun Kim, Katrina Harding, Gerald Onyango, alessandra tasso, Astia Rizki Safitri, Côme Vincent, Antony Lee, Melissa Sorrells, Rakshit Kothari, Doreen Reynolds-Consolati and Simon Holst Ravn.{% endraw %}
