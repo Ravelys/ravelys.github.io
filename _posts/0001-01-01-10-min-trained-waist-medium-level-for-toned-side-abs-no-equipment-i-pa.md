@@ -1,0 +1,15 @@
+---
+title: "10 MIN TRAINED WAIST - Medium Level, for toned side abs \/ No Equipment I Pamela Reif"
+image: "https:\/\/i.ytimg.com\/vi\/NRwFRLH9ulM\/hqdefault.jpg"
+vid_id: "NRwFRLH9ulM"
+categories: "Sports"
+tags: ["workout","training","abs"]
+date: "2021-11-08T03:31:49+03:00"
+vid_date: "2020-06-19T05:00:06Z"
+duration: "PT11M13S"
+viewcount: "8681297"
+likeCount: "112412"
+dislikeCount: "1316"
+channel: "Pamela Reif"
+---
+{% raw %}Finally a MEDIUM Level workout, that is not soooo difficult :) we will train the side parts of our tummy: for a trained and toned waist ♥︎  <br /><br />This routine focusses on ab exercises, that target your obliques. All kinds of side crunch variations (I think I got really creative here haha) and a couple of (easy) side planks for the ultimate burn. <br /><br />IF YOU WANT TO: you can also do the hard side plank version (not on your knees, but on your feet). <br /><br />Have fun with this one &amp; tell me how you like it! <br /><br />__<br /><br />No Equipment necessary, no breaks and not much space needed :) If you need a break tho - take it! Just don't quit! <br /><br />The video is in full length which means you can just follow whatever I’m doing 30s for each exercise. <br />__<br /><br />▸ you can find FREE WORKOUT PLANS on my Instagram Channel. 30min, 45min and Beginner Friendly combinations. Check out the Highlight Bubble &quot;Workout Plans&quot; for that.  <br /><br />➞ Instagram <a rel="nofollow" target="blank" href="http://www.instagram.com/pamela_rf/">http://www.instagram.com/pamela_rf/</a><br /><br />__<br /> <br />▸ You can always find ALL SONGS in my workout playlist. I update it weekly &amp; it's available on Spotify, Apple Music, etc. ♥︎<br /><a rel="nofollow" target="blank" href="http://wmg.click/GetActive">http://wmg.click/GetActive</a><br /><br />1. Matt Maeson, Seeb - Hallucinogenics (Seeb Remix) 0:00 - 3:40<br />2. Balcony - He Don't Trust Me 3:41 - 6:09<br />3. JC Stewart – I Need You To Hate Me 6:10 - 8:39<br />4. Goody Grace - If I Want To 8:40 - 11:13<br />__<br /><br />➞ Instagram <a rel="nofollow" target="blank" href="http://www.instagram.com/pamela_rf/">http://www.instagram.com/pamela_rf/</a><br />➞ Food Account <a rel="nofollow" target="blank" href="http://www.instagram.com/pamgoesnuts/">http://www.instagram.com/pamgoesnuts/</a><br />__<br /><br />Business Contact:<br />pamela_reif@icloud.com<br /><br />__<br />unterstützt durch Warner Music Germany<br /><br />Disclaimer:<br />When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video.{% endraw %}
