@@ -1,0 +1,15 @@
+---
+title: "Revenue Recognition Principle in TWO MINUTES!"
+image: "https:\/\/i.ytimg.com\/vi\/37PPccwsYJI\/hqdefault.jpg"
+vid_id: "37PPccwsYJI"
+categories: "Education"
+tags: ["revenue","accounting","accounting basics"]
+date: "2021-11-08T23:01:31+03:00"
+vid_date: "2018-11-04T22:06:02Z"
+duration: "PT2M48S"
+viewcount: "104825"
+likeCount: "6427"
+dislikeCount: "115"
+channel: "Accounting Stuff"
+---
+{% raw %}🔴Subscribe for more Accounting Tutorials → <a rel="nofollow" target="blank" href="https://geni.us/subtothechannel">https://geni.us/subtothechannel</a><br /><br />Are you looking for the quickest way to understand the Revenue Recognition Principle?  Well look no further! In this video you'll find an easy way to understand Revenue Recognition that easy to follow and keep up with.<br /><br />Budding Accountants often ask &quot;What is Revenue Recognition?&quot;, and deservedly so because is one of the main building blocks of Accrual Accounting.  This video will teach you the best way to learn Revenue Recognition without wasting any time at all.<br /><br />Two minutes is all it takes to find out how to understand Revenue Recognition.  This episode of Accounting Stuff is Accounting Basics Lesson 9 of our Accounting for Beginners Playlist and will teach you an easy way to learn Revenue Recognition that will help you understand Revenue Recognition Principle Quickly.<br /><br />⏱️TIMESTAMPS<br />00:00 - Intro<br />00:22 - What is Revenue in Accounting?<br />00:38 - What is the Revenue Recognition Principle?<br />00:52 - How the Revenue Recognition Principle Works<br /><br />🔎FAQ<br />▪ My Favourite Accounting Book for Beginners → <a rel="nofollow" target="blank" href="http://geni.us/5mKR7m">http://geni.us/5mKR7m</a><br /><br />🔝 CLOUD ACCOUNTING SOFTWARE<br />▪ QuickBooks Online USA (FREE TRIAL/DISCOUNT) → <a rel="nofollow" target="blank" href="http://geni.us/jA9N">http://geni.us/jA9N</a><br />▪ QuickBooks Online Canada (FREE TRIAL/DISCOUNT) → <a rel="nofollow" target="blank" href="https://geni.us/bNN7">https://geni.us/bNN7</a><br /><br />🚶FOLLOW ME ON<br />▪ Insta → <a rel="nofollow" target="blank" href="https://www.instagram.com/accountingstuff">https://www.instagram.com/accountingstuff</a><br />▪ Twitter → <a rel="nofollow" target="blank" href="https://twitter.com/AccountantStuff">https://twitter.com/AccountantStuff</a><br /><br />🎬LEARN ACCOUNTING BASICS FOR FREE<br />▪ The Full Playlist → <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PL5zKSeS09l339nB6ujJPQ9Rsv99_b-aTb">https://www.youtube.com/playlist?list=PL5zKSeS09l339nB6ujJPQ9Rsv99_b-aTb</a><br />________________________<br />DISCLAIMER <br /><br />Some of the links above are affiliate links, where I earn a small commission if you click on the link and purchase an item. You are not obligated to do so, but it does help fund these videos in hopes of bringing value to you! <br />________________________<br /><br />#accounting #accountingbasics #accountingstuff{% endraw %}
