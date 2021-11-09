@@ -1,0 +1,15 @@
+---
+title: "Under Black Helmet - Impulsive Behavior [MORD043]"
+image: "https:\/\/i.ytimg.com\/vi\/zuwjENIHSks\/hqdefault.jpg"
+vid_id: "zuwjENIHSks"
+categories: "Music"
+tags: ["techno","hate","best"]
+date: "2021-11-09T21:29:27+03:00"
+vid_date: "2017-07-28T16:56:28Z"
+duration: "PT6M20S"
+viewcount: "3956504"
+likeCount: "76400"
+dislikeCount: "802"
+channel: "HATE"
+---
+{% raw %}Support the label, buy it here:<br /><a rel="nofollow" target="blank" href="https://mord.bandcamp.com/album/i-was-laid-back-a-sinner-of-sorts-ep">https://mord.bandcamp.com/album/i-was-laid-back-a-sinner-of-sorts-ep</a><br /><a rel="nofollow" target="blank" href="https://hardwax.com/78270/under-black-helmet/i-was-laid-back-a-sinner-of-sorts/">https://hardwax.com/78270/under-black-helmet/i-was-laid-back-a-sinner-of-sorts/</a><br /><a rel="nofollow" target="blank" href="http://www.juno.co.uk/products/under-black-i-was-laid-back-a/657663-01/">http://www.juno.co.uk/products/under-black-i-was-laid-back-a/657663-01/</a><br /><a rel="nofollow" target="blank" href="https://www.deejay.de/Under_Black_Helmet_I_Was_Laid-back_A_Sinner_Of_Sorts_Ep_MORD043_Vinyl__279725">https://www.deejay.de/Under_Black_Helmet_I_Was_Laid-back_A_Sinner_Of_Sorts_Ep_MORD043_Vinyl__279725</a><br /><a rel="nofollow" target="blank" href="https://www.redeyerecords.co.uk/vinyl/87476-mord043-under-black-helmet-i-was-laid-back-a-sinner-of-sorts-ep">https://www.redeyerecords.co.uk/vinyl/87476-mord043-under-black-helmet-i-was-laid-back-a-sinner-of-sorts-ep</a><br /><a rel="nofollow" target="blank" href="https://clone.nl/digital/item3476010.html">https://clone.nl/digital/item3476010.html</a><br /><a rel="nofollow" target="blank" href="https://boomkat.com/products/i-was-laid-back-a-sinner-of-sorts-ep">https://boomkat.com/products/i-was-laid-back-a-sinner-of-sorts-ep</a><br /><br />Artist: Under Black Helmet<br />Title: I Was Laid​-​Back a Sinner Of Sorts EP<br />Label: MORD<br />Catalogue: MORD043<br />Format: 12&quot; Vinyl, digital<br />Genre: Electronic<br />Style: Techno<br />Release date: 28th July 2017<br /><br />Tracklist:<br />A1:    Jagged<br />A2:    I Was Laid-Back A Sinner Of Sorts<br />B1:    To Wonder On The Moon<br />B2:    Unmask<br /><br />+ Digital only:<br />1 - Impulsive Behavior<br />2 - Who Did This<br /><br />***<br />serpentine butterflies<br />trickle to his chin<br />ceaseless punches<br />fall like moribund rain<br />cracked bones clang<br />like splintered glass<br />again and again<br />***<br /><br /> ___<br />DISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.<br /><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/hatecollective/">https://www.facebook.com/hatecollective/</a><br />or via email: hatemusic1@gmail.com<br /><br />Follow us on SOUNDCLOUD for exclusive podcast series:<br /><a rel="nofollow" target="blank" href="https://soundcloud.com/hate_music">https://soundcloud.com/hate_music</a>{% endraw %}
