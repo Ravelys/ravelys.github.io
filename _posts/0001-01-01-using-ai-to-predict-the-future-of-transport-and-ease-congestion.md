@@ -1,0 +1,15 @@
+---
+title: "Using AI to predict the future of transport and ease congestion"
+image: "https:\/\/i.ytimg.com\/vi\/mE90AnEIJOY\/hqdefault.jpg"
+vid_id: "mE90AnEIJOY"
+categories: "Education"
+tags: ["University","of","Melbourne"]
+date: "2021-11-09T05:45:26+03:00"
+vid_date: "2021-09-16T01:22:17Z"
+duration: "PT2M14S"
+viewcount: "223"
+likeCount: "2"
+dislikeCount: "1"
+channel: "The University of Melbourne"
+---
+{% raw %}Launched 24 May 2021, a world first project seeks to use artificial intelligence (AI) to predict traffic congestion up to three hours ahead, optimising traffic in large cities and improving road safety as part of the University’s smart cities ecosystem.<br /><br />University of Melbourne’s Australian Integrated Multimodal EcoSystem (AIMES) brought together PeakHour Urban Technologies, the Victorian Department of Transport, and Telstra to create a large-scale AI application hosted on Amazon Web Services (AWS), which can predict traffic conditions across Melbourne.<br /><br /><br />Transport engineering expert and AIMES Director Professor Majid Sarvi said the application can also optimise traffic signals for on-road vehicles, freight, and public transport such as buses and trams.<br /><br />“The application observes the nature of traffic and figures out complex traffic patterns across the network through machine learning built into the technology,” Professor Sarvi said.<br /><br />“If we can upscale the application to provide more accurate prediction with machine learning and real-time data, it will soon be possible to substantially reduce delays in hotspots across Melbourne and many locations across the globe.”<br /><br />Industry partner PeakHour Urban Technologies developed the application’s AI core engine which runs on AWS and powers the engine’s predictive capabilities.<br /><br />AWS provides PeakHour Urban Technologies the scalability to ingest, store, and process large amounts of traffic data, the ability to adapt to an ever-changing transport network, and the breadth and depth of cloud services to support PeakHour Urban Technologies with its AI solutions.<br /><br />“Pioneering AI in forecasting real-time traffic lies at the heart of this effort. We are using a multidisciplinary approach, combining deep knowledge of mobility with vast amounts of real-time data analytics to predict and optimise traffic in large cities,” PeakHour Urban Technologies Founding CEO Omid Ejtemai said.<br /><br />The Victorian Department of Transport provided traffic data and insight to support the creation of the application.<br /><br />Victorian Minister for Transport Ben Carroll who attended this morning’s launch said managing a complex transport network presents many real-time challenges.<br /><br />“Not only does this world first technology help Victorians navigate congestion by predicting traffic patterns hours in advance, but it paves the way to the future of connected and autonomous vehicles,”  Minister Carroll said.<br /><br />The project is an ongoing collaboration between University of Melbourne, PeakHour Urban Technologies, the Victorian Department of Transport, and Telstra, leveraging AWS.{% endraw %}
