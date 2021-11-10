@@ -1,0 +1,15 @@
+---
+title: "A Contemporary Home Addition with a Glass Floor"
+image: "https:\/\/i.ytimg.com\/vi\/Q1bdxvIw9LA\/hqdefault.jpg"
+vid_id: "Q1bdxvIw9LA"
+categories: "Howto-Style"
+tags: ["The Design Emotive","Ben Callery Architects","house tour"]
+date: "2021-11-10T09:08:02+03:00"
+vid_date: "2021-02-06T13:00:20Z"
+duration: "PT4M41S"
+viewcount: "102565"
+likeCount: "2391"
+dislikeCount: "17"
+channel: "The Design Emotive"
+---
+{% raw %}This heritage terrace in Melbourne ticks a lot of boxes, but it also came with a lot of challenges and issues. While the home is in a great location and had beautiful heritage detailing, it lacked sunlight, aided by the south-facing rear of the property. This is where Ben Callery Architects came in with a rather unusual solution, have a trafficable glass floor to bring in that natural light through the upper level.<br /><br />While the glass floor is the hero feature, this home has some other great design features, with the smokey mirrored kitchen splashback, warm timbers throughout, plenty of storage and a small courtyard attached to the bathroom, just to name a few.<br /><br />Website article with the floor plan;<br /><a rel="nofollow" target="blank" href="https://thedesignemotive.com/episodes/homes/through-the-looking-glass-ben-callery-architects">https://thedesignemotive.com/episodes/homes/through-the-looking-glass-ben-callery-architects</a><br /><br />Watch more home tours;<br /><a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PL0UfEaat_p1rid0IMMgO3bhrpNVTyCFhl">https://youtube.com/playlist?list=PL0UfEaat_p1rid0IMMgO3bhrpNVTyCFhl</a><br /><br />Ben Callery Architects<br /><a rel="nofollow" target="blank" href="https://www.bencallery.com.au/">https://www.bencallery.com.au/</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/bencalleryarchitects/">https://www.instagram.com/bencalleryarchitects/</a><br /><a rel="nofollow" target="blank" href="https://www.pinterest.com.au/bencallery/_saved/">https://www.pinterest.com.au/bencallery/_saved/</a><br /><br />Join The Design Emotive newsletter to have new episodes delivered straight to your inbox;<br /><a rel="nofollow" target="blank" href="https://www.thedesignemotive.com/mailing-list">https://www.thedesignemotive.com/mailing-list</a><br /><br />The Design Emotive<br /><a rel="nofollow" target="blank" href="https://www.thedesignemotive.com">https://www.thedesignemotive.com</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/thedesignemotive">https://www.instagram.com/thedesignemotive</a><br /><br />For business inquires, advertising, sponsorship, etc, visit <a rel="nofollow" target="blank" href="https://www.thedesignemotive.com/advertise">https://www.thedesignemotive.com/advertise</a><br /><br />Produced by The Design Emotive<br />Filmed and Edited by The Design Emotive / Anthony Richardson<br /><br />Music from YouTube Audio Library<br /><br />#HomeDesign #InteriorDesign #HouseTour #HomeTour{% endraw %}
