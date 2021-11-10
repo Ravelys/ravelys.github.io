@@ -1,0 +1,15 @@
+---
+title: "RINGS OF SATURN - Inadequate (OFFICIAL MUSIC VIDEO)"
+image: "https:\/\/i.ytimg.com\/vi\/Dmu3zjmkJZ0\/hqdefault.jpg"
+vid_id: "Dmu3zjmkJZ0"
+categories: "Music"
+tags: ["RIngs of Saturn","Ultu Ulla","Aliens"]
+date: "2021-11-10T04:46:25+03:00"
+vid_date: "2017-06-02T03:54:09Z"
+duration: "PT4M12S"
+viewcount: "2222435"
+likeCount: "38154"
+dislikeCount: "1436"
+channel: "Nuclear Blast Records"
+---
+{% raw %}RINGS OF SATURN's official music video for 'Inadequate' from the album 'Ultu Ulla' out now! Order at <a rel="nofollow" target="blank" href="http://nuclearblast.com/ros-ultuulla">http://nuclearblast.com/ros-ultuulla</a><br />SUBSCRIBE to Nuclear Blast YouTube: <a rel="nofollow" target="blank" href="http://bit.ly/subs-nb-yt">http://bit.ly/subs-nb-yt</a><br /><br /><br />'Ultu Ulla' is out now via Nuclear Blast Records<br /><br />INADEQUATE LYRICS:<br /><br />A mere pane of glass to separate my reality from your own, future and past playing in perfect harmony.  Gaze upon my interstellar empire, behold my being. This utopia I have constructed is at last complete.  Obliterate this inadequate DNA. Only that which is deemed worthy may stay alive.  A mere pane of glass to separate my reality from your own, future and past playing in perfect harmony. x2  My victory will be absolute.  The only terms of surrender? The living flesh of every man, woman, and child will be reaped as the spoils of war.   Gaze upon my interstellar empire, behold my being. This utopia I have constructed is at last complete.  Obliterate this inadequate DNA. Only that which is deemed worthy may stay alive.  Long dark tendrils, spiraling towards the core of a glowing sphere.  Is this how all physiological beings came to be?  Excruciating pain, as I watch liquids erupt from their eyes and from their orifices.  Obliterate this inadequate DNA. Only that which is deemed worthy may stay alive.<br /><br /><br />ORDER AT<br />Nuclear Blast: <a rel="nofollow" target="blank" href="http://nuclearblast.com/ros-ultuulla">http://nuclearblast.com/ros-ultuulla</a><br />Rings of Saturn: <a rel="nofollow" target="blank" href="https://ringsofsaturn.indiemerch.com/grouping/1321">https://ringsofsaturn.indiemerch.com/grouping/1321</a><br />iTunes: <a rel="nofollow" target="blank" href="http://nblast.de/ROSUltuUllaIT">http://nblast.de/ROSUltuUllaIT</a><br />Amazon: <a rel="nofollow" target="blank" href="http://nblast.de/ROSUltuUllaAMZ">http://nblast.de/ROSUltuUllaAMZ</a><br />Google Play: <a rel="nofollow" target="blank" href="http://nblast.de/ROSUltuUllaGP">http://nblast.de/ROSUltuUllaGP</a><br /><br /><br />FOLLOW RINGS OF SATURN<br />Like: <a rel="nofollow" target="blank" href="https://www.facebook.com/RingsofSaturnband/">https://www.facebook.com/RingsofSaturnband/</a><br />Follow: <a rel="nofollow" target="blank" href="https://twitter.com/RingsofSaturn_">https://twitter.com/RingsofSaturn_</a><br />Spotify: <a rel="nofollow" target="blank" href="https://bit.ly/ROSSpotify">https://bit.ly/ROSSpotify</a>{% endraw %}
