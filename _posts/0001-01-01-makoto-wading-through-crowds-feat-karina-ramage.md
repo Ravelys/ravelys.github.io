@@ -1,0 +1,15 @@
+---
+title: "Makoto - Wading Through Crowds (feat. Karina Ramage)"
+image: "https:\/\/i.ytimg.com\/vi\/pthKsAMfEbM\/hqdefault.jpg"
+vid_id: "pthKsAMfEbM"
+categories: "Music"
+tags: ["makoto","makoto forza","forza"]
+date: "2021-11-10T21:15:58+03:00"
+vid_date: "2018-11-21T14:00:05Z"
+duration: "PT4M36S"
+viewcount: "255591"
+likeCount: "3872"
+dislikeCount: "34"
+channel: "Hospital Records"
+---
+{% raw %}Buy or stream 'Forza Horizon 4 - Hospital Soundtrack' here: <a rel="nofollow" target="blank" href="https://HospitalRecords.lnk.to/ForzaHorizon4yb">https://HospitalRecords.lnk.to/ForzaHorizon4yb</a><br /><br />In collaboration with Microsoft Studios for the release of the critically acclaimed game Forza Horizon 4 for Xbox One and Windows 10 PCs, drum and bass tastemakers Hospital Records is releasing a first ever exclusive and bespoke soundtrack for the game.<br /><br />Featuring as an in-game radio station in a Forza Horizon game for the third time, Hospital Records now also presents 20 exclusive and original tracks produced solely for Forza Horizon 4. The in-game unlockable Hospital Records radio station is hosted by label co-founders Tony Colman (London Elektricity) and Chris Goss, with featured artists including Metrik, Fred V &amp; Grafix, Etherwood, S.P.Y, Logistics, London Elektricity, Kings Of The Rollers and more, available exclusively in the ‘Forza Horizon 4: Hospital Soundtrack’.<br /><br />Forza Horizon 4 is currently available in the Ultimate Edition and will be available worldwide on Oct. 2. The full soundtrack will be available digitally and on streaming platforms on the 26th of October, with 6 tracks being cut especially for a limited edition vinyl release.<br /><br />Follow Makoto:<br /><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/makoto-humanelements">https://soundcloud.com/makoto-humanelements</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/makoto.humanelements">https://www.facebook.com/makoto.humanelements</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/Makoto_Music">https://twitter.com/Makoto_Music</a><br /><br />Follow Hospital Records:<br /><br /><a rel="nofollow" target="blank" href="http://hospitalrecords.com">http://hospitalrecords.com</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/Hospitalrecords">https://www.facebook.com/Hospitalrecords</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/hospitalrecords">http://twitter.com/hospitalrecords</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/hospitalrecords">http://instagram.com/hospitalrecords</a><br /><a rel="nofollow" target="blank" href="http://play.spotify.com/user/hospitalrecords">http://play.spotify.com/user/hospitalrecords</a><br /><a rel="nofollow" target="blank" href="http://www.google.com/+HospitalRecords">http://www.google.com/+HospitalRecords</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/hospitalrecords">https://soundcloud.com/hospitalrecords</a><br /><a rel="nofollow" target="blank" href="http://www.mixcloud.com/hospitalrecords/">http://www.mixcloud.com/hospitalrecords/</a>{% endraw %}
