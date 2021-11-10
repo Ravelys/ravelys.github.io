@@ -1,0 +1,15 @@
+---
+title: "8 MIN SITTING TOO MUCH STRETCH - fix your posture, stand straight & reduce pain \/ Pamela Reif"
+image: "https:\/\/i.ytimg.com\/vi\/12pSXygAzwk\/hqdefault.jpg"
+vid_id: "12pSXygAzwk"
+categories: "Sports"
+tags: ["workout","training","abs"]
+date: "2021-11-10T07:52:55+03:00"
+vid_date: "2021-01-16T05:00:00Z"
+duration: "PT8M33S"
+viewcount: "4860076"
+likeCount: "70224"
+dislikeCount: "530"
+channel: "Pamela Reif"
+---
+{% raw %}Got a round back? With your head sticking forward like a turtle? Does your mom tell you to stand straighter? .. might be the case because your are sitting a lot! ♥︎/ Werbung <br /><br />The typical &quot;desk position&quot; can lead to tightness and pain in the neck, back, shoulders, lower back and hips. <br />This routine focusses on correcting the sitting-position and basically bend our body into the opposite direction. This opens the chest, mobilizes the spine, stretches the shoulders and the back. <br /><br />Let's get a better posture! <br />Standing straight instantly makes you look taller, fitter and more confident as well ♥︎<br /><br />_<br /><br />You can do this after any kind of workout, after sitting at your desk for a long time, in the morning or before you go to bed :) there is no &quot;wrong&quot; timing here. <br /><br />No Equipment needed. Just prepare a soft surface like a yoga mat or towel :) .. and a wall haha. <br /><br />__<br /><br />▸ You can find free WORKOUT SCHEDULES on my Instagram Channel. I saved them in my highlights. <br />➞ Instagram <a rel="nofollow" target="blank" href="http://www.instagram.com/pamela_rf/">http://www.instagram.com/pamela_rf/</a><br /><br />▸  my Pam App ♥︎ Free workout plans, recipes &amp; tips: <br />Apple: <a rel="nofollow" target="blank" href="https://apps.apple.com/app/pam/id1540604002">https://apps.apple.com/app/pam/id1540604002</a><br />Android: <a rel="nofollow" target="blank" href="https://play.google.com/store/apps/details?id=com.openreply.pam">https://play.google.com/store/apps/details?id=com.openreply.pam</a><br /><br /> ▸ use #PamelaReif if you want me to see your workout pics and videos! <br /><br />__<br /><br />▸ You can always find ALL SONGS in my workout playlist. I update it weekly &amp; it's available on Spotify, Apple Music, etc. ♥︎<br /><a rel="nofollow" target="blank" href="http://wmg.click/GetActive">http://wmg.click/GetActive</a><br /><br />1. Ed Sheeran - Afterglow 0:00 - 3:02<br />2. Katie Turner - One Day 3:03 - 5:44<br />3. Hayley Williams - Find Me Here 5:45 - 8:33<br /><br />__<br />Business Contact: pamela_reif@icloud.com <br /><br /><br />Disclaimer:<br />When joining me for this workout video, you need to take some precautions as your health and safety is the most important. To avoid any injury or harm, you need to check your health with your doctor before exercising. By performing any fitness exercises without supervision like with this video, you are performing them at your own risk. See a fitness professional to give you advice on your exercise form. Pamela Reif will not be responsible or liable for any injury or harm you sustain as a result of this video.{% endraw %}
