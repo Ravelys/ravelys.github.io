@@ -1,0 +1,15 @@
+---
+title: "The Correspondents - Fear & Delight (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/ABS-mlep5rY\/hqdefault.jpg"
+vid_id: "ABS-mlep5rY"
+categories: "Music"
+tags: ["The Correspondents","The","Correspondents"]
+date: "2021-11-11T12:08:49+03:00"
+vid_date: "2013-11-07T19:41:10Z"
+duration: "PT3M21S"
+viewcount: "13728829"
+likeCount: "202215"
+dislikeCount: "4423"
+channel: "The Correspondents"
+---
+{% raw %}Fear &amp; Delight is the single from The Correspondents' debut album, 'Puppet Loosely Strung' <br />iTunes: <a rel="nofollow" target="blank" href="http://tinyurl.com/pq798f2">http://tinyurl.com/pq798f2</a><br />CD: <a rel="nofollow" target="blank" href="http://tinyurl.com/ncprrvb">http://tinyurl.com/ncprrvb</a><br /><br />See how this video was made at... <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=mzVWUYjGoDg">https://www.youtube.com/watch?v=mzVWUYjGoDg</a><br /><br />Hope you enjoy! <br /><br />Director: Naren Wilks<br /><a rel="nofollow" target="blank" href="http://www.naren.co.uk">http://www.naren.co.uk</a><br /><br />LYRICS:<br /><br />CHORUS<br />Fear and delight <br />all the way through the night,<br />With a little daring do,<br />I'll fall in love with you.<br /><br />INTRO<br />Oh but I know you'll cause me grief,<br />close friends of mine are in disbelief, <br />as they can see what's underneath<br />fluttering lashes, red lips and pearly white teeth. <br /><br /><br />1.<br />I don't show it but I quiver whenever you come near,<br />and I cannot decipher between the thrill and the fear<br />I want to stop but I like too much to let it stop here:<br />it's wrong but i want you tonight.<br /><br />It was not my own volition but I fell in deep<br />by running the distance I'd been advised to keep<br />I trot to the wolf as a doting sheep;<br />it's wrong but i want you tonight.<br /><br />2.<br />I'm the little boy who's gonna be getting fingers burnt, <br />but I can see this lesson's gotta gotta gotta be learnt,<br />they say that boys have been destroyed but they weren't;<br />it's wrong but I want you tonight. <br /><br />In any case my friends it's too late, <br />like a moth to light like a beast to bate <br />and I know the black widow eat it's mate;<br />it's wrong but I want you tonight.<br /><br />3.<br />I'm an innocent being seduced by your charms, <br />I'm a young boy tickled to death in your arms, <br />your kisses taste like bitter almonds;<br />it's wrong but i want you tonight.  <br /><br />You're an addiction pulling me to a grave end, <br />you're an enemy who I'm keen to defend,<br />(so) down the black hole of my lust I descend;<br />it's wrong but I want you tonight.<br /><br />4.<br />Why is that I'm keen to be devoured by you,<br />when there's the option of a love affair that's pure and true,<br />I always choose the dungeon over the sea view;<br />it's wrong but I want you tonight.<br /><br />When I'm out the other side I say never again,<br />but when I'm out and about I want to find the next vixen<br />someone who'll be sure to drive me round the bend;<br />it's wrong but I want you tonight.{% endraw %}
