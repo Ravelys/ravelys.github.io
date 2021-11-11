@@ -1,0 +1,15 @@
+---
+title: "Mr. Vegas - Identify My Love (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/XlM2n9R02IM\/hqdefault.jpg"
+vid_id: "XlM2n9R02IM"
+categories: "Music"
+tags: ["Mr.","Vegas","Identify"]
+date: "2021-11-12T02:20:40+03:00"
+vid_date: "2016-03-01T17:04:38Z"
+duration: "PT3M22S"
+viewcount: "894077"
+likeCount: "9957"
+dislikeCount: "222"
+channel: "MrVegasVEVO"
+---
+{% raw %}Kingston, Jamaica based international artiste Mr. Vegas single &quot;Identify My Love&quot; official video. Get this song on iTunes: <a rel="nofollow" target="blank" href="https://itunes.apple.com/album/identify-single/id1083526028">https://itunes.apple.com/album/identify-single/id1083526028</a><br />Subscribe to see new Mr. Vegas first: <a rel="nofollow" target="blank" href="http://bit.ly/1SsumVv">http://bit.ly/1SsumVv</a><br /><br />Follow Mr. Vegas On:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/MrVegasMusic">https://www.facebook.com/MrVegasMusic</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/MrVegasMusic">https://twitter.com/MrVegasMusic</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/mrvegasmusic/">https://www.instagram.com/mrvegasmusic/</a><br />SoundCloud: <a rel="nofollow" target="blank" href="https://soundcloud.com/mrvegasmusic">https://soundcloud.com/mrvegasmusic</a><br />Mr. Vegas Music YouTube: <a rel="nofollow" target="blank" href="http://bit.ly/1NlBuyu">http://bit.ly/1NlBuyu</a><br />Website: <a rel="nofollow" target="blank" href="http://mrvegasmusic.com/">http://mrvegasmusic.com/</a><br /><br />Listen to Mr. Vegas On:<br />iTunes: <a rel="nofollow" target="blank" href="http://apple.co/1TgIroZ">http://apple.co/1TgIroZ</a><br />Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/1NEhcXp">http://bit.ly/1NEhcXp</a><br />Amazon mp3: <a rel="nofollow" target="blank" href="http://amzn.to/1MZUYcU">http://amzn.to/1MZUYcU</a><br /><br />Watch More Mr. Vegas:<br />Mr. Vegas Popular Videos: <a rel="nofollow" target="blank" href="http://bit.ly/1SstYX7">http://bit.ly/1SstYX7</a><br />Mr. Vegas Music Videos: <a rel="nofollow" target="blank" href="http://bit.ly/1TgIKAp">http://bit.ly/1TgIKAp</a><br />Mr. Vegas Live Performances: <a rel="nofollow" target="blank" href="http://bit.ly/1Nlp49X">http://bit.ly/1Nlp49X</a><br />Mr. Vegas Singles: <a rel="nofollow" target="blank" href="http://bit.ly/1OAtdu1">http://bit.ly/1OAtdu1</a><br />Mr. Vegas Corner: <a rel="nofollow" target="blank" href="http://bit.ly/1lqARNy">http://bit.ly/1lqARNy</a><br />Mr. Vegas Extras: <a rel="nofollow" target="blank" href="http://bit.ly/1ToQkth">http://bit.ly/1ToQkth</a><br />Mr. Vegas Dance Videos: <a rel="nofollow" target="blank" href="http://bit.ly/1LLXK3r">http://bit.ly/1LLXK3r</a><br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/GlAwf9">http://vevo.ly/GlAwf9</a><br />Best of MrVegas: <a rel="nofollow" target="blank" href="https://goo.gl/TEV4qf">https://goo.gl/TEV4qf</a><br />Subscribe here: <a rel="nofollow" target="blank" href="https://goo.gl/2RKddW">https://goo.gl/2RKddW</a>{% endraw %}
