@@ -1,0 +1,15 @@
+---
+title: "How to use Microsoft Access - Beginner Tutorial"
+image: "https:\/\/i.ytimg.com\/vi\/ubmwp8kbfPc\/hqdefault.jpg"
+vid_id: "ubmwp8kbfPc"
+categories: "Science-Technology"
+tags: ["kevin stratvert","access","microsoft access"]
+date: "2021-11-11T09:19:07+03:00"
+vid_date: "2021-02-25T08:00:32Z"
+duration: "PT31M7S"
+viewcount: "600168"
+likeCount: "16874"
+dislikeCount: "164"
+channel: "Kevin Stratvert"
+---
+{% raw %}In this step-by-step tutorial, learn how to use Microsoft Access. We walk what Access is for, why you should use it over a spreadsheet, how to create tables, how to add a form, how to run SQL queries, and how to create a report. By the end of this video, you'll understand the fundamentals of working with databases in Access.<br /><br />👋 Additional resources:<br />- My Access database: <a rel="nofollow" target="blank" href="https://1drv.ms/u/s!AmxrofZZlZ-whKx-OHtH9VLpU4PdJw?e=0aRP1p">https://1drv.ms/u/s!AmxrofZZlZ-whKx-OHtH9VLpU4PdJw?e=0aRP1p</a><br /><br />⌚ Timestamps<br />0:00 Introduction<br />1:01 Advantages of a database over Excel<br />2:36 Access alternatives<br />3:17 Overview of tutorial structure<br />4:10 Access start page<br />5:04 Create blank database<br />5:22 Tables, fields &amp; records<br />14:36 Calculated field &amp; expression builder<br />15:50 Sample order data<br />16:50 Opening &amp; closing windows<br />17:16 Relationships<br />19:01 Import data sources<br />19:25 Forms<br />22:12 Queries<br />27:51 Reports<br />30:02 Save Database<br />30:25 Wrap up<br /><br />📃 Watch related playlists and videos<br />- Playlist with all my videos on Access: <a rel="nofollow" target="blank" href="https://youtube.com/playlist?list=PLlKpQrBME6xJ4Mxv00syl8iOSgL-GVLMG">https://youtube.com/playlist?list=PLlKpQrBME6xJ4Mxv00syl8iOSgL-GVLMG</a><br /><br />🚩 Connect with me on social:<br />- LinkedIn: <a rel="nofollow" target="blank" href="https://www.linkedin.com/in/kevinstratvert/">https://www.linkedin.com/in/kevinstratvert/</a><br />- Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/kevstrat">https://twitter.com/kevstrat</a><br />- Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/Kevin-Stratvert-101912218227818">https://www.facebook.com/Kevin-Stratvert-101912218227818</a><br /><br />🔔 Subscribe to my YouTube channel<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/user/kevlers?sub_confirmation=1">https://www.youtube.com/user/kevlers?sub_confirmation=1</a><br /><br />🎬 Want to watch again? Navigate back to my YouTube channel quickly<br /><a rel="nofollow" target="blank" href="http://www.kevinstratvert.com">http://www.kevinstratvert.com</a><br /><br />🛍 Support me with your Amazon purchases: <a rel="nofollow" target="blank" href="https://amzn.to/3kCP2yz">https://amzn.to/3kCP2yz</a><br /><br />⚖ As full disclosure, I use affiliate links above. Purchasing through these links gives me a small commission to support videos on this channel -- the price to you is the same.<br /><br />#stratvert{% endraw %}
