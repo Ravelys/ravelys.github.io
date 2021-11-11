@@ -1,0 +1,15 @@
+---
+title: "Nightwing's Secret Family History Revealed"
+image: "https:\/\/i.ytimg.com\/vi\/HgFr9I5Rilc\/hqdefault.jpg"
+vid_id: "HgFr9I5Rilc"
+categories: "Entertainment"
+tags: ["NIghtwing","dick grayson","greyson"]
+date: "2021-11-11T14:15:49+03:00"
+vid_date: "2021-11-10T17:45:00Z"
+duration: "PT13M29S"
+viewcount: "45367"
+likeCount: "3277"
+dislikeCount: "19"
+channel: "Variant Comics"
+---
+{% raw %}Today on Variant, we return to Tom Taylor's Nightwing title with issues 82 and 83, where we see Nightwing go head-to-head with Blockbuster, and learn about the secret history of Nightwing's family!<br /><br />Recommended Episode:<br />Episode 85 | Eternals Spoiler Review - <a rel="nofollow" target="blank" href="https://youtu.be/GbVloIMRzN4">https://youtu.be/GbVloIMRzN4</a><br />Nightwing Becomes A Billionaire - <a rel="nofollow" target="blank" href="https://youtu.be/HqQ8xMmjWEQ">https://youtu.be/HqQ8xMmjWEQ</a><br />Nightwing Faces Off With New Villain Heartless (Issues 80-81) - <a rel="nofollow" target="blank" href="https://youtu.be/ddDApwY6XRg">https://youtu.be/ddDApwY6XRg</a><br /><br />Subscribe to the Podcast YouTube Channel:<br /><a rel="nofollow" target="blank" href="http://bit.ly/VariantPodcast">http://bit.ly/VariantPodcast</a><br /><br />Listen to the Podcast on:<br />iTunes - <a rel="nofollow" target="blank" href="http://bit.ly/VariantThePodcast">http://bit.ly/VariantThePodcast</a><br />Spotify - <a rel="nofollow" target="blank" href="https://spoti.fi/2JBCTcV">https://spoti.fi/2JBCTcV</a><br />Google Play - <a rel="nofollow" target="blank" href="http://bit.ly/2BZysEt">http://bit.ly/2BZysEt</a><br />Stitcher - <a rel="nofollow" target="blank" href="http://bit.ly/2N0fTGh">http://bit.ly/2N0fTGh</a><br /><br />For More Variant Content, Click Here: <a rel="nofollow" target="blank" href="http://www.variantcomics.com">http://www.variantcomics.com</a><br /><br />- Follow Us on Social Media -<br /><br />Variant:<br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/variantcomics">https://twitter.com/variantcomics</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/Variant_official/">https://www.instagram.com/Variant_official/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/variantcomics/">https://www.facebook.com/variantcomics/</a><br /><br />Arris:<br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/arris_quinones">http://twitter.com/arris_quinones</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/arrisq">http://instagram.com/arrisq</a><br /><br />Tim (Producer)<br />Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/tim_connolly">http://twitter.com/tim_connolly</a><br />Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/tim_connolly">http://instagram.com/tim_connolly</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/thetimconnolly/">https://www.facebook.com/thetimconnolly/</a><br /><br />#Nightwing #Superman #Batman{% endraw %}
