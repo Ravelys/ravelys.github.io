@@ -1,0 +1,15 @@
+---
+title: "I Have No Idea What This Guitar Is...But I Can't Stop Playing It!"
+image: "https:\/\/i.ytimg.com\/vi\/f67iQ8_oNGk\/hqdefault.jpg"
+vid_id: "f67iQ8_oNGk"
+categories: "Music"
+tags: ["gibson les paul","epiphone les paul","gibson es-335"]
+date: "2021-11-12T09:28:35+03:00"
+vid_date: "2021-06-05T00:31:13Z"
+duration: "PT19M56S"
+viewcount: "310137"
+likeCount: "7908"
+dislikeCount: "100"
+channel: "Darrell Braun Guitar"
+---
+{% raw %}Ever heard of an EART Guitar? Me neither!<br />If you enjoyed this video, be sure to like and subscribe :)<br /><br />EART GUITARS: <a rel="nofollow" target="blank" href="https://eartguitar.com/">https://eartguitar.com/</a><br /><br />DARRELL'S GUITARS &amp; GEAR LIST!<br /><a rel="nofollow" target="blank" href="https://imp.i114863.net/vM09j">https://imp.i114863.net/vM09j</a><br /><br />T-SHIRT STORE:<br /><a rel="nofollow" target="blank" href="https://teespring.com/stores/darrell-braun-guitar">https://teespring.com/stores/darrell-braun-guitar</a><br /><br />TAB STORE:<br />Songs, Lesson Worksheets, and Guitar Techniques!<br /><a rel="nofollow" target="blank" href="https://www.etsy.com/ca/shop/DarrellBraunGuitar?ref=l2-shopheader-name">https://www.etsy.com/ca/shop/DarrellBraunGuitar?ref=l2-shopheader-name</a><br /><br />MY AMPS:<br />Mesa Boogie - <a rel="nofollow" target="blank" href="https://imp.i114863.net/xdVB1">https://imp.i114863.net/xdVB1</a><br />MARSHALL DS100HR: <a rel="nofollow" target="blank" href="https://imp.i114863.net/ZdQNJ1">https://imp.i114863.net/ZdQNJ1</a><br />H&amp;K Grand Meister Deluxe 40 - <a rel="nofollow" target="blank" href="https://imp.i114863.net/Na1gV">https://imp.i114863.net/Na1gV</a><br />Orange Rockerverb 50 - <a rel="nofollow" target="blank" href="https://imp.i114863.net/94MWE">https://imp.i114863.net/94MWE</a><br />Mezzabarba Trinity - <a rel="nofollow" target="blank" href="https://www.overdrivedistribution.com/">https://www.overdrivedistribution.com/</a><br /><br />PATREON:<br />Become a Patron to be eligible for exclusive Gear Give-Aways and Lesson TABs!<br /><a rel="nofollow" target="blank" href="https://www.patreon.com/DarrellBraunGuitar">https://www.patreon.com/DarrellBraunGuitar</a><br /><br />ALBUM:<br />iTunes: <br /><a rel="nofollow" target="blank" href="https://itunes.apple.com/ca/album/celtic-classics-and-instrumental-hymns/1368819279">https://itunes.apple.com/ca/album/celtic-classics-and-instrumental-hymns/1368819279</a><br /><br />OTHER FAVOURITE GEAR:<br />*Obsidian Wire Solderless Kits - <a rel="nofollow" target="blank" href="http://obsidianwire.com?aff=5">http://obsidianwire.com?aff=5</a><br />*Guitar Build Kits - <a rel="nofollow" target="blank" href="https://www.solomusicgear.com?ref=1931">https://www.solomusicgear.com?ref=1931</a> <br />*Favourite Fret File - <a rel="nofollow" target="blank" href="https://www.solomusicgear.com/product/hosco-tl-fe-fret-dressing-files/?ref=1931">https://www.solomusicgear.com/product/hosco-tl-fe-fret-dressing-files/?ref=1931</a><br />*Links to gear in the video description may contain affiliate links<br /><br />SOLI DEO GLORIA!{% endraw %}
