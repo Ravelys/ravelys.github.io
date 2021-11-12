@@ -1,0 +1,15 @@
+---
+title: "9 Most Disturbing And Haunting Twitter Posts Ever"
+image: "https:\/\/i.ytimg.com\/vi\/pnr-64CkjaM\/hqdefault.jpg"
+vid_id: "pnr-64CkjaM"
+categories: "Entertainment"
+tags: ["Lutch Green","Most Disturbing And Haunting Twitter Posts Ever","Twitter Posts"]
+date: "2021-11-12T04:29:59+03:00"
+vid_date: "2017-04-26T13:52:09Z"
+duration: "PT11M19S"
+viewcount: "5665303"
+likeCount: "28701"
+dislikeCount: "4357"
+channel: "Lutch Green"
+---
+{% raw %}Visit my Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/LutchGreen">https://www.patreon.com/LutchGreen</a><br /><br />Here are some of the most disturbing, bizarre, weird, strange, creepy and scary Twitter Posts Ever.<br /><br />09. Felina - Maria Del Rosario Fuentes Rubio, one of the Most HAUNTING Last Photos posted on Twitter<br />08. The Last Haunting Photo of Faye Burdett - The saddest story that has been widely shared on social media including Facebook and Twitter.<br />07. Drunk Girl - The Worst Jokes Ever posted on Twitter<br />06. Unfriended - <br />05. Biologists on Twitter - Weird and Bizarre post on Twitter<br />04. Stolen Girlfriend - One of The Most disturbing viral Selfie ever posted on Twitter, Facebook, Reddit and Imgur<br />03. The Cheating Boyfriend - The Worst Way to Find Out Your Boyfriend Is Cheating On You<br />02. Zachary Penton - <br />01. Trevius Williams -<br />*********************************************************************<br />Music Used: <br /><br />- Intro: ♫ &quot;Bent and Broken&quot; Kevin MacLeod (incompetech.com) <br />Licensed under Creative Commons: By Attribution 3.0<br /><a rel="nofollow" target="blank" href="http://creativecommons.org/licenses/b...">http://creativecommons.org/licenses/b...</a><br /><br />- ♫ Dark Mind by Gunnar Johnsen<br /><br />- ♫ Bad News by Jon Bjork<br /><br />- ♫ The Pressure 14 byAnders Ekengren<br /><br />- ♫ Aftermath 5 - Mystery, Dark - Composer: Håkan Eriksson<br /><br />- ♫ Daybreak 1 - Build, Mysterious - Composer: Håkan Eriksson<br />*********************************************************************<br />Interesting videos you can also watch on this channel.<br /><br />20 Disturbing, Creepy Photos From The Past That Will Haunt Your Dreams <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=CTi_3...">https://www.youtube.com/watch?v=CTi_3...</a><br /><br />5 Creepiest Unexplained Mysteries Of All Time<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=WvrVj...">https://www.youtube.com/watch?v=WvrVj...</a><br /><br />5 Women You Won't Believe Actually Exist<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=4mqCq...">https://www.youtube.com/watch?v=4mqCq...</a><br /><br />10 Most Disturbing Pictures That Shook The World<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=0wp5D...">https://www.youtube.com/watch?v=0wp5D...</a><br /><br />Top 10 Horror Movies 2014<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=csBn_R40AFE&amp;t=1s">https://www.youtube.com/watch?v=csBn_R40AFE&amp;t=1s</a>{% endraw %}
