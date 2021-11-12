@@ -1,0 +1,15 @@
+---
+title: "Ali Gatie - Stay Up (Official Music Lyric Video)"
+image: "https:\/\/i.ytimg.com\/vi\/3L1hZrHHV5k\/hqdefault.jpg"
+vid_id: "3L1hZrHHV5k"
+categories: "Music"
+tags: ["Ali Gatie","AliGatie","Moonlight"]
+date: "2021-11-12T23:51:28+03:00"
+vid_date: "2021-03-26T04:00:00Z"
+duration: "PT3M26S"
+viewcount: "456327"
+likeCount: "19193"
+dislikeCount: "157"
+channel: "Ali Gatie"
+---
+{% raw %}New EP 'The Idea of Her' available now - <a rel="nofollow" target="blank" href="http://aligatie.lnk.to/theideaofher">http://aligatie.lnk.to/theideaofher</a><br />Watch Ali Gatie perform ’The Idea Of Her’ EP live-streaming on Moment House, April 8th &amp; 9th: <a rel="nofollow" target="blank" href="https://www.momenthouse.com/aligatie">https://www.momenthouse.com/aligatie</a><br /><br />Official Lyrics:<br /><br />Stay Up<br /><br />Hook<br /><br />Stay Up! Stay Up! Stay Up! Yeah <br /><br />Don’t close your eyes without me  <br />Stay up! Stay up! Stay up! Yeah <br /><br />I been waiting for this all day <br />Stay up! Stay up! Stay up! Yeah <br /><br />There’s no need to dream about me <br />Stay up! Stay Up! Stay up! Yeah <br /><br />I’m comin, I’m on my way <br /><br /><br />Verse 1<br /><br />It’s three o’clock in the morning <br />Tell me what you thinking about it?<br />When I’m without you I feel lonely <br />Tell me can I come come around?<br /><br /><br />You know exactly what I want right now <br />Send the text and I’ll pull up right now<br />You not sleeping till the sun come out <br />We gon stay up<br /><br />Hook<br /><br />Stay Up! Stay Up! Stay Up! Yeah <br /><br />Don’t close your eyes without me  <br />Stay up! Stay up! Stay up! Yeah <br /><br />I been waiting for this all day <br />Stay up! Stay up! Stay up! Yeah <br /><br />There’s no need to dream about me <br />Stay up! Stay Up! Stay up! Yeah <br /><br />I’m comin, I’m on my way <br /><br /><br />Verse 2<br /><br />It’s four o’clock in the morning <br />When we gon figure this out?<br />You know I’m thinking about you only <br />Tell me I can come around?<br /><br />You know exactly what I want right now <br />Send the text and I’ll pull up right now<br />You not sleeping till the sun come out <br />We gonna stay up<br /><br /><br />Hook<br /><br />Stay Up! Stay Up! Stay Up! Yeah <br /><br />Don’t close your eyes without me  <br />Stay up! Stay up! Stay up! Yeah <br /><br />I been waiting for this all day <br />Stay up! Stay up! Stay up! Yeah <br /><br />There’s no need to dream about me <br />Stay up! Stay Up! Stay up! Yeah <br /><br />I’m comin, I’m on my way <br /><br />Outro <br /><br />I’m on my way yeah <br />I’m on my way <br />I’m on my way yeah <br />I’m on my way <br />I’m on my way yeah <br />I’m on my way <br />I’m on my way yeah <br />I’m on my way yeah <br />I’m on my way yeah <br />I’m on my way <br />I’m on my way yeah <br />I’m on my way <br />I’m on my way yeah <br />I’m on my way <br />I’m on my way yeah<br />I’m on my way yeah<br /><br />Stay up <br />Stay up <br />Stay up <br /><br />Stay up <br />Stay up <br />Stay up yeah<br /><br />Stay up <br />Stay up <br />Stay up <br /><br />Stay up<br />Stay up <br />Stay up girl{% endraw %}
