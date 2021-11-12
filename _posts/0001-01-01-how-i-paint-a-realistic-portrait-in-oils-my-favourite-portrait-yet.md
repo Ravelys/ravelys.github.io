@@ -1,0 +1,15 @@
+---
+title: "How I PAINT a REALISTIC PORTRAIT in OILS - My favourite portrait yet!"
+image: "https:\/\/i.ytimg.com\/vi\/mKKb_OCWFzQ\/hqdefault.jpg"
+vid_id: "mKKb_OCWFzQ"
+categories: "Education"
+tags: ["oil painting tutorial","full painting tutorial","oil painting demonstration"]
+date: "2021-11-12T14:30:34+03:00"
+vid_date: "2021-11-10T02:11:54Z"
+duration: "PT20M1S"
+viewcount: "16103"
+likeCount: "1638"
+dislikeCount: "14"
+channel: "Andrew Tischler"
+---
+{% raw %}Take your Portrait Paintings even further! <br /><a rel="nofollow" target="blank" href="https://www.andrewtischler.com/portrait-painting-workshop/">https://www.andrewtischler.com/portrait-painting-workshop/</a><br />Subscribe for 15% off! <a rel="nofollow" target="blank" href="https://www.andrewtischler.com/subscribe">https://www.andrewtischler.com/subscribe</a><br /><br />Get Tuhoe's Book!<br /><a rel="nofollow" target="blank" href="https://www.wildsidepublishing.com/our-authors/tuhoe-isaac">https://www.wildsidepublishing.com/our-authors/tuhoe-isaac</a><br /><br />Take a ride with Tuhoe, check out this AWESOME film:<br /><a rel="nofollow" target="blank" href="https://www.joy.inc/work/tuhoe?director=Craig&amp;format=all">https://www.joy.inc/work/tuhoe?director=Craig&amp;format=all</a><br />Craig Henderson, made for TBN<br /><br />&quot;Day Trip&quot;, starring Tuhoe:<br /><a rel="nofollow" target="blank" href="https://www.nzonscreen.com/title/day-trip-2010">https://www.nzonscreen.com/title/day-trip-2010</a><br /><br />PATREON! Get EXCLUSIVE CONTENT - Critiques, Q+A's, Livestreams + MORE! Only $5 a Month! <a rel="nofollow" target="blank" href="https://www.patreon.com/AndrewTischlerArtist">https://www.patreon.com/AndrewTischlerArtist</a><br /><br />The Oil paints used in this demonstration:<br /><a rel="nofollow" target="blank" href="https://www.naturalpigments.com/oil-painting/paints.html">https://www.naturalpigments.com/oil-painting/paints.html</a><br /><br />The OIL PAINT I use (usually):<br /><a rel="nofollow" target="blank" href="https://blueridgeoilpaint.com/product-category/oil-colors/sets">https://blueridgeoilpaint.com/product-category/oil-colors/sets</a><br /><br />The PAINT BRUSHES I use:<br /><a rel="nofollow" target="blank" href="https://www.rosemaryandco.com/index.php?route=product/search&amp;filter_name=tischler">https://www.rosemaryandco.com/index.php?route=product/search&amp;filter_name=tischler</a><br /><br />SUBSCRIBE THROUGH MY WEBSITE: Be the first to view my YouTube tutorials - 24 hours before they are LIVE and stay in touch! Stay up-to-date with the latest NEWS news from the studio, exclusive DEALS and MORE! Go to: <a rel="nofollow" target="blank" href="https://www.andrewtischler.com/subscribe">https://www.andrewtischler.com/subscribe</a><br /><br />Connect with me:<br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/andrew_tischler_artist">https://www.instagram.com/andrew_tischler_artist</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/AndrewTischlerArtist">https://www.facebook.com/AndrewTischlerArtist</a>{% endraw %}
