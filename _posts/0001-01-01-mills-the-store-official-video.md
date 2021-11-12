@@ -1,0 +1,15 @@
+---
+title: "Mills - The Store (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/vHsxPFMErhM\/hqdefault.jpg"
+vid_id: "vHsxPFMErhM"
+categories: "Music"
+tags: ["mills","mills the store","mills new song"]
+date: "2021-11-13T01:37:26+03:00"
+vid_date: "2021-08-18T17:00:38Z"
+duration: "PT3M22S"
+viewcount: "495580"
+likeCount: "4123"
+dislikeCount: "7"
+channel: "MillsVEVO"
+---
+{% raw %}My new song &quot;The Store&quot; is out now!<br />Listen Here: <a rel="nofollow" target="blank" href="https://smarturl.it/xTheStore">https://smarturl.it/xTheStore</a><br /><br />Subscribe to my channel :) <a rel="nofollow" target="blank" href="https://smarturl.it/MillsytSubscribe">https://smarturl.it/MillsytSubscribe</a> <br /><br />Follow:<br />IG: <a rel="nofollow" target="blank" href="https://www.instagram.com/stillmills">https://www.instagram.com/stillmills</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/stillmills">https://twitter.com/stillmills</a><br />TikTok: <a rel="nofollow" target="blank" href="https://www.tiktok.com/@itsjustmills">https://www.tiktok.com/@itsjustmills</a> <br />FB: <a rel="nofollow" target="blank" href="https://www.facebook.com/stillmills">https://www.facebook.com/stillmills</a><br />Text Me: +1 (270) 449-0442)<br />____<br /><br />&quot;The Store&quot;<br /><br />It was early afternoon in the middle of June<br />I did the job, had some time to kill<br />So I rolled a doob and cranked some tunes outside the store on down the hill<br />It was 100 degrees, I couldn’t take the heat what I saw walking to my car<br />And with legs as long as life itself, I knew she didn’t need me to get far<br />But she came anyway<br /><br />Oh she knows my name, she said it twice<br />And all of a sudden we’re faking love tonight<br />She knows my name, she knows my name<br />And it’s driving me insane the way she moves in the light<br />We’re kissing and touching, yeah we’re faking love alright<br />Me insane, me insane<br /><br />Some weeks have passed and I need a laugh<br />So I went on down to the bar<br />I called a friend and she walked in<br />That same girl from before<br />With her big blue eyes she said it all<br />Can we go fake it again?<br />I said come on baby, I’m a magic man,<br />Can’t go around doin the same old tricks<br /><br />Oh she knows my name, she said it twice<br />And all of a sudden we’re faking love tonight<br />She knows my name, she knows my name<br />And it’s driving me insane the way she moves in the light<br />We’re kissing and touching, yeah we’re faking love alright<br />Me insane, me insane<br /><br />And it’s driving me insane<br />The way she moves in the lights<br />We’re kissing and touching<br />Yeah we’re faking love alright<br />Me insane, me insane<br /><br />Oh she knows my name, she said it twice<br />And all of a sudden, yeah we’re faking love tonight<br />She knows my name, she knows my name<br />And it’s driving me insane the way she moves in the light<br />We’re kissing and touching, yeah we’re faking love alright<br />Me insane, me insane<br /><br />#mills #thestore #pop{% endraw %}
