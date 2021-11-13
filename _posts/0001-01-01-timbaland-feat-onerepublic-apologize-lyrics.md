@@ -1,0 +1,15 @@
+---
+title: "Timbaland feat. OneRepublic - Apologize (Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/rF5oITEq43Q\/hqdefault.jpg"
+vid_id: "rF5oITEq43Q"
+categories: "Music"
+tags: ["timbaland","onerepublic","apologize"]
+date: "2021-11-13T19:53:08+03:00"
+vid_date: "2020-07-18T13:35:24Z"
+duration: "PT3M6S"
+viewcount: "3340201"
+likeCount: "40579"
+dislikeCount: "666"
+channel: "AweLyrics"
+---
+{% raw %}Thank you for watching!!<br />Support me by subscribing and don't forget to hit that like button!!<br />🔔 Turn on notifications to stay updated with new uploads!!<br /><br />Follow:<br />👉 AweLyrics:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/awelyrics13">https://www.facebook.com/awelyrics13</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/awelyrics13/">https://www.instagram.com/awelyrics13/</a><br /><br />👉 Timbaland:<br />Facebook: www.facebook.com/Timbaland<br />Twitter: twitter.com/Timbaland<br />Instagram: www.instagram.com/timbaland<br />SoundCloud: <a rel="nofollow" target="blank" href="https://soundcloud.com/timbaland">https://soundcloud.com/timbaland</a><br />Website: www.timbalandmusic.com/<br /><br />👉 OneRepublic:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/OneRepublic">https://www.facebook.com/OneRepublic</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/OneRepublic">https://twitter.com/OneRepublic</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/onerepublic">https://www.instagram.com/onerepublic</a><br />YouTube: <a rel="nofollow" target="blank" href="https://www.youtube.com/OneRepublic">https://www.youtube.com/OneRepublic</a><br /><br />🎤 Lyrics: Timbaland feat. OneRepublic - Apologize 🎵<br /><br />I'm holding on your rope, got me ten feet off the ground<br />And I'm hearing what you say, but I just can't make a sound<br />You tell me that you need me then you go and cut me down, but wait<br />You tell me that you're sorry, didn't think I'd turn around, and say (that)<br /><br />It's too late to apologize (it's too late).<br />I said, &quot;It's too late to apologize (it's too late).<br /><br />I'd take another chance, take a fall, take a shot for you<br />And I need you like a heart needs a beat, but it's nothin' new (yeah)<br />I loved you with a fire red, now it's turning blue, and you say,<br />Sorry, like the angel heaven let me think was you, but I'm afraid...<br /><br />It's too late to apologize (it's too late).<br />I said, &quot;It's too late to apologize (it's too late).<br /><br />It's too late to apologize (it's too late).<br />I said, &quot;It's too late to apologize (it's too late).<br /><br />I said, &quot;It's too late to apologize,&quot; yeah (too late)<br />I said, &quot;It's too late to apologize,&quot; yeah (too late)<br /><br />I'm holdin' on your rope, got me ten feet off the ground<br /><br />Wallpaper: <a rel="nofollow" target="blank" href="https://unsplash.com/">https://unsplash.com/</a><br /><br />#Timbaland #OneRepublic #Apologize #Awelyrics #apologizelyrics #music #lyrics #songs{% endraw %}
