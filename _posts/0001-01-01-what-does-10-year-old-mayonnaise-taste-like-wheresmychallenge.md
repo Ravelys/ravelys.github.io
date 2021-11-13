@@ -1,0 +1,15 @@
+---
+title: "What Does 10 Year Old Mayonnaise Taste Like? | WheresMyChallenge"
+image: "https:\/\/i.ytimg.com\/vi\/-FEH-QaRdrM\/hqdefault.jpg"
+vid_id: "-FEH-QaRdrM"
+categories: "Entertainment"
+tags: ["What Does 10 Year Old Mayonnaise Taste Like?","Expired","Out Of Date"]
+date: "2021-11-13T04:34:41+03:00"
+vid_date: "2019-02-15T21:00:00Z"
+duration: "PT8M3S"
+viewcount: "81142"
+likeCount: "2488"
+dislikeCount: "62"
+channel: "WheresMyChallenge"
+---
+{% raw %}We were sent some expired Mayonnaise.. this Branstons Mayo has been expired for 10 years. How will it taste?<br />Subscribe To Be Notified When We've Done Something Stupid: <a rel="nofollow" target="blank" href="http://bit.ly/SBEYs2">http://bit.ly/SBEYs2</a><br />(Hit that 'Like' button... it's FREE)<br /><br />We have a 10 year old out of date Branstons Mayonnaise that was sent to us a very long time ago. We decided it would be the perfect time to give this expired packet of joy a taste test. How will it taste?<br /><br />***************** Playlists *****************<br /><br />Checkout some of our best Playlists:<br />Matt VS Pauly Challenges: <a rel="nofollow" target="blank" href="https://bit.ly/2Sn0ArR">https://bit.ly/2Sn0ArR</a> <br />Beer Pong Playlist: <a rel="nofollow" target="blank" href="https://bit.ly/2Au36G0">https://bit.ly/2Au36G0</a><br />Extreme Eating Challenges: <a rel="nofollow" target="blank" href="https://bit.ly/2yylrAo">https://bit.ly/2yylrAo</a><br /><br />***************** SOCIAL NETWORKS *****************<br /><br />▶ WEBSITE: <a rel="nofollow" target="blank" href="http://www.dudewheresmychallenge.com">http://www.dudewheresmychallenge.com</a><br />▶ FACEBOOK: <a rel="nofollow" target="blank" href="http://www.facebook.com/wheresmychallenge">http://www.facebook.com/wheresmychallenge</a><br />▶ TWITTER: <a rel="nofollow" target="blank" href="http://www.twitter.com/dwmchallenge">http://www.twitter.com/dwmchallenge</a><br />▶ INSTAGRAM: <a rel="nofollow" target="blank" href="http://www.instagram.com/dudewheresmychallenge">http://www.instagram.com/dudewheresmychallenge</a><br />▶ VLOG: <a rel="nofollow" target="blank" href="http://www.youtube.com/wheresmyvlog">http://www.youtube.com/wheresmyvlog</a><br /><br />***************** PERSONAL SOCIAL NETWORKS *****************<br /><br />Paul:<br />▶ PERSONAL YOUTUBE: <a rel="nofollow" target="blank" href="http://www.youtube.com/zoneawesome">http://www.youtube.com/zoneawesome</a><br />▶ TWITTER: <a rel="nofollow" target="blank" href="http://www.twitter.com/PaulDWMC">http://www.twitter.com/PaulDWMC</a><br />▶ INSTAGRAM: <a rel="nofollow" target="blank" href="http://www.instagram.com/PaulyParker">http://www.instagram.com/PaulyParker</a><br /><br />Matt:<br />▶ PERSONAL YOUTUBE: <a rel="nofollow" target="blank" href="http://www.youtube.com/mattdwmc">http://www.youtube.com/mattdwmc</a><br />▶ TWITTER: <a rel="nofollow" target="blank" href="http://www.twitter.com/MattDWMC">http://www.twitter.com/MattDWMC</a><br />▶ INSTAGRAM: <a rel="nofollow" target="blank" href="http://www.instagram.com/MattDWMC">http://www.instagram.com/MattDWMC</a><br /><br />#Challenge #WheresMyChallenge{% endraw %}
