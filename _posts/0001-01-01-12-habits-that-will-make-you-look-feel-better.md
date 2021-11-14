@@ -1,0 +1,15 @@
+---
+title: "12 Habits That WILL Make You Look & Feel BETTER!"
+image: "https:\/\/i.ytimg.com\/vi\/w_wbCFtJ62Y\/hqdefault.jpg"
+vid_id: "w_wbCFtJ62Y"
+categories: "Howto-Style"
+tags: ["healthy habits","best healthy habits for men","healthy daily routine"]
+date: "2021-11-14T03:51:49+03:00"
+vid_date: "2021-11-13T14:17:02Z"
+duration: "PT9M52S"
+viewcount: "47885"
+likeCount: "5054"
+dislikeCount: "74"
+channel: "alpha m."
+---
+{% raw %}HURRY!!! <a rel="nofollow" target="blank" href="https://tiege.com/startnow">https://tiege.com/startnow</a> Use Code: 50PERCENT for 50% OFF (First 500 ONLY)!<br />This is the BEST deal with have EVER Done... START NOW! <a rel="nofollow" target="blank" href="https://tiege.com/startnow">https://tiege.com/startnow</a> (Used Code: 50PERCENT)<br /><br />My Favorite  Sunglasses: ENEMY <a rel="nofollow" target="blank" href="https://enemy.com">https://enemy.com</a> (use code ALPHAM10 for 10% Off)<br />Best Hair Product in The UNIVERSE! <a rel="nofollow" target="blank" href="http://peteandpedro.com">http://peteandpedro.com</a> Use Code: ALPHA10X for 10% OFF Your Order!   <br />Hair Product &amp; Grooming Advice: <a rel="nofollow" target="blank" href="https://peteandpedro.com/pages/advice">https://peteandpedro.com/pages/advice</a><br /><br />Best Skin Care In The UNIVERSE! <a rel="nofollow" target="blank" href="https://tiege.com/alpham">https://tiege.com/alpham</a><br /><br />Custom Men's Ring (Like I wear) <a rel="nofollow" target="blank" href="https://enemy.com/products/ring">https://enemy.com/products/ring</a><br /><br />All promotion and advertising inquiries: Terry@MENfluential.com<br /><br />Instagram:  <a rel="nofollow" target="blank" href="https://www.instagram.com/aaronmarino/">https://www.instagram.com/aaronmarino/</a><br /><br />Alpha M. App: <a rel="nofollow" target="blank" href="http://www.alphamapp.com/">http://www.alphamapp.com/</a><br /><br />FaceBook: <a rel="nofollow" target="blank" href="https://www.facebook.com/IAmAlphaM">https://www.facebook.com/IAmAlphaM</a><br /><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/IAmAlphaM">https://twitter.com/IAmAlphaM</a><br /><br />Instagram:  <a rel="nofollow" target="blank" href="https://www.instagram.com/aaronmarino/">https://www.instagram.com/aaronmarino/</a><br /><br />All Things ALPHA M. <a rel="nofollow" target="blank" href="https://www.alpham.com">https://www.alpham.com</a><br />The Stubble Buddy: <a rel="nofollow" target="blank" href="https://thestubblebuddy.com">https://thestubblebuddy.com</a><br />ENEMY Eyewear: <a rel="nofollow" target="blank" href="https://enemy.com">https://enemy.com</a><br />Pete &amp; Pedro: <a rel="nofollow" target="blank" href="https://www.peteandpedro.com">https://www.peteandpedro.com</a><br />MENfluential Media: <a rel="nofollow" target="blank" href="https://www.menfluential.com">https://www.menfluential.com</a><br />Tiege Hanley: <a rel="nofollow" target="blank" href="https://tiege.com/alpham">https://tiege.com/alpham</a><br />Salon Posta: <a rel="nofollow" target="blank" href="https://salonposta.com">https://salonposta.com</a>{% endraw %}
