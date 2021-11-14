@@ -1,0 +1,15 @@
+---
+title: "Deepcentral - Dependent (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/zrmqRhzWE94\/hqdefault.jpg"
+vid_id: "zrmqRhzWE94"
+categories: "Music"
+tags: ["deepcentral","deep central","dependent"]
+date: "2021-11-14T22:28:07+03:00"
+vid_date: "2017-01-30T14:00:03Z"
+duration: "PT3M39S"
+viewcount: "5674314"
+likeCount: "43664"
+dislikeCount: "1165"
+channel: "MediaPro Music"
+---
+{% raw %}▶HIT BUZZ collection <a rel="nofollow" target="blank" href="http://goo.gl/dBfTVf">http://goo.gl/dBfTVf</a><br />Download/Stream link: <a rel="nofollow" target="blank" href="https://MediaPro.lnk.to/Deepcentral-DependentYT">https://MediaPro.lnk.to/Deepcentral-DependentYT</a><br />Subscribe to MediaPro Music: <a rel="nofollow" target="blank" href="http://www.youtube.com/subscription_center?add_user=MediaProMusic">http://www.youtube.com/subscription_center?add_user=MediaProMusic</a><br /><br />Deep Central<br /><a rel="nofollow" target="blank" href="https://facebook.com/DeepcentralOfficial/">https://facebook.com/DeepcentralOfficial/</a><br /><a rel="nofollow" target="blank" href="https://instagram.com/deepcentralmusic">https://instagram.com/deepcentralmusic</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/DeepcentralLive">https://twitter.com/DeepcentralLive</a><br /><br />Find us on the web:<br /><a rel="nofollow" target="blank" href="http://www.mediapromusic.ro">http://www.mediapromusic.ro</a><br /><a rel="nofollow" target="blank" href="http://www.facebook.com/MediaProMusicRomania">http://www.facebook.com/MediaProMusicRomania</a><br /><a rel="nofollow" target="blank" href="http://www.youtube.com/MediaProMusic">http://www.youtube.com/MediaProMusic</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/MediaProMusicBooking">https://www.facebook.com/MediaProMusicBooking</a><br /><br />Licensing: contact@mediapromusic.ro<br /><br />Deepcentral - Dependent (Official Video)<br />Muzica si text: George Calin, Doru Todorut<br />Video: Evil Twin Studio<br />Regie: Paul &quot;Spike&quot;<br />Actori: Simona Maican, Daniel Achim<br /><br />MediaPro Music is a Romanian record label, part of the Universal Music Group, that manages a portfolio of over 50 local artists. <br />We gathered and successfully promote some of the most representative Romanian artists: Alexandra Stan, Loredana, Holograf, Andra, Dan Balan, Alina Eremia, Dorian Popa, Stefan Banica, Lora, Vunk, AMI, Nicole Cherry and many more.<br />MediaPro Music is a multimedia entertainment company which will supply the best audio and visual entertainment to the public.<br />Our Mission is to discover and promote artists at their best potential and develop the entertainment market across the world through the production and promotion of high quality musical products. <br /><br />(C) &amp; (P) Universal Music Romania 2017<br />All rights reserved. Unauthorized reproduction is a violation of applicable laws<br />In order to avoid copyright infringement, please, do not upload this song on your channel{% endraw %}
