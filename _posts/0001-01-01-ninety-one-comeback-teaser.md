@@ -1,0 +1,15 @@
+---
+title: "NINETY ONE - COMEBACK TEASER"
+image: "https:\/\/i.ytimg.com\/vi\/pvVPNXLUqn4\/hqdefault.jpg"
+vid_id: "pvVPNXLUqn4"
+categories: "Music"
+tags: ["ninetyone","91","A.Z"]
+date: "2021-11-15T07:58:04+03:00"
+vid_date: "2021-11-13T18:02:34Z"
+duration: "PT40S"
+viewcount: "59774"
+likeCount: "8017"
+dislikeCount: "38"
+channel: "JUZ ENTERTAINMENT"
+---
+{% raw %}Ninety One. Comeback Teaser 2021.<br /><br />CG supervisor: F1KE @f1ke_montana, Adil Kazkenov @capekere<br />Creative producer: Yerbolat Bedelkhan @yb.juzent<br />3d character model: Danagul Ungarbayeva @daring.wof<br />Wear sketch: Bibotta @bibottq<br />3d wear model: Nelkaramel @nelkaramel<br />Concept art: Diana Tyo @di_jpg<br />Post-production: F1KE, Adil Kazkenov<br />Music: Ninety One<br />Sound producer: S.A. @iamjustsa<br /><br />========================<br /><br />Listen to Ninety One:<br />• Apple Music - <a rel="nofollow" target="blank" href="https://music.apple.com/kz/artist/ninety-one/515898220">https://music.apple.com/kz/artist/ninety-one/515898220</a><br />• Spotify - <a rel="nofollow" target="blank" href="https://open.spotify.com/artist/4ZhOoRZ0JE0enmVPAjkEU2?si=HaCxelaoTzWFTd_lUOEqYw&amp;dl_branch=1">https://open.spotify.com/artist/4ZhOoRZ0JE0enmVPAjkEU2?si=HaCxelaoTzWFTd_lUOEqYw&amp;dl_branch=1</a><br />• Yandex Music - <a rel="nofollow" target="blank" href="https://music.yandex.ru/artist/5774701">https://music.yandex.ru/artist/5774701</a><br />• VK - <a rel="nofollow" target="blank" href="https://vk.com/artist/ninetyone">https://vk.com/artist/ninetyone</a><br />• Boom - <a rel="nofollow" target="blank" href="https://share.boom.ru/artist/13112180?share_auth=01501c3261cabe2c58162d80b7">https://share.boom.ru/artist/13112180?share_auth=01501c3261cabe2c58162d80b7</a><br />• Deezer - <a rel="nofollow" target="blank" href="https://www.deezer.com/en/artist/4441465">https://www.deezer.com/en/artist/4441465</a><br /><br />========================<br /><br />Follow Us:<br />• VK: <a rel="nofollow" target="blank" href="https://vk.com/91ninetyone">https://vk.com/91ninetyone</a> <br />• Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/NinetyOne_Real">https://twitter.com/NinetyOne_Real</a><br />• TikTok: <a rel="nofollow" target="blank" href="https://vm.tiktok.com/ZSQFUxPr/">https://vm.tiktok.com/ZSQFUxPr/</a><br />• Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/OfficialNinetyOne">https://www.facebook.com/OfficialNinetyOne</a><br />• Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/ninetyone">https://www.instagram.com/ninetyone</a> <br />ACE - <a rel="nofollow" target="blank" href="https://www.instagram.com/acetagrammy">https://www.instagram.com/acetagrammy</a> <br />ALEM - <a rel="nofollow" target="blank" href="https://www.instagram.com/xcialem">https://www.instagram.com/xcialem</a> <br />BALA - <a rel="nofollow" target="blank" href="https://www.instagram.com/bqlq.qi">https://www.instagram.com/bqlq.qi</a> <br />ZAQ - <a rel="nofollow" target="blank" href="https://www.instagram.com/zaqcount">https://www.instagram.com/zaqcount</a>{% endraw %}
