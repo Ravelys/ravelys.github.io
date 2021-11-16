@@ -1,0 +1,15 @@
+---
+title: "Foo Fighters - These Days (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/YDVAQI-4lto\/hqdefault.jpg"
+vid_id: "YDVAQI-4lto"
+categories: "Music"
+tags: ["in your honour","FooFightersVevo","foo fighter live"]
+date: "2021-11-16T07:26:13+03:00"
+vid_date: "2012-02-02T08:00:00Z"
+duration: "PT5M23S"
+viewcount: "58909502"
+likeCount: "222483"
+dislikeCount: "6339"
+channel: "foofightersVEVO"
+---
+{% raw %}Foo Fighters' official music video for 'These Days'. Click to listen to Foo Fighters on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/FooFSpotify?IQid=FooFTD">http://smarturl.it/FooFSpotify?IQid=FooFTD</a><br /><br />As featured on Wasting Light. Click to buy the track or album via iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/FFWLiTunes?IQid=FooFTD">http://smarturl.it/FFWLiTunes?IQid=FooFTD</a><br />Google Play: <a rel="nofollow" target="blank" href="http://smarturl.it/FFTDplay?IQid=FooFTD">http://smarturl.it/FFTDplay?IQid=FooFTD</a><br />Amazon: <a rel="nofollow" target="blank" href="http://smarturl.it/FFWLAmz?IQid=FooFTD">http://smarturl.it/FFWLAmz?IQid=FooFTD</a><br /><br />More from Foo Fighters<br />Learn To Fly: <a rel="nofollow" target="blank" href="https://youtu.be/1VQ_3sBZEm0">https://youtu.be/1VQ_3sBZEm0</a><br />The Pretender: <a rel="nofollow" target="blank" href="https://youtu.be/SBjQ9tuuTJQ">https://youtu.be/SBjQ9tuuTJQ</a><br />Everlong: <a rel="nofollow" target="blank" href="https://youtu.be/eBG7P-K-r1Y">https://youtu.be/eBG7P-K-r1Y</a><br /><br />Follow Foo Fighters<br />Website: <a rel="nofollow" target="blank" href="http://foofighters.com/">http://foofighters.com/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/foofighters">https://www.facebook.com/foofighters</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/foofighters">https://twitter.com/foofighters</a><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/foofighters/">https://instagram.com/foofighters/</a><br /><br />Subscribe to Foo Fighters on YouTube: <a rel="nofollow" target="blank" href="http://smarturl.it/FooFSub?IQid=FooFTD">http://smarturl.it/FooFSub?IQid=FooFTD</a><br /><br />More great Alternative 00s videos here: <a rel="nofollow" target="blank" href="http://smarturl.it/Alternative00?IQid=FooFTD">http://smarturl.it/Alternative00?IQid=FooFTD</a><br /><br />---------<br /><br />Lyrics:<br /><br />One of these days the ground will drop out from beneath your feet<br />One of these days your heart will stop and play its final beat<br />One of these days the clocks will stop and time won't mean a thing<br />One of these days their bombs will drop and silence everything<br /><br />But it's alright<br />Yeah it's alright<br />I said it's alright<br /><br />Easy for you to say<br />Your heart has never been broken<br />Your pride has never been stolen<br />Not yet not yet<br /><br />One of these days<br />I bet your heart'll be broken<br />I bet your pride'll be stolen<br />I bet I bet I bet I bet<br />One of these days<br />One of these days{% endraw %}
