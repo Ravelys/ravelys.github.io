@@ -1,0 +1,15 @@
+---
+title: "Shielding | Properties of Matter | Chemistry | FuseSchool"
+image: "https:\/\/i.ytimg.com\/vi\/6fGzxmpl1WU\/hqdefault.jpg"
+vid_id: "6fGzxmpl1WU"
+categories: "Education"
+tags: ["GCSE chemistry revision","fuseschool global education","shielding"]
+date: "2021-11-17T01:07:31+03:00"
+vid_date: "2015-12-07T12:15:45Z"
+duration: "PT3M43S"
+viewcount: "79559"
+likeCount: "1391"
+dislikeCount: "40"
+channel: "FuseSchool - Global Education"
+---
+{% raw %}Shielding | Properties of Matter | Chemistry | FuseSchool<br /><br />Learn the basics about shielding as a part of the atomic structure, within the overall properties of matter topic.<br /><br />SUBSCRIBE to the FuseSchool YouTube channel for many more educational videos. Our teachers and animators come together to make fun &amp; easy-to-understand videos in Chemistry, Biology, Physics, Maths &amp; ICT.<br /><br />VISIT us at www.fuseschool.org, where all of our videos are carefully organised into topics and specific orders, and to see what else we have on offer. Comment, like and share with other learners. You can both ask and answer questions, and teachers will get back to you.<br /><br />These videos can be used in a flipped classroom model or as a revision aid. <br /><br />Find all of our Chemistry videos here: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLW0gavSzhMlReKGMVfUt6YuNQsO0bqSMV">https://www.youtube.com/playlist?list=PLW0gavSzhMlReKGMVfUt6YuNQsO0bqSMV</a><br /><br />Find all of our Biology videos here: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLW0gavSzhMlQYSpKryVcEr3ERup5SxHl0">https://www.youtube.com/playlist?list=PLW0gavSzhMlQYSpKryVcEr3ERup5SxHl0</a><br /><br />Find all of our Physics videos here: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLW0gavSzhMlTWm6Sr5uN2Uv5TXHiZUq8b">https://www.youtube.com/playlist?list=PLW0gavSzhMlTWm6Sr5uN2Uv5TXHiZUq8b</a><br /><br />Find all of our Maths videos here: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLW0gavSzhMlTKBNbHH5u1SNnsrOaacKLu">https://www.youtube.com/playlist?list=PLW0gavSzhMlTKBNbHH5u1SNnsrOaacKLu</a><br /><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/fuseschool/">https://www.instagram.com/fuseschool/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/fuseschool/">https://www.facebook.com/fuseschool/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/fuseSchool">https://twitter.com/fuseSchool</a><br /><br />Access a deeper Learning Experience in the FuseSchool platform and app: www.fuseschool.org<br />Follow us: <a rel="nofollow" target="blank" href="http://www.youtube.com/fuseschool">http://www.youtube.com/fuseschool</a><br />Befriend us: <a rel="nofollow" target="blank" href="http://www.facebook.com/fuseschool">http://www.facebook.com/fuseschool</a><br /><br />This is an Open Educational Resource. If you would like to use the video, please contact us: info@fuseschool.org{% endraw %}
