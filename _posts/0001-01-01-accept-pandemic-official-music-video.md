@@ -1,0 +1,15 @@
+---
+title: "ACCEPT - Pandemic (OFFICIAL MUSIC VIDEO)"
+image: "https:\/\/i.ytimg.com\/vi\/ZJxS1Bpnkl4\/hqdefault.jpg"
+vid_id: "ZJxS1Bpnkl4"
+categories: "Music"
+tags: ["Accept (Musical Group)","blind rage","Wolf Hoffmann (Musical Artist)"]
+date: "2021-11-16T07:31:33+03:00"
+vid_date: "2011-06-01T23:18:46Z"
+duration: "PT6M1S"
+viewcount: "3858591"
+likeCount: "26682"
+dislikeCount: "708"
+channel: "Nuclear Blast Records"
+---
+{% raw %}Official music video for Accept &quot;Pandemic&quot; from Blood Of The Nations<br />SUBSCRIBE to ACCEPT YouTube: <a rel="nofollow" target="blank" href="http://bit.ly/subs-acept-yt">http://bit.ly/subs-acept-yt</a><br />SUBSCRIBE to Nuclear Blast YouTube: <a rel="nofollow" target="blank" href="http://bit.ly/subs-nb-yt">http://bit.ly/subs-nb-yt</a><br /><br />From the ACCEPT album, Blood Of The Nations, out on Nuclear Blast Records!<br /><br />ORDER HERE:<br />Nuclear Blast: <a rel="nofollow" target="blank" href="https://www.nuclearblast.de/accept">https://www.nuclearblast.de/accept</a><br />Spotify: <a rel="nofollow" target="blank" href="http://nblast.de/AcceptSP">http://nblast.de/AcceptSP</a><br />Apple Music: <a rel="nofollow" target="blank" href="http://nblast.de/AcceptAM">http://nblast.de/AcceptAM</a><br />iTunes: <a rel="nofollow" target="blank" href="http://nblast.de/AcceptIT">http://nblast.de/AcceptIT</a><br />Amazon MP3: <a rel="nofollow" target="blank" href="http://nblast.de/AcceptAMP3">http://nblast.de/AcceptAMP3</a><br />Google Play: <a rel="nofollow" target="blank" href="http://nblast.de/AcceptGP">http://nblast.de/AcceptGP</a><br />Deezer: <a rel="nofollow" target="blank" href="http://nblast.de/AcceptDEE">http://nblast.de/AcceptDEE</a><br /><br />FOLLOW ACCEPT: <br />Like: <a rel="nofollow" target="blank" href="https://www.facebook.com/accepttheband">https://www.facebook.com/accepttheband</a> <br />Watch: <a rel="nofollow" target="blank" href="http://bit.ly/subs-acept-yt">http://bit.ly/subs-acept-yt</a> <br />Follow: <a rel="nofollow" target="blank" href="https://twitter.com/accepttheband">https://twitter.com/accepttheband</a> <br /><a rel="nofollow" target="blank" href="https://www.instagram.com/acceptworldwide/">https://www.instagram.com/acceptworldwide/</a><br /><a rel="nofollow" target="blank" href="https://vk.com/acceptofficial">https://vk.com/acceptofficial</a><br /><br /><br /><br />Di­rect­ed by Dave Blass<br />Cin­e­matog­ra­pher Joe Guidrey<br />Pro­duc­er Doug Jef­fery<br />Lor­ri Moore-​ UPM<br />Bri­an Thomp­son-​ Pro­duc­er<br />Bob Maf­fei-​ Au­dio Tech<br />Pro­duc­tion De­sign: Greg Aronowitz<br />Steve Grest-​ Art Di­rec­tor<br />Reed Blake-​ Be­hind the Scenes Di­rec­tor<br />Flip Fil­lipel­li-​ Cam­era Op­er­a­tor<br />Jere­my Slate-​ PA<br />Drum Tech -​ Rob Evans<br />Steve Gibbs-​ Stills<br />Art Lynch-​ Stills Spe­cial thanks to<br />Mike Mas­saro<br />Rik­ki Rock­et, &amp; Bob­by &quot;Tan­go&quot; Gibb (drums)<br />Mike De­loren­zo &amp; San­ta Clari­ta Stu­dios (lights)<br />Bret Stew­art &amp; Pow­er in Mo­tion (gen­er­a­tors)<br />Dan Barone-​​ Edit­ing, VFX<br />Black­hawk Pro­duc­tions VFX{% endraw %}
