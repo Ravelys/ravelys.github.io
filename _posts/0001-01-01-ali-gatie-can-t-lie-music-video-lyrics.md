@@ -1,0 +1,15 @@
+---
+title: "Ali Gatie - Can't Lie (Music Video Lyrics)"
+image: "https:\/\/i.ytimg.com\/vi\/l6Y94-67tTQ\/hqdefault.jpg"
+vid_id: "l6Y94-67tTQ"
+categories: "Music"
+tags: ["cant lie","ali gatie","i cant lie"]
+date: "2021-11-18T07:03:12+03:00"
+vid_date: "2018-10-14T14:10:13Z"
+duration: "PT3M6S"
+viewcount: "231013"
+likeCount: "5204"
+dislikeCount: "61"
+channel: "Opulent Music"
+---
+{% raw %}Ali Gatie - Can't Lie (Music Video Lyrics):<br /><br />If life was a movie<br />I’d be your favourite actor<br />You’d be my favourite scene<br />You’d be my favourite chapter<br /><br />My eyes never left the screen<br />Since I saw you, the one that I been after<br />I could watch you over and over<br />Filled my life w laughter<br /><br />And if life was a book<br />You’d be my favourite author<br />I’d read yours words night and day<br />And I would never bother<br />To leave<br />You the only book I would read<br /><br />And If life was a song<br />This would be my favourite song<br />I wrote this when ur gone<br />Wonder when your coming home<br />Or if your coming home<br />You been gone hella long<br />And I been all alone<br /><br />You used to be comfort zone<br />Used to be my one and only<br />One I wanna hold<br />Remember you would wanna hold me<br />Falling in my arms<br /><br />So I fell for you<br />Foolish move that I fell for you<br /><br />Cuz Baby yeah I need you<br />I would never leave you<br />Wonder how you left me<br />You left me feeling empty<br /><br />And I can’t lie you’re see through<br />I cannot believe you<br />Even tho you did me wrong<br />For some reason I need you<br /><br />And I can’t lie miss you<br />I forgot them issues<br />How could you forget me<br />When I could t forget you<br /><br />And baby yeah your special<br />I couldn’t forget you<br />Even when i tried baby<br />I couldn’t forget you<br />X2<br /><br />Girl I want you<br />I need you back<br />Girl love you<br />Even if you don’t love me back<br /><br />X2<br /><br />And If life was a song<br />This would be my favourite song<br />I wrote this when ur gone<br />Wonder when your coming home<br />Or if your coming home<br />You been gone hella long<br />And I been all alone<br /><br />You used to be comfort zone<br />Used to be my one and only<br />One I wanna hold<br />Remember you would wanna hold me<br />Falling in my arms<br /><br />So I fell for you<br />Foolish move that I fell for you<br /><br />If life was a …<br />-----<br />Make sure to share if you can relate to this song.<br />Subscribe for more!<br /><br />This channel does not make or intend on making any profit now or in the future!<br />All the ads in this channel are ads from the original content creator, we do not enable ads.<br />So the ads support the work of the song/video creator and not us!<br />The songs/videos posted on this channel are to promote the work of the music/video producer for copyright issues send us a email!<br />We do not advertise any of the songs or videos posted in this channel, they are all randomly picked.{% endraw %}
