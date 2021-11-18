@@ -1,0 +1,15 @@
+---
+title: "SPIDER-MAN: NO WAY HOME - Official Trailer (HD)"
+image: "https:\/\/i.ytimg.com\/vi\/JfVOs4VSpmA\/hqdefault.jpg"
+vid_id: "JfVOs4VSpmA"
+categories: "Entertainment"
+tags: ["spider-man","spider-man no way home","spider-man no way home hd"]
+date: "2021-11-18T23:48:20+03:00"
+vid_date: "2021-11-17T01:30:05Z"
+duration: "PT3M4S"
+viewcount: "35047440"
+likeCount: "2230121"
+dislikeCount: "14003"
+channel: "Sony Pictures Entertainment"
+---
+{% raw %}We started getting visitors… from every universe. Watch the official trailer for #SpiderManNoWayHome, exclusively in movie theaters December 17. <br />Tickets on sale C̶y̶b̶e̶r̶ Spider-Monday, November 29.<br /><br />Subscribe to the Spider-Man Movie YouTube Channel for more exclusive content: <a rel="nofollow" target="blank" href="http://bit.ly/SpiderManSubscribe">http://bit.ly/SpiderManSubscribe</a><br /><br />Visit our site: <br /><a rel="nofollow" target="blank" href="https://www.SpiderManNoWayHome.Movie">https://www.SpiderManNoWayHome.Movie</a><br /><br />Follow Us on Social:<br /><a rel="nofollow" target="blank" href="https://www.facebook.com/SpiderManMovie">https://www.facebook.com/SpiderManMovie</a><br /><a rel="nofollow" target="blank" href="https://www.instagram.com/SpiderManMovie">https://www.instagram.com/SpiderManMovie</a><br /><a rel="nofollow" target="blank" href="https://www.twitter.com/SpiderManMovie">https://www.twitter.com/SpiderManMovie</a><br /><a rel="nofollow" target="blank" href="https://www.tiktok.com/@SpiderManMovie">https://www.tiktok.com/@SpiderManMovie</a> <br /><a rel="nofollow" target="blank" href="https://www.youtube.com/SpiderMan">https://www.youtube.com/SpiderMan</a><br /><br />For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero's identity is revealed, bringing his Super Hero responsibilities into conflict with his normal life and putting those he cares about most at risk. When he enlists Doctor Strange’s help to restore his secret, the spell tears a hole in their world, releasing the most powerful villains who’ve ever fought a Spider-Man in any universe. Now, Peter will have to overcome his greatest challenge yet, which will not only forever alter his own future but the future of the Multiverse.<br /><br />Directed by: <br />Jon Watts<br /><br />Written by: <br />Chris McKenna &amp; Erik Sommers<br /><br />Based on the MARVEL Comic Book by: <br />Stan Lee and Steve Ditko<br /><br />Produced by:<br />Kevin Feige<br />Amy Pascal<br /><br />​​Executive Producers: <br />Louis D'Esposito<br />Victoria Alonso<br />JoAnn Perritano<br />Rachel O’Connor<br />Avi Arad<br />Matt Tolmach<br /> <br />Cast:<br />Tom Holland<br />Zendaya<br />Benedict Cumberbatch<br />Jacob Batalon<br />Jon Favreau<br />with Marisa Tomei<br /> <br />#OfficialTrailer #Sony #Trailer #SonyPictures #SpiderMan #NoWayHome #DoctorStrange #TomHolland #Zendaya #BenedictCumberbatch #JacobBatalon #JonFavreau #MarisaTomei #JonWatts #Marvel #MarvelStudios #GreenGoblin #DocOck #DoctorOctopus #Electro{% endraw %}
