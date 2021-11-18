@@ -1,0 +1,15 @@
+---
+title: "Mount Olympus - Approaching Nirvana"
+image: "https:\/\/i.ytimg.com\/vi\/fe2s-7IYg-0\/hqdefault.jpg"
+vid_id: "fe2s-7IYg-0"
+categories: "Music"
+tags: ["approaching nirvana","approachnirvana","not even once"]
+date: "2021-11-18T11:01:09+03:00"
+vid_date: "2013-07-21T18:07:38Z"
+duration: "PT5M9S"
+viewcount: "5505653"
+likeCount: "102558"
+dislikeCount: "925"
+channel: "ApproachingNirvana"
+---
+{% raw %}Like my stuff? Consider Patreon: <a rel="nofollow" target="blank" href="https://www.patreon.com/approachingnirvana">https://www.patreon.com/approachingnirvana</a><br />► Download/Stream : <a rel="nofollow" target="blank" href="https://fanlink.to/MtOlympus">https://fanlink.to/MtOlympus</a> ◄<br />--- LISTEN to the NEW 2017 version: <a rel="nofollow" target="blank" href="https://youtu.be/RZQzKgDzXk0">https://youtu.be/RZQzKgDzXk0</a><br />↳ Merch ⇢ <a rel="nofollow" target="blank" href="http://approachingnirvana.com/store">http://approachingnirvana.com/store</a><br /><br />Join the Community: <a rel="nofollow" target="blank" href="http://discord.gg/approachingnirvana">http://discord.gg/approachingnirvana</a><br /><br />Copyright Free Music Playlist: <a rel="nofollow" target="blank" href="https://www.youtube.com/playlist?list=PLPZappeJ88mHP1LTCOqkxdOjROMaL-hJL">https://www.youtube.com/playlist?list=PLPZappeJ88mHP1LTCOqkxdOjROMaL-hJL</a><br /><br />You are free to use this track in videos or streams, even commercially. Just credit Approaching Nirvana and place links to buy the song when you do!! Thanks :)<br />More details on using Approaching Nirvana music: <a rel="nofollow" target="blank" href="http://approachingnirvana.com/license">http://approachingnirvana.com/license</a><br /><br />Artwork by Red Minus: <a rel="nofollow" target="blank" href="http://www.youtube.com/user/redminus">http://www.youtube.com/user/redminus</a><br /><br />∇ Approaching Nirvana ∇<br />● Spotify: <a rel="nofollow" target="blank" href="http://bit.ly/AN_Spotify">http://bit.ly/AN_Spotify</a><br />● Facebook: <a rel="nofollow" target="blank" href="http://facebook.com/approachingnirvana">http://facebook.com/approachingnirvana</a><br />● Twitter: <a rel="nofollow" target="blank" href="http://twitter.com/approachnirvana">http://twitter.com/approachnirvana</a><br />● Soundcloud: <a rel="nofollow" target="blank" href="http://soundcloud.com/approachingnirvana">http://soundcloud.com/approachingnirvana</a><br />● YouTube: <a rel="nofollow" target="blank" href="http://youtube.com/approachingnirvana">http://youtube.com/approachingnirvana</a><br />● Instagram: <a rel="nofollow" target="blank" href="http://instagram.com/approachnirvana">http://instagram.com/approachnirvana</a><br />● Livestreams: <a rel="nofollow" target="blank" href="http://twitch.tv/approachingnirvana">http://twitch.tv/approachingnirvana</a><br />● Website: <a rel="nofollow" target="blank" href="http://approachingnirvana.com/">http://approachingnirvana.com/</a><br /><br />©2013 Approaching Nirvana - Self-Released{% endraw %}
