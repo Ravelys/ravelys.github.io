@@ -1,0 +1,15 @@
+---
+title: "Biden Should Be Worried About the Midterms (Here's Why) - TLDR News"
+image: "https:\/\/i.ytimg.com\/vi\/WiSbPSMxzis\/hqdefault.jpg"
+vid_id: "WiSbPSMxzis"
+categories: "People-Blogs"
+tags: ["Biden","Should","Worried"]
+date: "2021-11-18T19:34:48+03:00"
+vid_date: "2021-11-18T15:17:20Z"
+duration: "PT8M33S"
+viewcount: "4723"
+likeCount: "414"
+dislikeCount: "7"
+channel: "TLDR News US"
+---
+{% raw %}MOVEMBER: <a rel="nofollow" target="blank" href="https://movember.com/t/team-tldr?mc=1">https://movember.com/t/team-tldr?mc=1</a><br /><br />Two notable elections happened earlier this month (New Jersey and Virginia's gubernatorial elections) - while neither are particularly important positions, many saw them as bellwethers for the midterm elections taking place in 2022. So today we're going to look at the trends and discuss why Biden ought to be worried about the Democrat's chances in the 2022 midterms.<br /><br />Follow TLDR on Facebook: <a rel="nofollow" target="blank" href="http://www.facebook.com/tldrnewsglobal">http://www.facebook.com/tldrnewsglobal</a><br />Follow TLDR on Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/tldrnewsglobal">https://twitter.com/tldrnewsglobal</a><br />Follow TLDR on Instagram: <a rel="nofollow" target="blank" href="http://www.instagram.com/tldrnewsglobal">http://www.instagram.com/tldrnewsglobal</a><br />Discord: <a rel="nofollow" target="blank" href="https://tldrnews.co.uk/discord/">https://tldrnews.co.uk/discord/</a><br /><br />Submit Your Topic Ideas: <a rel="nofollow" target="blank" href="https://forms.gle/MWKppx9J5eKLAMPX6">https://forms.gle/MWKppx9J5eKLAMPX6</a><br /><br />TLDR Store: <a rel="nofollow" target="blank" href="https://tldrnews.co.uk/store">https://tldrnews.co.uk/store</a><br />TLDR TeeSpring Store: <a rel="nofollow" target="blank" href="https://teespring.com/stores/tldr-summer-2020">https://teespring.com/stores/tldr-summer-2020</a><br />Support TLDR on Patreon: <a rel="nofollow" target="blank" href="http://www.patreon.com/tldrnews">http://www.patreon.com/tldrnews</a><br />Donate by PayPal: <a rel="nofollow" target="blank" href="https://tldrnews.co.uk/funding">https://tldrnews.co.uk/funding</a><br /><br />TLDR is all about getting you up to date with the news of today, without bias and without filter. We want to give you the information you need, so you can make your own decision.<br /><br />TLDR is a super small company, run by a few people with the help of some amazing volunteers. We are primarily fan sourced with most of our funding coming from donations and ad revenue. No shady corporations, no one telling us what to say. We can't wait to grow further and help more people get informed. Help support us by subscribing, following and backing on Patreon. Thanks!<br /><br />////////////////////////////////<br /><br /> <a rel="nofollow" target="blank" href="https://fivethirtyeight.com/features/why-virginias-and-new-jerseys-elections-could-suggest-a-red-wave-in-2022/">https://fivethirtyeight.com/features/why-virginias-and-new-jerseys-elections-could-suggest-a-red-wave-in-2022/</a>{% endraw %}
