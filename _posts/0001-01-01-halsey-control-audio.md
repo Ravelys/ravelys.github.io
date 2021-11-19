@@ -1,0 +1,15 @@
+---
+title: "Halsey - Control (Audio)"
+image: "https:\/\/i.ytimg.com\/vi\/so8V5dAli-Q\/hqdefault.jpg"
+vid_id: "so8V5dAli-Q"
+categories: "Music"
+tags: ["Halsey","Control","Astralwerks"]
+date: "2021-11-19T09:26:21+03:00"
+vid_date: "2015-08-28T07:00:02Z"
+duration: "PT3M34S"
+viewcount: "68765509"
+likeCount: "760561"
+dislikeCount: "13413"
+channel: "HalseyVEVO"
+---
+{% raw %}Listen to the newest album “If I Can’t Have Love, I Want Power” out now: <a rel="nofollow" target="blank" href="https://halsey.lnk.to/IICHLIWPID">https://halsey.lnk.to/IICHLIWPID</a><br /><br />Discover more Halsey on Spotify: <a rel="nofollow" target="blank" href="https://halsey.lnk.to/insidemyhead">https://halsey.lnk.to/insidemyhead</a> <br /> <br />Sign up for the official Halsey newsletter: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseyMailingList?IQid=YT">http://smarturl.it/HalseyMailingList?IQid=YT</a> <br />Download “BADLANDS” on iTunes: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseyBadlands?IQid=YT.control">http://smarturl.it/HalseyBadlands?IQid=YT.control</a><br />Order deluxe box of “BADLANDS”: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseyStore?IQid=YT.control">http://smarturl.it/HalseyStore?IQid=YT.control</a><br />Order deluxe edition of “BADLANDS” from Target: <a rel="nofollow" target="blank" href="http://smarturl.it/halseytarget?IQid=YT.control">http://smarturl.it/halseytarget?IQid=YT.control</a><br />Listen to “BADLANDS” on Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/BADLANDSspotify?IQid=YT.control">http://smarturl.it/BADLANDSspotify?IQid=YT.control</a><br /><br />Visit Halsey’s ‘Room 93’<br />Stream Halsey’s ‘Room 93’ EP:  <a rel="nofollow" target="blank" href="http://smarturl.it/Room93Spotify?IQid=YT.control">http://smarturl.it/Room93Spotify?IQid=YT.control</a><br />Download Halsey’s 'Room 93' EP: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseyRoom93?IQid=YT.control">http://smarturl.it/HalseyRoom93?IQid=YT.control</a><br />Watch the 'Room 93' video series: <a rel="nofollow" target="blank" href="http://smarturl.it/Room93videos?IQid=YT.control">http://smarturl.it/Room93videos?IQid=YT.control</a><br /><br />Subscribe to Halsey’s YouTube channel: <a rel="nofollow" target="blank" href="https://www.youtube.com/iamhalsey">https://www.youtube.com/iamhalsey</a><br /><br />Follow Halsey<br /><a rel="nofollow" target="blank" href="http://iamhalsey.com">http://iamhalsey.com</a><br /><a rel="nofollow" target="blank" href="http://twitter.com/halsey">http://twitter.com/halsey</a> <br /><a rel="nofollow" target="blank" href="https://www.facebook.com/HalseyMusic">https://www.facebook.com/HalseyMusic</a> <br /><a rel="nofollow" target="blank" href="http://instagram.com/iamhalsey">http://instagram.com/iamhalsey</a><br />Spotify: <a rel="nofollow" target="blank" href="http://smarturl.it/HalseySpotify">http://smarturl.it/HalseySpotify</a><br /><br />Music video by Halsey performing Control. (C) 2015 Astralwerks<br /><br /><a rel="nofollow" target="blank" href="http://vevo.ly/TRkmN7">http://vevo.ly/TRkmN7</a>{% endraw %}
