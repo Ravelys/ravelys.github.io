@@ -1,0 +1,15 @@
+---
+title: "WILL MONTERO GET WHAT HE WANTS? | Maury Show"
+image: "https:\/\/i.ytimg.com\/vi\/VGX8T_4fY_o\/hqdefault.jpg"
+vid_id: "VGX8T_4fY_o"
+categories: "Entertainment"
+tags: ["Maury","Maury Povich","Jerry Springer"]
+date: "2021-11-19T09:47:37+03:00"
+vid_date: "2021-11-17T22:00:09Z"
+duration: "PT21M41S"
+viewcount: "1271628"
+likeCount: "72314"
+dislikeCount: "2521"
+channel: "TheMauryShowOfficial"
+---
+{% raw %}Montero and Yai are football teammates who quickly became lovers. Montero was shocked to discover soon after that Yai was married with a child. Now, Montero is here to tell Yai’s wife, Ashley, about their secret love affair. Maury will get the answers they need. Will Montero get exactly what he wants? <br /><br />LEAVE YOUR WIFE FOR ME...THAT'S WHAT I WANT!<br />Starring: <br />Montero Hill (@Lil Nas X)<br />Yai Ariza (@yai_ariza)<br />Ashley Davidson (@ashleylylyly)<br />Noah James (@noahh_jamez)<br /><br />Featured Song: <br />&quot;That's What I Want&quot; by Lil Nas X<br /><br />NBCUniversal Credits:<br />Director: Andrew Povich<br />Associate Director: Erin Cassidy<br />Executive Producer: Paul Faulhaber, Maury Povich<br />Co-Executive Producer: John Pascarella<br />Digital Director: Eric Hanson<br />Digital Producers: Michael LaLima, Kristin Scheele<br />Digital Manager: Keven Campos<br />Digital Production Assistants: Stephanie Hausman, Andrea Blanco<br />SVP Marketing &amp; Brand Strategy: Betsy Bergman<br />Marketing Manager: Sara Klein<br />Supervising Producers: Gloria Harrison-Hall, Joan Petrocelli<br />Supervising Field Producer: Greg Lederway<br />Field Producer: Jim Shearman<br />Line Producer: Giovanna Tripicchio<br />Associate Producer: Meg Orth<br />Senior Director, Affiliate Marketing: Meghan Merriman<br />Senior Manager, Affiliate Relations and Promotions: Carlos Austin<br /><br />SONY/Columbia Credits:<br />Producer/Commissioner: Saul Levitz<br />VP Digital Marketing: John Vincent Salcedo<br />Creative Director/Stylist: Hodo Musa<br />Makeup Artist: Grace Pae<br />Hair: Bryan Valdez<br /><br />#Maury #MauryShow #MonteroOnMaury #LilNasX<br /><br />Want More MAURY?<br />Website: <a rel="nofollow" target="blank" href="https://mauryshow.com">https://mauryshow.com</a> <br />Facebook: <a rel="nofollow" target="blank" href="https://fb.me/mauryshow">https://fb.me/mauryshow</a> <br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/OfficialMauryShow">https://instagram.com/OfficialMauryShow</a> <br />TikTok: <a rel="nofollow" target="blank" href="https://tiktok.com/@officialmauryshow">https://tiktok.com/@officialmauryshow</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/TheMAURYShow">https://twitter.com/TheMAURYShow</a><br /><br />Watch CLASSIC Maury episodes: <a rel="nofollow" target="blank" href="https://Nosey.com">https://Nosey.com</a> <br /><br />Produced in Stamford, CT @ <a rel="nofollow" target="blank" href="https://StamfordMediaCenter.com">https://StamfordMediaCenter.com</a><br />#StamfordMediaCenter #ProduceInCT #ProduceInConnecticut #MadeInCT #TaxBreak #ProductionStudio #StudioProduction{% endraw %}
