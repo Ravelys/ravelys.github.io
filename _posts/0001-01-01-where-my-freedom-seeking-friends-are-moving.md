@@ -1,0 +1,15 @@
+---
+title: "Where My Freedom-Seeking Friends Are Moving"
+image: "https:\/\/i.ytimg.com\/vi\/uEcxP4pSDJU\/hqdefault.jpg"
+vid_id: "uEcxP4pSDJU"
+categories: "Education"
+tags: ["nomad capitalist","go where you're treated best","best places to live"]
+date: "2021-11-19T05:40:04+03:00"
+vid_date: "2021-11-18T13:00:22Z"
+duration: "PT11M46S"
+viewcount: "24351"
+likeCount: "1826"
+dislikeCount: "37"
+channel: "Nomad Capitalist"
+---
+{% raw %}<a rel="nofollow" target="blank" href="https://nomadcapitalist.com/">https://nomadcapitalist.com/</a><br /><br />Now more than ever, people are prioritizing their freedom over tax savings or lifestyle; they seek Nomad Capitalist to help find them the places where they can be treated best. In this video, Andrew shares real examples where people who value personal freedom first are moving to. <br /><br />00:00 Start<br />2:15 Nicaragua<br />- The Logistics of Moving to Nicaragua<br />3:33 Brazil <br />- Brazilian Citizenship <br />5:11 Mexico <br />6:20 Colombia<br />7:43 Ecuador<br />8:42 Grenada <br />9:33 Serbia<br />10:32 Armenia<br /><br />Andrew Henderson and the Nomad Capitalist team are the world's most sought-after experts on legal offshore tax strategies, investment immigration, and global citizenship. We work exclusively with seven- and eight-figure entrepreneurs and investors who want to &quot;go where they're treated best&quot;.<br /><br />Work with Andrew: <a rel="nofollow" target="blank" href="https://nomadcapitalist.com/apply/">https://nomadcapitalist.com/apply/</a><br /><br />Andrew has started offshore companies, opened dozens of offshore bank accounts, obtained multiple second passports, and purchased real estate on four continents. He has spent the last 12 years studying and personally implementing the Nomad Capitalist lifestyle.<br /><br />Our growing team of researchers, strategies, and implementers add to our ever-growing knowledge base of the best options available. In addition, we've spent years studying the behavior of hundreds of clients in order to help people get the results they want faster and with less effort. <br /><br />About Andrew: <a rel="nofollow" target="blank" href="https://nomadcapitalist.com/about/">https://nomadcapitalist.com/about/</a><br />Our Website: <a rel="nofollow" target="blank" href="http://www.nomadcapitalist.com">http://www.nomadcapitalist.com</a><br />Subscribe: <a rel="nofollow" target="blank" href="https://www.youtube.com/subscription_center?add_user=nomadcapitalist">https://www.youtube.com/subscription_center?add_user=nomadcapitalist</a><br />Buy Andrew's Book: <a rel="nofollow" target="blank" href="https://nomadcapitalist.com/book/">https://nomadcapitalist.com/book/</a><br /><br />DISCLAIMER: The information in this video should not be considered tax, financial, investment, or any kind of professional advice. Only a professional diagnosis of your specific situation can determine which strategies are appropriate for your needs. Nomad Capitalist can and does not provide advice unless/until engaged by you.{% endraw %}
