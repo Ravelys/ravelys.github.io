@@ -1,0 +1,15 @@
+---
+title: "Ra Ra RasPutin animation except every time \"Ra\" is said it speeds up by 5%"
+image: "https:\/\/i.ytimg.com\/vi\/V-HsORFhqIM\/hqdefault.jpg"
+vid_id: "V-HsORFhqIM"
+categories: "Gaming"
+tags: ["Humor","Swank Banana","Funny"]
+date: "2021-11-19T22:42:34+03:00"
+vid_date: "2018-02-08T14:00:01Z"
+duration: "PT2M37S"
+viewcount: "5787467"
+likeCount: "196196"
+dislikeCount: "4926"
+channel: "Swank Banana"
+---
+{% raw %}Sub or something I don't know (lyrics in description)<br /><br />Original : <a rel="nofollow" target="blank" href="https://www.youtube.com/watch?v=WhPvJOnHotE">https://www.youtube.com/watch?v=WhPvJOnHotE</a><br /><br />Note : The Video ends at 225% Speed<br /><br />Lyrics:<br />There lived a certain man in Russia long ago<br />He was big and strong, in his eyes a flaming glow<br />Most people looked at him with terror and with fear<br />But to Moscow chicks he was such a lovely dear<br />He could preach the bible like a preacher<br />Full of ecstacy and fire<br />But he also was the kind of teacher<br />Women would desire<br /><br />RA RA RASPUTIN<br />Lover of the Russian queen<br />There was a cat that really was gone<br />RA RA RASPUTIN<br />Russia's greatest love machine<br />It was a shame how he carried on<br /><br />He ruled the Russian land and never mind the Czar<br />But the kasachok he danced really wunderbar<br />In all affairs of state he was the man to please<br />But he was real great when he had a girl to squeeze<br />For the queen he was no wheeler dealer<br />Though she'd heard the things he'd done<br />She believed he was a holy healer<br />Who would heal her son<br /><br />RA RA RASPUTIN<br />Lover of the Russian queen<br />There was a cat that really was gone<br />RA RA RASPUTIN<br />Russia's greatest love machine<br />It was a shame how he carried on<br /><br />But when his drinking and lusting and his hunger<br />for power became known to more and more people,<br />the demands to do something about this outrageous<br />man became louder and louder.<br /><br />&quot;This man's just got to go!&quot; declared his enemies<br />But the ladies begged &quot;Don't you try to do it, please&quot;<br />No doubt this Rasputin had lots of hidden charms<br />Though he was a brute they just fell into his arms<br />Then one night some men of higher standing<br />Set a trap, they're not to blame<br />&quot;Come to visit us&quot; they kept demanding<br />And he really came<br /><br />RA RA RASPUTIN<br />Lover of the Russian queen<br />They put some poison into his wine<br />RA RA RASPUTIN<br />Russia's greatest love machine<br />He drank it all and he said &quot;I feel fine&quot;<br /><br />RA RA RASPUTIN<br />Lover of the Russian queen<br />They didn't quit, they wanted his head<br />RA RA RASPUTIN<br />Russia's greatest love machine<br />And so they shot him till he was dead<br /><br />I got a twitch too : <a rel="nofollow" target="blank" href="https://www.twitch.tv/swankbanana">https://www.twitch.tv/swankbanana</a>{% endraw %}
