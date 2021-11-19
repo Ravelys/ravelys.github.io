@@ -1,0 +1,15 @@
+---
+title: "Near to the Heart"
+image: "https:\/\/i.ytimg.com\/vi\/l4-Jkb3vgSs\/hqdefault.jpg"
+vid_id: "l4-Jkb3vgSs"
+categories: "Music"
+tags: ["Fountainview","Academy","Orchestra"]
+date: "2021-11-19T15:31:53+03:00"
+vid_date: "2019-11-22T19:00:08Z"
+duration: "PT4M15S"
+viewcount: "211307"
+likeCount: "2712"
+dislikeCount: "37"
+channel: "Fountainview Academy"
+---
+{% raw %}Get exclusive access to exciting content and our entire DVD library all while helping to support us at <a rel="nofollow" target="blank" href="https://patreon.com/fountainview">https://patreon.com/fountainview</a><br /><br />If you enjoyed this video, don’t forget to subscribe and enable notifications for our channel so you never miss an upload!<br /><br />===<br /><br />&quot;Near to the Heart&quot; filmed by Fountainview Academy as part of our God so Loved the World DVD in BC, Canada.<br /><br />Purchase our God so Loved the World DVD at <a rel="nofollow" target="blank" href="http://store.fountainview.ca/">http://store.fountainview.ca/</a><br /><br />► Subscribe for new videos : <a rel="nofollow" target="blank" href="https://bit.ly/2QMi67G">https://bit.ly/2QMi67G</a><br /><br />► Buy our other sheet music, devotionals and DVD: <a rel="nofollow" target="blank" href="http://store.fountainview.ca/">http://store.fountainview.ca/</a> <br /><br />► Join our Patreon: <a rel="nofollow" target="blank" href="https://patreon.com/fountainview">https://patreon.com/fountainview</a><br /><br />===<br /><br />Follow us!<br /><br />► Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/fountainviewacademy">https://www.instagram.com/fountainviewacademy</a><br /><br />► Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/fountainviewacademy">https://www.facebook.com/fountainviewacademy</a><br /><br />► Fountainview Live Streams: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC05RinrBWDfnPwVHvoEwttQ/">https://www.youtube.com/channel/UC05RinrBWDfnPwVHvoEwttQ/</a><br /><br />► Spotify Music: <a rel="nofollow" target="blank" href="https://spoti.fi/39fv32U">https://spoti.fi/39fv32U</a><br /><br />► Amazon Music: <a rel="nofollow" target="blank" href="http://bit.ly/2vaey9J">http://bit.ly/2vaey9J</a><br /><br />► Apple Music: <a rel="nofollow" target="blank" href="https://apple.co/2UwuZaK">https://apple.co/2UwuZaK</a><br /><br />===<br /><br />Fountainview Academy is a Christian high school based in southern British Columbia, Canada, which holds Province of BC Ministry of Education accreditation. Students from all over the world are attracted to Fountainview because of its balanced approach to education. Each staff member is personally committed to the eternal success of every student, and together they strive for the highest standards in every respect. If you're interested in attending Fountainview Academy, learn more and apply here: <a rel="nofollow" target="blank" href="http://fountainviewacademy.ca/apply-2/">http://fountainviewacademy.ca/apply-2/</a>{% endraw %}
