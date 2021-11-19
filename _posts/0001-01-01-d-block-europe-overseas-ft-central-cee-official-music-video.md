@@ -1,0 +1,15 @@
+---
+title: "D-Block Europe - Overseas ft. @Central Cee (Official Music Video)"
+image: "https:\/\/i.ytimg.com\/vi\/I4Ra4z2Arqg\/hqdefault.jpg"
+vid_id: "I4Ra4z2Arqg"
+categories: "Music"
+tags: ["D-Block","Europe","Overseas"]
+date: "2021-11-19T12:36:09+03:00"
+vid_date: "2021-11-18T19:00:10Z"
+duration: "PT3M47S"
+viewcount: "453667"
+likeCount: "45095"
+dislikeCount: "278"
+channel: "D Block Europe TV"
+---
+{% raw %}THE LATEST ALBUM ‘Home Alone 2’ OUT NOW <br />Vinyl, CDs &amp; Merch Bundles: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/HomeAlone2ID/officialartiststore">https://DBlockEU.lnk.to/HomeAlone2ID/officialartiststore</a><br />Spotify: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/HomeAlone2ID/spotifypresave">https://DBlockEU.lnk.to/HomeAlone2ID/spotifypresave</a><br />Apple Music: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/HomeAlone2ID/applemusic">https://DBlockEU.lnk.to/HomeAlone2ID/applemusic</a><br /> iTunes: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/HomeAlone2ID/itunes">https://DBlockEU.lnk.to/HomeAlone2ID/itunes</a><br /><br />Listen to the new single ‘Overseas (ft. Central Cee) - <a rel="nofollow" target="blank" href="https://dblockeu.lnk.to/OverseasID">https://dblockeu.lnk.to/OverseasID</a><br /><br />Follow us:<br />Spotify: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/SocialsID/Spotify">https://DBlockEU.lnk.to/SocialsID/Spotify</a><br />Apple Music: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/SocialsID/AppleMusic">https://DBlockEU.lnk.to/SocialsID/AppleMusic</a><br />Instagram: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/SocialsID/Instagram">https://DBlockEU.lnk.to/SocialsID/Instagram</a><br />Twitter: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/SocialsID/Twitter">https://DBlockEU.lnk.to/SocialsID/Twitter</a><br />Facebook: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/SocialsID/Facebook">https://DBlockEU.lnk.to/SocialsID/Facebook</a><br />Deezer: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/SocialsID/Deezer">https://DBlockEU.lnk.to/SocialsID/Deezer</a><br />Itunes: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/SocialsID/Itunes">https://DBlockEU.lnk.to/SocialsID/Itunes</a><br />Amazon Music: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/SocialsID/AmazonMusic">https://DBlockEU.lnk.to/SocialsID/AmazonMusic</a><br /><br />Young Adz:<br />Instagram: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/YoungAdzID/Instagram">https://DBlockEU.lnk.to/YoungAdzID/Instagram</a><br />Twitter: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/YoungAdzID/twitter">https://DBlockEU.lnk.to/YoungAdzID/twitter</a><br /><br />Dirtbike LB:<br />Instagram: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/DirtbikeLBID/Instagram">https://DBlockEU.lnk.to/DirtbikeLBID/Instagram</a><br />Twitter: <a rel="nofollow" target="blank" href="https://DBlockEU.lnk.to/DirtbikeLBID/twitter">https://DBlockEU.lnk.to/DirtbikeLBID/twitter</a>{% endraw %}
