@@ -1,0 +1,15 @@
+---
+title: "We MIGHT Have Hurt Our LS Swapped Blazer... But Not Before It Did This!!!"
+image: "https:\/\/i.ytimg.com\/vi\/xsx7nFaExyc\/hqdefault.jpg"
+vid_id: "xsx7nFaExyc"
+categories: "Film-Animation"
+tags: ["leroy","1320video","drag racing"]
+date: "2021-11-20T05:01:43+03:00"
+vid_date: "2021-11-18T23:52:48Z"
+duration: "PT25M11S"
+viewcount: "687291"
+likeCount: "45450"
+dislikeCount: "249"
+channel: "Cleetus McFarland"
+---
+{% raw %}BLACK FRIDAY SALE IS LIVE NOW!!! Check out our new hats/shirts and more at <a rel="nofollow" target="blank" href="http://cleetusmcfarland.com">http://cleetusmcfarland.com</a><br />One last drag race before we head into the Oval tomorrow! The Blazer may be hurt, but we will get it fixed up and doing huge wheel stands soon enough!<br />Purchase ALL Freedom Factory tickets here!!!: <a rel="nofollow" target="blank" href="https://tickets.thefoat.com/FreedomFactory">https://tickets.thefoat.com/FreedomFactory</a> <br />PPV Tickets and all Cleeter Merch is available here!!: <a rel="nofollow" target="blank" href="http://baldeagle.com">http://baldeagle.com</a><br />Just so you guys know if you spend $75 or more on <a rel="nofollow" target="blank" href="http://summitracing.com">http://summitracing.com</a> use code CLEETUS at checkout for a free ticket to the 2.4 Hours of LeMullets PPV!<br /><br />-November 19th, 2021 2.4 Hours of LeMullets<br /><a rel="nofollow" target="blank" href="https://tickets.thefoat.com/FreedomFactory">https://tickets.thefoat.com/FreedomFactory</a><br />-November 20th, 2021 Cleetus and Cars Championship<br /><a rel="nofollow" target="blank" href="https://tickets.thefoat.com/FreedomFactory">https://tickets.thefoat.com/FreedomFactory</a><br /><br />Our 2021 Sponsors: <br /><a rel="nofollow" target="blank" href="https://www.holley.com">https://www.holley.com</a><br /><a rel="nofollow" target="blank" href="https://texas-speed.com">https://texas-speed.com</a><br /><a rel="nofollow" target="blank" href="https://www.motionraceworks.com">https://www.motionraceworks.com</a><br /><a rel="nofollow" target="blank" href="https://www.nittotire.com">https://www.nittotire.com</a><br /><a rel="nofollow" target="blank" href="https://www.summitracing.com">https://www.summitracing.com</a><br /><a rel="nofollow" target="blank" href="https://heatwavevisual.com">https://heatwavevisual.com</a><br /><br />Check out our schedule for 2021 here - <a rel="nofollow" target="blank" href="https://www.cleetusmcfarland.com/year2020/">https://www.cleetusmcfarland.com/year2020/</a><br />Cleetus2 Channel - <a rel="nofollow" target="blank" href="https://goo.gl/Ph2wyo">https://goo.gl/Ph2wyo</a><br />Holley's channel - <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCeQfJXzg0gnfuM4tgmagCCw">https://www.youtube.com/channel/UCeQfJXzg0gnfuM4tgmagCCw</a><br />**Social Media:<br />Instagram - <a rel="nofollow" target="blank" href="https://goo.gl/LZvy5e">https://goo.gl/LZvy5e</a><br />Facebook - <a rel="nofollow" target="blank" href="https://goo.gl/gdwhh1">https://goo.gl/gdwhh1</a>{% endraw %}
