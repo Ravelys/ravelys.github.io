@@ -1,0 +1,15 @@
+---
+title: "11 Slash - Hard & Fast"
+image: "https:\/\/i.ytimg.com\/vi\/puSn_T7r4qM\/hqdefault.jpg"
+vid_id: "puSn_T7r4qM"
+categories: "Entertainment"
+tags: ["slash","myles","kennedy"]
+date: "2021-11-20T12:20:21+03:00"
+vid_date: "2012-05-20T09:50:26Z"
+duration: "PT3M7S"
+viewcount: "259954"
+likeCount: "1283"
+dislikeCount: "31"
+channel: "SlashedLove"
+---
+{% raw %}... Lyrics:  I don't want it<br /><br />Don't need anymore<br /><br />You got me lying on the killing floor tonight<br /><br /> <br /><br />I'm on eleven<br /><br />Been up for days<br /><br /> <br /><br />It's gonna bring me to an early grave<br /><br />This life<br /><br />So I've got to go<br /><br />You won't change my mind<br /><br /> <br /><br />'cause I can't survive another night in the white room<br /><br />'cause a tiny bit<br /><br />It always turns to more<br /><br /> <br /><br />And these bloodshot eyes gotta say goodbye<br /><br />I had my fun<br /><br />But I can't deny<br /><br />Living hard and fast<br /><br />I'll never last beside you<br /><br />Oh!<br /><br /> <br /><br />My skin is crawling<br /><br />I'm a shell of myself<br /><br />You come a roaring like a bat out of Hell<br /><br />That's right<br /><br />Every fucking time!<br /><br /> <br /><br />Well, come on lover<br /><br />Won't you give it a rest<br /><br />I'm never gonna make it out of this mess alive<br /><br /> <br /><br />So I've got to go<br /><br />Gotta say goodbye<br /><br /> <br /><br />'cause I can't survive another night in the white room<br /><br />'cause a tiny bit<br /><br />It always turns to more<br /><br /> <br /><br />And these bloodshot eyes gotta say goodbye<br /><br />I had my fun<br /><br />But I can't deny<br /><br />Living hard and fast<br /><br />I'll never last beside you<br /><br />Oh!<br /><br /> <br /><br />(Solo)<br /><br /> <br /><br />'cause I can't survive another night in the white room<br /><br />'cause a tiny bit<br /><br />It always turns to more<br /><br /> <br /><br />And these bloodshot eyes gotta say goodbye<br /><br />I had my fun<br /><br />But I can't deny<br /><br />Living hard and fast<br /><br />I'll never last beside you<br /><br />Living hard and fast<br /><br />I'll never last beside you<br /><br />Oh, oh, oh!<br /><br />Full Song!!!<br /><br />I claim no copyright of the posted material. All rights belong to the original songwriters, performers, and record label (if applicable).<br /><br />Pre order the album in this stores:<br /><br />iTunes: <a rel="nofollow" target="blank" href="http://tinyurl.com/d69q295">http://tinyurl.com/d69q295</a><br />Amazon.com: <a rel="nofollow" target="blank" href="http://tinyurl.com/cethyja">http://tinyurl.com/cethyja</a><br />BestBuy: <a rel="nofollow" target="blank" href="http://tinyurl.com/cqz4z8g">http://tinyurl.com/cqz4z8g</a><br />Walmart: <a rel="nofollow" target="blank" href="http://tinyurl.com/cem7ara">http://tinyurl.com/cem7ara</a><br />Newburycomics: <a rel="nofollow" target="blank" href="http://tinyurl.com/6b59oo5">http://tinyurl.com/6b59oo5</a><br />Exclusive fan pack: <a rel="nofollow" target="blank" href="http://tinyurl.com/7dvdmgx">http://tinyurl.com/7dvdmgx</a>{% endraw %}
