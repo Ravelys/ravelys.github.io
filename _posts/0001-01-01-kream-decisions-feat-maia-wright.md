@@ -1,0 +1,15 @@
+---
+title: "KREAM - Decisions (feat. Maia Wright)"
+image: "https:\/\/i.ytimg.com\/vi\/7kgxsbEPsYA\/hqdefault.jpg"
+vid_id: "7kgxsbEPsYA"
+categories: "Music"
+tags: ["kream","decisions","maia wright"]
+date: "2021-11-22T16:54:55+03:00"
+vid_date: "2018-09-21T14:46:16Z"
+duration: "PT3M33S"
+viewcount: "967525"
+likeCount: "8844"
+dislikeCount: "195"
+channel: "KREAM"
+---
+{% raw %}Get It Now: <a rel="nofollow" target="blank" href="https://BigBeat.lnk.to/DecisionsID">https://BigBeat.lnk.to/DecisionsID</a><br /><br />Follow KREAM<br /><a rel="nofollow" target="blank" href="https://wearekream.com">https://wearekream.com</a><br /><a rel="nofollow" target="blank" href="http://instagram.com/wearekream">http://instagram.com/wearekream</a><br /><a rel="nofollow" target="blank" href="https://youtube.com/kreamofficial">https://youtube.com/kreamofficial</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/kreamofficial">https://soundcloud.com/kreamofficial</a><br /><br />Follow Maia Wright<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/maiawright/">https://www.instagram.com/maiawright/</a><br /><br />Lyrics:<br /><br />I know I`m divided<br />`bout where to go<br />know I need you with me<br /><br />There`re times that I can be indecisive<br />about what to say<br />won`t you say it for me<br /><br />No consequences we leave them outside my door<br />while we`re still in my flat doing nothing at all <br />stress on my list I know I should be doing<br />my plan is to make no plan out of it <br />oooohhh  <br /><br />I won't care, now<br />you can make my decisions<br />lose my breath, your sweater<br />I won't care, nah<br /> you can make my decisions<br />I`m down for whatever<br />oooohhh<br /><br />You and I collided<br />with you I let myself<br />get carried away<br /><br />you take the load off my worries<br />make me forget `bout the hurting<br /><br />No consequences we leave them outside my door<br />while we`re still in my flat doing nothing at all <br />stress on my list I know I should be doing<br />my plan is to make no plan out of it <br /><br />I won't care, now<br />you can make my decisions<br />lose my breath, your sweater<br />I won't care, nah<br /> you can make my decisions<br />I`m down for whatever<br />oooohhh<br /><br /><br />Follow Big Beat Records<br /><a rel="nofollow" target="blank" href="https://www.hive.co/l/bbytWebsite">https://www.hive.co/l/bbytWebsite</a><br /><a rel="nofollow" target="blank" href="https://www.hive.co/l/bbytFacebook">https://www.hive.co/l/bbytFacebook</a><br /><a rel="nofollow" target="blank" href="https://www.hive.co/l/bbytTwitter">https://www.hive.co/l/bbytTwitter</a><br /><a rel="nofollow" target="blank" href="https://www.hive.co/l/bbytInstagram">https://www.hive.co/l/bbytInstagram</a><br /><a rel="nofollow" target="blank" href="https://www.hive.co/l/bbytSoundcloud">https://www.hive.co/l/bbytSoundcloud</a><br /><a rel="nofollow" target="blank" href="https://www.hive.co/l/bbytmixcloud">https://www.hive.co/l/bbytmixcloud</a>{% endraw %}
