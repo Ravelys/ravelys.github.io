@@ -1,0 +1,15 @@
+---
+title: "Stefania – WORDS (Official Lyric Video)"
+image: "https:\/\/i.ytimg.com\/vi\/0CyW9jyNFkI\/hqdefault.jpg"
+vid_id: "0CyW9jyNFkI"
+categories: "Music"
+tags: ["Liberakakis","Stephania","Stefenia"]
+date: "2021-11-22T08:02:25+03:00"
+vid_date: "2021-11-18T21:00:01Z"
+duration: "PT3M38S"
+viewcount: "28105"
+likeCount: "2717"
+dislikeCount: "28"
+channel: "Stefania"
+---
+{% raw %}Stream/download Stefania’s new single WORDS!<br />Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/3kRRdAt">https://spoti.fi/3kRRdAt</a><br />Apple Music: <a rel="nofollow" target="blank" href="https://apple.co/3kSrtnH">https://apple.co/3kSrtnH</a><br />Deezer: <br /><br />Follow Stefania!<br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/stefania_">https://instagram.com/stefania_</a><br />TikTok: <a rel="nofollow" target="blank" href="https://tiktok.com/@stefania_official">https://tiktok.com/@stefania_official</a><br />Spotify: <a rel="nofollow" target="blank" href="https://spoti.fi/2XXFxPG">https://spoti.fi/2XXFxPG</a><br />Website: <a rel="nofollow" target="blank" href="https://stefaniamusic.eu">https://stefaniamusic.eu</a><br /><br />WORDS (single)<br />Music written by Robert Fitoussi<br />Lyrics written by Martin Kupersmith and Louis Yaguda<br />Produced by Dimitris Kontopoulos and Dima Agafonov<br />Vocals recorded by Elke Tiel at TalkSick Music, The Netherlands<br />Mixed by Aris Binis and Dimitris Kontopoulos at Vox Studios Athens, Greece<br />Mastered by Tom Porcell at Limetree Studios, Germany<br />℗ &amp; © 2021 K2ID Productions Ltd<br /><br />WORDS (music video)<br />Directed and edited by Stamatis Spinos<br />© 2021 K2ID Productions Ltd<br /><br />---<br /><br />WORDS (lyrics)<br /><br />Words<br />Don't come easy to me<br />How can I find a way <br />To make you see I love you<br />Words don't come easy<br /><br />Words<br />Don't come easy to me<br />This is the only way <br />For me to say I love you<br />Words don't come easy<br /><br />Well, I'm just a music girl<br />Melodies I give to the world<br />But my words are coming out wrong<br />Boy, I reveal my heart to you and<br />Hope that you believe it's true 'cause<br /><br />Words<br />Don't come easy to me<br />How can I find a way<br />To make you see I love you<br />Words don't come easy<br /><br />This is just a simple song<br />That I've made for you on my own<br />There's no hidden meaning you know when I<br />When I say I love you, honey<br />Please believe I really do 'cause<br /><br />Words<br /><br />Words<br />Don't come easy to me<br />How can I find a way<br />To make you see I love you<br />Words don't come easy<br /><br />Isn't it easy<br />Words don't come easy<br /><br />Words<br />Don't come easy to me<br />How can I find a way<br />To make you see I love you<br />Words don't come easy<br /><br />Words don't come easy to me<br />This is the only way<br />For me to say I love you<br />Words don't come easy<br /><br />Words don't come easy{% endraw %}
