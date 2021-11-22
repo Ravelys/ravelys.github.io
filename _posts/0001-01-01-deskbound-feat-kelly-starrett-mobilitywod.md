@@ -1,0 +1,15 @@
+---
+title: "Deskbound | Feat. Kelly Starrett | MobilityWOD"
+image: "https:\/\/i.ytimg.com\/vi\/ZzjafkEVDJQ\/hqdefault.jpg"
+vid_id: "ZzjafkEVDJQ"
+categories: "Entertainment"
+tags: ["Mwod","MobilityWOD","Kelly Starrett"]
+date: "2021-11-22T08:18:35+03:00"
+vid_date: "2016-02-10T17:40:49Z"
+duration: "PT3M9S"
+viewcount: "116252"
+likeCount: "1053"
+dislikeCount: "15"
+channel: "The Ready State"
+---
+{% raw %}PREORDER DESKBOUND HERE: <a rel="nofollow" target="blank" href="http://amzn.to/1PhM2AO">http://amzn.to/1PhM2AO</a><br /><br />Our bodies were built for movement. The more we move, the healthier we are. Learn how to eliminate sitting from your day with Deskbound.<br /><br />SUBSCRIBE: <a rel="nofollow" target="blank" href="http://bit.ly/1bRdYec">http://bit.ly/1bRdYec</a><br /><br />About The Ready State:<br />The Ready State is the new home of MobilityWOD. The Ready State provides athletes, coaches, and humans of all walks of life the tools to Relieve pain, prevent injury, and improve physical performance. Subscribe to the Virtual Mobility Coach for customized mobility coaching, tailored to your body and lifestyle. Start a 14-day FREE TRIAL today at <a rel="nofollow" target="blank" href="http://thereadystate.com.">http://thereadystate.com.</a><br /><br />Connect with The Ready State:<br />Visit the The Ready State WEBSITE: <a rel="nofollow" target="blank" href="http://thereadystate.com">http://thereadystate.com</a><br />Follow The Ready State on INSTAGRAM: <a rel="nofollow" target="blank" href="https://www.instagram.com/thereadystate/">https://www.instagram.com/thereadystate/</a><br />Like The Ready State on FACEBOOK: <a rel="nofollow" target="blank" href="https://www.facebook.com/thereadystate/">https://www.facebook.com/thereadystate/</a><br />Follow The Ready State on TWITTER: <a rel="nofollow" target="blank" href="https://twitter.com/thereadystate">https://twitter.com/thereadystate</a><br />About MobilityWOD:<br />MobilityWOD is the ultimate guide to resolving pain, preventing injury, and optimizing athletic performance. Humans have been evolving for 2.5 million years and the human body is extraordinarily engineered. While people are born with this incredible machine, they aren't born with the right software to run that machine.<br /><br />The MobilityWOD is designed to help you hack your body's mechanics and provide the tools to perform basic maintenance on yourself.<br /><br />Connect with MobilityWOD:<br />Visit the MobilityWOD WEBSITE: <a rel="nofollow" target="blank" href="http://bit.ly/1gA0C9I">http://bit.ly/1gA0C9I</a> <br />Like MobilityWOD on FACEBOOK: <a rel="nofollow" target="blank" href="http://on.fb.me/19Lz3Td">http://on.fb.me/19Lz3Td</a><br />Follow MobilityWOD on TWITTER: <a rel="nofollow" target="blank" href="http://bit.ly/18tCPpf">http://bit.ly/18tCPpf</a><br /><br />Deskbound | Feat. Kelly Starrett | MobilityWOD <br /><a rel="nofollow" target="blank" href="http://www.youtube.com/user/sanfranciscocrossfit">http://www.youtube.com/user/sanfranciscocrossfit</a>{% endraw %}
