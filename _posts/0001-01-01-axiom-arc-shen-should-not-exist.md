@@ -1,0 +1,15 @@
+---
+title: "Axiom Arc Shen Should Not Exist..."
+image: "https:\/\/i.ytimg.com\/vi\/Q2UYkl-3uhg\/hqdefault.jpg"
+vid_id: "Q2UYkl-3uhg"
+categories: "Gaming"
+tags: ["xPetu","league of legends","shen"]
+date: "2021-11-22T06:41:42+03:00"
+vid_date: "2021-11-20T13:00:08Z"
+duration: "PT25M19S"
+viewcount: "93400"
+likeCount: "5445"
+dislikeCount: "57"
+channel: "xPetu"
+---
+{% raw %}Thank you to PUBGM for sponsoring this video! Experience the greatest cross over in LoL history with Arcane in PUBGM here: <a rel="nofollow" target="blank" href="https://rebrand.ly/heg0gpf">https://rebrand.ly/heg0gpf</a><br /><br />Redeem your Arcane themed Skin with my code BUCMZJZSA7 here: <a rel="nofollow" target="blank" href="https://www.pubgmobile.com/redeem">https://www.pubgmobile.com/redeem</a><br /><br />PUBGM official YouTube account for more info!: <a rel="nofollow" target="blank" href="https://www.youtube.com/PUBGMOBILE">https://www.youtube.com/PUBGMOBILE</a><br /><br />// VIDEO CHAPTERS //<br />0:00 Opening<br />0:24 PUBGM x Arcane<br />1:58 Rollercoaster Laning<br />10:23 Lighting Up Frostfire<br />17:09 Testing Field Axioms<br /><br />// VIEWER SUPPORT //<br />Special thanks to LEGENDARY SHENS and all River Shens for supporting the channel! Channel memberships support my content creation directly. As a bonus, members receive a variety of perks, e.g., Discord benefits and access to viewer games. If you're interested, click the &quot;Join&quot;-button for more details.<br /><br />// LEARN SHEN FROM ME //<br />► How to Climb to Diamond with Shen: <a rel="nofollow" target="blank" href="https://youtu.be/ixR2YbAPBKk">https://youtu.be/ixR2YbAPBKk</a><br />► How to Climb to Challenger with Shen: <a rel="nofollow" target="blank" href="https://youtu.be/umh7oDsBa1Y">https://youtu.be/umh7oDsBa1Y</a><br />► In-Depth Shen Guide: <a rel="nofollow" target="blank" href="https://www.mobafire.com/league-of-legends/build/582399">https://www.mobafire.com/league-of-legends/build/582399</a><br /><br />// FIND ME ON OTHER PLATFORMS //<br />► Twitch - <a rel="nofollow" target="blank" href="https://www.twitch.tv/xpetu">https://www.twitch.tv/xpetu</a><br />► Twitter - <a rel="nofollow" target="blank" href="https://www.twitter.com/xpetu">https://www.twitter.com/xpetu</a><br />► Discord - <a rel="nofollow" target="blank" href="https://discord.gg/KNCknuK9uX">https://discord.gg/KNCknuK9uX</a><br />For business inquiries and sponsorships - xpetu@afkcreators.com<br />If you want to reach me with a direct message, Twitter is your best bet.<br /><br />// CREDITS //<br />This video was created, edited and produced by xPetu.<br /><br />// ABOUT ME //<br />Hi! I'm Petu and the purpose of my YouTube channel is to share my passion for League of Legends. I've climbed to Challenger 1200 LP on EUW and EUNE by playing Shen. I am currently studying Applied Mathematics and Computer Science in Finland. In my spare time, I enjoy running, basketball and disc golf. Thanks for reading this far!<br /><br />#LeagueOfLegends #Challenger #LoL{% endraw %}
