@@ -1,0 +1,15 @@
+---
+title: "How To Make ANY Sound You Want (Vital Sound Design)"
+image: "https:\/\/i.ytimg.com\/vi\/yFzcoeWHVCQ\/hqdefault.jpg"
+vid_id: "yFzcoeWHVCQ"
+categories: "Music"
+tags: ["vital","vital sound design","vital sound design tutorial"]
+date: "2021-11-23T02:42:30+03:00"
+vid_date: "2021-03-12T11:00:31Z"
+duration: "PT15M4S"
+viewcount: "36873"
+likeCount: "2279"
+dislikeCount: "20"
+channel: "MHA"
+---
+{% raw %}GET THE VITAL BANK &amp; MY OTHER SAMPLEPACKS HERE! ⬇️<br />💥 Samplepacks &amp; Soundbanks: <a rel="nofollow" target="blank" href="https://www.mhamusic.com/">https://www.mhamusic.com/</a><br /><br />🔥 Follow me on Instagram, Spotify &amp; Twitch: <a rel="nofollow" target="blank" href="https://linktr.ee/mhamusic">https://linktr.ee/mhamusic</a><br /><br />🎧 Join our fricking EPIC discord! <a rel="nofollow" target="blank" href="https://discord.gg/a5EaTYp">https://discord.gg/a5EaTYp</a><br /><br />🤯 Free FLP's: <a rel="nofollow" target="blank" href="https://linktr.ee/mhayoutube">https://linktr.ee/mhayoutube</a><br /><br />All FLP's are subject to the terms listed here: <a rel="nofollow" target="blank" href="https://www.mhamusic.com/terms-of-service">https://www.mhamusic.com/terms-of-service</a><br /><br />PRESETS FROM THIS VIDEO: <a rel="nofollow" target="blank" href="https://linktr.ee/mhayoutube">https://linktr.ee/mhayoutube</a><br />Get Vital: <a rel="nofollow" target="blank" href="https://vital.audio/">https://vital.audio/</a><br />The presets are locked behind a subscribe-gate (the instagram and spotify follows are optional). If you don't want to subscribe to me, you can just unsubscribe afterwards but I do appreciate if you stay for a couple videos and give me a chance, you won't regret it! :)<br /><br />My new Remix: <a rel="nofollow" target="blank" href="https://open.spotify.com/track/09Tm45pOKcOWBLmtoZreML?si=q74dt0mGToO8nGze4WGidQ">https://open.spotify.com/track/09Tm45pOKcOWBLmtoZreML?si=q74dt0mGToO8nGze4WGidQ</a><br /><br />Join Epidemic Sound for some awesome tracks for your videos!<br /><a rel="nofollow" target="blank" href="https://www.epidemicsound.com/referral/ct1opg/">https://www.epidemicsound.com/referral/ct1opg/</a><br /><br />My favorite plugins! <br /><a rel="nofollow" target="blank" href="https://fanlink.to/OzoneOzone">https://fanlink.to/OzoneOzone</a><br /><a rel="nofollow" target="blank" href="https://fanlink.to/Manipulator">https://fanlink.to/Manipulator</a><br /><a rel="nofollow" target="blank" href="https://fanlink.to/LittleAlterboy">https://fanlink.to/LittleAlterboy</a><br /><br />Hello guys! Today I show you how to easily make any sound you want using vital! If you want me to do more of these videos please leave a like and a comment, and if you're not subscribed already, please consider doing so for a lot of tutorials in fl studio for future house, progressive house, future bass, anything EDM and pop related really. Thank you so much for watching! Don't forget to subscribe for more videos every friday :)<br /><br />How To Make ANY Sound You Want (Vital Sound Design){% endraw %}
