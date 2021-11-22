@@ -1,0 +1,15 @@
+---
+title: "Ready to Make SERIOUS Changes - A Complete Health Reset! | Nika"
+image: "https:\/\/i.ytimg.com\/vi\/GjQNRrT-5kI\/hqdefault.jpg"
+vid_id: "GjQNRrT-5kI"
+categories: "People-Blogs"
+tags: ["nika erculj","nika","nika nikita"]
+date: "2021-11-22T20:33:55+03:00"
+vid_date: "2021-11-21T08:42:35Z"
+duration: "PT19M48S"
+viewcount: "7282"
+likeCount: "506"
+dislikeCount: "3"
+channel: "Nika Nikita"
+---
+{% raw %}Huge thank you to BetterHelp for sponsoring todays video, check out <a rel="nofollow" target="blank" href="https://betterhelp.com/nika">https://betterhelp.com/nika</a> for 10% off your first month! :) <br /><br />📸 Instagram - @nikaerculj <a rel="nofollow" target="blank" href="https://www.instagram.com/nikaerculj/">https://www.instagram.com/nikaerculj/</a><br />🎥 TikTok - @nikitaerculj <a rel="nofollow" target="blank" href="https://www.tiktok.com/@nikitaerculj?">https://www.tiktok.com/@nikitaerculj?</a><br /><br />MY BOOK:<br />📖 Amazon: <a rel="nofollow" target="blank" href="https://amzn.to/3HcKk6w">https://amzn.to/3HcKk6w</a><br />📚 Share and view reviews of the book - Goodreads: <a rel="nofollow" target="blank" href="https://bit.ly/3n3mwdc">https://bit.ly/3n3mwdc</a><br /><br />MY LAST VIDEO:<br />👉🏼 Habits to Let go of Before the New Year - Improve your Life for 2022 <a rel="nofollow" target="blank" href="https://youtu.be/gXpPcryilVM">https://youtu.be/gXpPcryilVM</a><br /><br />VIDEOS YOU MIGHT ENJOY:<br />👉🏼 How I'm Changing my Life - My Journey to Digital Minimalism <a rel="nofollow" target="blank" href="https://youtu.be/qiN8kjEGKqA">https://youtu.be/qiN8kjEGKqA</a><br />👉🏼 HUGE Monthly Reset Routine - Lets Have a Fresh Start! <a rel="nofollow" target="blank" href="https://youtu.be/U97o2I6JNC0">https://youtu.be/U97o2I6JNC0</a><br /><br />🌐 Try SKILLSHARE PREMIUM for free: <a rel="nofollow" target="blank" href="https://skillshare-ambassador.pxf.io/c/2341428/1090171/11648">https://skillshare-ambassador.pxf.io/c/2341428/1090171/11648</a><br />🌈 Shop The green labels (my favourite place for sustainable fashion): <a rel="nofollow" target="blank" href="https://www.thegreenlabels.com/?ref=ehgbzwapsfl5">https://www.thegreenlabels.com/?ref=ehgbzwapsfl5</a><br /><br />CONTACT (business only!)<br />🖊 email: contact@nikaerculj.com<br /><br />MUSIC:<br />🎶 Music by human.not.robot - seaside nap - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=B0A19E62">https://thmatc.co/?l=B0A19E62</a><br />🎶 Music by Emi Choi - Night Nostalgia - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=0A70B9E0">https://thmatc.co/?l=0A70B9E0</a><br />🎶 Music by Mia Nguyen - Moments with you (as written) - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=EC9D3FFE">https://thmatc.co/?l=EC9D3FFE</a><br />🎶 Music by Aloe Vera - Baby Blue - <a rel="nofollow" target="blank" href="https://thmatc.co/?l=D96FE17E">https://thmatc.co/?l=D96FE17E</a><br /><br />PS: Some of the links in this description are affiliate links. Thanks for shopping through the links and supporting me ❤️<br /><br />FTC: This video is sponsored by BetterHelp{% endraw %}
