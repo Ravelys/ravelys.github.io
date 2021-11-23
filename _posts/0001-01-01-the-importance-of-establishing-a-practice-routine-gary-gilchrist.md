@@ -1,0 +1,15 @@
+---
+title: "The Importance Of Establishing A Practice Routine - Gary Gilchrist"
+image: "https:\/\/i.ytimg.com\/vi\/KYb977o10ZQ\/hqdefault.jpg"
+vid_id: "KYb977o10ZQ"
+categories: "Entertainment"
+tags: ["Importance","Establishing","Practice"]
+date: "2021-11-23T05:21:24+03:00"
+vid_date: "2021-11-21T01:16:38Z"
+duration: "PT1M51S"
+viewcount: "361"
+likeCount: "11"
+dislikeCount: "0"
+channel: "SwingU"
+---
+{% raw %}For many amateurs, what transpires on the practice range often doesn't translate into results on the course. But when you can establish a steady routine before your round, you'll be able to quiet your mind and react to what's required of the shot at hand.<br /><br />Work on treating each shot on the range like a shot that counts, standing behind the ball, picking a target and visualizing the optimum result. Make a few practice swings and establish a rhythm before hitting your shot. The more you repeat this process, the more relaxed you'll feel.<br /><br />Subscribe for more golf tips from SwingU’s top-rated Master Faculty <br />► Become a FREE SUBSCRIBER to SWINGU on YOUTUBE<br /><a rel="nofollow" target="blank" href="http://bit.ly/SwingUSubscribe">http://bit.ly/SwingUSubscribe</a><br /><br />► Get MORE INSTRUCTION from GARY GILCHRIST<br /><a rel="nofollow" target="blank" href="http://bit.ly/GilchristYT">http://bit.ly/GilchristYT</a> <br /><br />-----------------------------------------------------------------------------------<br />► Gary’s Links:<br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/GaryGilchristGolf/">https://www.facebook.com/GaryGilchristGolf/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/GaryGilchrist">https://twitter.com/GaryGilchrist</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/garygilchristcoach/">https://www.instagram.com/garygilchristcoach/</a><br />Web: <a rel="nofollow" target="blank" href="https://gilchristgolf.com/">https://gilchristgolf.com/</a><br /><br />► SwingU’s Links:<br />App: <a rel="nofollow" target="blank" href="https://smarturl.it/swinguapp">https://smarturl.it/swinguapp</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/SwingUapp/">https://www.facebook.com/SwingUapp/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/swinguapp">https://twitter.com/swinguapp</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/clubhouse.swingu/">https://www.instagram.com/clubhouse.swingu/</a><br />Web: <a rel="nofollow" target="blank" href="https://www.swingu.com/">https://www.swingu.com/</a><br />Clubhouse: <a rel="nofollow" target="blank" href="http://bit.ly/SwingUClubhouse">http://bit.ly/SwingUClubhouse</a><br />Newsletter: <a rel="nofollow" target="blank" href="https://newsletter.swingu.com/">https://newsletter.swingu.com/</a><br />-----------------------------------------------------------------------------------{% endraw %}
