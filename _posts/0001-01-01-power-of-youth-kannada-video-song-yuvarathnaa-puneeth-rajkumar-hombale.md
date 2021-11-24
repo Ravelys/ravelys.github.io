@@ -1,0 +1,15 @@
+---
+title: "Power Of Youth ( KANNADA ) - Video Song | Yuvarathnaa | Puneeth Rajkumar | Hombale Films"
+image: "https:\/\/i.ytimg.com\/vi\/AFwofcd_mBs\/hqdefault.jpg"
+vid_id: "AFwofcd_mBs"
+categories: "Entertainment"
+tags: ["yuvarathnaa","yuvarathnaa movie","puneeth rajkumar"]
+date: "2021-11-24T16:27:42+03:00"
+vid_date: "2021-06-16T08:30:09Z"
+duration: "PT5M"
+viewcount: "3146305"
+likeCount: "54012"
+dislikeCount: "2170"
+channel: "Hombale Films"
+---
+{% raw %}Presenting the Kannada  video song of 'Power of Youth,' from 'Yuvarathnaa,' by Hombale Films<br />It's time to watch a song that's sure to leave you in splits. Catch the dynamism and the soaring energy from the on-screen performances starring Power Star Puneeth Rajkumar.<br /><br />With an upbeat track penned by Santhosh Ananddram, it musically conveys the 'Power of Youth.'  A definite catchy number in the voice of Nakash Aziz, composed by Thaman S. The song is all pumped to top your music playlists.<br /><br />Witness and attain a  load of entertainment by subscribing to Hombale Films Channel. And be the first to receive the latest updates on the Kannada cinemas.<br /><br />Starring: Puneeth Rajkumar, Sayyeshaa Saigal, Sonu Gowda, Dhananjay, Prakash Raj, Diganth Manchale.<br /><br />Song Details:<br />Song Name - Power Of Youth<br />Singer : Nakash Aziz<br />Lyricist: : Santhosh Ananddram<br />Music Director : Thaman S<br />Choreography : Sirish Master<br /><br />Movie Details:<br />Produced by: Vijay Kiragandur <br />Production House : Hombale Films<br />Story, Written &amp; Directed by : Santhosh Ananddram<br />Music: S. Thaman<br />Cinematography: Venkatesh Anguraj<br />Editor: Jnaanesh B Matad<br />Stunt : Ram-Lakshman, Anbu-Arivu, Vijay Master, Dhilip Subbarayan<br />Digital &amp; Marketing Partner : KRG Connects<br />Costume : Yogi G Raj<br />VFX &amp; DI : Igene, Chennai<br />Poster Design : Dhani AELAY<br />Art : Sivakumar<br />Effects : Rajen<br /><br />Follow Us on Social Media Platforms:<br /><br />YouTube: <a rel="nofollow" target="blank" href="http://bit.ly/HombaleFilms">http://bit.ly/HombaleFilms</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/HombaleFilms/">https://www.facebook.com/HombaleFilms/</a><br />Twitter: <a rel="nofollow" target="blank" href="https://www.Twitter.com/hombalefilms">https://www.Twitter.com/hombalefilms</a><br />Instagram: <a rel="nofollow" target="blank" href="https://www.instagram.com/hombalefilms">https://www.instagram.com/hombalefilms</a><br /><br />Digital Partner : Divo<br /><br />In Association with Divo<br />FB : <a rel="nofollow" target="blank" href="https://www.facebook.com/divomovies/">https://www.facebook.com/divomovies/</a><br />Twitter : <a rel="nofollow" target="blank" href="https://www.twitter.com/divomovies/">https://www.twitter.com/divomovies/</a><br />Insta : <a rel="nofollow" target="blank" href="https://www.instagram.com/divomovies/">https://www.instagram.com/divomovies/</a><br />Telegram : <a rel="nofollow" target="blank" href="https://t.me/divodigital">https://t.me/divodigital</a><br /><br />#HombaleFilms #PuneethRajkumar #ThamanS #PowerOfYouth{% endraw %}
