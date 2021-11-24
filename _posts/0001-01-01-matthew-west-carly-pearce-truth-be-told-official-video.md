@@ -1,0 +1,15 @@
+---
+title: "Matthew West, Carly Pearce - Truth Be Told (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/xC2wk1w09U8\/hqdefault.jpg"
+vid_id: "xC2wk1w09U8"
+categories: "Music"
+tags: ["new music","new christian music","Hide the wine"]
+date: "2021-11-24T07:09:47+03:00"
+vid_date: "2021-03-05T17:00:12Z"
+duration: "PT3M42S"
+viewcount: "1187845"
+likeCount: "24009"
+dislikeCount: "350"
+channel: "MatthewWestVEVO"
+---
+{% raw %}I’m so excited to share this special version of “Truth Be Told” with Carly Pearce!<br /><br />Listen to #TruthBeTold everywhere out 3/5: <a rel="nofollow" target="blank" href="https://matthewwest.lnk.to/TruthBeToldwithCarlyPearce">https://matthewwest.lnk.to/TruthBeToldwithCarlyPearce</a><br /><br />Connect with Matthew: <br />Email List: <a rel="nofollow" target="blank" href="https://matthewwest.lnk.to/emailsignupID!TBTCP">https://matthewwest.lnk.to/emailsignupID!TBTCP</a><br />Facebook: <a rel="nofollow" target="blank" href="https://matthewwest.lnk.to/FBID!TBTCP">https://matthewwest.lnk.to/FBID!TBTCP</a><br />Twitter: <a rel="nofollow" target="blank" href="https://matthewwest.lnk.to/TWID!TBTCP">https://matthewwest.lnk.to/TWID!TBTCP</a><br />Instagram: <a rel="nofollow" target="blank" href="https://matthewwest.lnk.to/IGID!TBTCP">https://matthewwest.lnk.to/IGID!TBTCP</a><br />Website: <a rel="nofollow" target="blank" href="https://matthewwest.lnk.to/websiteID!TBTCP">https://matthewwest.lnk.to/websiteID!TBTCP</a><br /><br /><br />Truth Be Told<br /><br />Lie number 1 you’re supposed to have it all together<br />And when they ask how you’re doing just smile and tell them “never better”<br /><br />Lie number 2 everybody’s life is perfect except yours<br />So keep your messes and your wounds and your secrets safe with you behind closed doors<br /><br />Truth be told<br />The truth is rarely told<br /><br />I say I’m fine, yeah I’m fine oh I’m fine, hey I’m fine but I’m not<br />I’m broken<br />And when it’s out of control I say it’s under control but it’s not<br />And you know it<br />I don’t know why it’s so hard to admit it<br />When being honest is the only way to fix it<br />There’s no failure, no fall<br />There’s no sin you don’t already know<br />So let the truth be told<br /><br />There’s a sign on the door saying “come as you are” but I doubt it<br />If we lived like it was true every Sunday morning pew would be crowded<br />But didn’t you say the church should look more like a hospital<br />A safe place for the sick and the sinner and and sick and the scarred and the prodigal<br /><br />Truth be told<br />The truth is rarely told<br />Am I the only one who says...<br /><br />Can I really stand here unashamed<br />And know that you love for me won’t change<br />Oh God If that’s really true<br />Then let the Truth Be Told<br /><br />Music by Matthew West and Carly Pearce performing Truth Be Told (Official Video). (C) 2021 Provident Label Group LLC, a division of Sony Music Entertainment<br /><br />#MatthewWest #ChristianMusic #TruthBeTold{% endraw %}
