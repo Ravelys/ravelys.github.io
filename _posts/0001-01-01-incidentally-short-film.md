@@ -1,0 +1,15 @@
+---
+title: "ΠΑΡΕΜΠΙΠΤΟΝΤΩΣ... (Incidentally...) \/ Μικρου Μήκους Ταινία (Short Film)"
+image: "https:\/\/i.ytimg.com\/vi\/kTptrz28Ivc\/hqdefault.jpg"
+vid_id: "kTptrz28Ivc"
+categories: "Film-Animation"
+tags: ["short film","awarded","cinema"]
+date: "2021-11-24T10:04:17+03:00"
+vid_date: "2020-03-25T01:15:25Z"
+duration: "PT15M15S"
+viewcount: "28837"
+likeCount: "559"
+dislikeCount: "20"
+channel: "GusEco Productions"
+---
+{% raw %}&quot;Παρεμπιπτόντως...&quot; μία ταινία του Κωνσταντίνου Οικονόμου σε σενάριο του Δημήτρη Σινόπουλου.<br />Πρωταγωνιστούν: Μαρία Κεχαγιόγλου, Θανάσης Χαλκιάς, Ασημίνα Αναστασοπούλου, Χρήστος Καπενής, Στάθης Κόικας<br /><br />Κατά τη διάρκεια της προετοιμασίας ενός εορταστικού δείπνου, η Ελπίδα απαντά σε μια τηλεφωνική έρευνα. Παρασυρμένη απ' την κουβέντα, θα οδηγηθεί στην αποκάλυψη, ενός καλά κρυμμένου μυστικού.<br /><br />Awards:<br />-New York Greek Film Festival 2019 - Best Film (USA) <br />-San Fransisco Greek Film Festival 2019 - 3rd Best Film (USA) <br />-Under The Stars International Film Festival - Audience Award for Best Short of 2019 (Italy)<br />-Under The Stars International Film Festival - Best Short Film (Italy) <br />-Under The Stars International Film Festival - Best Actress (Italy) <br />-Cinergo - Best Sreenwriter (Greece) <br />-Cinergo - Best Original Music (Greece) <br />-TMFF - Best Screenwriter (Scotland) <br />-TMFF - 3rd Best Short Film (Scotland) <br />-Bucharest Film Awards 2018 - Honorary Mention (Romania) <br />-Short Cine Fest 2018 - Best Screenwriter (USΑ) <br /><br />Διεύθυνση Φωτογραφίας: Γιώργος Παυλόπουλος Αγιαννίτης <br />Βοηθός Σκηνοθέτη: Δημήτρης Κατσιμίρης <br />Σκηνογράφος - Ενδυματολόγος: Μαρία Καραθάνου <br />Σκρίπτ: Πάνος Ξενάκης <br />Μοντάζ: Κωνσταντίνος Οικονόμου <br />Ηχοληψία: Νίκος Καραπιπέρης, Βασίλης Σταυρόπουλος <br />Μίξη Ήχου: Φώτης Φλωρίδης <br />Μπούμαν: Χρήστος Κουτσουραδής <br />Μακιγιάζ: Αγγελική Ράπτη <br />Βοηθός Σκηνογράφου - Ενδυματολόγου: Μανταλένα Τίγκιλη <br />Φωτογράφιση πλατό: Ελίνα Γιουνανλή <br />Μουσική: Φωτεινή Τσακνάκη, Δημήτρης Μπενάκης <br />Βοηθοί Παραγωγής: Πέπη Καραγεώργου, Λίλα Ταμπάκη, Κυριάκος Γκίκας <br />Επικοινωνία: Κλέλια Αρμπηλιά <br />Catering: Λίλα Ταμπάκη <br />Μετάφραση / Υποτιτλισμός: Βιολέττα Ζέφκη, Ροζάννα Βαλασιάδη <br />Παραγωγοί: Κωνσταντίνος Οικονόμου, Δημήτρης Σινόπουλος, Στέφανος Κοσμίδης <br /><br />ENGLISH: <br />End of summer 2018, Athens, Greece. During the preparation of a festive dinner for her name-day, Elpida will answer in a survey. Distracted from the conversation, it will lead to the revelation of a well-hidden secret. <br />Starring Maria Kechagioglou Thanassis Chalkias Asimina Anastasopoulou Christos Kapenis Stathis Koikas <br />Director: Konstantinos Economou <br />Screenwriter: Dimitris Sinopoulos <br />DoP: George Agiannitis Pavlopoulos <br />Set and Costume designer: Maria Karathanou <br />Assistant Director: Dimitris Katsimiris <br />Sound: Nikos Karapiperis, Vasilis Stavropoulos <br />Mixage: Fotis Floridis <br />Original music: Fotini Tsaknaki, Dimitris Benakis <br /><br />Περισσότερα : guseco.com{% endraw %}
