@@ -1,0 +1,15 @@
+---
+title: "Arcade Fire - Ready to Start (Official Video)"
+image: "https:\/\/i.ytimg.com\/vi\/9oI27uSzxNQ\/hqdefault.jpg"
+vid_id: "9oI27uSzxNQ"
+categories: "Music"
+tags: ["arcade fire","ready to start","arcade fire ready to start"]
+date: "2021-11-24T20:04:53+03:00"
+vid_date: "2010-08-26T23:12:48Z"
+duration: "PT4M17S"
+viewcount: "22076873"
+likeCount: "92871"
+dislikeCount: "2632"
+channel: "ArcadeFireVEVO"
+---
+{% raw %}Arcade Fire - Ready To Start (Official Video)<br />Listen on Spotify - <a rel="nofollow" target="blank" href="http://smarturl.it/TIAF_SP">http://smarturl.it/TIAF_SP</a><br />Apple Music - <a rel="nofollow" target="blank" href="http://smarturl.it/ArcadeFire_AE">http://smarturl.it/ArcadeFire_AE</a><br />Amazon - <a rel="nofollow" target="blank" href="http://smarturl.it/ArcadeFire_AM">http://smarturl.it/ArcadeFire_AM</a><br />Store - <a rel="nofollow" target="blank" href="http://smarturl.it/ArcadeFire_Store">http://smarturl.it/ArcadeFire_Store</a><br /><br />Follow Arcade Fire<br />Website - <a rel="nofollow" target="blank" href="http://smarturl.it/ArcadeFireSite?IQid=yt">http://smarturl.it/ArcadeFireSite?IQid=yt</a><br />Facebook - <a rel="nofollow" target="blank" href="http://smarturl.it/AFFacebook?IQid=yt">http://smarturl.it/AFFacebook?IQid=yt</a><br />Instagram - <a rel="nofollow" target="blank" href="http://smarturl.it/AFInstagram?IQid=yt">http://smarturl.it/AFInstagram?IQid=yt</a><br />Twitter - <a rel="nofollow" target="blank" href="http://smarturl.it/AFTwitter?IQid=yt">http://smarturl.it/AFTwitter?IQid=yt</a><br /><br />Lyrics<br />The businessmen are drinking my blood<br />Like the kids in art school said they would<br />And I guess I'll just begin again<br />You say, &quot;Can we still be friends?&quot;<br /><br />If I was scared, I would<br />And if I was bored, you know I would<br />And if I was yours, but I'm not<br /><br />All the kids have always known<br />That the emperor wears no clothes<br />But they bow down to him anyway<br />Because it's better than being alone<br /><br />If I was scared, I would<br />And if I was bored, you know I would<br />And if I was yours, but I'm not<br /><br />Now you're knocking at my door<br />Saying, &quot;Please come out with us tonight&quot;<br />But I would rather be alone<br />Than pretend I feel alright<br />If the businessmen are drinking my blood<br />Like the kids at art school said they would<br />Then I guess I'll just begin again<br />You say, &quot;Can we still be friends?&quot;<br /> <br />If I was scared, I would<br />And if I was pure, you know I would<br />And if I was yours, but I'm not<br />Now I'm ready to start<br />If I was scared, I would<br />And if I was pure, you know I would<br />And if I was yours, but I'm not<br />Now I'm ready to start<br />]<br />Now I'm ready to start<br />I would rather be wrong<br />Than live in the shadows of your song<br />My mind is open wide<br />And now I'm ready to start<br />And now I'm ready to start<br />My mind is open wide<br />And now I'm ready to start<br />Not sure you'll open the door<br />To step out into the dark<br />Now I'm ready{% endraw %}
