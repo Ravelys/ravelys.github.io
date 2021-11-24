@@ -1,0 +1,15 @@
+---
+title: "Star Trek Online - Mudd's In Command Overview"
+image: "https:\/\/i.ytimg.com\/vi\/DZwFoJgi5wA\/hqdefault.jpg"
+vid_id: "DZwFoJgi5wA"
+categories: "Gaming"
+tags: ["Star Trek Online","STO","Star Trek"]
+date: "2021-11-24T19:14:12+03:00"
+vid_date: "2021-11-23T16:00:05Z"
+duration: "PT23M32S"
+viewcount: "1215"
+likeCount: ""
+dislikeCount: ""
+channel: "Augmented Dictator Games"
+---
+{% raw %}#StarTrekOnline #STO #StarTrek<br /><br />Finally, a bundle of command ships is being added to the Mudd's Market, including my beloved Section 31 Command Heavy Battlecruiser.  Following this absolute kinetic juggernaut, you have the Voth Rampart Command Flight Deck Carrier, Elachi Sheshar Command Dreadnought, and Son'a Command Science Vessel (as well as a bunch of fluff I don't recommend anyone getting).<br /><br />Chapters/Sections:<br />Introduction: 00:00<br /><br />Bundle Overview: 00:23<br /><br />Ships:<br />Section 31 Command Heavy Battlecruiser: 03:47<br />Voth Rampart Command Flight Deck Carrier: 09:45<br />Elachi Sheshar Command Dreadnought: 15:10<br />Son'a Command Science Vessel: 18:28<br /><br />Join this channel to get access to perks:<br /><a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC0s0F5r45mxyh3OUwj_DBpA/join">https://www.youtube.com/channel/UC0s0F5r45mxyh3OUwj_DBpA/join</a><br /><br />Check out my friends and students:  We are Stronger Together than Apart<br />Stu1701: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCIlTBY3hVEAMagSNbd7d8Gw">https://www.youtube.com/channel/UCIlTBY3hVEAMagSNbd7d8Gw</a><br />MC Stu: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCt4ORwlLMaLyBo3q3MqdwbQ">https://www.youtube.com/channel/UCt4ORwlLMaLyBo3q3MqdwbQ</a><br />Sarcasm Detector: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UClzHpDWJKgva7SI0Z70L32Q">https://www.youtube.com/channel/UClzHpDWJKgva7SI0Z70L32Q</a><br />Pirate Scum Gaming: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCm_Yf_yhPsQkMh6H7b90pIQ">https://www.youtube.com/channel/UCm_Yf_yhPsQkMh6H7b90pIQ</a><br />KyuuContinuum: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCtv80rgZjCPWy6utdeI_1bw">https://www.youtube.com/channel/UCtv80rgZjCPWy6utdeI_1bw</a><br />Chabee St'George: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCPB4yY7XCLYX5LlR961_rrQ">https://www.youtube.com/channel/UCPB4yY7XCLYX5LlR961_rrQ</a><br />Sphynx STO: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UC2UzVbO9BVraV14Zsk3V2jQ">https://www.youtube.com/channel/UC2UzVbO9BVraV14Zsk3V2jQ</a><br />1800BrokenSoul: <a rel="nofollow" target="blank" href="https://www.youtube.com/channel/UCyOvnJUZglN27v_os2bh9cg">https://www.youtube.com/channel/UCyOvnJUZglN27v_os2bh9cg</a><br /><br />Join me on Social Media!<br />Twitter: <a rel="nofollow" target="blank" href="https://www.twitter.com/AugmentedDG/">https://www.twitter.com/AugmentedDG/</a><br />Facebook: <a rel="nofollow" target="blank" href="https://www.facebook.com/AugmentedDictatorGames">https://www.facebook.com/AugmentedDictatorGames</a>{% endraw %}
