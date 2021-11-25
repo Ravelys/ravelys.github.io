@@ -1,0 +1,15 @@
+---
+title: "5 Easy Steps to Design and Sell Custom Merchandise"
+image: "https:\/\/i.ytimg.com\/vi\/tRohGLlkMCg\/hqdefault.jpg"
+vid_id: "tRohGLlkMCg"
+categories: "Travel-Events"
+tags: ["Custom Merchandise","merch designer","merch maker"]
+date: "2021-11-26T00:55:03+03:00"
+vid_date: "2018-09-20T18:33:54Z"
+duration: "PT11M30S"
+viewcount: "25036"
+likeCount: "243"
+dislikeCount: "9"
+channel: "SKYrise"
+---
+{% raw %}Sup guys! I'm a traveling musician from Detroit and I've had some experience designing merch and selling my own custom merchandise at my concerts and online!<br /><br />I wanted to make this video to hopefully help you guys overcome any obstacles you may run into when it comes to making your own merch or selling custom t shirts and other products. <br /><br />These strategies are applicable for really any kind of event, selling band t shirts or band merch, and making custom merchandise or promotional products for your brand or company, or a fundraiser.<br /><br />Here are the links I said I would include:<br /><br />SKYrise Merch:<br /><a rel="nofollow" target="blank" href="http://www.skyrise.world/merch">http://www.skyrise.world/merch</a><br /><br />Cheap Products:<br /><a rel="nofollow" target="blank" href="https://www.hanes.com/">https://www.hanes.com/</a><br /><a rel="nofollow" target="blank" href="https://www.walmart.com/">https://www.walmart.com/</a><br /><br />Fast and Easy Logo Design:<br /><a rel="nofollow" target="blank" href="https://logotournament.com/">https://logotournament.com/</a><br /><br />Great Merch Printing Resource:<br /><a rel="nofollow" target="blank" href="https://www.redbubble.com/">https://www.redbubble.com/</a><br /><br />Ecommerce:<br /><a rel="nofollow" target="blank" href="https://woocommerce.com/">https://woocommerce.com/</a><br /><a rel="nofollow" target="blank" href="https://www.squarespace.com/">https://www.squarespace.com/</a><br /><br />Credit Card App for your Phone:<br /><a rel="nofollow" target="blank" href="https://squareup.com/">https://squareup.com/</a><br /><br />Lots of these lessons I had to learn the hard way, so learn from my mistakes making custom products!<br /><br />A few tips from the video:<br />1. Make sure you have a competent merch salesperson<br />2. Price your products appropriately<br />3. Accept credit cards as payment<br />4. Bundle products together and offer deals!<br /><br />Don't forget to subscribe! I post a new video every week!<br /><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/skyrise-4">https://soundcloud.com/skyrise-4</a><br /><a rel="nofollow" target="blank" href="https://soundcloud.com/skyriseworld">https://soundcloud.com/skyriseworld</a><br /><a rel="nofollow" target="blank" href="https://www.facebook.com/SKYrise.World/">https://www.facebook.com/SKYrise.World/</a><br /><a rel="nofollow" target="blank" href="https://twitter.com/SKYriseWorld">https://twitter.com/SKYriseWorld</a><br /><a rel="nofollow" target="blank" href="https://www.skyrise.world">https://www.skyrise.world</a>{% endraw %}
