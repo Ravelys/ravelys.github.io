@@ -1,0 +1,15 @@
+---
+title: "Where Would I Be (feat. Hope Darst) \/\/ The Belonging Co"
+image: "https:\/\/i.ytimg.com\/vi\/SERMf5dZMsE\/hqdefault.jpg"
+vid_id: "SERMf5dZMsE"
+categories: "Music"
+tags: ["the belonging co","where would I be","where would I be the belonging co"]
+date: "2021-11-25T08:48:23+03:00"
+vid_date: "2021-06-14T15:00:09Z"
+duration: "PT9M56S"
+viewcount: "230934"
+likeCount: "3925"
+dislikeCount: "57"
+channel: "The Belonging Co"
+---
+{% raw %}Official Music Video for &quot;Where Would I Be&quot; featuring Hope Darst, recorded live at The Belonging Co. &quot;Where Would I Be&quot; is an intimate conversation with the Lord in which we recount the times He revealed Himself to us. This song is an invitation to remember all that He has done and to give Him our gratitude for His perfect faithfullness.<br /><br />&quot;Where Would I Be&quot; is now available. You can also listen to The Belonging Co's newest album 'See The Light' everywhere that music is available. Click here to listen/pre-save to it on your favorite music platform: <a rel="nofollow" target="blank" href="http://blng.co/seethelight">http://blng.co/seethelight</a>  <br /><br />Follow The Belonging Co at:<br /><a rel="nofollow" target="blank" href="https://www.instagram.com/thebelongingco/">https://www.instagram.com/thebelongingco/</a>      <br /><a rel="nofollow" target="blank" href="https://www.facebook.com/TheBelongingCo/">https://www.facebook.com/TheBelongingCo/</a>     <br /><a rel="nofollow" target="blank" href="https://thebelonging.co">https://thebelonging.co</a>    <br /><br />Where Would I Be<br />Feat Hope Darst<br /><br />VERSE 1 <br />Your hand in every part<br />Of my whole life from the start<br />Jesus You have always been with me<br />No matter where I was<br />You found a way to show up<br />Jesus You have always been with me<br /><br />PRE CHORUS <br />There’s never a season, never a place<br />Where I am alone, where you don’t show your face<br />Right here I remember, how could I forget<br />Your faithfulness has never left me<br /><br />CHORUS<br />Where would I be without you<br />Where would I be without your love<br />I’m amazed by all You’ve done<br />Oh Jesus, where would I be without you<br />Where would I be without your love<br />I can’t say thank you enough<br /><br />VERSE 2<br />All of the ways you save<br />And pull me out of the grave<br />Jesus You have always been for me<br />Oh my life is the proof<br />That you can make anything good<br />Jesus You have always been for me<br /> <br />BRIDGE<br />There’s never a season, never a place<br />Where I am alone, where you don’t show your face<br />Right here I remember, how could I forget<br />Your faithfulness has never left me (repeat)<br /><br />© 2021 Fair Trade Global Songs (BMI)/Hope For The Best Songs (BMI)/ Katelyn Marks Publishing Designee (BMI) / TBCO Publishing (BMI) (admin. at EssentialMusicPublishing.com) / Feel Your Creative Pulse Music/Blue Corolla Oklahoma (SESAC). Administered worldwide by Concord Music Publishing. Used by permission.{% endraw %}
