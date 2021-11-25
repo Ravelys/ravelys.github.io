@@ -1,0 +1,15 @@
+---
+title: "Starts and Ends (Live) Hillsong UNITED"
+image: "https:\/\/i.ytimg.com\/vi\/iFdujIf_Otw\/hqdefault.jpg"
+vid_id: "iFdujIf_Otw"
+categories: "Music"
+tags: ["hillsong","united","starts and ends"]
+date: "2021-11-25T15:36:44+03:00"
+vid_date: "2019-04-26T04:30:13Z"
+duration: "PT8M9S"
+viewcount: "4494158"
+likeCount: "31337"
+dislikeCount: "532"
+channel: "Hillsong UNITED"
+---
+{% raw %}Starts and Ends (Live) by Hillsong UNITED, recorded live at Hillsong Worship &amp; Creative Conference in Sydney, Australia. Listen to our album People at <a rel="nofollow" target="blank" href="https://united.lnk.to/peopleID">https://united.lnk.to/peopleID</a><br /><br />Instagram: <a rel="nofollow" target="blank" href="https://instagram.com/hillsongunited">https://instagram.com/hillsongunited</a> <br />Facebook: <a rel="nofollow" target="blank" href="https://facebook.com/hillsongunited">https://facebook.com/hillsongunited</a> <br />Twitter: <a rel="nofollow" target="blank" href="https://twitter.com/hillsongunited">https://twitter.com/hillsongunited</a> <br />Website: <a rel="nofollow" target="blank" href="https://hillsongunited.com">https://hillsongunited.com</a> <br /><br />VERSE 1:<br />My soul thirsts for things I can’t explain <br />In my bones a beckoning to pray <br />If my heart is a battleground<br />My defences run both ways<br />The flesh is a beggar and thief<br />But there is a Spirit-man awakening me<br /><br />VERSE 2:<br />When real life and peace won’t make amends<br />When all these starts<br />Start feeling like these ends<br />Like the world is unravelling<br />And I’m bound to come undone<br />There is a Shepherd a Priest<br />There is a Comforter who comforts me <br /><br />REFRAIN 1:<br />And my soul finds rest <br />Where it makes no sense <br />There the blood sets me free <br />REFRAIN 2:<br />All my old regrets <br />All my brokenness <br />All my failures redeemed <br /><br />REFRAIN 3:<br />And it feels like grace<br />Where I stacked my shame <br />There the cross stands for me <br /><br />REFRAIN 4:<br />All the things I’ve done<br />All the times I’ve run<br />All my dead ends redeemed<br /><br />REFRAIN 5:<br />And it looks like hope <br />Where my heart was broke <br />And His heart broke for me <br /><br />BRIDGE:<br />Lay your burden down upon<br />Down upon Him<br />Lay your burden down <br />PRE-CHORUS:<br />Jesus my rest in peace<br />My reconciler <br />You’re my every good thing<br /><br />REFRAIN 6:<br />I surrender all <br />All I’m living for <br />You’re my every good thing<br /><br />REFRAIN 7:<br />You’re my amnesty<br />You’re my split wide sea<br />You’re my every good thing<br /><br />REFRAIN 8:<br />All my days and nights <br />You’re my death to life <br />You’re the wonder I breathe <br /><br />REFRAIN 9:<br />You’re my can’t explain <br />First and last refrain<br />You’re my every good thing<br /><br />Words and Music by <br />Joel Houston &amp; Brooke Ligertwood <br />© 2018 Hillsong Music Publishing<br />CCLI: 7124909{% endraw %}
